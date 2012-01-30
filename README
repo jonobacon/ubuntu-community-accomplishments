@@ -1,0 +1,9 @@
+= Ubuntu Community Accomplishments =
+
+This archive contains accomplishments that can be used as part of the Ubuntu Community.
+
+= Installation =
+
+Run install.sh and tell it the full path of your accomplishments directory. For example:
+
+    $ ./install.sh /home/jono/accomplishments
