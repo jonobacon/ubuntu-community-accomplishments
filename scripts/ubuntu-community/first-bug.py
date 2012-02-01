@@ -15,12 +15,12 @@ try:
     #email = "jono@ubuntu.com"
 
     libaccom = libaccomplishments.Accomplishments()
-    f = libaccom.getExtraInformation("ubuntu-community", "launchpad-email")
+    f = libaccom.getExtraInformation("ubuntu-community", "Launchpad Email")
     print 
-    if bool(f[0]["launchpad-email"]) == False:
+    if bool(f[0]["Launchpad Email"]) == False:
         sys.exit(4)
     else:
-        email = f[0]["launchpad-email"]
+        email = f[0]["Launchpad Email"]
 
     # Get count of bugs reported by user from Launchpad, using email to identify
     l=Launchpad.login_anonymously('ubuntu-community accomplishments','production')
