@@ -1,0 +1,14 @@
+[accomplishment]
+title=LoCo Team Member
+description=You are a member of an Ubuntu LoCo Team
+application=ubuntu-community
+category=LoCo Teams
+depends=ubuntu-community/registered-on-launchpad
+needs-signing=true
+needs-information=launchpad-email
+summary = Ubuntu LoCo Teams are advocacy groups that are scattered all over the world that promote the use and adoption of Ubuntu. LoCo Teams perform many different types of activities including advocacy, organizing events, providing support, helping to educate their users, sharing skills, helping to build local social connections and more. LoCo Teams are a lot of fun and a great way to meet Ubuntu fans in your area!
+steps: Go to <a href="http://loco.ubuntu.com">loco.ubuntu.com</a> and find a team near you.
+    Join the team and be sure to join the team in Launchpad.
+    Go out and spread the word about Ubuntu and have a great time!
+links: http://loco.ubuntu.com
+help = #ubuntu-locoteams on Freenode

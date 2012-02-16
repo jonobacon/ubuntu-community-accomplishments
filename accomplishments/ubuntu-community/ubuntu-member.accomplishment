@@ -1,0 +1,14 @@
+[accomplishment]
+title=Approved Ubuntu Member
+description=You are an Approved Ubuntu Member
+application=ubuntu-community
+category=General
+needs-signing=true
+needs-information=launchpad-email
+summary = An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu. Each Ubuntu Member is seen as a reliable and dependable contributor to Ubuntu.
+steps: Contribute extensively to Ubuntu for a sustained period of time.
+    Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions.
+    Apply to a membership to schedule a meeting to review your contributions.
+links: http://www.ubuntu.com
+	http://www.jonobacon.org
+help = #ubuntu-community-team on Freenode
