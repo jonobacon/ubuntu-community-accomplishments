@@ -10,5 +10,7 @@ summary = An Ubuntu MOTU Developer is responsible for packaging and resolving is
 steps: Contribute extensively to Ubuntu for a sustained period of time.
     Make use of the Ubuntu Sponsorship Queue to make your contributions.
     Apply to the Ubuntu Developer Board to be a MOTU developer.
-links: https://wiki.ubuntu.com/SponsorshipProcess
+links: https://wiki.ubuntu.com/MOTU
+    https://wiki.ubuntu.com/UbuntuDevelopment
+    https://wiki.ubuntu.com/SponsorshipProcess
 help = #ubuntu-devel on Freenode

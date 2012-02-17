@@ -8,7 +8,7 @@ needs-signing=true
 needs-information=launchpad-email
 summary = A bug is a defect in a piece of software. Filing a bug means that you let the Ubuntu project know about one of these defects. There are a few different ways in which you can file a bug, but we recommend you use a tool called <tt>ubuntu-bug</tt> that comes pre-installed on all Ubuntu systems. You can file a bug in a more graphical way by using the Report a Problem option in the Help menu of an application.
 steps: Open up a terminal by clicking the Ubuntu button and typing 'terminal' into the dash.
-	Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. 'ubuntu-bug unity' for Unity).
+	Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity).
 	Follow the instructions in Launchpad.
 links: http://www.ubuntu.com
 	http://www.jonobacon.org
