@@ -29,8 +29,6 @@ try:
             status=['New', 'Incomplete', 'Invalid', 'Confirmed', 'Triaged', 
             'In Progress', 'Fix Committed', 'Fix Released', 'Opinion', "Won't Fix"])
 
-        print len(bugs_reported)
-
         if len(bugs_reported) > 0:
             sys.exit(0)
         else:

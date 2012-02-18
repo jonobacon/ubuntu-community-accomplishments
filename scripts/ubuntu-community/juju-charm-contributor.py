@@ -21,7 +21,6 @@ try:
     me=lp.people.getByEmail(email=email)
 
     user = me.name
-    print user
 
     teams = [team.name for team in lp.people['charm-contributors'].sub_teams]
 
@@ -38,10 +37,8 @@ try:
         memberships = []
 
     if memberships:
-        print 'Member: %s' % memberships
         sys.exit(0)
     else:
-        print "Not a member"
         sys.exit(1)
 
 except SystemExit, e:
