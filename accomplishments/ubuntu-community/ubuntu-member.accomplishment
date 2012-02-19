@@ -4,6 +4,7 @@ description=You are an Approved Ubuntu Member
 application=ubuntu-community
 category=General
 needs-signing=true
+icon=default.png
 needs-information=launchpad-email
 summary = An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu. Each Ubuntu Member is seen as a reliable and dependable contributor to Ubuntu who has contributed to further and improve Ubunty. Importantly, Ubuntu Membership does not require any specific skill; great contributions in development, documentation, translations, advocacy, support, art, design, and many other areas are all worthy of membership.
 steps: Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.

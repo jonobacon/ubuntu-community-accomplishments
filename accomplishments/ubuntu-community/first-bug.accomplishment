@@ -3,6 +3,7 @@ title=Filed First Bug
 description=Filed your first bug in Ubuntu
 application=ubuntu-community
 category=QA
+icon=default.png
 depends=ubuntu-community/registered-on-launchpad
 needs-signing=true
 needs-information=launchpad-email
