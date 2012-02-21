@@ -20,26 +20,29 @@ try:
     lp=Launchpad.login_anonymously('ubuntu-community accomplishments','production')
     me=lp.people.getByEmail(email=email)
 
-    user = me.name
-
-    teams = [team.name for team in lp.people['motu'].sub_teams]
-
-    if teams == []:
-        teams.append(lp.people['motu'].name)
-
-    try:
-        memberships = [
-            membership for membership in
-            lp.people[user].memberships_details
-            if membership.team_link.rsplit('~', 1)[-1] in
-                ['motu'] + teams]
-    except KeyError:
-        memberships = []
-
-    if memberships:
-        sys.exit(0)
-    else:
+    if me == None:
         sys.exit(1)
+    else:
+        user = me.name
+
+        teams = [team.name for team in lp.people['motu'].sub_teams]
+
+        if teams == []:
+            teams.append(lp.people['motu'].name)
+
+        try:
+            memberships = [
+                membership for membership in
+                lp.people[user].memberships_details
+                if membership.team_link.rsplit('~', 1)[-1] in
+                    ['motu'] + teams]
+        except KeyError:
+            memberships = []
+
+        if memberships:
+            sys.exit(0)
+        else:
+            sys.exit(1)
 
 except SystemExit, e:
     sys.exit(e.code)
