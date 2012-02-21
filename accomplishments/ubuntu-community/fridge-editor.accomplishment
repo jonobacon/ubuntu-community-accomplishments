@@ -1,0 +1,17 @@
+[accomplishment]
+title=Fridge Editor
+description=A member of the Fridge Editors team
+application=ubuntu-community
+category=Documentation
+icon=default.png
+needs-signing=true
+needs-information=launchpad-email
+summary = The Ubuntu Fridge is a news website featuring articles, news, opinion, and other content and goings on in the Ubuntu community. The Ubuntu Fridge Editors are a team who produce and publish content to the site. To be a member of this team you need to be able to write well, write often, and be responsive to publishing new content and news.
+steps = Think of interesting content to write.
+    Write drafts for each of your ideas.
+    Submit your content to the Fridge Editors.
+links: http://fridge.ubuntu.com
+help = #ubuntu-community-team on Freenode
+
+
+
