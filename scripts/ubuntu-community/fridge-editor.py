@@ -40,10 +40,8 @@ try:
             memberships = []
 
         if memberships:
-            print "member of the team"
             sys.exit(0)
         else:
-            print "not a member of the team"
             sys.exit(1)
 
 except SystemExit, e:
