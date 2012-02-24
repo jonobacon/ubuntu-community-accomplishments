@@ -2,7 +2,7 @@
 title=Technical Board Member
 description=You are a member of the Ubuntu Technical Board
 application=ubuntu-community
-category=General
+category=Governance
 needs-signing=true
 icon=devel.png
 needs-information=launchpad-email

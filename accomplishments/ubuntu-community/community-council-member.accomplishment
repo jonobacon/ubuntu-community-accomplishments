@@ -2,7 +2,7 @@
 title=Community Council Member
 description=Youy are a member of the Community Council
 application=ubuntu-community
-category=General
+category=Governance
 needs-signing=true
 icon=default.png
 needs-information=launchpad-email
