@@ -1,0 +1,17 @@
+[accomplishment]
+title=Community Council Member
+description=Youy are a member of the Community Council
+application=ubuntu-community
+category=General
+needs-signing=true
+icon=default.png
+needs-information=launchpad-email
+depends=ubuntu-community/ubuntu-member
+summary = The Ubuntu Community Council is one of the most important governing boards in the Ubuntu community. The Community Council advises and decides on community policy and process as well as acting as an escalation body for incidents that occur elsewhere in the community. To be a member of the community council you need to have demonstrated a strong commitment and participation history in Ubuntu, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council.
+steps: Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+    Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
+    In the next Community Council election propose yourself as a candidate.
+links: https://wiki.ubuntu.com/CommunityCouncil
+    https://wiki.ubuntu.com/CommunityCouncilAgenda
+    http://www.ubuntu.com/project/about-ubuntu/governance
+help = #ubuntu-community-team on Freenode
