@@ -26,10 +26,8 @@ try:
 		try:
 			mugshot = me.mugshot
 			mugshot_handle = mugshot.open()
-			print "Mugshot found"
 			sys.exit(0)
 		except:
-			"Mugshot not found"
 			sys.exit(1)
 
 except SystemExit, e:
