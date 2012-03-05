@@ -1,25 +1,23 @@
 #!/usr/bin/python
-
 import traceback, sys
-import libaccomplishments
+
+from accomplishments.daemon import dbusapi
+
 
 try:
     import json, sys, os, pwd, subprocess
     from ubuntuone.couch import auth
     from launchpadlib.launchpad import Launchpad
 
-    libaccom = libaccomplishments.Accomplishments()
-
-    f = libaccom.getExtraInformation("ubuntu-community", "launchpad-email")
-
+    api = dbusapi.Accomplishments()
+    f = api.getExtraInformation("ubuntu-community", "launchpad-email")
     if bool(f[0]["launchpad-email"]) == False:
         sys.exit(4)
     else:
         email = f[0]["launchpad-email"]
-
-    lp=Launchpad.login_anonymously('ubuntu-community accomplishments','production')
-    me=lp.people.getByEmail(email=email)
-
+    lp = Launchpad.login_anonymously(
+        'ubuntu-community accomplishments', 'production')
+    me = lp.people.getByEmail(email=email)
     if me == None:
         sys.exit(1)
     else:
@@ -33,4 +31,3 @@ except SystemExit, e:
 except:
     traceback.print_exc()
     sys.exit(2)
-
