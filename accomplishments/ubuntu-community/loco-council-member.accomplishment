@@ -7,8 +7,8 @@ needs-signing=true
 icon=loco.png
 needs-information=launchpad-email
 depends=ubuntu-community/ubuntu-member
-summary = The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Community. The LoCo Council advises and decides on LoCo policy and process as well as acting as an escalation body for incidents that occur in the LoCo community. To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council.
-steps: Contribute extensively to Ubuntu LoCo Teams for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+summary = The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams. The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally. To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
+steps: Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
     Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
     In the next LoCo Council election propose yourself as a candidate.
 links: https://wiki.ubuntu.com/LoCoCouncil
