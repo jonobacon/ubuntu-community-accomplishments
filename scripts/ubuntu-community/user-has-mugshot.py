@@ -8,9 +8,8 @@ try:
 	from ubuntuone.couch import auth
 	from launchpadlib.launchpad import Launchpad
 
-	libaccom = libaccomplishments.Accomplishments()
-
-	f = libaccom.getExtraInformation("ubuntu-community", "launchpad-email")
+	api = dbusapi.Accomplishments()
+	f = api.getExtraInformation("ubuntu-community", "launchpad-email")
 
 	if bool(f[0]["launchpad-email"]) == False:
 		sys.exit(4)
