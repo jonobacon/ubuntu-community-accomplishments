@@ -7,7 +7,9 @@ icon=default.png
 depends=ubuntu-community/registered-on-launchpad
 needs-signing=true
 needs-information=launchpad-email
-summary = A mugshot is an avatar image that the user can set in his Launchpad profile. It's nice when people can identify you just watching a picture of you. We advise you to choose a real picture of you (usually displaying only the face) or another avatar you really like. Please try to avoid picture with content that coul offend someone else (like sexy picture etc...). The picture must be exactly 192x192 and big no more than 100 Kb.
+summary = A mugshot is an avatar image that the user can set in his Launchpad profile. It is nice when people can identify you just watching a picture of you.
+    We advise you to choose a real picture of you (usually displaying only the face) or another avatar you really like. Please try to avoid picture with content that could offend someone else (e.g. adult content).
+    The picture must be exactly <strong>192x192</strong> and big no more than <strong>100 Kb</strong>.
 steps: Setting a mugshot is very simple.
 	You must be logged on Launchpad.net website. 
 	Then he needs to go on your profile page that usually is http://launchpad.net/~YOURUSERNAME

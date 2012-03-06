@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import traceback, sys
-import libaccomplishments
+from accomplishments.daemon import dbusapi
 
 try:
 	import json, sys, os, pwd, subprocess
