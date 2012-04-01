@@ -5,8 +5,7 @@ from accomplishments.daemon import dbusapi
 
 
 try:
-    import json, sys, os, pwd, subprocess
-    from ubuntuone.couch import auth
+    import sys, os, pwd, subprocess
     from launchpadlib.launchpad import Launchpad
 
     api = dbusapi.Accomplishments()
