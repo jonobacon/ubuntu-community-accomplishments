@@ -1,0 +1,16 @@
+Source: ubuntu-community-accomplishments
+Section: misc
+Priority: extra
+Maintainer: Jono Bacon <jono@ubuntu.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://code.launchpad.net/ubuntu-community-accomplishments
+
+Package: ubuntu-community-accomplishments
+Architecture: any
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         python (>= 2.6.6-3)
+Description: Accomplishments that can be used as part of the Ubuntu Community
+ Provides accomplishments that can be used as part of the Ubuntu Community,
+ this is used with the ubuntu-accomplishments-system
