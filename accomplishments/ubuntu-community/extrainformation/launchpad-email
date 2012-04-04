@@ -1,7 +1,9 @@
 [label]
-en_gb = Launchpad Email
-en_us = Launchpad Email
+en = Launchpad Email
+en_GB = Launchpad Email
+en_US = Launchpad Email
 
 [description]
-en_gb = The email address used for launchpad.net
-en_us = The email address used for launchpad.net
+en = The email address used for launchpad.net
+en_GB = The email address used for launchpad.net
+en_US = The email address used for launchpad.net
