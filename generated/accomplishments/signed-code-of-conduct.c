@@ -1,13 +1,24 @@
 [accomplishment]
-/// Enter a title for the accomplishment
-_("signed-code-of-conduct_title")
-/// Add a single line description
+// Accomplishment: Signed Ubuntu Code Of Conduct
+// At a descriptive single-line summary of the accomplishment.
 _("signed-code-of-conduct_description")
-/// Enter a summary
+// Accomplishment: Signed Ubuntu Code Of Conduct
+// Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+//          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
+//          FORMATTING ALLOWED: <i> <strong> <tt>
 _("signed-code-of-conduct_summary")
-/// Add the steps
+// Accomplishment: Signed Ubuntu Code Of Conduct
+// Add a series of step-by-step instructions for how to accomplish this trophy.
+//          NOTE: Put each step on a new line
+//          FORMATTING ALLOWED: <i> <strong> <tt>
 _("signed-code-of-conduct_steps")
-/// Add the links
+// Accomplishment: Signed Ubuntu Code Of Conduct
+// Add related web addresses (don't include a HTML link).
+//          NOTE: Put each URL on a new line
+// 
 _("signed-code-of-conduct_links")
-/// Add the help
+// Accomplishment: Signed Ubuntu Code Of Conduct
+// Add related help resources (e.g. IRC channel names).
+//          NOTE: Put each help resource on a new line
+//          FORMATTING ALLOWED: <i> <strong> <tt>
 _("signed-code-of-conduct_help")

@@ -8,12 +8,32 @@ print "starting up"
 
 files = glob.glob("accomplishments/*/en/*")
 
-translatedsections = [{"title" : "Enter a title for the accomplishment"},
-    { "description" : "Add a single line description" },
-    { "summary" : "Enter a summary" },
-    { "steps" : "Add the steps" },
-    { "links" : "Add the links" },
-    { "help" : "Add the help" }]
+translatedsections = [
+    { "description" :
+        "At a descriptive single-line summary of the accomplishment." },
+    { "summary" :
+        "Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.\n \
+        NOTE: Break this into paragraphs by putting each paragraph on a new line. \n \
+        FORMATTING ALLOWED: <i> <strong> <tt>" },
+    { "steps" :
+        "Add a series of step-by-step instructions for how to accomplish this trophy.\n \
+        NOTE: Put each step on a new line\n \
+        FORMATTING ALLOWED: <i> <strong> <tt>" },
+    { "tips" :
+        "Add tips and best practise for accomplishing this trophy.\n \
+        NOTE: Put each tip on a new line\n \
+        FORMATTING ALLOWED: <i> <strong> <tt>" },
+    { "pitfalls" :
+        "Add things the user should not do when working to accomplish this trophy.\n \
+        NOTE: Put each pitfall on a new line\n \
+        FORMATTING ALLOWED: <i> <strong> <tt>" },
+    { "links" :
+        "Add related web addresses (don't include a HTML link).\n \
+        NOTE: Put each URL on a new line\n" },
+    { "help" :
+        "Add related help resources (e.g. IRC channel names).\n \
+        NOTE: Put each help resource on a new line\n \
+        FORMATTING ALLOWED: <i> <strong> <tt>" }]
     
 print translatedsections
 
@@ -33,14 +53,19 @@ for f in files:
     tempfile = open(os.path.join(generatedaccomplishmentsdir, accomplishmentname + ".c"), "w")
     config = ConfigParser.RawConfigParser()
     config.read(f)
+    title = config.get("accomplishment", "title")
     items = config.items("accomplishment")
     print "[accomplishment]\n"
     tempfile.write("[accomplishment]\n")
     for i in items:
         for sec in translatedsections:
             if i[0] in sec.keys():
-                comment = "/// " + sec.values()[0] + "\n"
-                tempfile.write(comment)
+                accomname = "// Accomplishment: " + title + "\n"
+                tempfile.write(accomname)
+                for c in sec.values()[0].split("\n"):
+                    #comment = "// " + sec.values()[0] + "\n"
+                    comment = "// " + c + "\n"
+                    tempfile.write(comment)
                 wr = "_(\"" + accomplishmentname + "_" + i[0] + "\")\n"
                 tempfile.write(wr)
                 print wr
