@@ -1,0 +1,15 @@
+[accomplishment]
+_title=title
+_description=description
+application=ubuntu-community
+category=Governance
+needs-signing=true
+icon=default.png
+needs-information=launchpad-email
+depends=ubuntu-community/ubuntu-member
+_summary=summary
+_steps=steps
+_tips=tips
+_pitfalls=pitfalls
+_links=links
+_help=help

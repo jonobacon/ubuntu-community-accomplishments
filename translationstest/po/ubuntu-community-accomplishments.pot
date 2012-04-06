@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-06 11:14-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../accomplishments/community-council-member.desktop.in.h:1
+#: ../accomplishments/core-dev.desktop.in.h:1
+#: ../accomplishments/first-bug-confirmed.desktop.in.h:1
+msgid "title"
+msgstr ""
+
+#: ../accomplishments/community-council-member.desktop.in.h:2
+#: ../accomplishments/core-dev.desktop.in.h:2
+#: ../accomplishments/first-bug-confirmed.desktop.in.h:2
+msgid "description"
+msgstr ""
+
+#: ../accomplishments/community-council-member.desktop.in.h:3
+#: ../accomplishments/core-dev.desktop.in.h:3
+#: ../accomplishments/first-bug-confirmed.desktop.in.h:3
+msgid "summary"
+msgstr ""
+
+#: ../accomplishments/community-council-member.desktop.in.h:4
+#: ../accomplishments/core-dev.desktop.in.h:4
+#: ../accomplishments/first-bug-confirmed.desktop.in.h:4
+msgid "steps"
+msgstr ""
+
+#: ../accomplishments/community-council-member.desktop.in.h:5
+#: ../accomplishments/core-dev.desktop.in.h:5
+#: ../accomplishments/first-bug-confirmed.desktop.in.h:5
+msgid "tips"
+msgstr ""
+
+#: ../accomplishments/community-council-member.desktop.in.h:6
+#: ../accomplishments/core-dev.desktop.in.h:6
+#: ../accomplishments/first-bug-confirmed.desktop.in.h:6
+msgid "pitfalls"
+msgstr ""
+
+#: ../accomplishments/community-council-member.desktop.in.h:7
+#: ../accomplishments/core-dev.desktop.in.h:7
+#: ../accomplishments/first-bug-confirmed.desktop.in.h:7
+msgid "links"
+msgstr ""
+
+#: ../accomplishments/community-council-member.desktop.in.h:8
+#: ../accomplishments/core-dev.desktop.in.h:8
+#: ../accomplishments/first-bug-confirmed.desktop.in.h:8
+msgid "help"
+msgstr ""
