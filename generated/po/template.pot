@@ -1,0 +1,468 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-06 14:24-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/member-loco-team.c:3
+msgid "member-loco-team_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/member-loco-team.c:5
+msgid "member-loco-team_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/member-loco-team.c:7
+msgid "member-loco-team_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/member-loco-team.c:9
+msgid "member-loco-team_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/member-loco-team.c:11
+msgid "member-loco-team_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/member-loco-team.c:13
+msgid "member-loco-team_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/report-first-bug.c:3
+msgid "report-first-bug_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/report-first-bug.c:5
+msgid "report-first-bug_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/report-first-bug.c:7
+msgid "report-first-bug_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/report-first-bug.c:9
+msgid "report-first-bug_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/report-first-bug.c:11
+msgid "report-first-bug_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/report-first-bug.c:13
+msgid "report-first-bug_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/fridge-editor.c:3
+msgid "fridge-editor_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/fridge-editor.c:5
+msgid "fridge-editor_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/fridge-editor.c:7
+msgid "fridge-editor_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/fridge-editor.c:9
+msgid "fridge-editor_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/fridge-editor.c:11
+msgid "fridge-editor_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/fridge-editor.c:13
+msgid "fridge-editor_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/signed-code-of-conduct.c:3
+msgid "signed-code-of-conduct_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/signed-code-of-conduct.c:5
+msgid "signed-code-of-conduct_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/signed-code-of-conduct.c:7
+msgid "signed-code-of-conduct_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/signed-code-of-conduct.c:9
+msgid "signed-code-of-conduct_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/signed-code-of-conduct.c:11
+msgid "signed-code-of-conduct_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/signed-code-of-conduct.c:13
+msgid "signed-code-of-conduct_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/community-council-member.c:3
+msgid "community-council-member_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/community-council-member.c:5
+msgid "community-council-member_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/community-council-member.c:7
+msgid "community-council-member_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/community-council-member.c:9
+msgid "community-council-member_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/community-council-member.c:11
+msgid "community-council-member_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/community-council-member.c:13
+msgid "community-council-member_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/motu.c:3
+msgid "motu_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/motu.c:5
+msgid "motu_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/motu.c:7
+msgid "motu_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/motu.c:9
+msgid "motu_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/motu.c:11
+msgid "motu_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/motu.c:13
+msgid "motu_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/loco-council-member.c:3
+msgid "loco-council-member_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/loco-council-member.c:5
+msgid "loco-council-member_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/loco-council-member.c:7
+msgid "loco-council-member_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/loco-council-member.c:9
+msgid "loco-council-member_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/loco-council-member.c:11
+msgid "loco-council-member_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/loco-council-member.c:13
+msgid "loco-council-member_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/ubuntu-member.c:3
+msgid "ubuntu-member_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/ubuntu-member.c:5
+msgid "ubuntu-member_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/ubuntu-member.c:7
+msgid "ubuntu-member_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/ubuntu-member.c:9
+msgid "ubuntu-member_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/ubuntu-member.c:11
+msgid "ubuntu-member_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/ubuntu-member.c:13
+msgid "ubuntu-member_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/technical-board-member.c:3
+msgid "technical-board-member_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/technical-board-member.c:5
+msgid "technical-board-member_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/technical-board-member.c:7
+msgid "technical-board-member_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/technical-board-member.c:9
+msgid "technical-board-member_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/technical-board-member.c:11
+msgid "technical-board-member_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/technical-board-member.c:13
+msgid "technical-board-member_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/user-has-mugshot.c:3
+msgid "user-has-mugshot_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/user-has-mugshot.c:5
+msgid "user-has-mugshot_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/user-has-mugshot.c:7
+msgid "user-has-mugshot_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/user-has-mugshot.c:9
+msgid "user-has-mugshot_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/user-has-mugshot.c:11
+msgid "user-has-mugshot_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/user-has-mugshot.c:13
+msgid "user-has-mugshot_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/registered-on-launchpad.c:3
+msgid "registered-on-launchpad_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/registered-on-launchpad.c:5
+msgid "registered-on-launchpad_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/registered-on-launchpad.c:7
+msgid "registered-on-launchpad_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/registered-on-launchpad.c:9
+msgid "registered-on-launchpad_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/registered-on-launchpad.c:11
+msgid "registered-on-launchpad_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/registered-on-launchpad.c:13
+msgid "registered-on-launchpad_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/first-bug-confirmed.c:3
+msgid "first-bug-confirmed_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/first-bug-confirmed.c:5
+msgid "first-bug-confirmed_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/first-bug-confirmed.c:7
+msgid "first-bug-confirmed_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/first-bug-confirmed.c:9
+msgid "first-bug-confirmed_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/first-bug-confirmed.c:11
+msgid "first-bug-confirmed_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/first-bug-confirmed.c:13
+msgid "first-bug-confirmed_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/juju-charm-contributor.c:3
+msgid "juju-charm-contributor_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/juju-charm-contributor.c:5
+msgid "juju-charm-contributor_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/juju-charm-contributor.c:7
+msgid "juju-charm-contributor_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/juju-charm-contributor.c:9
+msgid "juju-charm-contributor_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/juju-charm-contributor.c:11
+msgid "juju-charm-contributor_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/juju-charm-contributor.c:13
+msgid "juju-charm-contributor_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/juju-charm-reviewer.c:3
+msgid "juju-charm-reviewer_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/juju-charm-reviewer.c:5
+msgid "juju-charm-reviewer_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/juju-charm-reviewer.c:7
+msgid "juju-charm-reviewer_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/juju-charm-reviewer.c:9
+msgid "juju-charm-reviewer_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/juju-charm-reviewer.c:11
+msgid "juju-charm-reviewer_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/juju-charm-reviewer.c:13
+msgid "juju-charm-reviewer_help"
+msgstr ""
+
+#. / Enter a title for the accomplishment
+#: ../accomplishments/core-dev.c:3
+msgid "core-dev_title"
+msgstr ""
+
+#. / Add a single line description
+#: ../accomplishments/core-dev.c:5
+msgid "core-dev_description"
+msgstr ""
+
+#. / Enter a summary
+#: ../accomplishments/core-dev.c:7
+msgid "core-dev_summary"
+msgstr ""
+
+#. / Add the steps
+#: ../accomplishments/core-dev.c:9
+msgid "core-dev_steps"
+msgstr ""
+
+#. / Add the links
+#: ../accomplishments/core-dev.c:11
+msgid "core-dev_links"
+msgstr ""
+
+#. / Add the help
+#: ../accomplishments/core-dev.c:13
+msgid "core-dev_help"
+msgstr ""
