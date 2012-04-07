@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: LoCo Team Member
+// ACCOMPLISHMENT: LoCo Team Member ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // LoCo Team Member
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("member-loco-team_title")
-// ACCOMPLISHMENT: LoCo Team Member
+// ACCOMPLISHMENT: LoCo Team Member ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // You are a member of an Ubuntu LoCo Team
@@ -18,7 +18,7 @@ _("member-loco-team_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("member-loco-team_description")
-// ACCOMPLISHMENT: LoCo Team Member
+// ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
@@ -29,7 +29,7 @@ _("member-loco-team_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("member-loco-team_summary")
-// ACCOMPLISHMENT: LoCo Team Member
+// ACCOMPLISHMENT: LoCo Team Member ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
@@ -41,7 +41,7 @@ _("member-loco-team_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("member-loco-team_steps")
-// ACCOMPLISHMENT: LoCo Team Member
+// ACCOMPLISHMENT: LoCo Team Member ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // http://loco.ubuntu.com
@@ -52,7 +52,7 @@ _("member-loco-team_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("member-loco-team_links")
-// ACCOMPLISHMENT: LoCo Team Member
+// ACCOMPLISHMENT: LoCo Team Member ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-locoteams on Freenode

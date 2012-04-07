@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-07 11:16-0700\n"
+"POT-Creation-Date: 2012-04-07 14:10-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. ACCOMPLISHMENT: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. LoCo Team Member
@@ -29,7 +29,7 @@ msgstr ""
 msgid "member-loco-team_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You are a member of an Ubuntu LoCo Team
@@ -40,7 +40,7 @@ msgstr ""
 msgid "member-loco-team_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
@@ -53,7 +53,7 @@ msgstr ""
 msgid "member-loco-team_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
@@ -67,7 +67,7 @@ msgstr ""
 msgid "member-loco-team_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://loco.ubuntu.com
@@ -80,7 +80,7 @@ msgstr ""
 msgid "member-loco-team_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-locoteams on Freenode
@@ -94,7 +94,7 @@ msgstr ""
 msgid "member-loco-team_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Report First Bug
@@ -106,7 +106,7 @@ msgstr ""
 msgid "report-first-bug_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You have reported your first bug in Ubuntu
@@ -117,7 +117,7 @@ msgstr ""
 msgid "report-first-bug_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it.
@@ -134,7 +134,7 @@ msgstr ""
 msgid "report-first-bug_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.
@@ -149,7 +149,7 @@ msgstr ""
 msgid "report-first-bug_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug ('tips' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Always try to be concise and detailed in your bug reports.
@@ -164,7 +164,7 @@ msgstr ""
 msgid "report-first-bug_tips"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
@@ -178,7 +178,7 @@ msgstr ""
 msgid "report-first-bug_pitfalls"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. https://help.ubuntu.com/community/ReportingBugs
@@ -192,7 +192,7 @@ msgstr ""
 msgid "report-first-bug_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-testing on Freenode
@@ -205,7 +205,7 @@ msgstr ""
 msgid "report-first-bug_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Fridge Editor
@@ -217,7 +217,7 @@ msgstr ""
 msgid "fridge-editor_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. A member of the Fridge Editors team
@@ -228,7 +228,7 @@ msgstr ""
 msgid "fridge-editor_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.
@@ -242,7 +242,7 @@ msgstr ""
 msgid "fridge-editor_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, have good written English skills.  Individuals who are interested in becoming a member of the Ubuntu Fridge editors team should submit a few stories so the Editors Team can get to know you and offer guidance (if necessary).  Stories can be submitted to the news team through its IRC (Internet Chat Relay) Channel on Freenode (irc.freenode.net)-#ubuntu-news-- or can send an email to: ubuntu-news-team@lists.ubuntu.com (no subscription necessary). Additional information that all editors should be knowledgeable of can be found on the Fridge wiki page under Editors Guidelines.
@@ -257,7 +257,7 @@ msgstr ""
 msgid "fridge-editor_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://fridge.ubuntu.com
@@ -272,7 +272,7 @@ msgstr ""
 msgid "fridge-editor_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-community-team on Freenode
@@ -286,7 +286,7 @@ msgstr ""
 msgid "fridge-editor_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Signed Ubuntu Code Of Conduct
@@ -298,7 +298,7 @@ msgstr ""
 msgid "signed-code-of-conduct_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You have signed the Ubuntu Code Of Conduct
@@ -309,7 +309,7 @@ msgstr ""
 msgid "signed-code-of-conduct_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. The Ubuntu Code Of Conduct is an important document that provides a set of guidelines and expectations for good conduct in the Ubuntu Community.
@@ -324,7 +324,7 @@ msgstr ""
 msgid "signed-code-of-conduct_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. First generate a PGP key, add it to the Ubuntu key-server, and import it into Launchpad. See <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">here</a> for how to do this.
@@ -342,7 +342,7 @@ msgstr ""
 msgid "signed-code-of-conduct_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://www.ubuntu.com/project/about-ubuntu/conduct
@@ -355,7 +355,7 @@ msgstr ""
 msgid "signed-code-of-conduct_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-locoteams on Freenode
@@ -369,7 +369,7 @@ msgstr ""
 msgid "signed-code-of-conduct_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Community Council Member
@@ -381,7 +381,7 @@ msgstr ""
 msgid "community-council-member_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You are a member of the Community Council
@@ -392,7 +392,7 @@ msgstr ""
 msgid "community-council-member_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. The Ubuntu Community Council is the primary community (i.e. non-technical) governance body for the Ubuntu Project and as such has an important role and responsibility to the Ubuntu community.
@@ -407,7 +407,7 @@ msgstr ""
 msgid "community-council-member_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Become an Ubuntu Member. Demonstrate effective and extensive contribution  to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
@@ -422,7 +422,7 @@ msgstr ""
 msgid "community-council-member_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member ('tips' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Focus on your leadership abilities. The Community Council is an important leadership position and we look for strong, capable, confident leaders.
@@ -437,7 +437,7 @@ msgstr ""
 msgid "community-council-member_tips"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member ('pitfalls' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Don't apply to the Community Council just to be in a position of power.
@@ -451,7 +451,7 @@ msgstr ""
 msgid "community-council-member_pitfalls"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. https://wiki.ubuntu.com/CommunityCouncil
@@ -466,7 +466,7 @@ msgstr ""
 msgid "community-council-member_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-community-team on Freenode
@@ -479,7 +479,7 @@ msgstr ""
 msgid "community-council-member_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Ubuntu MOTU Developer
@@ -491,7 +491,7 @@ msgstr ""
 msgid "motu_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You are an Ubuntu MOTU Developer
@@ -502,7 +502,7 @@ msgstr ""
 msgid "motu_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
@@ -515,7 +515,7 @@ msgstr ""
 msgid "motu_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Contribute extensively to Ubuntu for a sustained period of time.
@@ -530,7 +530,7 @@ msgstr ""
 msgid "motu_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. https://wiki.ubuntu.com/MOTU
@@ -545,7 +545,7 @@ msgstr ""
 msgid "motu_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-devel on Freenode
@@ -558,7 +558,7 @@ msgstr ""
 msgid "motu_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. LoCo Council Member
@@ -570,7 +570,7 @@ msgstr ""
 msgid "loco-council-member_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Youy are a member of the LoCo Council
@@ -581,7 +581,7 @@ msgstr ""
 msgid "loco-council-member_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
@@ -596,7 +596,7 @@ msgstr ""
 msgid "loco-council-member_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
@@ -611,7 +611,7 @@ msgstr ""
 msgid "loco-council-member_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. https://wiki.ubuntu.com/LoCoCouncil
@@ -626,7 +626,7 @@ msgstr ""
 msgid "loco-council-member_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-community-team on Freenode
@@ -640,7 +640,7 @@ msgstr ""
 msgid "loco-council-member_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Approved Ubuntu Member
@@ -652,7 +652,7 @@ msgstr ""
 msgid "ubuntu-member_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You are an Approved Ubuntu Member
@@ -663,7 +663,7 @@ msgstr ""
 msgid "ubuntu-member_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu.
@@ -678,7 +678,7 @@ msgstr ""
 msgid "ubuntu-member_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
@@ -694,7 +694,7 @@ msgstr ""
 msgid "ubuntu-member_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://wiki.ubuntu.com/Membership
@@ -708,7 +708,7 @@ msgstr ""
 msgid "ubuntu-member_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-community-team on Freenode
@@ -721,7 +721,7 @@ msgstr ""
 msgid "ubuntu-member_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Technical Board Member
@@ -733,7 +733,7 @@ msgstr ""
 msgid "technical-board-member_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You are a member of the Ubuntu Technical Board
@@ -744,7 +744,7 @@ msgstr ""
 msgid "technical-board-member_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. The Ubuntu Technical Board is one of the most important governing boards in the Ubuntu community. The Technical Board advises and decides on technical policy and process as well as acting as an escalation body for incidents that occur elsewhere in the community.
@@ -758,7 +758,7 @@ msgstr ""
 msgid "technical-board-member_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
@@ -773,7 +773,7 @@ msgstr ""
 msgid "technical-board-member_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. https://wiki.ubuntu.com/TechnicalBoard
@@ -787,7 +787,7 @@ msgstr ""
 msgid "technical-board-member_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-devel-team on Freenode
@@ -801,7 +801,7 @@ msgstr ""
 msgid "technical-board-member_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Juju Charm Contributor
@@ -813,7 +813,7 @@ msgstr ""
 msgid "juju-charm-contributor_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You contribute Juju charms to Ubuntu.
@@ -824,7 +824,7 @@ msgstr ""
 msgid "juju-charm-contributor_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
@@ -837,7 +837,7 @@ msgstr ""
 msgid "juju-charm-contributor_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Contribute a number of Juju charms.
@@ -852,7 +852,7 @@ msgstr ""
 msgid "juju-charm-contributor_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://juju.ubuntu.com
@@ -865,7 +865,7 @@ msgstr ""
 msgid "juju-charm-contributor_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #juju on Freenode
@@ -878,7 +878,7 @@ msgstr ""
 msgid "juju-charm-contributor_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Setting a mugshot in Launchpad profile
@@ -890,7 +890,7 @@ msgstr ""
 msgid "user-has-mugshot_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. User has set a mugshot in his own Launchpad profile
@@ -901,7 +901,7 @@ msgstr ""
 msgid "user-has-mugshot_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. A mugshot is an avatar image that the user can set in his Launchpad profile. It is nice when people can identify you just watching a picture of you.
@@ -916,7 +916,7 @@ msgstr ""
 msgid "user-has-mugshot_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Setting a mugshot is very simple.
@@ -934,7 +934,7 @@ msgstr ""
 msgid "user-has-mugshot_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://www.launchpad.net
@@ -947,7 +947,7 @@ msgstr ""
 msgid "user-has-mugshot_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #launchpad on Freenode
@@ -960,7 +960,7 @@ msgstr ""
 msgid "user-has-mugshot_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Registered on Launchpad
@@ -972,7 +972,7 @@ msgstr ""
 msgid "registered-on-launchpad_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Registered a Launchpad account
@@ -983,7 +983,7 @@ msgstr ""
 msgid "registered-on-launchpad_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Launchpad is a website in which we do much of our work in Ubuntu. There we build packages, file and fix bugs, perform translations, manage code, and other activities.
@@ -997,7 +997,7 @@ msgstr ""
 msgid "registered-on-launchpad_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Load a web browser on your computer.
@@ -1012,7 +1012,7 @@ msgstr ""
 msgid "registered-on-launchpad_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://www.launchpad.net
@@ -1025,7 +1025,7 @@ msgstr ""
 msgid "registered-on-launchpad_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #launchpad on Freenode
@@ -1038,7 +1038,7 @@ msgstr ""
 msgid "registered-on-launchpad_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Filed Bug that was Confirmed
@@ -1050,7 +1050,7 @@ msgstr ""
 msgid "first-bug-confirmed_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Filed a bug in Ubuntu that was confirmed by someone else
@@ -1061,7 +1061,7 @@ msgstr ""
 msgid "first-bug-confirmed_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. A bug is a defect in a piece of software. Filing bugs is a great way to help improve Ubuntu and in order for the bug to be fixed, someone else needs to be able to reproduce and confirm it. The more detailed and precise your bug report is, the most likely it is that it can be reproduced by someone else. This achievement reflects that at least one of your bug reports was of good quality and was confirmed by someone else.
@@ -1074,7 +1074,7 @@ msgstr ""
 msgid "first-bug-confirmed_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. File a bug as you would normally (see the Filed First Bug accomplishments for more details) and ensure that the description is detailed enough to enable others to reproduce it. To write a good bug report, include the following:
@@ -1092,7 +1092,7 @@ msgstr ""
 msgid "first-bug-confirmed_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://www.ubuntu.com
@@ -1107,7 +1107,7 @@ msgstr ""
 msgid "first-bug-confirmed_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-testing on Freenode
@@ -1120,7 +1120,7 @@ msgstr ""
 msgid "first-bug-confirmed_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Juju Charm Reviewer
@@ -1132,7 +1132,7 @@ msgstr ""
 msgid "juju-charm-reviewer_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You contribute Juju charms to Ubuntu.
@@ -1143,7 +1143,7 @@ msgstr ""
 msgid "juju-charm-reviewer_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
@@ -1156,7 +1156,7 @@ msgstr ""
 msgid "juju-charm-reviewer_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Contribute a significant number of Juju charms.
@@ -1171,7 +1171,7 @@ msgstr ""
 msgid "juju-charm-reviewer_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. http://juju.ubuntu.com
@@ -1184,7 +1184,7 @@ msgstr ""
 msgid "juju-charm-reviewer_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #juju on Freenode
@@ -1197,7 +1197,7 @@ msgstr ""
 msgid "juju-charm-reviewer_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Ubuntu Core Developer
@@ -1209,7 +1209,7 @@ msgstr ""
 msgid "core-dev_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. You are an Ubuntu Core Developer
@@ -1220,7 +1220,7 @@ msgstr ""
 msgid "core-dev_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
@@ -1233,7 +1233,7 @@ msgstr ""
 msgid "core-dev_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. Contribute extensively to Ubuntu for a sustained period of time.
@@ -1248,7 +1248,7 @@ msgstr ""
 msgid "core-dev_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. https://wiki.ubuntu.com/SponsorshipProcess
@@ -1261,7 +1261,7 @@ msgstr ""
 msgid "core-dev_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-devel on Freenode

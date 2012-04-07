@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Ubuntu MOTU Developer
+// ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Ubuntu MOTU Developer
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("motu_title")
-// ACCOMPLISHMENT: Ubuntu MOTU Developer
+// ACCOMPLISHMENT: Ubuntu MOTU Developer ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // You are an Ubuntu MOTU Developer
@@ -18,7 +18,7 @@ _("motu_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("motu_description")
-// ACCOMPLISHMENT: Ubuntu MOTU Developer
+// ACCOMPLISHMENT: Ubuntu MOTU Developer ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
@@ -29,7 +29,7 @@ _("motu_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("motu_summary")
-// ACCOMPLISHMENT: Ubuntu MOTU Developer
+// ACCOMPLISHMENT: Ubuntu MOTU Developer ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Contribute extensively to Ubuntu for a sustained period of time.
@@ -42,7 +42,7 @@ _("motu_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("motu_steps")
-// ACCOMPLISHMENT: Ubuntu MOTU Developer
+// ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // https://wiki.ubuntu.com/MOTU
@@ -55,7 +55,7 @@ _("motu_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("motu_links")
-// ACCOMPLISHMENT: Ubuntu MOTU Developer
+// ACCOMPLISHMENT: Ubuntu MOTU Developer ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-devel on Freenode

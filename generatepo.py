@@ -61,7 +61,7 @@ for f in files:
     for i in items:
         for sec in translatedsections:
             if i[0] in sec.keys():
-                output = "// ACCOMPLISHMENT: " + title + "\n"
+                output = "// ACCOMPLISHMENT: " + title + " ('" + i[0] + "' field)\n"
                 output = output + "// .\n"
                 origitemlines = config.get("accomplishment", i[0]).split("\n")
                 origitem = ""

@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Signed Ubuntu Code Of Conduct
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("signed-code-of-conduct_title")
-// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // You have signed the Ubuntu Code Of Conduct
@@ -18,7 +18,7 @@ _("signed-code-of-conduct_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("signed-code-of-conduct_description")
-// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // The Ubuntu Code Of Conduct is an important document that provides a set of guidelines and expectations for good conduct in the Ubuntu Community.
@@ -31,7 +31,7 @@ _("signed-code-of-conduct_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("signed-code-of-conduct_summary")
-// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // First generate a PGP key, add it to the Ubuntu key-server, and import it into Launchpad. See <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">here</a> for how to do this.
@@ -47,7 +47,7 @@ _("signed-code-of-conduct_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("signed-code-of-conduct_steps")
-// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // http://www.ubuntu.com/project/about-ubuntu/conduct
@@ -58,7 +58,7 @@ _("signed-code-of-conduct_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("signed-code-of-conduct_links")
-// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+// ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-locoteams on Freenode

@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Approved Ubuntu Member
+// ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Approved Ubuntu Member
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("ubuntu-member_title")
-// ACCOMPLISHMENT: Approved Ubuntu Member
+// ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // You are an Approved Ubuntu Member
@@ -18,7 +18,7 @@ _("ubuntu-member_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("ubuntu-member_description")
-// ACCOMPLISHMENT: Approved Ubuntu Member
+// ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu.
@@ -31,7 +31,7 @@ _("ubuntu-member_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("ubuntu-member_summary")
-// ACCOMPLISHMENT: Approved Ubuntu Member
+// ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
@@ -45,7 +45,7 @@ _("ubuntu-member_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("ubuntu-member_steps")
-// ACCOMPLISHMENT: Approved Ubuntu Member
+// ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // http://wiki.ubuntu.com/Membership
@@ -57,7 +57,7 @@ _("ubuntu-member_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("ubuntu-member_links")
-// ACCOMPLISHMENT: Approved Ubuntu Member
+// ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-community-team on Freenode

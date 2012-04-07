@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Fridge Editor
+// ACCOMPLISHMENT: Fridge Editor ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Fridge Editor
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("fridge-editor_title")
-// ACCOMPLISHMENT: Fridge Editor
+// ACCOMPLISHMENT: Fridge Editor ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // A member of the Fridge Editors team
@@ -18,7 +18,7 @@ _("fridge-editor_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("fridge-editor_description")
-// ACCOMPLISHMENT: Fridge Editor
+// ACCOMPLISHMENT: Fridge Editor ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.
@@ -30,7 +30,7 @@ _("fridge-editor_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("fridge-editor_summary")
-// ACCOMPLISHMENT: Fridge Editor
+// ACCOMPLISHMENT: Fridge Editor ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, have good written English skills.  Individuals who are interested in becoming a member of the Ubuntu Fridge editors team should submit a few stories so the Editors Team can get to know you and offer guidance (if necessary).  Stories can be submitted to the news team through its IRC (Internet Chat Relay) Channel on Freenode (irc.freenode.net)-#ubuntu-news-- or can send an email to: ubuntu-news-team@lists.ubuntu.com (no subscription necessary). Additional information that all editors should be knowledgeable of can be found on the Fridge wiki page under Editors Guidelines.
@@ -43,7 +43,7 @@ _("fridge-editor_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("fridge-editor_steps")
-// ACCOMPLISHMENT: Fridge Editor
+// ACCOMPLISHMENT: Fridge Editor ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // http://fridge.ubuntu.com
@@ -56,7 +56,7 @@ _("fridge-editor_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("fridge-editor_links")
-// ACCOMPLISHMENT: Fridge Editor
+// ACCOMPLISHMENT: Fridge Editor ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-community-team on Freenode

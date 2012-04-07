@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Setting a mugshot in Launchpad profile
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("user-has-mugshot_title")
-// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // User has set a mugshot in his own Launchpad profile
@@ -18,7 +18,7 @@ _("user-has-mugshot_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("user-has-mugshot_description")
-// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // A mugshot is an avatar image that the user can set in his Launchpad profile. It is nice when people can identify you just watching a picture of you.
@@ -31,7 +31,7 @@ _("user-has-mugshot_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("user-has-mugshot_summary")
-// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Setting a mugshot is very simple.
@@ -47,7 +47,7 @@ _("user-has-mugshot_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("user-has-mugshot_steps")
-// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // http://www.launchpad.net
@@ -58,7 +58,7 @@ _("user-has-mugshot_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("user-has-mugshot_links")
-// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+// ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #launchpad on Freenode

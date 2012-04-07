@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Technical Board Member
+// ACCOMPLISHMENT: Technical Board Member ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Technical Board Member
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("technical-board-member_title")
-// ACCOMPLISHMENT: Technical Board Member
+// ACCOMPLISHMENT: Technical Board Member ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // You are a member of the Ubuntu Technical Board
@@ -18,7 +18,7 @@ _("technical-board-member_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("technical-board-member_description")
-// ACCOMPLISHMENT: Technical Board Member
+// ACCOMPLISHMENT: Technical Board Member ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // The Ubuntu Technical Board is one of the most important governing boards in the Ubuntu community. The Technical Board advises and decides on technical policy and process as well as acting as an escalation body for incidents that occur elsewhere in the community.
@@ -30,7 +30,7 @@ _("technical-board-member_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("technical-board-member_summary")
-// ACCOMPLISHMENT: Technical Board Member
+// ACCOMPLISHMENT: Technical Board Member ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
@@ -43,7 +43,7 @@ _("technical-board-member_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("technical-board-member_steps")
-// ACCOMPLISHMENT: Technical Board Member
+// ACCOMPLISHMENT: Technical Board Member ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // https://wiki.ubuntu.com/TechnicalBoard
@@ -55,7 +55,7 @@ _("technical-board-member_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("technical-board-member_links")
-// ACCOMPLISHMENT: Technical Board Member
+// ACCOMPLISHMENT: Technical Board Member ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-devel-team on Freenode

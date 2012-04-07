@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Filed Bug that was Confirmed
+// ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Filed Bug that was Confirmed
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("first-bug-confirmed_title")
-// ACCOMPLISHMENT: Filed Bug that was Confirmed
+// ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // Filed a bug in Ubuntu that was confirmed by someone else
@@ -18,7 +18,7 @@ _("first-bug-confirmed_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("first-bug-confirmed_description")
-// ACCOMPLISHMENT: Filed Bug that was Confirmed
+// ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // A bug is a defect in a piece of software. Filing bugs is a great way to help improve Ubuntu and in order for the bug to be fixed, someone else needs to be able to reproduce and confirm it. The more detailed and precise your bug report is, the most likely it is that it can be reproduced by someone else. This achievement reflects that at least one of your bug reports was of good quality and was confirmed by someone else.
@@ -29,7 +29,7 @@ _("first-bug-confirmed_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("first-bug-confirmed_summary")
-// ACCOMPLISHMENT: Filed Bug that was Confirmed
+// ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // File a bug as you would normally (see the Filed First Bug accomplishments for more details) and ensure that the description is detailed enough to enable others to reproduce it. To write a good bug report, include the following:
@@ -45,7 +45,7 @@ _("first-bug-confirmed_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("first-bug-confirmed_steps")
-// ACCOMPLISHMENT: Filed Bug that was Confirmed
+// ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // http://www.ubuntu.com
@@ -58,7 +58,7 @@ _("first-bug-confirmed_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("first-bug-confirmed_links")
-// ACCOMPLISHMENT: Filed Bug that was Confirmed
+// ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-testing on Freenode

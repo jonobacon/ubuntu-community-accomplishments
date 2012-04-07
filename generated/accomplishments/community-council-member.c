@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Community Council Member
+// ACCOMPLISHMENT: Community Council Member ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Community Council Member
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("community-council-member_title")
-// ACCOMPLISHMENT: Community Council Member
+// ACCOMPLISHMENT: Community Council Member ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // You are a member of the Community Council
@@ -18,7 +18,7 @@ _("community-council-member_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("community-council-member_description")
-// ACCOMPLISHMENT: Community Council Member
+// ACCOMPLISHMENT: Community Council Member ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // The Ubuntu Community Council is the primary community (i.e. non-technical) governance body for the Ubuntu Project and as such has an important role and responsibility to the Ubuntu community.
@@ -31,7 +31,7 @@ _("community-council-member_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("community-council-member_summary")
-// ACCOMPLISHMENT: Community Council Member
+// ACCOMPLISHMENT: Community Council Member ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Become an Ubuntu Member. Demonstrate effective and extensive contribution  to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
@@ -44,7 +44,7 @@ _("community-council-member_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("community-council-member_steps")
-// ACCOMPLISHMENT: Community Council Member
+// ACCOMPLISHMENT: Community Council Member ('tips' field)
 // .
 // ENGLISH TRANSLATION:
 // Focus on your leadership abilities. The Community Council is an important leadership position and we look for strong, capable, confident leaders.
@@ -57,7 +57,7 @@ _("community-council-member_steps")
 //          NOTE: Put each tip on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("community-council-member_tips")
-// ACCOMPLISHMENT: Community Council Member
+// ACCOMPLISHMENT: Community Council Member ('pitfalls' field)
 // .
 // ENGLISH TRANSLATION:
 // Don't apply to the Community Council just to be in a position of power.
@@ -69,7 +69,7 @@ _("community-council-member_tips")
 //          NOTE: Put each pitfall on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("community-council-member_pitfalls")
-// ACCOMPLISHMENT: Community Council Member
+// ACCOMPLISHMENT: Community Council Member ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // https://wiki.ubuntu.com/CommunityCouncil
@@ -82,7 +82,7 @@ _("community-council-member_pitfalls")
 //          NOTE: Put each URL on a new line
 // 
 _("community-council-member_links")
-// ACCOMPLISHMENT: Community Council Member
+// ACCOMPLISHMENT: Community Council Member ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-community-team on Freenode

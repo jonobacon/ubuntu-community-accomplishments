@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Report First Bug
+// ACCOMPLISHMENT: Report First Bug ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Report First Bug
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("report-first-bug_title")
-// ACCOMPLISHMENT: Report First Bug
+// ACCOMPLISHMENT: Report First Bug ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // You have reported your first bug in Ubuntu
@@ -18,7 +18,7 @@ _("report-first-bug_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("report-first-bug_description")
-// ACCOMPLISHMENT: Report First Bug
+// ACCOMPLISHMENT: Report First Bug ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it.
@@ -33,7 +33,7 @@ _("report-first-bug_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("report-first-bug_summary")
-// ACCOMPLISHMENT: Report First Bug
+// ACCOMPLISHMENT: Report First Bug ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.
@@ -46,7 +46,7 @@ _("report-first-bug_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("report-first-bug_steps")
-// ACCOMPLISHMENT: Report First Bug
+// ACCOMPLISHMENT: Report First Bug ('tips' field)
 // .
 // ENGLISH TRANSLATION:
 // Always try to be concise and detailed in your bug reports.
@@ -59,7 +59,7 @@ _("report-first-bug_steps")
 //          NOTE: Put each tip on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("report-first-bug_tips")
-// ACCOMPLISHMENT: Report First Bug
+// ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
 // .
 // ENGLISH TRANSLATION:
 // Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
@@ -71,7 +71,7 @@ _("report-first-bug_tips")
 //          NOTE: Put each pitfall on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("report-first-bug_pitfalls")
-// ACCOMPLISHMENT: Report First Bug
+// ACCOMPLISHMENT: Report First Bug ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // https://help.ubuntu.com/community/ReportingBugs
@@ -83,7 +83,7 @@ _("report-first-bug_pitfalls")
 //          NOTE: Put each URL on a new line
 // 
 _("report-first-bug_links")
-// ACCOMPLISHMENT: Report First Bug
+// ACCOMPLISHMENT: Report First Bug ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-testing on Freenode

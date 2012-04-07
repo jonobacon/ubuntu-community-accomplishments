@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: LoCo Council Member
+// ACCOMPLISHMENT: LoCo Council Member ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // LoCo Council Member
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("loco-council-member_title")
-// ACCOMPLISHMENT: LoCo Council Member
+// ACCOMPLISHMENT: LoCo Council Member ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // Youy are a member of the LoCo Council
@@ -18,7 +18,7 @@ _("loco-council-member_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("loco-council-member_description")
-// ACCOMPLISHMENT: LoCo Council Member
+// ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
@@ -31,7 +31,7 @@ _("loco-council-member_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("loco-council-member_summary")
-// ACCOMPLISHMENT: LoCo Council Member
+// ACCOMPLISHMENT: LoCo Council Member ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
@@ -44,7 +44,7 @@ _("loco-council-member_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("loco-council-member_steps")
-// ACCOMPLISHMENT: LoCo Council Member
+// ACCOMPLISHMENT: LoCo Council Member ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // https://wiki.ubuntu.com/LoCoCouncil
@@ -57,7 +57,7 @@ _("loco-council-member_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("loco-council-member_links")
-// ACCOMPLISHMENT: LoCo Council Member
+// ACCOMPLISHMENT: LoCo Council Member ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #ubuntu-community-team on Freenode

@@ -1,5 +1,5 @@
 [accomplishment]
-// ACCOMPLISHMENT: Juju Charm Reviewer
+// ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 // .
 // ENGLISH TRANSLATION:
 // Juju Charm Reviewer
@@ -9,7 +9,7 @@
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("juju-charm-reviewer_title")
-// ACCOMPLISHMENT: Juju Charm Reviewer
+// ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
 // .
 // ENGLISH TRANSLATION:
 // You contribute Juju charms to Ubuntu.
@@ -18,7 +18,7 @@ _("juju-charm-reviewer_title")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // At a descriptive single-line summary of the accomplishment.
 _("juju-charm-reviewer_description")
-// ACCOMPLISHMENT: Juju Charm Reviewer
+// ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 // .
 // ENGLISH TRANSLATION:
 // Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
@@ -29,7 +29,7 @@ _("juju-charm-reviewer_description")
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("juju-charm-reviewer_summary")
-// ACCOMPLISHMENT: Juju Charm Reviewer
+// ACCOMPLISHMENT: Juju Charm Reviewer ('steps' field)
 // .
 // ENGLISH TRANSLATION:
 // Contribute a significant number of Juju charms.
@@ -42,7 +42,7 @@ _("juju-charm-reviewer_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("juju-charm-reviewer_steps")
-// ACCOMPLISHMENT: Juju Charm Reviewer
+// ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 // .
 // ENGLISH TRANSLATION:
 // http://juju.ubuntu.com
@@ -53,7 +53,7 @@ _("juju-charm-reviewer_steps")
 //          NOTE: Put each URL on a new line
 // 
 _("juju-charm-reviewer_links")
-// ACCOMPLISHMENT: Juju Charm Reviewer
+// ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 // .
 // ENGLISH TRANSLATION:
 // #juju on Freenode
