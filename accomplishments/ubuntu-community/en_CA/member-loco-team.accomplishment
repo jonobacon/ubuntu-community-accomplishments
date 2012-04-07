@@ -1,0 +1,13 @@
+[accomplishment]
+title = LoCo Team Member
+description = You are a member of an Ubuntu LoCo Team
+application = ubuntu-community
+category = LoCo Teams
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+summary = Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
+steps = 
+tips = None
+pitfalls = None
+help = 
+

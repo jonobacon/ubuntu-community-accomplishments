@@ -1,0 +1,13 @@
+[accomplishment]
+title = 
+description = 
+application = ubuntu-community
+category = Juju
+icon = juju.png
+depends = ubuntu-community/juju-charm-contributor
+summary = 
+steps = 
+tips = None
+pitfalls = None
+help = 
+

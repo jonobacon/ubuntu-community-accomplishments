@@ -1,0 +1,13 @@
+[accomplishment]
+title = 
+description = 
+application = ubuntu-community
+category = General
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+summary = 
+steps = 
+tips = None
+pitfalls = None
+help = 
+

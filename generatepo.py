@@ -62,7 +62,7 @@ for f in files:
         for sec in translatedsections:
             if i[0] in sec.keys():
                 output = "// ACCOMPLISHMENT: " + title + "\n"
-                output = output + "//\n"
+                output = output + "// .\n"
                 origitemlines = config.get("accomplishment", i[0]).split("\n")
                 origitem = ""
                 for l in origitemlines:
@@ -70,7 +70,7 @@ for f in files:
 
                 output = output + ("// ENGLISH TRANSLATION:\n")
                 output = output + (origitem + "\n")
-                output = output + "//\n"
+                output = output + "// .\n"
                 output = output + "// ----- TRANSLATION INSTRUCTIONS ----- \n"
                 for c in sec.values()[0].split("\n"):
                     output = output + ("// " + c + "\n")

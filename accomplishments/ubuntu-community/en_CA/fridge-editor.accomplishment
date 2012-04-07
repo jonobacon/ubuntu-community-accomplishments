@@ -1,0 +1,13 @@
+[accomplishment]
+title = 
+description = 
+application = ubuntu-community
+category = Documentation
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+summary = 
+steps = 
+tips = None
+pitfalls = None
+help = 
+

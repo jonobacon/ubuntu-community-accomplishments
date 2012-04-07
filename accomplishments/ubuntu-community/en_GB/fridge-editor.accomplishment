@@ -1,0 +1,17 @@
+[accomplishment]
+title = Fridge Editor
+description = A member of the Fridge Editors team
+application = ubuntu-community
+category = Documentation
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+summary = The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.
+	The <i>Ubuntu Fridge Editors</i> are a team who produce and publish content to the site. To be a member of this team you need to be able to write well, write often, and be responsive to publishing new content and news.
+steps = Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, have good written English skills.  Individuals who are interested in becoming a member of the Ubuntu Fridge editors team should submit a few stories so the Editors Team can get to know you and offer guidance (if necessary).  Stories can be submitted to the news team through its IRC (Internet Chat Relay) Channel on Freenode (irc.freenode.net)-#ubuntu-news-- or can send an email to: ubuntu-news-team@lists.ubuntu.com (no subscription necessary). Additional information that all editors should be knowledgeable of can be found on the Fridge wiki page under Editors Guidelines.
+	Write drafts for each of your ideas.
+	Submit your content to the Fridge Editors.
+tips = None
+pitfalls = None
+help = #ubuntu-community-team on Freenode
+	#ubuntu-news on Freenode
+

@@ -1,0 +1,13 @@
+[accomplishment]
+title = 
+description = 
+application = ubuntu-community
+category = QA
+icon = default.png
+depends = ubuntu-community/report-first-bug
+summary = 
+steps = 
+tips = None
+pitfalls = None
+help = 
+
