@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-06 18:13-0700\n"
+"POT-Creation-Date: 2012-04-06 19:11-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,709 +17,999 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Accomplishment: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member
+#.
+#. ENGLISH TRANSLATION: LoCo Team Member
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/member-loco-team.c:5
+#: ../accomplishments/member-loco-team.c:9
 msgid "member-loco-team_title"
 msgstr ""
 
-#. Accomplishment: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member
+#.
+#. ENGLISH TRANSLATION: You are a member of an Ubuntu LoCo Team
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/member-loco-team.c:8
+#: ../accomplishments/member-loco-team.c:16
 msgid "member-loco-team_description"
 msgstr ""
 
-#. Accomplishment: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member
+#.
+#. ENGLISH TRANSLATION: Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:13
+#: ../accomplishments/member-loco-team.c:25
 msgid "member-loco-team_summary"
 msgstr ""
 
-#. Accomplishment: LoCo Team Member
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:18
+#: ../accomplishments/member-loco-team.c:35
 msgid "member-loco-team_steps"
 msgstr ""
 
-#. Accomplishment: LoCo Team Member
+#. ACCOMPLISHMENT: LoCo Team Member
+#.
+#. ENGLISH TRANSLATION: http://loco.ubuntu.com
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/member-loco-team.c:23
+#: ../accomplishments/member-loco-team.c:44
 msgid "member-loco-team_links"
 msgstr ""
 
-#. Accomplishment: LoCo Team Member
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:28
+#: ../accomplishments/member-loco-team.c:54
 msgid "member-loco-team_help"
 msgstr ""
 
-#. Accomplishment: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug
+#.
+#. ENGLISH TRANSLATION: Report First Bug
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/report-first-bug.c:5
+#: ../accomplishments/report-first-bug.c:9
 msgid "report-first-bug_title"
 msgstr ""
 
-#. Accomplishment: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug
+#.
+#. ENGLISH TRANSLATION: You have reported your first bug in Ubuntu
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/report-first-bug.c:8
+#: ../accomplishments/report-first-bug.c:16
 msgid "report-first-bug_description"
 msgstr ""
 
-#. Accomplishment: Report First Bug
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:13
+#: ../accomplishments/report-first-bug.c:29
 msgid "report-first-bug_summary"
 msgstr ""
 
-#. Accomplishment: Report First Bug
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:18
+#: ../accomplishments/report-first-bug.c:40
 msgid "report-first-bug_steps"
 msgstr ""
 
-#. Accomplishment: Report First Bug
+#.
+#. DESCRIPTION:
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:23
+#: ../accomplishments/report-first-bug.c:51
 msgid "report-first-bug_tips"
 msgstr ""
 
-#. Accomplishment: Report First Bug
+#.
+#. DESCRIPTION:
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:28
+#: ../accomplishments/report-first-bug.c:61
 msgid "report-first-bug_pitfalls"
 msgstr ""
 
-#. Accomplishment: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug
+#.
+#. ENGLISH TRANSLATION: https://help.ubuntu.com/community/ReportingBugs
+#. wiki.ubuntu.com/HelpingWithBugs
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/report-first-bug.c:33
+#: ../accomplishments/report-first-bug.c:71
 msgid "report-first-bug_links"
 msgstr ""
 
-#. Accomplishment: Report First Bug
+#. ACCOMPLISHMENT: Report First Bug
+#.
+#. ENGLISH TRANSLATION: #ubuntu-testing on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:38
+#: ../accomplishments/report-first-bug.c:80
 msgid "report-first-bug_help"
 msgstr ""
 
-#. Accomplishment: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor
+#.
+#. ENGLISH TRANSLATION: Fridge Editor
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/fridge-editor.c:5
+#: ../accomplishments/fridge-editor.c:9
 msgid "fridge-editor_title"
 msgstr ""
 
-#. Accomplishment: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor
+#.
+#. ENGLISH TRANSLATION: A member of the Fridge Editors team
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/fridge-editor.c:8
+#: ../accomplishments/fridge-editor.c:16
 msgid "fridge-editor_description"
 msgstr ""
 
-#. Accomplishment: Fridge Editor
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/fridge-editor.c:13
+#: ../accomplishments/fridge-editor.c:26
 msgid "fridge-editor_summary"
 msgstr ""
 
-#. Accomplishment: Fridge Editor
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/fridge-editor.c:18
+#: ../accomplishments/fridge-editor.c:37
 msgid "fridge-editor_steps"
 msgstr ""
 
-#. Accomplishment: Fridge Editor
+#. ACCOMPLISHMENT: Fridge Editor
+#.
+#. ENGLISH TRANSLATION: http://fridge.ubuntu.com
+#. wiki.ubuntu.com/Fridge
+#. launchpad.net/~ubuntu-fridge
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/fridge-editor.c:23
+#: ../accomplishments/fridge-editor.c:48
 msgid "fridge-editor_links"
 msgstr ""
 
-#. Accomplishment: Fridge Editor
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/fridge-editor.c:28
+#: ../accomplishments/fridge-editor.c:58
 msgid "fridge-editor_help"
 msgstr ""
 
-#. Accomplishment: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#.
+#. ENGLISH TRANSLATION: Signed Ubuntu Code Of Conduct
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/signed-code-of-conduct.c:5
+#: ../accomplishments/signed-code-of-conduct.c:9
 msgid "signed-code-of-conduct_title"
 msgstr ""
 
-#. Accomplishment: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#.
+#. ENGLISH TRANSLATION: You have signed the Ubuntu Code Of Conduct
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/signed-code-of-conduct.c:8
+#: ../accomplishments/signed-code-of-conduct.c:16
 msgid "signed-code-of-conduct_description"
 msgstr ""
 
-#. Accomplishment: Signed Ubuntu Code Of Conduct
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:13
+#: ../accomplishments/signed-code-of-conduct.c:27
 msgid "signed-code-of-conduct_summary"
 msgstr ""
 
-#. Accomplishment: Signed Ubuntu Code Of Conduct
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:18
+#: ../accomplishments/signed-code-of-conduct.c:41
 msgid "signed-code-of-conduct_steps"
 msgstr ""
 
-#. Accomplishment: Signed Ubuntu Code Of Conduct
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
+#.
+#. ENGLISH TRANSLATION: http://www.ubuntu.com/project/about-ubuntu/conduct
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/signed-code-of-conduct.c:23
+#: ../accomplishments/signed-code-of-conduct.c:50
 msgid "signed-code-of-conduct_links"
 msgstr ""
 
-#. Accomplishment: Signed Ubuntu Code Of Conduct
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:28
+#: ../accomplishments/signed-code-of-conduct.c:60
 msgid "signed-code-of-conduct_help"
 msgstr ""
 
-#. Accomplishment: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member
+#.
+#. ENGLISH TRANSLATION: Community Council Member
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/community-council-member.c:5
+#: ../accomplishments/community-council-member.c:9
 msgid "community-council-member_title"
 msgstr ""
 
-#. Accomplishment: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member
+#.
+#. ENGLISH TRANSLATION: You are a member of the Community Council
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/community-council-member.c:8
+#: ../accomplishments/community-council-member.c:16
 msgid "community-council-member_description"
 msgstr ""
 
-#. Accomplishment: Community Council Member
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:13
+#: ../accomplishments/community-council-member.c:27
 msgid "community-council-member_summary"
 msgstr ""
 
-#. Accomplishment: Community Council Member
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:18
+#: ../accomplishments/community-council-member.c:38
 msgid "community-council-member_steps"
 msgstr ""
 
-#. Accomplishment: Community Council Member
+#.
+#. DESCRIPTION:
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:23
+#: ../accomplishments/community-council-member.c:49
 msgid "community-council-member_tips"
 msgstr ""
 
-#. Accomplishment: Community Council Member
+#.
+#. DESCRIPTION:
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:28
+#: ../accomplishments/community-council-member.c:59
 msgid "community-council-member_pitfalls"
 msgstr ""
 
-#. Accomplishment: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member
+#.
+#. ENGLISH TRANSLATION: https://wiki.ubuntu.com/CommunityCouncil
+#. wiki.ubuntu.com/CommunityCouncilAgenda
+#. www.ubuntu.com/project/about-ubuntu/governance
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/community-council-member.c:33
+#: ../accomplishments/community-council-member.c:70
 msgid "community-council-member_links"
 msgstr ""
 
-#. Accomplishment: Community Council Member
+#. ACCOMPLISHMENT: Community Council Member
+#.
+#. ENGLISH TRANSLATION: #ubuntu-community-team on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:38
+#: ../accomplishments/community-council-member.c:79
 msgid "community-council-member_help"
 msgstr ""
 
-#. Accomplishment: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#.
+#. ENGLISH TRANSLATION: Ubuntu MOTU Developer
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/motu.c:5
+#: ../accomplishments/motu.c:9
 msgid "motu_title"
 msgstr ""
 
-#. Accomplishment: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#.
+#. ENGLISH TRANSLATION: You are an Ubuntu MOTU Developer
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/motu.c:8
+#: ../accomplishments/motu.c:16
 msgid "motu_description"
 msgstr ""
 
-#. Accomplishment: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#.
+#. ENGLISH TRANSLATION: An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:13
+#: ../accomplishments/motu.c:25
 msgid "motu_summary"
 msgstr ""
 
-#. Accomplishment: Ubuntu MOTU Developer
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:18
+#: ../accomplishments/motu.c:36
 msgid "motu_steps"
 msgstr ""
 
-#. Accomplishment: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#.
+#. ENGLISH TRANSLATION: https://wiki.ubuntu.com/MOTU
+#. wiki.ubuntu.com/UbuntuDevelopment
+#. wiki.ubuntu.com/SponsorshipProcess
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/motu.c:23
+#: ../accomplishments/motu.c:47
 msgid "motu_links"
 msgstr ""
 
-#. Accomplishment: Ubuntu MOTU Developer
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer
+#.
+#. ENGLISH TRANSLATION: #ubuntu-devel on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:28
+#: ../accomplishments/motu.c:56
 msgid "motu_help"
 msgstr ""
 
-#. Accomplishment: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member
+#.
+#. ENGLISH TRANSLATION: LoCo Council Member
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/loco-council-member.c:5
+#: ../accomplishments/loco-council-member.c:9
 msgid "loco-council-member_title"
 msgstr ""
 
-#. Accomplishment: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member
+#.
+#. ENGLISH TRANSLATION: Youy are a member of the LoCo Council
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/loco-council-member.c:8
+#: ../accomplishments/loco-council-member.c:16
 msgid "loco-council-member_description"
 msgstr ""
 
-#. Accomplishment: LoCo Council Member
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:13
+#: ../accomplishments/loco-council-member.c:27
 msgid "loco-council-member_summary"
 msgstr ""
 
-#. Accomplishment: LoCo Council Member
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:18
+#: ../accomplishments/loco-council-member.c:38
 msgid "loco-council-member_steps"
 msgstr ""
 
-#. Accomplishment: LoCo Council Member
+#. ACCOMPLISHMENT: LoCo Council Member
+#.
+#. ENGLISH TRANSLATION: https://wiki.ubuntu.com/LoCoCouncil
+#. wiki.ubuntu.com/LoCoCouncilAgenda
+#. www.ubuntu.com/project/about-ubuntu/governance
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/loco-council-member.c:23
+#: ../accomplishments/loco-council-member.c:49
 msgid "loco-council-member_links"
 msgstr ""
 
-#. Accomplishment: LoCo Council Member
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:28
+#: ../accomplishments/loco-council-member.c:59
 msgid "loco-council-member_help"
 msgstr ""
 
-#. Accomplishment: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member
+#.
+#. ENGLISH TRANSLATION: Approved Ubuntu Member
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-member.c:5
+#: ../accomplishments/ubuntu-member.c:9
 msgid "ubuntu-member_title"
 msgstr ""
 
-#. Accomplishment: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member
+#.
+#. ENGLISH TRANSLATION: You are an Approved Ubuntu Member
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-member.c:8
+#: ../accomplishments/ubuntu-member.c:16
 msgid "ubuntu-member_description"
 msgstr ""
 
-#. Accomplishment: Approved Ubuntu Member
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:13
+#: ../accomplishments/ubuntu-member.c:27
 msgid "ubuntu-member_summary"
 msgstr ""
 
-#. Accomplishment: Approved Ubuntu Member
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:18
+#: ../accomplishments/ubuntu-member.c:39
 msgid "ubuntu-member_steps"
 msgstr ""
 
-#. Accomplishment: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member
+#.
+#. ENGLISH TRANSLATION: http://wiki.ubuntu.com/Membership
+#. wiki.ubuntu.com/Membership/RegionalBoards
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/ubuntu-member.c:23
+#: ../accomplishments/ubuntu-member.c:49
 msgid "ubuntu-member_links"
 msgstr ""
 
-#. Accomplishment: Approved Ubuntu Member
+#. ACCOMPLISHMENT: Approved Ubuntu Member
+#.
+#. ENGLISH TRANSLATION: #ubuntu-community-team on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:28
+#: ../accomplishments/ubuntu-member.c:58
 msgid "ubuntu-member_help"
 msgstr ""
 
-#. Accomplishment: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member
+#.
+#. ENGLISH TRANSLATION: Technical Board Member
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/technical-board-member.c:5
+#: ../accomplishments/technical-board-member.c:9
 msgid "technical-board-member_title"
 msgstr ""
 
-#. Accomplishment: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member
+#.
+#. ENGLISH TRANSLATION: You are a member of the Ubuntu Technical Board
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/technical-board-member.c:8
+#: ../accomplishments/technical-board-member.c:16
 msgid "technical-board-member_description"
 msgstr ""
 
-#. Accomplishment: Technical Board Member
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:13
+#: ../accomplishments/technical-board-member.c:26
 msgid "technical-board-member_summary"
 msgstr ""
 
-#. Accomplishment: Technical Board Member
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:18
+#: ../accomplishments/technical-board-member.c:37
 msgid "technical-board-member_steps"
 msgstr ""
 
-#. Accomplishment: Technical Board Member
+#. ACCOMPLISHMENT: Technical Board Member
+#.
+#. ENGLISH TRANSLATION: https://wiki.ubuntu.com/TechnicalBoard
+#. www.ubuntu.com/project/about-ubuntu/governance
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/technical-board-member.c:23
+#: ../accomplishments/technical-board-member.c:47
 msgid "technical-board-member_links"
 msgstr ""
 
-#. Accomplishment: Technical Board Member
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:28
+#: ../accomplishments/technical-board-member.c:57
 msgid "technical-board-member_help"
 msgstr ""
 
-#. Accomplishment: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor
+#.
+#. ENGLISH TRANSLATION: Juju Charm Contributor
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/juju-charm-contributor.c:5
+#: ../accomplishments/juju-charm-contributor.c:9
 msgid "juju-charm-contributor_title"
 msgstr ""
 
-#. Accomplishment: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor
+#.
+#. ENGLISH TRANSLATION: You contribute Juju charms to Ubuntu.
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/juju-charm-contributor.c:8
+#: ../accomplishments/juju-charm-contributor.c:16
 msgid "juju-charm-contributor_description"
 msgstr ""
 
-#. Accomplishment: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor
+#.
+#. ENGLISH TRANSLATION: Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:13
+#: ../accomplishments/juju-charm-contributor.c:25
 msgid "juju-charm-contributor_summary"
 msgstr ""
 
-#. Accomplishment: Juju Charm Contributor
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:18
+#: ../accomplishments/juju-charm-contributor.c:36
 msgid "juju-charm-contributor_steps"
 msgstr ""
 
-#. Accomplishment: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor
+#.
+#. ENGLISH TRANSLATION: http://juju.ubuntu.com
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/juju-charm-contributor.c:23
+#: ../accomplishments/juju-charm-contributor.c:45
 msgid "juju-charm-contributor_links"
 msgstr ""
 
-#. Accomplishment: Juju Charm Contributor
+#. ACCOMPLISHMENT: Juju Charm Contributor
+#.
+#. ENGLISH TRANSLATION: #juju on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:28
+#: ../accomplishments/juju-charm-contributor.c:54
 msgid "juju-charm-contributor_help"
 msgstr ""
 
-#. Accomplishment: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#.
+#. ENGLISH TRANSLATION: Setting a mugshot in Launchpad profile
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/user-has-mugshot.c:5
+#: ../accomplishments/user-has-mugshot.c:9
 msgid "user-has-mugshot_title"
 msgstr ""
 
-#. Accomplishment: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#.
+#. ENGLISH TRANSLATION: User has set a mugshot in his own Launchpad profile
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/user-has-mugshot.c:8
+#: ../accomplishments/user-has-mugshot.c:16
 msgid "user-has-mugshot_description"
 msgstr ""
 
-#. Accomplishment: Setting a mugshot in Launchpad profile
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:13
+#: ../accomplishments/user-has-mugshot.c:27
 msgid "user-has-mugshot_summary"
 msgstr ""
 
-#. Accomplishment: Setting a mugshot in Launchpad profile
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:18
+#: ../accomplishments/user-has-mugshot.c:41
 msgid "user-has-mugshot_steps"
 msgstr ""
 
-#. Accomplishment: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#.
+#. ENGLISH TRANSLATION: http://www.launchpad.net
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/user-has-mugshot.c:23
+#: ../accomplishments/user-has-mugshot.c:50
 msgid "user-has-mugshot_links"
 msgstr ""
 
-#. Accomplishment: Setting a mugshot in Launchpad profile
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
+#.
+#. ENGLISH TRANSLATION: #launchpad on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:28
+#: ../accomplishments/user-has-mugshot.c:59
 msgid "user-has-mugshot_help"
 msgstr ""
 
-#. Accomplishment: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad
+#.
+#. ENGLISH TRANSLATION: Registered on Launchpad
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/registered-on-launchpad.c:5
+#: ../accomplishments/registered-on-launchpad.c:9
 msgid "registered-on-launchpad_title"
 msgstr ""
 
-#. Accomplishment: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad
+#.
+#. ENGLISH TRANSLATION: Registered a Launchpad account
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/registered-on-launchpad.c:8
+#: ../accomplishments/registered-on-launchpad.c:16
 msgid "registered-on-launchpad_description"
 msgstr ""
 
-#. Accomplishment: Registered on Launchpad
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/registered-on-launchpad.c:13
+#: ../accomplishments/registered-on-launchpad.c:26
 msgid "registered-on-launchpad_summary"
 msgstr ""
 
-#. Accomplishment: Registered on Launchpad
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/registered-on-launchpad.c:18
+#: ../accomplishments/registered-on-launchpad.c:37
 msgid "registered-on-launchpad_steps"
 msgstr ""
 
-#. Accomplishment: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad
+#.
+#. ENGLISH TRANSLATION: http://www.launchpad.net
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/registered-on-launchpad.c:23
+#: ../accomplishments/registered-on-launchpad.c:46
 msgid "registered-on-launchpad_links"
 msgstr ""
 
-#. Accomplishment: Registered on Launchpad
+#. ACCOMPLISHMENT: Registered on Launchpad
+#.
+#. ENGLISH TRANSLATION: #launchpad on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/registered-on-launchpad.c:28
+#: ../accomplishments/registered-on-launchpad.c:55
 msgid "registered-on-launchpad_help"
 msgstr ""
 
-#. Accomplishment: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#.
+#. ENGLISH TRANSLATION: Filed Bug that was Confirmed
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/first-bug-confirmed.c:5
+#: ../accomplishments/first-bug-confirmed.c:9
 msgid "first-bug-confirmed_title"
 msgstr ""
 
-#. Accomplishment: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#.
+#. ENGLISH TRANSLATION: Filed a bug in Ubuntu that was confirmed by someone else
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/first-bug-confirmed.c:8
+#: ../accomplishments/first-bug-confirmed.c:16
 msgid "first-bug-confirmed_description"
 msgstr ""
 
-#. Accomplishment: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#.
+#. ENGLISH TRANSLATION: A bug is a defect in a piece of software. Filing bugs is a great way to help improve Ubuntu and in order for the bug to be fixed, someone else needs to be able to reproduce and confirm it. The more detailed and precise your bug report is, the most likely it is that it can be reproduced by someone else. This achievement reflects that at least one of your bug reports was of good quality and was confirmed by someone else.
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-bug-confirmed.c:13
+#: ../accomplishments/first-bug-confirmed.c:25
 msgid "first-bug-confirmed_summary"
 msgstr ""
 
-#. Accomplishment: Filed Bug that was Confirmed
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-bug-confirmed.c:18
+#: ../accomplishments/first-bug-confirmed.c:39
 msgid "first-bug-confirmed_steps"
 msgstr ""
 
-#. Accomplishment: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#.
+#. ENGLISH TRANSLATION: http://www.ubuntu.com
+#. help.ubuntu.com/community/ReportingBugs
+#. www.chiark.greenend.org.uk/~sgtatham/bugs.html
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/first-bug-confirmed.c:23
+#: ../accomplishments/first-bug-confirmed.c:50
 msgid "first-bug-confirmed_links"
 msgstr ""
 
-#. Accomplishment: Filed Bug that was Confirmed
+#. ACCOMPLISHMENT: Filed Bug that was Confirmed
+#.
+#. ENGLISH TRANSLATION: #ubuntu-testing on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-bug-confirmed.c:28
+#: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_help"
 msgstr ""
 
-#. Accomplishment: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer
+#.
+#. ENGLISH TRANSLATION: Juju Charm Reviewer
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/juju-charm-reviewer.c:5
+#: ../accomplishments/juju-charm-reviewer.c:9
 msgid "juju-charm-reviewer_title"
 msgstr ""
 
-#. Accomplishment: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer
+#.
+#. ENGLISH TRANSLATION: You contribute Juju charms to Ubuntu.
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/juju-charm-reviewer.c:8
+#: ../accomplishments/juju-charm-reviewer.c:16
 msgid "juju-charm-reviewer_description"
 msgstr ""
 
-#. Accomplishment: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer
+#.
+#. ENGLISH TRANSLATION: Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-reviewer.c:13
+#: ../accomplishments/juju-charm-reviewer.c:25
 msgid "juju-charm-reviewer_summary"
 msgstr ""
 
-#. Accomplishment: Juju Charm Reviewer
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-reviewer.c:18
+#: ../accomplishments/juju-charm-reviewer.c:36
 msgid "juju-charm-reviewer_steps"
 msgstr ""
 
-#. Accomplishment: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer
+#.
+#. ENGLISH TRANSLATION: http://juju.ubuntu.com
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/juju-charm-reviewer.c:23
+#: ../accomplishments/juju-charm-reviewer.c:45
 msgid "juju-charm-reviewer_links"
 msgstr ""
 
-#. Accomplishment: Juju Charm Reviewer
+#. ACCOMPLISHMENT: Juju Charm Reviewer
+#.
+#. ENGLISH TRANSLATION: #juju on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-reviewer.c:28
+#: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_help"
 msgstr ""
 
-#. Accomplishment: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer
+#.
+#. ENGLISH TRANSLATION: Ubuntu Core Developer
+#.
+#. DESCRIPTION:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/core-dev.c:5
+#: ../accomplishments/core-dev.c:9
 msgid "core-dev_title"
 msgstr ""
 
-#. Accomplishment: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer
+#.
+#. ENGLISH TRANSLATION: You are an Ubuntu Core Developer
+#.
+#. DESCRIPTION:
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/core-dev.c:8
+#: ../accomplishments/core-dev.c:16
 msgid "core-dev_description"
 msgstr ""
 
-#. Accomplishment: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer
+#.
+#. ENGLISH TRANSLATION: An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
+#.
+#. DESCRIPTION:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/core-dev.c:13
+#: ../accomplishments/core-dev.c:25
 msgid "core-dev_summary"
 msgstr ""
 
-#. Accomplishment: Ubuntu Core Developer
+#.
+#. DESCRIPTION:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/core-dev.c:18
+#: ../accomplishments/core-dev.c:36
 msgid "core-dev_steps"
 msgstr ""
 
-#. Accomplishment: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer
+#.
+#. ENGLISH TRANSLATION: https://wiki.ubuntu.com/SponsorshipProcess
+#.
+#. DESCRIPTION:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/core-dev.c:23
+#: ../accomplishments/core-dev.c:45
 msgid "core-dev_links"
 msgstr ""
 
-#. Accomplishment: Ubuntu Core Developer
+#. ACCOMPLISHMENT: Ubuntu Core Developer
+#.
+#. ENGLISH TRANSLATION: #ubuntu-devel on Freenode
+#.
+#. DESCRIPTION:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/core-dev.c:28
+#: ../accomplishments/core-dev.c:54
 msgid "core-dev_help"
 msgstr ""

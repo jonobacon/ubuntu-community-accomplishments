@@ -38,8 +38,6 @@ translatedsections = [
         NOTE: Put each help resource on a new line\n \
         FORMATTING ALLOWED: <i> <strong> <tt>" }]
     
-print translatedsections
-
 generatedaccomplishmentsdir = "generated/accomplishments"
 podir = "generated/po"
 
@@ -58,20 +56,20 @@ for f in files:
     config.read(f)
     title = config.get("accomplishment", "title")
     items = config.items("accomplishment")
-    print "[accomplishment]\n"
     tempfile.write("[accomplishment]\n")
     for i in items:
+        print i
         for sec in translatedsections:
             if i[0] in sec.keys():
-                accomname = "// Accomplishment: " + title + "\n"
-                tempfile.write(accomname)
+                output = "// ACCOMPLISHMENT: " + title + "\n"
+                output = output + "//\n"
+                output = output + ("// ENGLISH TRANSLATION: " + config.get("accomplishment", i[0]) + "\n")
+                output = output + "//\n"
+                output = output + "// DESCRIPTION: \n"
                 for c in sec.values()[0].split("\n"):
-                    #comment = "// " + sec.values()[0] + "\n"
-                    comment = "// " + c + "\n"
-                    tempfile.write(comment)
-                wr = "_(\"" + accomplishmentname + "_" + i[0] + "\")\n"
-                tempfile.write(wr)
-                print wr
+                    output = output + ("// " + c + "\n")
+                output = output + ("_(\"" + accomplishmentname + "_" + i[0] + "\")\n")
+                tempfile.write(output)
     tempfile.close()
 
     # write POTFILES.in
