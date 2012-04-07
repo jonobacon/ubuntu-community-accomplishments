@@ -1,7 +1,8 @@
 [accomplishment]
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
 //
-// ENGLISH TRANSLATION: Setting a mugshot in Launchpad profile
+// ENGLISH TRANSLATION: // Setting a mugshot in Launchpad profile
+
 //
 // DESCRIPTION: 
 // A short description of the accomplishment.
@@ -9,16 +10,18 @@
 _("user-has-mugshot_title")
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
 //
-// ENGLISH TRANSLATION: User has set a mugshot in his own Launchpad profile
+// ENGLISH TRANSLATION: // User has set a mugshot in his own Launchpad profile
+
 //
 // DESCRIPTION: 
 // At a descriptive single-line summary of the accomplishment.
 _("user-has-mugshot_description")
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
 //
-// ENGLISH TRANSLATION: A mugshot is an avatar image that the user can set in his Launchpad profile. It is nice when people can identify you just watching a picture of you.
-We advise you to choose a real picture of you (usually displaying only the face) or another avatar you really like. Please try to avoid picture with content that could offend someone else (e.g. adult content).
-The picture must be exactly <strong>192x192</strong> and big no more than <strong>100 Kb</strong>.
+// ENGLISH TRANSLATION: // A mugshot is an avatar image that the user can set in his Launchpad profile. It is nice when people can identify you just watching a picture of you.
+// We advise you to choose a real picture of you (usually displaying only the face) or another avatar you really like. Please try to avoid picture with content that could offend someone else (e.g. adult content).
+// The picture must be exactly <strong>192x192</strong> and big no more than <strong>100 Kb</strong>.
+
 //
 // DESCRIPTION: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -27,12 +30,13 @@ The picture must be exactly <strong>192x192</strong> and big no more than <stron
 _("user-has-mugshot_summary")
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
 //
-// ENGLISH TRANSLATION: Setting a mugshot is very simple.
-You must be logged on Launchpad.net website.
-Then he needs to go on your profile page that usually is http://launchpad.net/~YOURUSERNAME
-Click on the link "Change details".
-Be sure to have a 192x192 pixel piture to upload (.png or .jpg will be ok).
-Once the picture is uploaded, please click on "Save changes" button at the end of the page.
+// ENGLISH TRANSLATION: // Setting a mugshot is very simple.
+// You must be logged on Launchpad.net website.
+// Then he needs to go on your profile page that usually is http://launchpad.net/~YOURUSERNAME
+// Click on the link "Change details".
+// Be sure to have a 192x192 pixel piture to upload (.png or .jpg will be ok).
+// Once the picture is uploaded, please click on "Save changes" button at the end of the page.
+
 //
 // DESCRIPTION: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
@@ -41,7 +45,8 @@ Once the picture is uploaded, please click on "Save changes" button at the end o
 _("user-has-mugshot_steps")
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
 //
-// ENGLISH TRANSLATION: http://www.launchpad.net
+// ENGLISH TRANSLATION: // http://www.launchpad.net
+
 //
 // DESCRIPTION: 
 // Add related web addresses (don't include a HTML link).
@@ -50,7 +55,8 @@ _("user-has-mugshot_steps")
 _("user-has-mugshot_links")
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
 //
-// ENGLISH TRANSLATION: #launchpad on Freenode
+// ENGLISH TRANSLATION: // #launchpad on Freenode
+
 //
 // DESCRIPTION: 
 // Add related help resources (e.g. IRC channel names).

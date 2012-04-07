@@ -1,7 +1,8 @@
 [accomplishment]
 // ACCOMPLISHMENT: LoCo Team Member
 //
-// ENGLISH TRANSLATION: LoCo Team Member
+// ENGLISH TRANSLATION: // LoCo Team Member
+
 //
 // DESCRIPTION: 
 // A short description of the accomplishment.
@@ -9,14 +10,16 @@
 _("member-loco-team_title")
 // ACCOMPLISHMENT: LoCo Team Member
 //
-// ENGLISH TRANSLATION: You are a member of an Ubuntu LoCo Team
+// ENGLISH TRANSLATION: // You are a member of an Ubuntu LoCo Team
+
 //
 // DESCRIPTION: 
 // At a descriptive single-line summary of the accomplishment.
 _("member-loco-team_description")
 // ACCOMPLISHMENT: LoCo Team Member
 //
-// ENGLISH TRANSLATION: Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
+// ENGLISH TRANSLATION: // Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
+
 //
 // DESCRIPTION: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -25,8 +28,9 @@ _("member-loco-team_description")
 _("member-loco-team_summary")
 // ACCOMPLISHMENT: LoCo Team Member
 //
-// ENGLISH TRANSLATION: Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
-Visit that team's Launchpad page click the Join Team link.
+// ENGLISH TRANSLATION: // Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
+// Visit that team's Launchpad page click the Join Team link.
+
 //
 // DESCRIPTION: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
@@ -35,7 +39,8 @@ Visit that team's Launchpad page click the Join Team link.
 _("member-loco-team_steps")
 // ACCOMPLISHMENT: LoCo Team Member
 //
-// ENGLISH TRANSLATION: http://loco.ubuntu.com
+// ENGLISH TRANSLATION: // http://loco.ubuntu.com
+
 //
 // DESCRIPTION: 
 // Add related web addresses (don't include a HTML link).
@@ -44,8 +49,9 @@ _("member-loco-team_steps")
 _("member-loco-team_links")
 // ACCOMPLISHMENT: LoCo Team Member
 //
-// ENGLISH TRANSLATION: #ubuntu-locoteams on Freenode
-#ubuntu-community-team on Freenode
+// ENGLISH TRANSLATION: // #ubuntu-locoteams on Freenode
+// #ubuntu-community-team on Freenode
+
 //
 // DESCRIPTION: 
 // Add related help resources (e.g. IRC channel names).

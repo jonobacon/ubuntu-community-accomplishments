@@ -1,7 +1,8 @@
 [accomplishment]
 // ACCOMPLISHMENT: Juju Charm Contributor
 //
-// ENGLISH TRANSLATION: Juju Charm Contributor
+// ENGLISH TRANSLATION: // Juju Charm Contributor
+
 //
 // DESCRIPTION: 
 // A short description of the accomplishment.
@@ -9,14 +10,16 @@
 _("juju-charm-contributor_title")
 // ACCOMPLISHMENT: Juju Charm Contributor
 //
-// ENGLISH TRANSLATION: You contribute Juju charms to Ubuntu.
+// ENGLISH TRANSLATION: // You contribute Juju charms to Ubuntu.
+
 //
 // DESCRIPTION: 
 // At a descriptive single-line summary of the accomplishment.
 _("juju-charm-contributor_description")
 // ACCOMPLISHMENT: Juju Charm Contributor
 //
-// ENGLISH TRANSLATION: Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
+// ENGLISH TRANSLATION: // Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
+
 //
 // DESCRIPTION: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -25,9 +28,10 @@ _("juju-charm-contributor_description")
 _("juju-charm-contributor_summary")
 // ACCOMPLISHMENT: Juju Charm Contributor
 //
-// ENGLISH TRANSLATION: Contribute a number of Juju charms.
-Contribute regularly and to a high enough quality.
-Ask a member of the Juju Contributors team if you can join.
+// ENGLISH TRANSLATION: // Contribute a number of Juju charms.
+// Contribute regularly and to a high enough quality.
+// Ask a member of the Juju Contributors team if you can join.
+
 //
 // DESCRIPTION: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
@@ -36,7 +40,8 @@ Ask a member of the Juju Contributors team if you can join.
 _("juju-charm-contributor_steps")
 // ACCOMPLISHMENT: Juju Charm Contributor
 //
-// ENGLISH TRANSLATION: http://juju.ubuntu.com
+// ENGLISH TRANSLATION: // http://juju.ubuntu.com
+
 //
 // DESCRIPTION: 
 // Add related web addresses (don't include a HTML link).
@@ -45,7 +50,8 @@ _("juju-charm-contributor_steps")
 _("juju-charm-contributor_links")
 // ACCOMPLISHMENT: Juju Charm Contributor
 //
-// ENGLISH TRANSLATION: #juju on Freenode
+// ENGLISH TRANSLATION: // #juju on Freenode
+
 //
 // DESCRIPTION: 
 // Add related help resources (e.g. IRC channel names).

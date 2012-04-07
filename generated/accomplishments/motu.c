@@ -1,7 +1,8 @@
 [accomplishment]
 // ACCOMPLISHMENT: Ubuntu MOTU Developer
 //
-// ENGLISH TRANSLATION: Ubuntu MOTU Developer
+// ENGLISH TRANSLATION: // Ubuntu MOTU Developer
+
 //
 // DESCRIPTION: 
 // A short description of the accomplishment.
@@ -9,14 +10,16 @@
 _("motu_title")
 // ACCOMPLISHMENT: Ubuntu MOTU Developer
 //
-// ENGLISH TRANSLATION: You are an Ubuntu MOTU Developer
+// ENGLISH TRANSLATION: // You are an Ubuntu MOTU Developer
+
 //
 // DESCRIPTION: 
 // At a descriptive single-line summary of the accomplishment.
 _("motu_description")
 // ACCOMPLISHMENT: Ubuntu MOTU Developer
 //
-// ENGLISH TRANSLATION: An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
+// ENGLISH TRANSLATION: // An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
+
 //
 // DESCRIPTION: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -25,9 +28,10 @@ _("motu_description")
 _("motu_summary")
 // ACCOMPLISHMENT: Ubuntu MOTU Developer
 //
-// ENGLISH TRANSLATION: Contribute extensively to Ubuntu for a sustained period of time.
-Make use of the Ubuntu Sponsorship Queue to make your contributions.
-Apply to the Ubuntu Developer Board to be a MOTU developer.
+// ENGLISH TRANSLATION: // Contribute extensively to Ubuntu for a sustained period of time.
+// Make use of the Ubuntu Sponsorship Queue to make your contributions.
+// Apply to the Ubuntu Developer Board to be a MOTU developer.
+
 //
 // DESCRIPTION: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
@@ -36,9 +40,10 @@ Apply to the Ubuntu Developer Board to be a MOTU developer.
 _("motu_steps")
 // ACCOMPLISHMENT: Ubuntu MOTU Developer
 //
-// ENGLISH TRANSLATION: https://wiki.ubuntu.com/MOTU
-https://wiki.ubuntu.com/UbuntuDevelopment
-https://wiki.ubuntu.com/SponsorshipProcess
+// ENGLISH TRANSLATION: // https://wiki.ubuntu.com/MOTU
+// https://wiki.ubuntu.com/UbuntuDevelopment
+// https://wiki.ubuntu.com/SponsorshipProcess
+
 //
 // DESCRIPTION: 
 // Add related web addresses (don't include a HTML link).
@@ -47,7 +52,8 @@ https://wiki.ubuntu.com/SponsorshipProcess
 _("motu_links")
 // ACCOMPLISHMENT: Ubuntu MOTU Developer
 //
-// ENGLISH TRANSLATION: #ubuntu-devel on Freenode
+// ENGLISH TRANSLATION: // #ubuntu-devel on Freenode
+
 //
 // DESCRIPTION: 
 // Add related help resources (e.g. IRC channel names).

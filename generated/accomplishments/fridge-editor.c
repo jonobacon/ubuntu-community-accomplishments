@@ -1,7 +1,8 @@
 [accomplishment]
 // ACCOMPLISHMENT: Fridge Editor
 //
-// ENGLISH TRANSLATION: Fridge Editor
+// ENGLISH TRANSLATION: // Fridge Editor
+
 //
 // DESCRIPTION: 
 // A short description of the accomplishment.
@@ -9,15 +10,17 @@
 _("fridge-editor_title")
 // ACCOMPLISHMENT: Fridge Editor
 //
-// ENGLISH TRANSLATION: A member of the Fridge Editors team
+// ENGLISH TRANSLATION: // A member of the Fridge Editors team
+
 //
 // DESCRIPTION: 
 // At a descriptive single-line summary of the accomplishment.
 _("fridge-editor_description")
 // ACCOMPLISHMENT: Fridge Editor
 //
-// ENGLISH TRANSLATION: The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.
-The <i>Ubuntu Fridge Editors</i> are a team who produce and publish content to the site. To be a member of this team you need to be able to write well, write often, and be responsive to publishing new content and news.
+// ENGLISH TRANSLATION: // The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.
+// The <i>Ubuntu Fridge Editors</i> are a team who produce and publish content to the site. To be a member of this team you need to be able to write well, write often, and be responsive to publishing new content and news.
+
 //
 // DESCRIPTION: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -26,9 +29,10 @@ The <i>Ubuntu Fridge Editors</i> are a team who produce and publish content to t
 _("fridge-editor_summary")
 // ACCOMPLISHMENT: Fridge Editor
 //
-// ENGLISH TRANSLATION: Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, have good written English skills.  Individuals who are interested in becoming a member of the Ubuntu Fridge editors team should submit a few stories so the Editors Team can get to know you and offer guidance (if necessary).  Stories can be submitted to the news team through its IRC (Internet Chat Relay) Channel on Freenode (irc.freenode.net)-#ubuntu-news-- or can send an email to: ubuntu-news-team@lists.ubuntu.com (no subscription necessary). Additional information that all editors should be knowledgeable of can be found on the Fridge wiki page under Editors Guidelines.
-Write drafts for each of your ideas.
-Submit your content to the Fridge Editors.
+// ENGLISH TRANSLATION: // Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, have good written English skills.  Individuals who are interested in becoming a member of the Ubuntu Fridge editors team should submit a few stories so the Editors Team can get to know you and offer guidance (if necessary).  Stories can be submitted to the news team through its IRC (Internet Chat Relay) Channel on Freenode (irc.freenode.net)-#ubuntu-news-- or can send an email to: ubuntu-news-team@lists.ubuntu.com (no subscription necessary). Additional information that all editors should be knowledgeable of can be found on the Fridge wiki page under Editors Guidelines.
+// Write drafts for each of your ideas.
+// Submit your content to the Fridge Editors.
+
 //
 // DESCRIPTION: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
@@ -37,9 +41,10 @@ Submit your content to the Fridge Editors.
 _("fridge-editor_steps")
 // ACCOMPLISHMENT: Fridge Editor
 //
-// ENGLISH TRANSLATION: http://fridge.ubuntu.com
-https//wiki.ubuntu.com/Fridge
-https://launchpad.net/~ubuntu-fridge
+// ENGLISH TRANSLATION: // http://fridge.ubuntu.com
+// https//wiki.ubuntu.com/Fridge
+// https://launchpad.net/~ubuntu-fridge
+
 //
 // DESCRIPTION: 
 // Add related web addresses (don't include a HTML link).
@@ -48,8 +53,9 @@ https://launchpad.net/~ubuntu-fridge
 _("fridge-editor_links")
 // ACCOMPLISHMENT: Fridge Editor
 //
-// ENGLISH TRANSLATION: #ubuntu-community-team on Freenode
-#ubuntu-news on Freenode
+// ENGLISH TRANSLATION: // #ubuntu-community-team on Freenode
+// #ubuntu-news on Freenode
+
 //
 // DESCRIPTION: 
 // Add related help resources (e.g. IRC channel names).

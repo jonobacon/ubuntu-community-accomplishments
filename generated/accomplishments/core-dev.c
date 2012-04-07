@@ -1,7 +1,8 @@
 [accomplishment]
 // ACCOMPLISHMENT: Ubuntu Core Developer
 //
-// ENGLISH TRANSLATION: Ubuntu Core Developer
+// ENGLISH TRANSLATION: // Ubuntu Core Developer
+
 //
 // DESCRIPTION: 
 // A short description of the accomplishment.
@@ -9,14 +10,16 @@
 _("core-dev_title")
 // ACCOMPLISHMENT: Ubuntu Core Developer
 //
-// ENGLISH TRANSLATION: You are an Ubuntu Core Developer
+// ENGLISH TRANSLATION: // You are an Ubuntu Core Developer
+
 //
 // DESCRIPTION: 
 // At a descriptive single-line summary of the accomplishment.
 _("core-dev_description")
 // ACCOMPLISHMENT: Ubuntu Core Developer
 //
-// ENGLISH TRANSLATION: An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
+// ENGLISH TRANSLATION: // An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
+
 //
 // DESCRIPTION: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -25,9 +28,10 @@ _("core-dev_description")
 _("core-dev_summary")
 // ACCOMPLISHMENT: Ubuntu Core Developer
 //
-// ENGLISH TRANSLATION: Contribute extensively to Ubuntu for a sustained period of time.
-Make use of the Ubuntu Sponsorship Queue to make your contributions.
-Apply to the Ubuntu Developer Board to be a core developer.
+// ENGLISH TRANSLATION: // Contribute extensively to Ubuntu for a sustained period of time.
+// Make use of the Ubuntu Sponsorship Queue to make your contributions.
+// Apply to the Ubuntu Developer Board to be a core developer.
+
 //
 // DESCRIPTION: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
@@ -36,7 +40,8 @@ Apply to the Ubuntu Developer Board to be a core developer.
 _("core-dev_steps")
 // ACCOMPLISHMENT: Ubuntu Core Developer
 //
-// ENGLISH TRANSLATION: https://wiki.ubuntu.com/SponsorshipProcess
+// ENGLISH TRANSLATION: // https://wiki.ubuntu.com/SponsorshipProcess
+
 //
 // DESCRIPTION: 
 // Add related web addresses (don't include a HTML link).
@@ -45,7 +50,8 @@ _("core-dev_steps")
 _("core-dev_links")
 // ACCOMPLISHMENT: Ubuntu Core Developer
 //
-// ENGLISH TRANSLATION: #ubuntu-devel on Freenode
+// ENGLISH TRANSLATION: // #ubuntu-devel on Freenode
+
 //
 // DESCRIPTION: 
 // Add related help resources (e.g. IRC channel names).

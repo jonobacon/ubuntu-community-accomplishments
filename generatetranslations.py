@@ -4,8 +4,6 @@ from random import randint
 import ConfigParser
 import subprocess
 
-print "starting up"
-
 files = glob.glob("accomplishments/*/en/*")
 
 translatedsections = [
@@ -49,7 +47,10 @@ if not os.path.exists(podir):
     
 potfilesin = open(os.path.join(podir, "POTFILES.in"), "w")
 
+print "Processing files:"
+
 for f in files:
+    print "..." + str(f)
     accomplishmentname = os.path.split(f)[1].split(".")[0]
     tempfile = open(os.path.join(generatedaccomplishmentsdir, accomplishmentname + ".c"), "w")
     config = ConfigParser.RawConfigParser()
@@ -58,12 +59,16 @@ for f in files:
     items = config.items("accomplishment")
     tempfile.write("[accomplishment]\n")
     for i in items:
-        print i
         for sec in translatedsections:
             if i[0] in sec.keys():
                 output = "// ACCOMPLISHMENT: " + title + "\n"
                 output = output + "//\n"
-                output = output + ("// ENGLISH TRANSLATION: " + config.get("accomplishment", i[0]) + "\n")
+                origitemlines = config.get("accomplishment", i[0]).split("\n")
+                origitem = ""
+                for l in origitemlines:
+                    origitem = origitem + ("// " + l + "\n")
+
+                output = output + ("// ENGLISH TRANSLATION: " + origitem + "\n")
                 output = output + "//\n"
                 output = output + "// DESCRIPTION: \n"
                 for c in sec.values()[0].split("\n"):
@@ -78,5 +83,6 @@ for f in files:
 potfilesin.close()
 
 os.chdir(podir)
-print "generating POT file"
+print "Generating POT file"
 subprocess.call(["intltool-update", "-pot", "--gettext-package=template"])
+print "...done."
