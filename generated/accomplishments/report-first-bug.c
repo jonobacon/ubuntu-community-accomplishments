@@ -4,7 +4,7 @@
 // ENGLISH TRANSLATION: // Report First Bug
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("report-first-bug_title")
@@ -13,7 +13,7 @@ _("report-first-bug_title")
 // ENGLISH TRANSLATION: // You have reported your first bug in Ubuntu
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // At a descriptive single-line summary of the accomplishment.
 _("report-first-bug_description")
 // ACCOMPLISHMENT: Report First Bug
@@ -25,7 +25,7 @@ _("report-first-bug_description")
 // You can file a bug in a more graphical way by using the <i>Report a Problem</i> option in the <i>Help</i> menu of an application; this simply provides a graphical way of running <tt>ubuntu-bug</tt>.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -37,7 +37,7 @@ _("report-first-bug_summary")
 // Follow the instructions in Launchpad.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -49,7 +49,7 @@ _("report-first-bug_steps")
 // Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add tips and best practise for accomplishing this trophy.
 //          NOTE: Put each tip on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -60,7 +60,7 @@ _("report-first-bug_tips")
 // Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add things the user should not do when working to accomplish this trophy.
 //          NOTE: Put each pitfall on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -71,7 +71,7 @@ _("report-first-bug_pitfalls")
 // https://wiki.ubuntu.com/HelpingWithBugs
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
 // 
@@ -81,7 +81,7 @@ _("report-first-bug_links")
 // ENGLISH TRANSLATION: // #ubuntu-testing on Freenode
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related help resources (e.g. IRC channel names).
 //          NOTE: Put each help resource on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>

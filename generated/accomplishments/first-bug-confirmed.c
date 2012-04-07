@@ -4,7 +4,7 @@
 // ENGLISH TRANSLATION: // Filed Bug that was Confirmed
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("first-bug-confirmed_title")
@@ -13,7 +13,7 @@ _("first-bug-confirmed_title")
 // ENGLISH TRANSLATION: // Filed a bug in Ubuntu that was confirmed by someone else
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // At a descriptive single-line summary of the accomplishment.
 _("first-bug-confirmed_description")
 // ACCOMPLISHMENT: Filed Bug that was Confirmed
@@ -21,7 +21,7 @@ _("first-bug-confirmed_description")
 // ENGLISH TRANSLATION: // A bug is a defect in a piece of software. Filing bugs is a great way to help improve Ubuntu and in order for the bug to be fixed, someone else needs to be able to reproduce and confirm it. The more detailed and precise your bug report is, the most likely it is that it can be reproduced by someone else. This achievement reflects that at least one of your bug reports was of good quality and was confirmed by someone else.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -36,7 +36,7 @@ _("first-bug-confirmed_summary")
 // Any additional information you think can help diagnose the problem. For instance, if the application used to work and suddenly stopped working, specify when it started mis-behaving.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -48,7 +48,7 @@ _("first-bug-confirmed_steps")
 // http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
 // 
@@ -58,7 +58,7 @@ _("first-bug-confirmed_links")
 // ENGLISH TRANSLATION: // #ubuntu-testing on Freenode
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related help resources (e.g. IRC channel names).
 //          NOTE: Put each help resource on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>

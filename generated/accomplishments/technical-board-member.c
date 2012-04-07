@@ -4,7 +4,7 @@
 // ENGLISH TRANSLATION: // Technical Board Member
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("technical-board-member_title")
@@ -13,7 +13,7 @@ _("technical-board-member_title")
 // ENGLISH TRANSLATION: // You are a member of the Ubuntu Technical Board
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // At a descriptive single-line summary of the accomplishment.
 _("technical-board-member_description")
 // ACCOMPLISHMENT: Technical Board Member
@@ -22,7 +22,7 @@ _("technical-board-member_description")
 // To be a member of the Technical Board you need to have demonstrated a strong commitment and participation history in Ubuntu, strong technical skills and knowledge of the archive, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the board.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -34,7 +34,7 @@ _("technical-board-member_summary")
 // In the next Technical Board election propose yourself as a candidate.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -45,7 +45,7 @@ _("technical-board-member_steps")
 // http://www.ubuntu.com/project/about-ubuntu/governance
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
 // 
@@ -56,7 +56,7 @@ _("technical-board-member_links")
 // #ubuntu-community-team on Freenode
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related help resources (e.g. IRC channel names).
 //          NOTE: Put each help resource on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>

@@ -4,7 +4,7 @@
 // ENGLISH TRANSLATION: // Setting a mugshot in Launchpad profile
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("user-has-mugshot_title")
@@ -13,7 +13,7 @@ _("user-has-mugshot_title")
 // ENGLISH TRANSLATION: // User has set a mugshot in his own Launchpad profile
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // At a descriptive single-line summary of the accomplishment.
 _("user-has-mugshot_description")
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile
@@ -23,7 +23,7 @@ _("user-has-mugshot_description")
 // The picture must be exactly <strong>192x192</strong> and big no more than <strong>100 Kb</strong>.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -38,7 +38,7 @@ _("user-has-mugshot_summary")
 // Once the picture is uploaded, please click on "Save changes" button at the end of the page.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -48,7 +48,7 @@ _("user-has-mugshot_steps")
 // ENGLISH TRANSLATION: // http://www.launchpad.net
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
 // 
@@ -58,7 +58,7 @@ _("user-has-mugshot_links")
 // ENGLISH TRANSLATION: // #launchpad on Freenode
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related help resources (e.g. IRC channel names).
 //          NOTE: Put each help resource on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>

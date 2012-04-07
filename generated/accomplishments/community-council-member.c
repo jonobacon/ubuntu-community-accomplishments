@@ -4,7 +4,7 @@
 // ENGLISH TRANSLATION: // Community Council Member
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("community-council-member_title")
@@ -13,7 +13,7 @@ _("community-council-member_title")
 // ENGLISH TRANSLATION: // You are a member of the Community Council
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // At a descriptive single-line summary of the accomplishment.
 _("community-council-member_description")
 // ACCOMPLISHMENT: Community Council Member
@@ -23,7 +23,7 @@ _("community-council-member_description")
 // Members of the Community Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -35,7 +35,7 @@ _("community-council-member_summary")
 // When the next Community Council election is announced, nominate yourself as a candidate.  Mark Shuttleworth, the Founder of Ubuntu, and also known as sabdfl (self-appointed bebevolent dictator for life) selects the canidates from the list of nominees and puts those forward to be voted on by current Ubuntu Members.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -47,7 +47,7 @@ _("community-council-member_steps")
 // Only apply to the Community Council when you have had a significant amount of experience in the community.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add tips and best practise for accomplishing this trophy.
 //          NOTE: Put each tip on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -58,7 +58,7 @@ _("community-council-member_tips")
 // Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add things the user should not do when working to accomplish this trophy.
 //          NOTE: Put each pitfall on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -70,7 +70,7 @@ _("community-council-member_pitfalls")
 // http://www.ubuntu.com/project/about-ubuntu/governance
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
 // 
@@ -80,7 +80,7 @@ _("community-council-member_links")
 // ENGLISH TRANSLATION: // #ubuntu-community-team on Freenode
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related help resources (e.g. IRC channel names).
 //          NOTE: Put each help resource on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>

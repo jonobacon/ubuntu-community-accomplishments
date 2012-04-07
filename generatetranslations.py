@@ -70,7 +70,7 @@ for f in files:
 
                 output = output + ("// ENGLISH TRANSLATION: " + origitem + "\n")
                 output = output + "//\n"
-                output = output + "// DESCRIPTION: \n"
+                output = output + "// TRANSLATION INSTRUCTIONS: \n"
                 for c in sec.values()[0].split("\n"):
                     output = output + ("// " + c + "\n")
                 output = output + ("_(\"" + accomplishmentname + "_" + i[0] + "\")\n")

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-06 19:50-0700\n"
+"POT-Creation-Date: 2012-04-06 19:56-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // LoCo Team Member
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/member-loco-team.c:10
@@ -32,7 +32,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You are a member of an Ubuntu LoCo Team
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/member-loco-team.c:18
 msgid "member-loco-team_description"
@@ -42,7 +42,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -55,7 +55,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
 #. Visit that team's Launchpad page click the Join Team link.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -67,7 +67,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // http://loco.ubuntu.com
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -80,7 +80,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // #ubuntu-locoteams on Freenode
 #. #ubuntu-community-team on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -92,7 +92,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Report First Bug
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/report-first-bug.c:10
@@ -103,7 +103,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You have reported your first bug in Ubuntu
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:18
 msgid "report-first-bug_description"
@@ -117,7 +117,7 @@ msgstr ""
 #. There are a few different ways in which you can file a bug, but we recommend you use a tool called <tt>ubuntu-bug</tt> that comes pre-installed on all Ubuntu systems. This tool helps gather up neccessary information that can be useful for the developer to find the source of the bug so they can resolve it.
 #. You can file a bug in a more graphical way by using the <i>Report a Problem</i> option in the <i>Help</i> menu of an application; this simply provides a graphical way of running <tt>ubuntu-bug</tt>.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -131,7 +131,7 @@ msgstr ""
 #. Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the instructions.
 #. Follow the instructions in Launchpad.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -145,7 +145,7 @@ msgstr ""
 #. If you know the steps involved to trigger the bug, include those steps in the bug description. This is called <i>reproducing the bug</i>.
 #. Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -158,7 +158,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
 #. Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -171,7 +171,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // https://help.ubuntu.com/community/ReportingBugs
 #. https://wiki.ubuntu.com/HelpingWithBugs
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -183,7 +183,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #ubuntu-testing on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -195,7 +195,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Fridge Editor
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/fridge-editor.c:10
@@ -206,7 +206,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // A member of the Fridge Editors team
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/fridge-editor.c:18
 msgid "fridge-editor_description"
@@ -217,7 +217,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.
 #. The <i>Ubuntu Fridge Editors</i> are a team who produce and publish content to the site. To be a member of this team you need to be able to write well, write often, and be responsive to publishing new content and news.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -231,7 +231,7 @@ msgstr ""
 #. Write drafts for each of your ideas.
 #. Submit your content to the Fridge Editors.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -245,7 +245,7 @@ msgstr ""
 #. https//wiki.ubuntu.com/Fridge
 #. https://launchpad.net/~ubuntu-fridge
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -258,7 +258,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // #ubuntu-community-team on Freenode
 #. #ubuntu-news on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -270,7 +270,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Signed Ubuntu Code Of Conduct
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/signed-code-of-conduct.c:10
@@ -281,7 +281,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You have signed the Ubuntu Code Of Conduct
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:18
 msgid "signed-code-of-conduct_description"
@@ -293,7 +293,7 @@ msgstr ""
 #. It includes expectations around being considerate, respectful, collaborative, how to ask for help, and how to step down when you become too busy.
 #. This trophy is awarded when you have agreed to abide by these expectations in the community and have signed the Ubuntu Code Of Conduct.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -310,7 +310,7 @@ msgstr ""
 #. Now open the file in the Text Editor.
 #. On the Ubuntu Code of Conduct page, click <i>Sign it!</i> then paste into the textbox. Click <i>Continue</i>. Congratulations, you've signed the Ubuntu Code of Conduct!
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -322,7 +322,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // http://www.ubuntu.com/project/about-ubuntu/conduct
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -335,7 +335,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // #ubuntu-locoteams on Freenode
 #. #ubuntu-community-team on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -347,7 +347,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Community Council Member
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/community-council-member.c:10
@@ -358,7 +358,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You are a member of the Community Council
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/community-council-member.c:18
 msgid "community-council-member_description"
@@ -370,7 +370,7 @@ msgstr ""
 #. The Community Council advises and decides on community policy and process. It is also an escalation body for incidents that occur elsewhere in the Ubuntu community.
 #. Members of the Community Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -384,7 +384,7 @@ msgstr ""
 #. Amend the wiki page that was created for Ubuntu Membership usually found on <tt>wiki.ubuntu.com</tt> that is up todate and outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
 #. When the next Community Council election is announced, nominate yourself as a candidate.  Mark Shuttleworth, the Founder of Ubuntu, and also known as sabdfl (self-appointed bebevolent dictator for life) selects the canidates from the list of nominees and puts those forward to be voted on by current Ubuntu Members.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -398,7 +398,7 @@ msgstr ""
 #. You should probably have led another team to develop and demonstrate your leadership capabilities before applying to be on the Community Council.
 #. Only apply to the Community Council when you have had a significant amount of experience in the community.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -411,7 +411,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // Don't apply to the Community Council just to be in a position of power.
 #. Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -425,7 +425,7 @@ msgstr ""
 #. https://wiki.ubuntu.com/CommunityCouncilAgenda
 #. http://www.ubuntu.com/project/about-ubuntu/governance
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -437,7 +437,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #ubuntu-community-team on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -449,7 +449,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Ubuntu MOTU Developer
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/motu.c:10
@@ -460,7 +460,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You are an Ubuntu MOTU Developer
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/motu.c:18
 msgid "motu_description"
@@ -470,7 +470,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -484,7 +484,7 @@ msgstr ""
 #. Make use of the Ubuntu Sponsorship Queue to make your contributions.
 #. Apply to the Ubuntu Developer Board to be a MOTU developer.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -498,7 +498,7 @@ msgstr ""
 #. https://wiki.ubuntu.com/UbuntuDevelopment
 #. https://wiki.ubuntu.com/SponsorshipProcess
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -510,7 +510,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #ubuntu-devel on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -522,7 +522,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // LoCo Council Member
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/loco-council-member.c:10
@@ -533,7 +533,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Youy are a member of the LoCo Council
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/loco-council-member.c:18
 msgid "loco-council-member_description"
@@ -545,7 +545,7 @@ msgstr ""
 #. The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally.
 #. To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -559,7 +559,7 @@ msgstr ""
 #. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
 #. In the next LoCo Council election propose yourself as a candidate.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -573,7 +573,7 @@ msgstr ""
 #. https://wiki.ubuntu.com/LoCoCouncilAgenda
 #. http://www.ubuntu.com/project/about-ubuntu/governance
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -586,7 +586,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // #ubuntu-community-team on Freenode
 #. #ubuntu-locoteams on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -598,7 +598,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Approved Ubuntu Member
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-member.c:10
@@ -609,7 +609,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You are an Approved Ubuntu Member
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:18
 msgid "ubuntu-member_description"
@@ -621,7 +621,7 @@ msgstr ""
 #. Each Ubuntu Member is seen as a reliable and dependable contributor to Ubuntu who has contributed to further and improve Ubuntu.
 #. Importantly, Ubuntu Membership does not require any specific skill; great contributions in development, documentation, translations, advocacy, support, art, design, and many other areas are all worthy of membership.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -636,7 +636,7 @@ msgstr ""
 #. Ask your fellow community members to contribute testimonials of your contributions.
 #. Schedule yourself for review at a regional membership board, IRC council, Forums council, or developer membership board meeting to review your contributions. You can find the nearest board using the links below.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -649,7 +649,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // http://wiki.ubuntu.com/Membership
 #. https://wiki.ubuntu.com/Membership/RegionalBoards
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -661,7 +661,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #ubuntu-community-team on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -673,7 +673,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Technical Board Member
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/technical-board-member.c:10
@@ -684,7 +684,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You are a member of the Ubuntu Technical Board
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/technical-board-member.c:18
 msgid "technical-board-member_description"
@@ -695,7 +695,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // The Ubuntu Technical Board is one of the most important governing boards in the Ubuntu community. The Technical Board advises and decides on technical policy and process as well as acting as an escalation body for incidents that occur elsewhere in the community.
 #. To be a member of the Technical Board you need to have demonstrated a strong commitment and participation history in Ubuntu, strong technical skills and knowledge of the archive, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the board.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -709,7 +709,7 @@ msgstr ""
 #. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
 #. In the next Technical Board election propose yourself as a candidate.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -722,7 +722,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // https://wiki.ubuntu.com/TechnicalBoard
 #. http://www.ubuntu.com/project/about-ubuntu/governance
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -735,7 +735,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // #ubuntu-devel-team on Freenode
 #. #ubuntu-community-team on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -747,7 +747,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Juju Charm Contributor
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-contributor.c:10
@@ -758,7 +758,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You contribute Juju charms to Ubuntu.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:18
 msgid "juju-charm-contributor_description"
@@ -768,7 +768,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -782,7 +782,7 @@ msgstr ""
 #. Contribute regularly and to a high enough quality.
 #. Ask a member of the Juju Contributors team if you can join.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -794,7 +794,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // http://juju.ubuntu.com
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -806,7 +806,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #juju on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -818,7 +818,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Setting a mugshot in Launchpad profile
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/user-has-mugshot.c:10
@@ -829,7 +829,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // User has set a mugshot in his own Launchpad profile
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/user-has-mugshot.c:18
 msgid "user-has-mugshot_description"
@@ -841,7 +841,7 @@ msgstr ""
 #. We advise you to choose a real picture of you (usually displaying only the face) or another avatar you really like. Please try to avoid picture with content that could offend someone else (e.g. adult content).
 #. The picture must be exactly <strong>192x192</strong> and big no more than <strong>100 Kb</strong>.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -858,7 +858,7 @@ msgstr ""
 #. Be sure to have a 192x192 pixel piture to upload (.png or .jpg will be ok).
 #. Once the picture is uploaded, please click on "Save changes" button at the end of the page.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -870,7 +870,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // http://www.launchpad.net
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -882,7 +882,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #launchpad on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -894,7 +894,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Registered on Launchpad
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/registered-on-launchpad.c:10
@@ -905,7 +905,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Registered a Launchpad account
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/registered-on-launchpad.c:18
 msgid "registered-on-launchpad_description"
@@ -916,7 +916,7 @@ msgstr ""
 #. ENGLISH TRANSLATION: // Launchpad is a website in which we do much of our work in Ubuntu. There we build packages, file and fix bugs, perform translations, manage code, and other activities.
 #. You will need to register an account with Launchpad to participate in much of the Ubuntu community. Fortunately, registering is simple, safe, and free.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -930,7 +930,7 @@ msgstr ""
 #. In your web browser go to <tt>http://www.launchpad.net</tt>.
 #. Click the <i>Register</i> link in the corner of the screen to register.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -942,7 +942,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // http://www.launchpad.net
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -954,7 +954,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #launchpad on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -966,7 +966,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Filed Bug that was Confirmed
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-bug-confirmed.c:10
@@ -977,7 +977,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Filed a bug in Ubuntu that was confirmed by someone else
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-bug-confirmed.c:18
 msgid "first-bug-confirmed_description"
@@ -987,7 +987,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // A bug is a defect in a piece of software. Filing bugs is a great way to help improve Ubuntu and in order for the bug to be fixed, someone else needs to be able to reproduce and confirm it. The more detailed and precise your bug report is, the most likely it is that it can be reproduced by someone else. This achievement reflects that at least one of your bug reports was of good quality and was confirmed by someone else.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -1004,7 +1004,7 @@ msgstr ""
 #. A description of what you expected the application to do instead. This is an important piece of information: sometimes, what the application does is what the developers expected it to do and they didn't realise it would cause you problems so describing what you expect is helpful to understand the defect.
 #. Any additional information you think can help diagnose the problem. For instance, if the application used to work and suddenly stopped working, specify when it started mis-behaving.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -1018,7 +1018,7 @@ msgstr ""
 #. https://help.ubuntu.com/community/ReportingBugs
 #. http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -1030,7 +1030,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #ubuntu-testing on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -1042,7 +1042,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Juju Charm Reviewer
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-reviewer.c:10
@@ -1053,7 +1053,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You contribute Juju charms to Ubuntu.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:18
 msgid "juju-charm-reviewer_description"
@@ -1063,7 +1063,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -1077,7 +1077,7 @@ msgstr ""
 #. Contribute regularly and to a high enough quality.
 #. Ask a member of the Juju Reviews team if you can join.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -1089,7 +1089,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // http://juju.ubuntu.com
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -1101,7 +1101,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #juju on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -1113,7 +1113,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // Ubuntu Core Developer
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/core-dev.c:10
@@ -1124,7 +1124,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // You are an Ubuntu Core Developer
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. At a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/core-dev.c:18
 msgid "core-dev_description"
@@ -1134,7 +1134,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -1148,7 +1148,7 @@ msgstr ""
 #. Make use of the Ubuntu Sponsorship Queue to make your contributions.
 #. Apply to the Ubuntu Developer Board to be a core developer.
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
@@ -1160,7 +1160,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // https://wiki.ubuntu.com/SponsorshipProcess
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
@@ -1172,7 +1172,7 @@ msgstr ""
 #.
 #. ENGLISH TRANSLATION: // #ubuntu-devel on Freenode
 #.
-#. DESCRIPTION:
+#. TRANSLATION INSTRUCTIONS:
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>

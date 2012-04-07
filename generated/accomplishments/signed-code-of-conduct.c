@@ -4,7 +4,7 @@
 // ENGLISH TRANSLATION: // Signed Ubuntu Code Of Conduct
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("signed-code-of-conduct_title")
@@ -13,7 +13,7 @@ _("signed-code-of-conduct_title")
 // ENGLISH TRANSLATION: // You have signed the Ubuntu Code Of Conduct
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // At a descriptive single-line summary of the accomplishment.
 _("signed-code-of-conduct_description")
 // ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct
@@ -23,7 +23,7 @@ _("signed-code-of-conduct_description")
 // This trophy is awarded when you have agreed to abide by these expectations in the community and have signed the Ubuntu Code Of Conduct.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -38,7 +38,7 @@ _("signed-code-of-conduct_summary")
 // On the Ubuntu Code of Conduct page, click <i>Sign it!</i> then paste into the textbox. Click <i>Continue</i>. Congratulations, you've signed the Ubuntu Code of Conduct!
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -48,7 +48,7 @@ _("signed-code-of-conduct_steps")
 // ENGLISH TRANSLATION: // http://www.ubuntu.com/project/about-ubuntu/conduct
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
 // 
@@ -59,7 +59,7 @@ _("signed-code-of-conduct_links")
 // #ubuntu-community-team on Freenode
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related help resources (e.g. IRC channel names).
 //          NOTE: Put each help resource on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>

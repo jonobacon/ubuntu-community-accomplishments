@@ -4,7 +4,7 @@
 // ENGLISH TRANSLATION: // Fridge Editor
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // A short description of the accomplishment.
 //          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
 _("fridge-editor_title")
@@ -13,7 +13,7 @@ _("fridge-editor_title")
 // ENGLISH TRANSLATION: // A member of the Fridge Editors team
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // At a descriptive single-line summary of the accomplishment.
 _("fridge-editor_description")
 // ACCOMPLISHMENT: Fridge Editor
@@ -22,7 +22,7 @@ _("fridge-editor_description")
 // The <i>Ubuntu Fridge Editors</i> are a team who produce and publish content to the site. To be a member of this team you need to be able to write well, write often, and be responsive to publishing new content and news.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 //          NOTE: Break this into paragraphs by putting each paragraph on a new line. 
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -34,7 +34,7 @@ _("fridge-editor_summary")
 // Submit your content to the Fridge Editors.
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add a series of step-by-step instructions for how to accomplish this trophy.
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
@@ -46,7 +46,7 @@ _("fridge-editor_steps")
 // https://launchpad.net/~ubuntu-fridge
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
 // 
@@ -57,7 +57,7 @@ _("fridge-editor_links")
 // #ubuntu-news on Freenode
 
 //
-// DESCRIPTION: 
+// TRANSLATION INSTRUCTIONS: 
 // Add related help resources (e.g. IRC channel names).
 //          NOTE: Put each help resource on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
