@@ -16,7 +16,7 @@ _("motu_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("motu_description")
 // ACCOMPLISHMENT: Ubuntu MOTU Developer ('summary' field)
 // .

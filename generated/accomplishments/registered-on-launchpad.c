@@ -16,7 +16,7 @@ _("registered-on-launchpad_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("registered-on-launchpad_description")
 // ACCOMPLISHMENT: Registered on Launchpad ('summary' field)
 // .

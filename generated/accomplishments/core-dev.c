@@ -16,7 +16,7 @@ _("core-dev_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("core-dev_description")
 // ACCOMPLISHMENT: Ubuntu Core Developer ('summary' field)
 // .

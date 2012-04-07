@@ -16,7 +16,7 @@ _("technical-board-member_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("technical-board-member_description")
 // ACCOMPLISHMENT: Technical Board Member ('summary' field)
 // .

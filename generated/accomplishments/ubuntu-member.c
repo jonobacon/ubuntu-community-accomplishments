@@ -16,7 +16,7 @@ _("ubuntu-member_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("ubuntu-member_description")
 // ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 // .

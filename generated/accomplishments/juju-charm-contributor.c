@@ -16,7 +16,7 @@ _("juju-charm-contributor_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("juju-charm-contributor_description")
 // ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 // .

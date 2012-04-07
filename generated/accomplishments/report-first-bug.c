@@ -16,7 +16,7 @@ _("report-first-bug_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("report-first-bug_description")
 // ACCOMPLISHMENT: Report First Bug ('summary' field)
 // .

@@ -16,7 +16,7 @@ _("user-has-mugshot_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("user-has-mugshot_description")
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
 // .

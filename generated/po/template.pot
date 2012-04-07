@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-07 14:10-0700\n"
+"POT-Creation-Date: 2012-04-07 14:12-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,7 +35,7 @@ msgstr ""
 #. You are a member of an Ubuntu LoCo Team
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/member-loco-team.c:20
 msgid "member-loco-team_description"
 msgstr ""
@@ -112,7 +112,7 @@ msgstr ""
 #. You have reported your first bug in Ubuntu
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
 msgstr ""
@@ -223,7 +223,7 @@ msgstr ""
 #. A member of the Fridge Editors team
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/fridge-editor.c:20
 msgid "fridge-editor_description"
 msgstr ""
@@ -304,7 +304,7 @@ msgstr ""
 #. You have signed the Ubuntu Code Of Conduct
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
 msgid "signed-code-of-conduct_description"
 msgstr ""
@@ -387,7 +387,7 @@ msgstr ""
 #. You are a member of the Community Council
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/community-council-member.c:20
 msgid "community-council-member_description"
 msgstr ""
@@ -497,7 +497,7 @@ msgstr ""
 #. You are an Ubuntu MOTU Developer
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/motu.c:20
 msgid "motu_description"
 msgstr ""
@@ -576,7 +576,7 @@ msgstr ""
 #. Youy are a member of the LoCo Council
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/loco-council-member.c:20
 msgid "loco-council-member_description"
 msgstr ""
@@ -658,7 +658,7 @@ msgstr ""
 #. You are an Approved Ubuntu Member
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:20
 msgid "ubuntu-member_description"
 msgstr ""
@@ -739,7 +739,7 @@ msgstr ""
 #. You are a member of the Ubuntu Technical Board
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/technical-board-member.c:20
 msgid "technical-board-member_description"
 msgstr ""
@@ -819,7 +819,7 @@ msgstr ""
 #. You contribute Juju charms to Ubuntu.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
 msgid "juju-charm-contributor_description"
 msgstr ""
@@ -896,7 +896,7 @@ msgstr ""
 #. User has set a mugshot in his own Launchpad profile
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/user-has-mugshot.c:20
 msgid "user-has-mugshot_description"
 msgstr ""
@@ -978,7 +978,7 @@ msgstr ""
 #. Registered a Launchpad account
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/registered-on-launchpad.c:20
 msgid "registered-on-launchpad_description"
 msgstr ""
@@ -1056,7 +1056,7 @@ msgstr ""
 #. Filed a bug in Ubuntu that was confirmed by someone else
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-bug-confirmed.c:20
 msgid "first-bug-confirmed_description"
 msgstr ""
@@ -1138,7 +1138,7 @@ msgstr ""
 #. You contribute Juju charms to Ubuntu.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
 msgstr ""
@@ -1215,7 +1215,7 @@ msgstr ""
 #. You are an Ubuntu Core Developer
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
-#. At a descriptive single-line summary of the accomplishment.
+#. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/core-dev.c:20
 msgid "core-dev_description"
 msgstr ""

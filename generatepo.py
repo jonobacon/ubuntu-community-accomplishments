@@ -11,7 +11,7 @@ translatedsections = [
         "A short description of the accomplishment.\n \
         NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). " },
     { "description" :
-        "At a descriptive single-line summary of the accomplishment." },
+        "Add a descriptive single-line summary of the accomplishment." },
     { "summary" :
         "Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.\n \
         NOTE: Break this into paragraphs by putting each paragraph on a new line. \n \

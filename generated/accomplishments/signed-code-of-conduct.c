@@ -16,7 +16,7 @@ _("signed-code-of-conduct_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("signed-code-of-conduct_description")
 // ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 // .

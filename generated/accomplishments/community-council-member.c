@@ -16,7 +16,7 @@ _("community-council-member_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("community-council-member_description")
 // ACCOMPLISHMENT: Community Council Member ('summary' field)
 // .

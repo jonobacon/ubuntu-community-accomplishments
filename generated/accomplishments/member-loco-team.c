@@ -16,7 +16,7 @@ _("member-loco-team_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("member-loco-team_description")
 // ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 // .

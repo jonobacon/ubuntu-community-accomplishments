@@ -16,7 +16,7 @@ _("loco-council-member_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("loco-council-member_description")
 // ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 // .

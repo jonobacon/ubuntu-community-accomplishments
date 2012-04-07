@@ -16,7 +16,7 @@ _("first-bug-confirmed_title")
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
-// At a descriptive single-line summary of the accomplishment.
+// Add a descriptive single-line summary of the accomplishment.
 _("first-bug-confirmed_description")
 // ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 // .
