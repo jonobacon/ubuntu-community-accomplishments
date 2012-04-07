@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Report First Bug
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("report-first-bug_title")
+// Accomplishment: Report First Bug
 // At a descriptive single-line summary of the accomplishment.
 _("report-first-bug_description")
 // Accomplishment: Report First Bug

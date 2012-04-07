@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Registered on Launchpad
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("registered-on-launchpad_title")
+// Accomplishment: Registered on Launchpad
 // At a descriptive single-line summary of the accomplishment.
 _("registered-on-launchpad_description")
 // Accomplishment: Registered on Launchpad

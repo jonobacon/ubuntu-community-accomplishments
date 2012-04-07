@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Signed Ubuntu Code Of Conduct
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("signed-code-of-conduct_title")
+// Accomplishment: Signed Ubuntu Code Of Conduct
 // At a descriptive single-line summary of the accomplishment.
 _("signed-code-of-conduct_description")
 // Accomplishment: Signed Ubuntu Code Of Conduct

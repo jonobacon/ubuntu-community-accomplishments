@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Fridge Editor
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("fridge-editor_title")
+// Accomplishment: Fridge Editor
 // At a descriptive single-line summary of the accomplishment.
 _("fridge-editor_description")
 // Accomplishment: Fridge Editor

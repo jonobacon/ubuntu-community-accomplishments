@@ -9,6 +9,9 @@ print "starting up"
 files = glob.glob("accomplishments/*/en/*")
 
 translatedsections = [
+    { "title" :
+        "A short description of the accomplishment.\n \
+        NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). " },
     { "description" :
         "At a descriptive single-line summary of the accomplishment." },
     { "summary" :

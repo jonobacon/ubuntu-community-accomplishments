@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Ubuntu MOTU Developer
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("motu_title")
+// Accomplishment: Ubuntu MOTU Developer
 // At a descriptive single-line summary of the accomplishment.
 _("motu_description")
 // Accomplishment: Ubuntu MOTU Developer

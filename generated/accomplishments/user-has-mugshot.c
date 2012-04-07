@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Setting a mugshot in Launchpad profile
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("user-has-mugshot_title")
+// Accomplishment: Setting a mugshot in Launchpad profile
 // At a descriptive single-line summary of the accomplishment.
 _("user-has-mugshot_description")
 // Accomplishment: Setting a mugshot in Launchpad profile

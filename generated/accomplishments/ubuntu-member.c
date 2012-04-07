@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Approved Ubuntu Member
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("ubuntu-member_title")
+// Accomplishment: Approved Ubuntu Member
 // At a descriptive single-line summary of the accomplishment.
 _("ubuntu-member_description")
 // Accomplishment: Approved Ubuntu Member

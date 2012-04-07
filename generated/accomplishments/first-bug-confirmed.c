@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Filed Bug that was Confirmed
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("first-bug-confirmed_title")
+// Accomplishment: Filed Bug that was Confirmed
 // At a descriptive single-line summary of the accomplishment.
 _("first-bug-confirmed_description")
 // Accomplishment: Filed Bug that was Confirmed

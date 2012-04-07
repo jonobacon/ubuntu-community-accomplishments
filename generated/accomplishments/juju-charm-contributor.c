@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Juju Charm Contributor
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("juju-charm-contributor_title")
+// Accomplishment: Juju Charm Contributor
 // At a descriptive single-line summary of the accomplishment.
 _("juju-charm-contributor_description")
 // Accomplishment: Juju Charm Contributor

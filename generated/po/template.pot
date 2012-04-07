@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-06 15:20-0700\n"
+"POT-Creation-Date: 2012-04-06 18:13-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,8 +18,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. Accomplishment: LoCo Team Member
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/member-loco-team.c:5
+msgid "member-loco-team_title"
+msgstr ""
+
+#. Accomplishment: LoCo Team Member
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/member-loco-team.c:4
+#: ../accomplishments/member-loco-team.c:8
 msgid "member-loco-team_description"
 msgstr ""
 
@@ -27,7 +34,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:9
+#: ../accomplishments/member-loco-team.c:13
 msgid "member-loco-team_summary"
 msgstr ""
 
@@ -35,7 +42,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:14
+#: ../accomplishments/member-loco-team.c:18
 msgid "member-loco-team_steps"
 msgstr ""
 
@@ -43,7 +50,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/member-loco-team.c:19
+#: ../accomplishments/member-loco-team.c:23
 msgid "member-loco-team_links"
 msgstr ""
 
@@ -51,13 +58,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:24
+#: ../accomplishments/member-loco-team.c:28
 msgid "member-loco-team_help"
 msgstr ""
 
 #. Accomplishment: Report First Bug
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/report-first-bug.c:5
+msgid "report-first-bug_title"
+msgstr ""
+
+#. Accomplishment: Report First Bug
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/report-first-bug.c:4
+#: ../accomplishments/report-first-bug.c:8
 msgid "report-first-bug_description"
 msgstr ""
 
@@ -65,7 +79,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:9
+#: ../accomplishments/report-first-bug.c:13
 msgid "report-first-bug_summary"
 msgstr ""
 
@@ -73,7 +87,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:14
+#: ../accomplishments/report-first-bug.c:18
 msgid "report-first-bug_steps"
 msgstr ""
 
@@ -81,7 +95,7 @@ msgstr ""
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:19
+#: ../accomplishments/report-first-bug.c:23
 msgid "report-first-bug_tips"
 msgstr ""
 
@@ -89,7 +103,7 @@ msgstr ""
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:24
+#: ../accomplishments/report-first-bug.c:28
 msgid "report-first-bug_pitfalls"
 msgstr ""
 
@@ -97,7 +111,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/report-first-bug.c:29
+#: ../accomplishments/report-first-bug.c:33
 msgid "report-first-bug_links"
 msgstr ""
 
@@ -105,13 +119,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:34
+#: ../accomplishments/report-first-bug.c:38
 msgid "report-first-bug_help"
 msgstr ""
 
 #. Accomplishment: Fridge Editor
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/fridge-editor.c:5
+msgid "fridge-editor_title"
+msgstr ""
+
+#. Accomplishment: Fridge Editor
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/fridge-editor.c:4
+#: ../accomplishments/fridge-editor.c:8
 msgid "fridge-editor_description"
 msgstr ""
 
@@ -119,7 +140,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/fridge-editor.c:9
+#: ../accomplishments/fridge-editor.c:13
 msgid "fridge-editor_summary"
 msgstr ""
 
@@ -127,7 +148,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/fridge-editor.c:14
+#: ../accomplishments/fridge-editor.c:18
 msgid "fridge-editor_steps"
 msgstr ""
 
@@ -135,7 +156,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/fridge-editor.c:19
+#: ../accomplishments/fridge-editor.c:23
 msgid "fridge-editor_links"
 msgstr ""
 
@@ -143,13 +164,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/fridge-editor.c:24
+#: ../accomplishments/fridge-editor.c:28
 msgid "fridge-editor_help"
 msgstr ""
 
 #. Accomplishment: Signed Ubuntu Code Of Conduct
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/signed-code-of-conduct.c:5
+msgid "signed-code-of-conduct_title"
+msgstr ""
+
+#. Accomplishment: Signed Ubuntu Code Of Conduct
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/signed-code-of-conduct.c:4
+#: ../accomplishments/signed-code-of-conduct.c:8
 msgid "signed-code-of-conduct_description"
 msgstr ""
 
@@ -157,7 +185,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:9
+#: ../accomplishments/signed-code-of-conduct.c:13
 msgid "signed-code-of-conduct_summary"
 msgstr ""
 
@@ -165,7 +193,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:14
+#: ../accomplishments/signed-code-of-conduct.c:18
 msgid "signed-code-of-conduct_steps"
 msgstr ""
 
@@ -173,7 +201,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/signed-code-of-conduct.c:19
+#: ../accomplishments/signed-code-of-conduct.c:23
 msgid "signed-code-of-conduct_links"
 msgstr ""
 
@@ -181,13 +209,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:24
+#: ../accomplishments/signed-code-of-conduct.c:28
 msgid "signed-code-of-conduct_help"
 msgstr ""
 
 #. Accomplishment: Community Council Member
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/community-council-member.c:5
+msgid "community-council-member_title"
+msgstr ""
+
+#. Accomplishment: Community Council Member
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/community-council-member.c:4
+#: ../accomplishments/community-council-member.c:8
 msgid "community-council-member_description"
 msgstr ""
 
@@ -195,7 +230,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:9
+#: ../accomplishments/community-council-member.c:13
 msgid "community-council-member_summary"
 msgstr ""
 
@@ -203,7 +238,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:14
+#: ../accomplishments/community-council-member.c:18
 msgid "community-council-member_steps"
 msgstr ""
 
@@ -211,7 +246,7 @@ msgstr ""
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:19
+#: ../accomplishments/community-council-member.c:23
 msgid "community-council-member_tips"
 msgstr ""
 
@@ -219,7 +254,7 @@ msgstr ""
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:24
+#: ../accomplishments/community-council-member.c:28
 msgid "community-council-member_pitfalls"
 msgstr ""
 
@@ -227,7 +262,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/community-council-member.c:29
+#: ../accomplishments/community-council-member.c:33
 msgid "community-council-member_links"
 msgstr ""
 
@@ -235,13 +270,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:34
+#: ../accomplishments/community-council-member.c:38
 msgid "community-council-member_help"
 msgstr ""
 
 #. Accomplishment: Ubuntu MOTU Developer
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/motu.c:5
+msgid "motu_title"
+msgstr ""
+
+#. Accomplishment: Ubuntu MOTU Developer
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/motu.c:4
+#: ../accomplishments/motu.c:8
 msgid "motu_description"
 msgstr ""
 
@@ -249,7 +291,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:9
+#: ../accomplishments/motu.c:13
 msgid "motu_summary"
 msgstr ""
 
@@ -257,7 +299,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:14
+#: ../accomplishments/motu.c:18
 msgid "motu_steps"
 msgstr ""
 
@@ -265,7 +307,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/motu.c:19
+#: ../accomplishments/motu.c:23
 msgid "motu_links"
 msgstr ""
 
@@ -273,13 +315,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:24
+#: ../accomplishments/motu.c:28
 msgid "motu_help"
 msgstr ""
 
 #. Accomplishment: LoCo Council Member
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/loco-council-member.c:5
+msgid "loco-council-member_title"
+msgstr ""
+
+#. Accomplishment: LoCo Council Member
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/loco-council-member.c:4
+#: ../accomplishments/loco-council-member.c:8
 msgid "loco-council-member_description"
 msgstr ""
 
@@ -287,7 +336,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:9
+#: ../accomplishments/loco-council-member.c:13
 msgid "loco-council-member_summary"
 msgstr ""
 
@@ -295,7 +344,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:14
+#: ../accomplishments/loco-council-member.c:18
 msgid "loco-council-member_steps"
 msgstr ""
 
@@ -303,7 +352,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/loco-council-member.c:19
+#: ../accomplishments/loco-council-member.c:23
 msgid "loco-council-member_links"
 msgstr ""
 
@@ -311,13 +360,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:24
+#: ../accomplishments/loco-council-member.c:28
 msgid "loco-council-member_help"
 msgstr ""
 
 #. Accomplishment: Approved Ubuntu Member
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-member.c:5
+msgid "ubuntu-member_title"
+msgstr ""
+
+#. Accomplishment: Approved Ubuntu Member
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-member.c:4
+#: ../accomplishments/ubuntu-member.c:8
 msgid "ubuntu-member_description"
 msgstr ""
 
@@ -325,7 +381,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:9
+#: ../accomplishments/ubuntu-member.c:13
 msgid "ubuntu-member_summary"
 msgstr ""
 
@@ -333,7 +389,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:14
+#: ../accomplishments/ubuntu-member.c:18
 msgid "ubuntu-member_steps"
 msgstr ""
 
@@ -341,7 +397,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/ubuntu-member.c:19
+#: ../accomplishments/ubuntu-member.c:23
 msgid "ubuntu-member_links"
 msgstr ""
 
@@ -349,13 +405,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:24
+#: ../accomplishments/ubuntu-member.c:28
 msgid "ubuntu-member_help"
 msgstr ""
 
 #. Accomplishment: Technical Board Member
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/technical-board-member.c:5
+msgid "technical-board-member_title"
+msgstr ""
+
+#. Accomplishment: Technical Board Member
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/technical-board-member.c:4
+#: ../accomplishments/technical-board-member.c:8
 msgid "technical-board-member_description"
 msgstr ""
 
@@ -363,7 +426,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:9
+#: ../accomplishments/technical-board-member.c:13
 msgid "technical-board-member_summary"
 msgstr ""
 
@@ -371,7 +434,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:14
+#: ../accomplishments/technical-board-member.c:18
 msgid "technical-board-member_steps"
 msgstr ""
 
@@ -379,7 +442,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/technical-board-member.c:19
+#: ../accomplishments/technical-board-member.c:23
 msgid "technical-board-member_links"
 msgstr ""
 
@@ -387,127 +450,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:24
+#: ../accomplishments/technical-board-member.c:28
 msgid "technical-board-member_help"
 msgstr ""
 
-#. Accomplishment: Setting a mugshot in Launchpad profile
-#. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/user-has-mugshot.c:4
-msgid "user-has-mugshot_description"
-msgstr ""
-
-#. Accomplishment: Setting a mugshot in Launchpad profile
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:9
-msgid "user-has-mugshot_summary"
-msgstr ""
-
-#. Accomplishment: Setting a mugshot in Launchpad profile
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:14
-msgid "user-has-mugshot_steps"
-msgstr ""
-
-#. Accomplishment: Setting a mugshot in Launchpad profile
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/user-has-mugshot.c:19
-msgid "user-has-mugshot_links"
-msgstr ""
-
-#. Accomplishment: Setting a mugshot in Launchpad profile
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:24
-msgid "user-has-mugshot_help"
-msgstr ""
-
-#. Accomplishment: Registered on Launchpad
-#. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/registered-on-launchpad.c:4
-msgid "registered-on-launchpad_description"
-msgstr ""
-
-#. Accomplishment: Registered on Launchpad
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/registered-on-launchpad.c:9
-msgid "registered-on-launchpad_summary"
-msgstr ""
-
-#. Accomplishment: Registered on Launchpad
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/registered-on-launchpad.c:14
-msgid "registered-on-launchpad_steps"
-msgstr ""
-
-#. Accomplishment: Registered on Launchpad
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/registered-on-launchpad.c:19
-msgid "registered-on-launchpad_links"
-msgstr ""
-
-#. Accomplishment: Registered on Launchpad
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/registered-on-launchpad.c:24
-msgid "registered-on-launchpad_help"
-msgstr ""
-
-#. Accomplishment: Filed Bug that was Confirmed
-#. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/first-bug-confirmed.c:4
-msgid "first-bug-confirmed_description"
-msgstr ""
-
-#. Accomplishment: Filed Bug that was Confirmed
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-bug-confirmed.c:9
-msgid "first-bug-confirmed_summary"
-msgstr ""
-
-#. Accomplishment: Filed Bug that was Confirmed
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-bug-confirmed.c:14
-msgid "first-bug-confirmed_steps"
-msgstr ""
-
-#. Accomplishment: Filed Bug that was Confirmed
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/first-bug-confirmed.c:19
-msgid "first-bug-confirmed_links"
-msgstr ""
-
-#. Accomplishment: Filed Bug that was Confirmed
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-bug-confirmed.c:24
-msgid "first-bug-confirmed_help"
+#. Accomplishment: Juju Charm Contributor
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/juju-charm-contributor.c:5
+msgid "juju-charm-contributor_title"
 msgstr ""
 
 #. Accomplishment: Juju Charm Contributor
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/juju-charm-contributor.c:4
+#: ../accomplishments/juju-charm-contributor.c:8
 msgid "juju-charm-contributor_description"
 msgstr ""
 
@@ -515,7 +471,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:9
+#: ../accomplishments/juju-charm-contributor.c:13
 msgid "juju-charm-contributor_summary"
 msgstr ""
 
@@ -523,7 +479,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:14
+#: ../accomplishments/juju-charm-contributor.c:18
 msgid "juju-charm-contributor_steps"
 msgstr ""
 
@@ -531,7 +487,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/juju-charm-contributor.c:19
+#: ../accomplishments/juju-charm-contributor.c:23
 msgid "juju-charm-contributor_links"
 msgstr ""
 
@@ -539,13 +495,155 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:24
+#: ../accomplishments/juju-charm-contributor.c:28
 msgid "juju-charm-contributor_help"
+msgstr ""
+
+#. Accomplishment: Setting a mugshot in Launchpad profile
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/user-has-mugshot.c:5
+msgid "user-has-mugshot_title"
+msgstr ""
+
+#. Accomplishment: Setting a mugshot in Launchpad profile
+#. At a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/user-has-mugshot.c:8
+msgid "user-has-mugshot_description"
+msgstr ""
+
+#. Accomplishment: Setting a mugshot in Launchpad profile
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/user-has-mugshot.c:13
+msgid "user-has-mugshot_summary"
+msgstr ""
+
+#. Accomplishment: Setting a mugshot in Launchpad profile
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/user-has-mugshot.c:18
+msgid "user-has-mugshot_steps"
+msgstr ""
+
+#. Accomplishment: Setting a mugshot in Launchpad profile
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#.
+#: ../accomplishments/user-has-mugshot.c:23
+msgid "user-has-mugshot_links"
+msgstr ""
+
+#. Accomplishment: Setting a mugshot in Launchpad profile
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/user-has-mugshot.c:28
+msgid "user-has-mugshot_help"
+msgstr ""
+
+#. Accomplishment: Registered on Launchpad
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/registered-on-launchpad.c:5
+msgid "registered-on-launchpad_title"
+msgstr ""
+
+#. Accomplishment: Registered on Launchpad
+#. At a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/registered-on-launchpad.c:8
+msgid "registered-on-launchpad_description"
+msgstr ""
+
+#. Accomplishment: Registered on Launchpad
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/registered-on-launchpad.c:13
+msgid "registered-on-launchpad_summary"
+msgstr ""
+
+#. Accomplishment: Registered on Launchpad
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/registered-on-launchpad.c:18
+msgid "registered-on-launchpad_steps"
+msgstr ""
+
+#. Accomplishment: Registered on Launchpad
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#.
+#: ../accomplishments/registered-on-launchpad.c:23
+msgid "registered-on-launchpad_links"
+msgstr ""
+
+#. Accomplishment: Registered on Launchpad
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/registered-on-launchpad.c:28
+msgid "registered-on-launchpad_help"
+msgstr ""
+
+#. Accomplishment: Filed Bug that was Confirmed
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/first-bug-confirmed.c:5
+msgid "first-bug-confirmed_title"
+msgstr ""
+
+#. Accomplishment: Filed Bug that was Confirmed
+#. At a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/first-bug-confirmed.c:8
+msgid "first-bug-confirmed_description"
+msgstr ""
+
+#. Accomplishment: Filed Bug that was Confirmed
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/first-bug-confirmed.c:13
+msgid "first-bug-confirmed_summary"
+msgstr ""
+
+#. Accomplishment: Filed Bug that was Confirmed
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/first-bug-confirmed.c:18
+msgid "first-bug-confirmed_steps"
+msgstr ""
+
+#. Accomplishment: Filed Bug that was Confirmed
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#.
+#: ../accomplishments/first-bug-confirmed.c:23
+msgid "first-bug-confirmed_links"
+msgstr ""
+
+#. Accomplishment: Filed Bug that was Confirmed
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/first-bug-confirmed.c:28
+msgid "first-bug-confirmed_help"
+msgstr ""
+
+#. Accomplishment: Juju Charm Reviewer
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/juju-charm-reviewer.c:5
+msgid "juju-charm-reviewer_title"
 msgstr ""
 
 #. Accomplishment: Juju Charm Reviewer
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/juju-charm-reviewer.c:4
+#: ../accomplishments/juju-charm-reviewer.c:8
 msgid "juju-charm-reviewer_description"
 msgstr ""
 
@@ -553,7 +651,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-reviewer.c:9
+#: ../accomplishments/juju-charm-reviewer.c:13
 msgid "juju-charm-reviewer_summary"
 msgstr ""
 
@@ -561,7 +659,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-reviewer.c:14
+#: ../accomplishments/juju-charm-reviewer.c:18
 msgid "juju-charm-reviewer_steps"
 msgstr ""
 
@@ -569,7 +667,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/juju-charm-reviewer.c:19
+#: ../accomplishments/juju-charm-reviewer.c:23
 msgid "juju-charm-reviewer_links"
 msgstr ""
 
@@ -577,13 +675,20 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-reviewer.c:24
+#: ../accomplishments/juju-charm-reviewer.c:28
 msgid "juju-charm-reviewer_help"
 msgstr ""
 
 #. Accomplishment: Ubuntu Core Developer
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/core-dev.c:5
+msgid "core-dev_title"
+msgstr ""
+
+#. Accomplishment: Ubuntu Core Developer
 #. At a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/core-dev.c:4
+#: ../accomplishments/core-dev.c:8
 msgid "core-dev_description"
 msgstr ""
 
@@ -591,7 +696,7 @@ msgstr ""
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/core-dev.c:9
+#: ../accomplishments/core-dev.c:13
 msgid "core-dev_summary"
 msgstr ""
 
@@ -599,7 +704,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/core-dev.c:14
+#: ../accomplishments/core-dev.c:18
 msgid "core-dev_steps"
 msgstr ""
 
@@ -607,7 +712,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #.
-#: ../accomplishments/core-dev.c:19
+#: ../accomplishments/core-dev.c:23
 msgid "core-dev_links"
 msgstr ""
 
@@ -615,6 +720,6 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/core-dev.c:24
+#: ../accomplishments/core-dev.c:28
 msgid "core-dev_help"
 msgstr ""

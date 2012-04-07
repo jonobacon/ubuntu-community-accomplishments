@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: LoCo Team Member
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("member-loco-team_title")
+// Accomplishment: LoCo Team Member
 // At a descriptive single-line summary of the accomplishment.
 _("member-loco-team_description")
 // Accomplishment: LoCo Team Member

@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Ubuntu Core Developer
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("core-dev_title")
+// Accomplishment: Ubuntu Core Developer
 // At a descriptive single-line summary of the accomplishment.
 _("core-dev_description")
 // Accomplishment: Ubuntu Core Developer

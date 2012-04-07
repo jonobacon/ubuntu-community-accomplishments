@@ -1,5 +1,9 @@
 [accomplishment]
 // Accomplishment: Community Council Member
+// A short description of the accomplishment.
+//          NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad). 
+_("community-council-member_title")
+// Accomplishment: Community Council Member
 // At a descriptive single-line summary of the accomplishment.
 _("community-council-member_description")
 // Accomplishment: Community Council Member
