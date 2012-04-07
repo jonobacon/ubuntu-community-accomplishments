@@ -68,9 +68,10 @@ for f in files:
                 for l in origitemlines:
                     origitem = origitem + ("// " + l + "\n")
 
-                output = output + ("// ENGLISH TRANSLATION: " + origitem + "\n")
+                output = output + ("// ENGLISH TRANSLATION:\n")
+                output = output + (origitem + "\n")
                 output = output + "//\n"
-                output = output + "// TRANSLATION INSTRUCTIONS: \n"
+                output = output + "// ----- TRANSLATION INSTRUCTIONS ----- \n"
                 for c in sec.values()[0].split("\n"):
                     output = output + ("// " + c + "\n")
                 output = output + ("_(\"" + accomplishmentname + "_" + i[0] + "\")\n")
