@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-07 14:12-0700\n"
+"POT-Creation-Date: 2012-04-08 08:14-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,8 +75,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/member-loco-team.c:54
+#: ../accomplishments/member-loco-team.c:53
 msgid "member-loco-team_links"
 msgstr ""
 
@@ -90,7 +89,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:66
+#: ../accomplishments/member-loco-team.c:65
 msgid "member-loco-team_help"
 msgstr ""
 
@@ -187,8 +186,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/report-first-bug.c:85
+#: ../accomplishments/report-first-bug.c:84
 msgid "report-first-bug_links"
 msgstr ""
 
@@ -201,7 +199,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:96
+#: ../accomplishments/report-first-bug.c:95
 msgid "report-first-bug_help"
 msgstr ""
 
@@ -267,8 +265,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/fridge-editor.c:58
+#: ../accomplishments/fridge-editor.c:57
 msgid "fridge-editor_links"
 msgstr ""
 
@@ -282,7 +279,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/fridge-editor.c:70
+#: ../accomplishments/fridge-editor.c:69
 msgid "fridge-editor_help"
 msgstr ""
 
@@ -350,8 +347,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/signed-code-of-conduct.c:60
+#: ../accomplishments/signed-code-of-conduct.c:59
 msgid "signed-code-of-conduct_links"
 msgstr ""
 
@@ -365,7 +361,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:72
+#: ../accomplishments/signed-code-of-conduct.c:71
 msgid "signed-code-of-conduct_help"
 msgstr ""
 
@@ -461,8 +457,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/community-council-member.c:84
+#: ../accomplishments/community-council-member.c:83
 msgid "community-council-member_links"
 msgstr ""
 
@@ -475,7 +470,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:95
+#: ../accomplishments/community-council-member.c:94
 msgid "community-council-member_help"
 msgstr ""
 
@@ -540,8 +535,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/motu.c:57
+#: ../accomplishments/motu.c:56
 msgid "motu_links"
 msgstr ""
 
@@ -554,7 +548,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:68
+#: ../accomplishments/motu.c:67
 msgid "motu_help"
 msgstr ""
 
@@ -573,7 +567,7 @@ msgstr ""
 #. ACCOMPLISHMENT: LoCo Council Member ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Youy are a member of the LoCo Council
+#. You are a member of the LoCo Council
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
@@ -611,6 +605,35 @@ msgstr ""
 msgid "loco-council-member_steps"
 msgstr ""
 
+#. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
+#. You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
+#. Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/loco-council-member.c:59
+msgid "loco-council-member_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Don't apply to the LoCo Council just to be in a position of power.
+#. Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/loco-council-member.c:71
+msgid "loco-council-member_pitfalls"
+msgstr ""
+
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
@@ -621,8 +644,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/loco-council-member.c:59
+#: ../accomplishments/loco-council-member.c:83
 msgid "loco-council-member_links"
 msgstr ""
 
@@ -636,7 +658,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:71
+#: ../accomplishments/loco-council-member.c:95
 msgid "loco-council-member_help"
 msgstr ""
 
@@ -703,8 +725,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/ubuntu-member.c:59
+#: ../accomplishments/ubuntu-member.c:58
 msgid "ubuntu-member_links"
 msgstr ""
 
@@ -717,7 +738,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:70
+#: ../accomplishments/ubuntu-member.c:69
 msgid "ubuntu-member_help"
 msgstr ""
 
@@ -782,8 +803,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/technical-board-member.c:57
+#: ../accomplishments/technical-board-member.c:56
 msgid "technical-board-member_links"
 msgstr ""
 
@@ -797,7 +817,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:69
+#: ../accomplishments/technical-board-member.c:68
 msgid "technical-board-member_help"
 msgstr ""
 
@@ -860,8 +880,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/juju-charm-contributor.c:55
+#: ../accomplishments/juju-charm-contributor.c:54
 msgid "juju-charm-contributor_links"
 msgstr ""
 
@@ -874,7 +893,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:66
+#: ../accomplishments/juju-charm-contributor.c:65
 msgid "juju-charm-contributor_help"
 msgstr ""
 
@@ -942,8 +961,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/user-has-mugshot.c:60
+#: ../accomplishments/user-has-mugshot.c:59
 msgid "user-has-mugshot_links"
 msgstr ""
 
@@ -956,7 +974,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:71
+#: ../accomplishments/user-has-mugshot.c:70
 msgid "user-has-mugshot_help"
 msgstr ""
 
@@ -1020,8 +1038,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/registered-on-launchpad.c:56
+#: ../accomplishments/registered-on-launchpad.c:55
 msgid "registered-on-launchpad_links"
 msgstr ""
 
@@ -1034,7 +1051,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/registered-on-launchpad.c:67
+#: ../accomplishments/registered-on-launchpad.c:66
 msgid "registered-on-launchpad_help"
 msgstr ""
 
@@ -1102,8 +1119,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/first-bug-confirmed.c:60
+#: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_links"
 msgstr ""
 
@@ -1116,7 +1132,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-bug-confirmed.c:71
+#: ../accomplishments/first-bug-confirmed.c:70
 msgid "first-bug-confirmed_help"
 msgstr ""
 
@@ -1179,8 +1195,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/juju-charm-reviewer.c:55
+#: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_links"
 msgstr ""
 
@@ -1193,7 +1208,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-reviewer.c:66
+#: ../accomplishments/juju-charm-reviewer.c:65
 msgid "juju-charm-reviewer_help"
 msgstr ""
 
@@ -1256,8 +1271,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#.
-#: ../accomplishments/core-dev.c:55
+#: ../accomplishments/core-dev.c:54
 msgid "core-dev_links"
 msgstr ""
 
@@ -1270,6 +1284,6 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/core-dev.c:66
+#: ../accomplishments/core-dev.c:65
 msgid "core-dev_help"
 msgstr ""

@@ -56,7 +56,6 @@ _("user-has-mugshot_steps")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("user-has-mugshot_links")
 // ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 // .

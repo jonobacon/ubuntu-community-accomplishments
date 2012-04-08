@@ -50,7 +50,6 @@ _("member-loco-team_steps")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("member-loco-team_links")
 // ACCOMPLISHMENT: LoCo Team Member ('help' field)
 // .

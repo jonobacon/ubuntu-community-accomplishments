@@ -53,7 +53,6 @@ _("technical-board-member_steps")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("technical-board-member_links")
 // ACCOMPLISHMENT: Technical Board Member ('help' field)
 // .

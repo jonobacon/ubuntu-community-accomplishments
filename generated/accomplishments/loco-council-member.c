@@ -12,7 +12,7 @@ _("loco-council-member_title")
 // ACCOMPLISHMENT: LoCo Council Member ('description' field)
 // .
 // ENGLISH TRANSLATION:
-// Youy are a member of the LoCo Council
+// You are a member of the LoCo Council
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -44,6 +44,31 @@ _("loco-council-member_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("loco-council-member_steps")
+// ACCOMPLISHMENT: LoCo Council Member ('tips' field)
+// .
+// ENGLISH TRANSLATION:
+// Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
+// You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
+// Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
+
+// .
+// ----- TRANSLATION INSTRUCTIONS ----- 
+// Add tips and best practise for accomplishing this trophy.
+//          NOTE: Put each tip on a new line
+//          FORMATTING ALLOWED: <i> <strong> <tt>
+_("loco-council-member_tips")
+// ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
+// .
+// ENGLISH TRANSLATION:
+// Don't apply to the LoCo Council just to be in a position of power.
+// Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
+
+// .
+// ----- TRANSLATION INSTRUCTIONS ----- 
+// Add things the user should not do when working to accomplish this trophy.
+//          NOTE: Put each pitfall on a new line
+//          FORMATTING ALLOWED: <i> <strong> <tt>
+_("loco-council-member_pitfalls")
 // ACCOMPLISHMENT: LoCo Council Member ('links' field)
 // .
 // ENGLISH TRANSLATION:
@@ -55,7 +80,6 @@ _("loco-council-member_steps")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("loco-council-member_links")
 // ACCOMPLISHMENT: LoCo Council Member ('help' field)
 // .

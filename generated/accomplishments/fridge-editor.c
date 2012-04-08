@@ -54,7 +54,6 @@ _("fridge-editor_steps")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("fridge-editor_links")
 // ACCOMPLISHMENT: Fridge Editor ('help' field)
 // .

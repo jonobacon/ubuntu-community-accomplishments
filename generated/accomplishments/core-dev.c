@@ -51,7 +51,6 @@ _("core-dev_steps")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("core-dev_links")
 // ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 // .

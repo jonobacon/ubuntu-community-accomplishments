@@ -30,7 +30,7 @@ translatedsections = [
         FORMATTING ALLOWED: <i> <strong> <tt>" },
     { "links" :
         "Add related web addresses (don't include a HTML link).\n \
-        NOTE: Put each URL on a new line\n" },
+        NOTE: Put each URL on a new line" },
     { "help" :
         "Add related help resources (e.g. IRC channel names).\n \
         NOTE: Put each help resource on a new line\n \

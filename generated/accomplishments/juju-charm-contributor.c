@@ -51,7 +51,6 @@ _("juju-charm-contributor_steps")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("juju-charm-contributor_links")
 // ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 // .

@@ -53,7 +53,6 @@ _("motu_steps")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("motu_links")
 // ACCOMPLISHMENT: Ubuntu MOTU Developer ('help' field)
 // .

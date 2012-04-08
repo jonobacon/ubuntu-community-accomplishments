@@ -80,7 +80,6 @@ _("community-council-member_pitfalls")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("community-council-member_links")
 // ACCOMPLISHMENT: Community Council Member ('help' field)
 // .

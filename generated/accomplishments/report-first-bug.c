@@ -81,7 +81,6 @@ _("report-first-bug_pitfalls")
 // ----- TRANSLATION INSTRUCTIONS ----- 
 // Add related web addresses (don't include a HTML link).
 //          NOTE: Put each URL on a new line
-// 
 _("report-first-bug_links")
 // ACCOMPLISHMENT: Report First Bug ('help' field)
 // .
