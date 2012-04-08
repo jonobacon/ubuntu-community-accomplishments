@@ -6,14 +6,14 @@ import ConfigParser
 
 class GenerateTranslations():
     def __init__(self):
-        accoms = glob.glob("accomplishments/*/en/*")
-        files = glob.glob("generated/po/*.po")
+        self.accoms = glob.glob("accomplishments/*/en/*")
+        self.files = glob.glob("generated/po/*.po")
 
-        accomset = accoms[0].split("/")[1]
+        self.accomset = self.accoms[0].split("/")[1]
 
-        for f in files:
+        for f in self.files:
             langcode = os.path.split(f)[1].split(".")[0]
-            langdir = os.path.join(os.path.join("accomplishments/", accomset), langcode)
+            langdir = os.path.join(os.path.join("accomplishments/", self.accomset), langcode)
             popath = "generated/po/" + langcode + ".po"
             
             print "Opening: " + langcode + " at " + popath
@@ -23,52 +23,52 @@ class GenerateTranslations():
             if not os.path.exists(langdir):
                 os.makedirs(langdir)
 
-            for a in accoms:
+            for a in self.accoms:
                 accomname = os.path.split(a)[1].split(".")[0]
                 print "...processing: " + accomname
-                masterconfig = ConfigParser.ConfigParser()
-                masterconfig.read(a)
-                title = masterconfig.get("accomplishment", "title")
-                outputconfig = ConfigParser.ConfigParser()
-                outputconfig.add_section("accomplishment")
+                self.masterconfig = ConfigParser.ConfigParser()
+                self.masterconfig.read(a)
+                #title = self.masterconfig.get("accomplishment", "title")
+                self.outputconfig = ConfigParser.ConfigParser()
+                self.outputconfig.add_section("accomplishment")
 
                 title = self.process_field(accomname, "title")
-                outputconfig.set("accomplishment", "title", title)
+                self.outputconfig.set("accomplishment", "title", title)
                 
                 description = self.process_field(accomname, "description")
-                outputconfig.set("accomplishment", "description", description)
+                self.outputconfig.set("accomplishment", "description", description)
                 
-                if masterconfig.has_option("accomplishment", "application"):
-                    outputconfig.set("accomplishment", "application", masterconfig.get("accomplishment", "application"))
+                if self.masterconfig.has_option("accomplishment", "application"):
+                    self.outputconfig.set("accomplishment", "application", self.masterconfig.get("accomplishment", "application"))
                 
-                if masterconfig.has_option("accomplishment", "category"):
-                    outputconfig.set("accomplishment", "category", masterconfig.get("accomplishment", "category"))                
+                if self.masterconfig.has_option("accomplishment", "category"):
+                    self.outputconfig.set("accomplishment", "category", self.masterconfig.get("accomplishment", "category"))                
                 
-                if masterconfig.has_option("accomplishment", "icon"):
-                    outputconfig.set("accomplishment", "icon", masterconfig.get("accomplishment", "icon"))                
+                if self.masterconfig.has_option("accomplishment", "icon"):
+                    self.outputconfig.set("accomplishment", "icon", self.masterconfig.get("accomplishment", "icon"))                
                 
-                if masterconfig.has_option("accomplishment", "depends"):
-                    outputconfig.set("accomplishment", "depends", masterconfig.get("accomplishment", "depends"))                
+                if self.masterconfig.has_option("accomplishment", "depends"):
+                    self.outputconfig.set("accomplishment", "depends", self.masterconfig.get("accomplishment", "depends"))                
                 
                 summary = self.process_field(accomname, "summary")
-                outputconfig.set("accomplishment", "summary", summary)                
+                self.outputconfig.set("accomplishment", "summary", summary)                
 
                 steps = self.process_field(accomname, "steps")
-                outputconfig.set("accomplishment", "steps", steps)
+                self.outputconfig.set("accomplishment", "steps", steps)
 
                 tips = self.process_field(accomname, "tips")
-                outputconfig.set("accomplishment", "tips", tips)
-
+                self.outputconfig.set("accomplishment", "tips", tips)
+                
                 pitfalls = self.process_field(accomname, "pitfalls")
-                outputconfig.set("accomplishment", "pitfalls", pitfalls)
+                self.outputconfig.set("accomplishment", "pitfalls", pitfalls)
                 
                 help = self.process_field(accomname, "help")
-                outputconfig.set("accomplishment", "help", help)
+                self.outputconfig.set("accomplishment", "help", help)
 
-                path = os.path.join(os.path.join(os.path.join("accomplishments", accomset), langcode), accomname + ".accomplishment")
+                path = os.path.join(os.path.join(os.path.join("accomplishments", self.accomset), langcode), accomname + ".accomplishment")
 
                 outfile = open(path, "w")
-                outputconfig.write(outfile)
+                self.outputconfig.write(outfile)
                 outfile.close()
         print "Done."
 
@@ -91,10 +91,16 @@ class GenerateTranslations():
             
             # remove the final \n
             final = final.rstrip()
+            
+            if final == "":
+                final = self.masterconfig.get("accomplishment", field)
             return final
         except:
             print "......not found: " + field
-            pass
+            if self.masterconfig.has_option("accomplishment", field):
+                print ".........using English translation."
+                content = self.masterconfig.get("accomplishment", field)
+                return content.rstrip()
 
 if __name__=="__main__":
     trans = GenerateTranslations()
