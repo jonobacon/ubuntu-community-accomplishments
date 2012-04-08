@@ -73,6 +73,7 @@ class GenerateTranslations():
         print "Done."
 
     def process_field(self, accomname, field):
+        print field
         try:
             val = None
             final = None
@@ -94,13 +95,13 @@ class GenerateTranslations():
             
             if final == "":
                 final = self.masterconfig.get("accomplishment", field)
-            return final
+            return final.encode("utf-8")
         except:
             print "......not found: " + field
             if self.masterconfig.has_option("accomplishment", field):
                 print ".........using English translation."
                 content = self.masterconfig.get("accomplishment", field)
-                return content.rstrip()
+                return content.rstrip().encode("utf-8")
 
 if __name__=="__main__":
     trans = GenerateTranslations()
