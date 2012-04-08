@@ -1,4 +1,4 @@
-# English (United Kingdom) translation for ubuntu-community-accomplishments
+# German translation for ubuntu-community-accomplishments
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-community-accomplishments package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-07 14:12-0700\n"
-"PO-Revision-Date: 2012-04-07 23:32+0000\n"
-"Last-Translator: Jono Bacon <jono@ubuntu.com>\n"
-"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"PO-Revision-Date: 2012-04-08 00:47+0000\n"
+"Last-Translator: Alexander Neumann <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/member-loco-team.c:11
 msgid "member-loco-team_title"
-msgstr "LoCo Team Member"
+msgstr "LoCo Team Mitglied"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('description' field)
 #. .
@@ -38,7 +38,7 @@ msgstr "LoCo Team Member"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/member-loco-team.c:20
 msgid "member-loco-team_description"
-msgstr "You are a member of an Ubuntu LoCo Team"
+msgstr "Du bist ein Mitglied des Ubuntu LoCo Teams"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 #. .
@@ -52,10 +52,11 @@ msgstr "You are a member of an Ubuntu LoCo Team"
 #: ../accomplishments/member-loco-team.c:31
 msgid "member-loco-team_summary"
 msgstr ""
-"Ubuntu LoCo (Local Community) Teams are local user groups based all around "
-"the world in which people get together to discuss Ubuntu, share ideas, tips, "
-"tricks, and knowledge, and work together to spread the word of Ubuntu and "
-"how it can help people."
+"Ubuntu LoCo (\"Local Community\" = Örtliche Gemeinschaft) sind örtliche "
+"Ubuntu Nutzer Gruppen aus der ganzen Welt, die zusammenkommen um über Ubuntu "
+"zu reden um Ideen, Tipps, Tricks und Wissen zu teilen. Desweiteren arbeiten "
+"sie zusammen um Ubuntu bekannt zu machen und zu zeigen, wie Ubuntu anderen "
+"helfen kann."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
 #. .
@@ -70,10 +71,12 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:43
 msgid "member-loco-team_steps"
 msgstr ""
-"Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This "
-"trophy is awarded if you are a member of any LoCo team regardless of its "
-"approval status.\r\n"
-"Visit that team's Launchpad page click the Join Team link."
+"Besuche <tt>loco.ubuntu.com</tt> um ein Team in deiner Nähe zu finden. Das "
+"deutsche Team findest du unter  <tt>ubuntu-de.org</tt> . Diese Trophäe wird "
+"verliehen wenn du ein Mitglied eines LoCo Team wirst, egal ob das Team schon "
+"anerkannt ist.\r\n"
+"Gehe zu der Launchpad Seite des Teams dem du beitreten willst und klicke auf "
+"den \"Join Team\" link."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('links' field)
 #. .
@@ -86,7 +89,9 @@ msgstr ""
 #. 
 #: ../accomplishments/member-loco-team.c:54
 msgid "member-loco-team_links"
-msgstr "http://loco.ubuntu.com"
+msgstr ""
+"http://loco.ubuntu.com\r\n"
+"http://ubuntu-de.org/"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('help' field)
 #. .
@@ -102,7 +107,8 @@ msgstr "http://loco.ubuntu.com"
 msgid "member-loco-team_help"
 msgstr ""
 "#ubuntu-locoteams on Freenode\r\n"
-"#ubuntu-community-team on Freenode"
+"#ubuntu-community-team on Freenode\r\n"
+"#ubuntu-de auf irc.freenode.org"
 
 #. ACCOMPLISHMENT: Report First Bug ('title' field)
 #. .
@@ -114,7 +120,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/report-first-bug.c:11
 msgid "report-first-bug_title"
-msgstr "Report First Bug"
+msgstr "Ersten Bug Gemeldet"
 
 #. ACCOMPLISHMENT: Report First Bug ('description' field)
 #. .
@@ -125,7 +131,7 @@ msgstr "Report First Bug"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
-msgstr "You have reported your first bug in Ubuntu"
+msgstr "Du hast deinen ersten Bug in Ubuntu gemeldet"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
@@ -143,30 +149,23 @@ msgstr "You have reported your first bug in Ubuntu"
 #: ../accomplishments/report-first-bug.c:35
 msgid "report-first-bug_summary"
 msgstr ""
-"A <i>bug</i> is a defect in a piece of software. When you report a bug it "
-"means that you let the Ubuntu project know about one of these defects so we "
-"can resolve it.\r\n"
-"\r\n"
-"When you report a bug it starts a conversation with developers and other "
-"interested parties to help identify the cause of the problem to provide "
-"enough information so the developer can resolve it. This conversation can "
-"often involve the developer(s) asking you various questions to help track "
-"down the cause of the issue.\r\n"
-"\r\n"
-"This conversation takes place in a <i>bug tracker</i>; a tool that provides "
-"features for having this conversation, and setting  prioritization fields to "
-"ensure that the most disruptive bugs get resolved sooner than more more "
-"benign issues.\r\n"
-"\r\n"
-"There are a few different ways in which you can file a bug, but we recommend "
-"you use a tool called <tt>ubuntu-bug</tt> that comes pre-installed on all "
-"Ubuntu systems. This tool helps gather up neccessary information that can be "
-"useful for the developer to find the source of the bug so they can resolve "
-"it.\r\n"
-"\r\n"
-"You can file a bug in a more graphical way by using the <i>Report a "
-"Problem</i> option in the <i>Help</i> menu of an application; this simply "
-"provides a graphical way of running <tt>ubuntu-bug</tt>."
+"Ein Bug ist ein Defekt innerhalb eines Teils der Software. Wenn du ein Bug "
+"meldest, dann machst du das Ubuntu Projekt auf diesen Defekt aufmerksam, so "
+"dass wir ihn dann reparieren können. Wenn du ein Bug meldest, dann fängst du "
+"an mit den Entwicklern und allen interessierten Parteien zu kommunizieren um "
+"das Problem zu identifizieren und genug Informationen zu geben, damit "
+"Entwickler es beheben können. Es kommt öfters vor, dass die Kommunikation "
+"beinhaltet, dass das Entwickler Team dir Fragen stellt, die wichtig sind um "
+"das Problem beheben zu können. Diese Unterhaltung findet statt in <i>bug "
+"tracker</i>; ein Tool, das diese Kommunikation ermöglicht und Prioritäten "
+"setzt, so dass kritische Bugs schneller behoben werden als harmlosere.\r\n"
+"Es gibt mehrere Wege, wie du Bugs melden kannst, aber wir empfehlen das Tool "
+"<tt>ubuntu-bug</tt> zu benutzen, das du vorinstalliert in Ubuntu findest. "
+"Dieses Tool hilft hilfreiche Informationen für das Entwickler Team zu "
+"sammeln, die dabei helfen wird das Problem zu beheben.\r\n"
+"Du kannst ein Bug auch graphisch melden in dem du unter dem <i>Hilfe</i> "
+"Menü eines Programm auf <i>Fehler Melden</i> drückst, was dann <tt>ubuntu-"
+"bug</tt> startet."
 
 #. ACCOMPLISHMENT: Report First Bug ('steps' field)
 #. .
@@ -182,13 +181,13 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:48
 msgid "report-first-bug_steps"
 msgstr ""
-"Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> "
-"into the dash.\r\n"
-"Type in <tt>ubuntu-bug</tt> and then the name of the package you want to "
-"file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't "
-"know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the "
-"instructions.\r\n"
-"Follow the instructions in Launchpad."
+"Öffne ein Terminal in dem du den Ubuntuknopf drückst und <i>terminal</i> in "
+"das Schnellstart Textfeld eingibst.\r\n"
+"Tippe in das Terminal <tt>ubuntu-bug</tt> ein gefolgt vom Namen des Pakets "
+"in dem der Bug vorkommt, den du melden möchtest. Wenn du nicht den Namen des "
+"Pakets weißt,  dann gib einfach <tt>ubuntu-bug</tt> ein ohne den Paketnamen "
+"und folgen den Anweisungen.\r\n"
+"Folge den Anweisungen in Launchpad."
 
 #. ACCOMPLISHMENT: Report First Bug ('tips' field)
 #. .
@@ -204,11 +203,13 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:61
 msgid "report-first-bug_tips"
 msgstr ""
-"Always try to be concise and detailed in your bug reports.\r\n"
-"If you know the steps involved to trigger the bug, include those steps in "
-"the bug description. This is called <i>reproducing the bug</i>.\r\n"
-"Remember, when you file a bug report you are asking a developer to take the "
-"time to resolve it. Try to be helpful, polite, and respectful of their time."
+"Versuche immer knappe, präzise und detaillierte Bug Meldungen zu "
+"schreiben.\r\n"
+"Wenn du weißt, wie man den Bug auslösen kann, dann beschreibe sie in der "
+"Meldung. Das wird <i>reproduzieren des Bugs/i>  oder <i>reproducing the "
+"bug</i> genannt.\r\n"
+"Beachte, dass wenn du ein Bug meldest, du einen Entwickler fragst Zeit "
+"aufzuwenden um es zu beheben. Sei also hilfreich, höflich und respektvoll."
 
 #. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
 #. .
@@ -223,10 +224,10 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:73
 msgid "report-first-bug_pitfalls"
 msgstr ""
-"Don't file bugs for things that frustrate you in a piece of software; only "
-"file bugs when things don't work as expected.\r\n"
-"Don't reply to a bug saying \"me too!\"; instead use the <i>this bug affects "
-"me</i> link at the top of the bug report (in Launchpad)."
+"Melde keinen Bug, wenn etwas dich an der Software einfach nervt, melde nur "
+"Bugs, wenn sich die Software nicht so verhält, wie man erwarten würde.\r\n"
+"Antworte keiner Bug Meldung mit einem \"ich auch!\"; Stattdessen nutze den "
+"<i>this bug affects me</i> link oben auf der Seite (in Launchpad)."
 
 #. ACCOMPLISHMENT: Report First Bug ('links' field)
 #. .
@@ -242,7 +243,8 @@ msgstr ""
 msgid "report-first-bug_links"
 msgstr ""
 "https://help.ubuntu.com/community/ReportingBugs\r\n"
-"https://wiki.ubuntu.com/HelpingWithBugs"
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"http://wiki.ubuntuusers.de/Fehler_melden?highlight=Bug"
 
 #. ACCOMPLISHMENT: Report First Bug ('help' field)
 #. .
@@ -278,7 +280,7 @@ msgstr "Fridge Editor"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/fridge-editor.c:20
 msgid "fridge-editor_description"
-msgstr "A member of the Fridge Editors team"
+msgstr "Ein Mitglied des Fridge Editor Teams"
 
 #. ACCOMPLISHMENT: Fridge Editor ('summary' field)
 #. .
@@ -293,12 +295,10 @@ msgstr "A member of the Fridge Editors team"
 #: ../accomplishments/fridge-editor.c:32
 msgid "fridge-editor_summary"
 msgstr ""
-"The Ubuntu Fridge is the official news site for the Ubuntu Community. It is "
-"a community driven news site which features articles, news, opinion, and "
-"other content from around and in the Ubuntu community.\r\n"
-"The <i>Ubuntu Fridge Editors</i> are a team who produce and publish content "
-"to the site. To be a member of this team you need to be able to write well, "
-"write often, and be responsive to publishing new content and news."
+"Die Ubuntu Fridge ist die offizielle Nachrichten Seite für die Ubuntu "
+"Gemeinschaft. Es ist ein gemeinschaftlich geschriebenes Nachrichtenportal, "
+"das Artikel, Nachrichten, Meinungen und andere Inhalte von überall aus der "
+"Welt und aus der Ubuntu Gemeinschaft bereit stellt."
 
 #. ACCOMPLISHMENT: Fridge Editor ('steps' field)
 #. .
@@ -314,17 +314,17 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:45
 msgid "fridge-editor_steps"
 msgstr ""
-"Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, have "
-"good written English skills.  Individuals who are interested in becoming a "
-"member of the Ubuntu Fridge editors team should submit a few stories so the "
-"Editors Team can get to know you and offer guidance (if necessary).  Stories "
-"can be submitted to the news team through its IRC (Internet Chat Relay) "
-"Channel on Freenode (irc.freenode.net)-#ubuntu-news-- or can send an email "
-"to: ubuntu-news-team@lists.ubuntu.com (no subscription necessary). "
-"Additional information that all editors should be knowledgeable of can be "
-"found on the Fridge wiki page under Editors Guidelines.\r\n"
-"Write drafts for each of your ideas.\r\n"
-"Submit your content to the Fridge Editors."
+"Werde ein Ubuntu Mitglied. Habe eine gute Kenntnis über die Ubuntu "
+"Gemeinschaft, habe gute schriftliche Englisch Fähigkeiten. Jeder, der ein "
+"Mitglied des Ubuntu Fridge Redaktion Teams sein will, sollte einige Artikel "
+"an die Redaktion schicken, damit sie einen kennen lernen und einen beraten "
+"können (wenn nötig). Artikel können an das Nachrichtenteam durch IRC "
+"(Internet Chat Relay) auf Freenode (irc.freenode.net)-#ubuntu-news-- oder "
+"durch folgende E-Mail geschickt werden: ubuntu-news-team@lists.ubuntu.com "
+"(keine Anmeldung nötig).  Weitere Informationen kannst du auf der Fridge "
+"Wiki Seite bekommen unter Editors Guidelines.\r\n"
+"Schreibe Entwürfe für jede deiner Ideen.\r\n"
+"Schicke dein Inhalt an die Fridge Redaktion."
 
 #. ACCOMPLISHMENT: Fridge Editor ('links' field)
 #. .
@@ -370,7 +370,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/signed-code-of-conduct.c:11
 msgid "signed-code-of-conduct_title"
-msgstr "Signed Ubuntu Code Of Conduct"
+msgstr ""
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
 #. .
@@ -381,7 +381,7 @@ msgstr "Signed Ubuntu Code Of Conduct"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
 msgid "signed-code-of-conduct_description"
-msgstr "You have signed the Ubuntu Code Of Conduct"
+msgstr ""
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .
@@ -397,13 +397,6 @@ msgstr "You have signed the Ubuntu Code Of Conduct"
 #: ../accomplishments/signed-code-of-conduct.c:33
 msgid "signed-code-of-conduct_summary"
 msgstr ""
-"The Ubuntu Code Of Conduct is an important document that provides a set of "
-"guidelines and expectations for good conduct in the Ubuntu Community. \r\n"
-"It includes expectations around being considerate, respectful, "
-"collaborative, how to ask for help, and how to step down when you become too "
-"busy. \r\n"
-"This trophy is awarded when you have agreed to abide by these expectations "
-"in the community and have signed the Ubuntu Code Of Conduct."
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
 #. .
@@ -422,20 +415,6 @@ msgstr ""
 #: ../accomplishments/signed-code-of-conduct.c:49
 msgid "signed-code-of-conduct_steps"
 msgstr ""
-"First generate a PGP key, add it to the Ubuntu key-server, and import it "
-"into Launchpad. See <a "
-"href=\"https://help.launchpad.net/YourAccount/ImportingYourPGPKey\">here</a> "
-"for how to do this.\r\n"
-"Visit the <a href=\"https://launchpad.net/codeofconduct\">Code Of Conduct "
-"page</a>.\r\n"
-"Download the Ubuntu Code of Conduct, using the link located in the second "
-"step of the page, and open it.\r\n"
-"Sign it by opening a terminal and running <tt>gpg --clearsign "
-"UbuntuCodeofConduct-*.txt</tt>.\r\n"
-"Now open the file in the Text Editor.\r\n"
-"On the Ubuntu Code of Conduct page, click <i>Sign it!</i> then paste into "
-"the textbox. Click <i>Continue</i>. Congratulations, you've signed the "
-"Ubuntu Code of Conduct!"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
 #. .
@@ -448,7 +427,7 @@ msgstr ""
 #. 
 #: ../accomplishments/signed-code-of-conduct.c:60
 msgid "signed-code-of-conduct_links"
-msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
+msgstr ""
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('help' field)
 #. .
@@ -463,8 +442,6 @@ msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
 #: ../accomplishments/signed-code-of-conduct.c:72
 msgid "signed-code-of-conduct_help"
 msgstr ""
-"#ubuntu-locoteams on Freenode\r\n"
-"#ubuntu-community-team on Freenode"
 
 #. ACCOMPLISHMENT: Community Council Member ('title' field)
 #. .
@@ -476,7 +453,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/community-council-member.c:11
 msgid "community-council-member_title"
-msgstr "Community Council Member"
+msgstr ""
 
 #. ACCOMPLISHMENT: Community Council Member ('description' field)
 #. .
@@ -487,7 +464,7 @@ msgstr "Community Council Member"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/community-council-member.c:20
 msgid "community-council-member_description"
-msgstr "You are a member of the Community Council"
+msgstr ""
 
 #. ACCOMPLISHMENT: Community Council Member ('summary' field)
 #. .
@@ -503,15 +480,6 @@ msgstr "You are a member of the Community Council"
 #: ../accomplishments/community-council-member.c:33
 msgid "community-council-member_summary"
 msgstr ""
-"The Ubuntu Community Council is the primary community (i.e. non-technical) "
-"governance body for the Ubuntu Project and as such has an important role and "
-"responsibility to the Ubuntu community.\r\n"
-"The Community Council advises and decides on community policy and process. "
-"It is also an escalation body for incidents that occur elsewhere in the "
-"Ubuntu community.\r\n"
-"Members of the Community Council have demonstrated a strong commitment and "
-"participation history in Ubuntu, clear leadership skills, and have the time "
-"and availability to commit to the needs of the council."
 
 #. ACCOMPLISHMENT: Community Council Member ('steps' field)
 #. .
@@ -527,18 +495,6 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:46
 msgid "community-council-member_steps"
 msgstr ""
-"Become an Ubuntu Member. Demonstrate effective and extensive contribution  "
-"to Ubuntu for a sustained period of time. There is no fixed time period, but "
-"this should be long enough to demonstrate your commitment to the project.\r\n"
-"Amend the wiki page that was created for Ubuntu Membership usually found on "
-"<tt>wiki.ubuntu.com</tt> that is up todate and outlines your contributions. "
-"In the wiki page include your contributions, describe which teams you are "
-"in, and summarize your efforts.\r\n"
-"When the next Community Council election is announced, nominate yourself as "
-"a candidate.  Mark Shuttleworth, the Founder of Ubuntu, and also known as "
-"sabdfl (self-appointed bebevolent dictator for life) selects the canidates "
-"from the list of nominees and puts those forward to be voted on by current "
-"Ubuntu Members."
 
 #. ACCOMPLISHMENT: Community Council Member ('tips' field)
 #. .
@@ -554,12 +510,6 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:59
 msgid "community-council-member_tips"
 msgstr ""
-"Focus on your leadership abilities. The Community Council is an important "
-"leadership position and we look for strong, capable, confident leaders.\r\n"
-"You should probably have led another team to develop and demonstrate your "
-"leadership capabilities before applying to be on the Community Council.\r\n"
-"Only apply to the Community Council when you have had a significant amount "
-"of experience in the community."
 
 #. ACCOMPLISHMENT: Community Council Member ('pitfalls' field)
 #. .
@@ -574,9 +524,6 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:71
 msgid "community-council-member_pitfalls"
 msgstr ""
-"Don't apply to the Community Council just to be in a position of power.\r\n"
-"Try not to be on more than one council (e.g. Community Council, Technical "
-"Board) at the same time. Join one, and give it your full attention."
 
 #. ACCOMPLISHMENT: Community Council Member ('links' field)
 #. .
@@ -592,9 +539,6 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:84
 msgid "community-council-member_links"
 msgstr ""
-"https://wiki.ubuntu.com/CommunityCouncil\r\n"
-"https://wiki.ubuntu.com/CommunityCouncilAgenda\r\n"
-"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Community Council Member ('help' field)
 #. .
@@ -607,7 +551,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:95
 msgid "community-council-member_help"
-msgstr "#ubuntu-community-team on Freenode"
+msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 #. .
@@ -619,7 +563,7 @@ msgstr "#ubuntu-community-team on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/motu.c:11
 msgid "motu_title"
-msgstr "Ubuntu MOTU Developer"
+msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('description' field)
 #. .
@@ -630,7 +574,7 @@ msgstr "Ubuntu MOTU Developer"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/motu.c:20
 msgid "motu_description"
-msgstr "You are an Ubuntu MOTU Developer"
+msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('summary' field)
 #. .
@@ -644,9 +588,6 @@ msgstr "You are an Ubuntu MOTU Developer"
 #: ../accomplishments/motu.c:31
 msgid "motu_summary"
 msgstr ""
-"An Ubuntu MOTU Developer is responsible for packaging and resolving issues "
-"in the <tt>universe</tt> archive. This includes a wide variety of "
-"applications that are brought into Ubuntu from Debian."
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('steps' field)
 #. .
@@ -662,9 +603,6 @@ msgstr ""
 #: ../accomplishments/motu.c:44
 msgid "motu_steps"
 msgstr ""
-"Contribute extensively to Ubuntu for a sustained period of time.\r\n"
-"Make use of the Ubuntu Sponsorship Queue to make your contributions.\r\n"
-"Apply to the Ubuntu Developer Board to be a MOTU developer."
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
 #. .
@@ -680,9 +618,6 @@ msgstr ""
 #: ../accomplishments/motu.c:57
 msgid "motu_links"
 msgstr ""
-"https://wiki.ubuntu.com/MOTU\r\n"
-"https://wiki.ubuntu.com/UbuntuDevelopment\r\n"
-"https://wiki.ubuntu.com/SponsorshipProcess"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('help' field)
 #. .
@@ -695,7 +630,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/motu.c:68
 msgid "motu_help"
-msgstr "#ubuntu-devel on Freenode"
+msgstr ""
 
 #. ACCOMPLISHMENT: LoCo Council Member ('title' field)
 #. .
@@ -707,7 +642,7 @@ msgstr "#ubuntu-devel on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/loco-council-member.c:11
 msgid "loco-council-member_title"
-msgstr "LoCo Council Member"
+msgstr ""
 
 #. ACCOMPLISHMENT: LoCo Council Member ('description' field)
 #. .
@@ -718,7 +653,7 @@ msgstr "LoCo Council Member"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/loco-council-member.c:20
 msgid "loco-council-member_description"
-msgstr "You are a member of the LoCo Council"
+msgstr ""
 
 #. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 #. .
@@ -734,18 +669,6 @@ msgstr "You are a member of the LoCo Council"
 #: ../accomplishments/loco-council-member.c:33
 msgid "loco-council-member_summary"
 msgstr ""
-"The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu "
-"LoCo Teams.\r\n"
-"The LoCo Council advises and determines LoCo policy and process. The Loco "
-"Council also helps resolve issues that Loco Teams were unable to resolve "
-"internally.\r\n"
-"To be a member of the LoCo council you need to have demonstrated a strong "
-"commitment and participation history in Ubuntu LoCo Teams, demonstrated "
-"clear leadership skills, and have the time and availability to commit to the "
-"needs of the council. A good Loco Council member will show the ability to "
-"listen and understand the diverse needs of various cultures and communities. "
-"Loco Council members should be able to inspire and guide loco team "
-"leadership."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
 #. .
@@ -761,15 +684,6 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:46
 msgid "loco-council-member_steps"
 msgstr ""
-"Start by contributing to your local community team by organizing events and "
-"then contribute to the loco community teams on a global scale. Contributions "
-"should be extensive over a sustained period of time. There is no fixed time "
-"period, but this should be long enough to demonstrate your commitment to the "
-"project.\r\n"
-"Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. "
-"In the wiki page include your contributions, describe which teams you are "
-"in, and summarize your efforts.\r\n"
-"In the next LoCo Council election propose yourself as a candidate."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
@@ -785,9 +699,6 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:59
 msgid "loco-council-member_links"
 msgstr ""
-"https://wiki.ubuntu.com/LoCoCouncil\r\n"
-"https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
-"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('help' field)
 #. .
@@ -802,8 +713,6 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:71
 msgid "loco-council-member_help"
 msgstr ""
-"#ubuntu-community-team on Freenode\r\n"
-"#ubuntu-locoteams on Freenode"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 #. .
@@ -815,7 +724,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-member.c:11
 msgid "ubuntu-member_title"
-msgstr "Approved Ubuntu Member"
+msgstr ""
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
 #. .
@@ -826,7 +735,7 @@ msgstr "Approved Ubuntu Member"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:20
 msgid "ubuntu-member_description"
-msgstr "You are an Approved Ubuntu Member"
+msgstr ""
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 #. .
@@ -842,13 +751,6 @@ msgstr "You are an Approved Ubuntu Member"
 #: ../accomplishments/ubuntu-member.c:33
 msgid "ubuntu-member_summary"
 msgstr ""
-"An Ubuntu Member is someone who has demonstrated a <i>significant and "
-"sustained</i> contribution to Ubuntu.\r\n"
-"Each Ubuntu Member is seen as a reliable and dependable contributor to "
-"Ubuntu who has contributed to further and improve Ubuntu.\r\n"
-"Importantly, Ubuntu Membership does not require any specific skill; great "
-"contributions in development, documentation, translations, advocacy, "
-"support, art, design, and many other areas are all worthy of membership."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
 #. .
@@ -865,17 +767,6 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:47
 msgid "ubuntu-member_steps"
 msgstr ""
-"Contribute extensively to Ubuntu for a sustained period of time. There is no "
-"fixed time period, but this should be long enough to demonstrate your "
-"commitment to the project.\r\n"
-"Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. "
-"In the wiki page include your contributions, describe which teams you are "
-"in, and summarize your efforts.\r\n"
-"Ask your fellow community members to contribute testimonials of your "
-"contributions.\r\n"
-"Schedule yourself for review at a regional membership board, IRC council, "
-"Forums council, or developer membership board meeting to review your "
-"contributions. You can find the nearest board using the links below."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
 #. .
@@ -890,8 +781,6 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:59
 msgid "ubuntu-member_links"
 msgstr ""
-"http://wiki.ubuntu.com/Membership\r\n"
-"https://wiki.ubuntu.com/Membership/RegionalBoards"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 #. .
@@ -904,7 +793,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:70
 msgid "ubuntu-member_help"
-msgstr "#ubuntu-community-team on Freenode"
+msgstr ""
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
@@ -916,7 +805,7 @@ msgstr "#ubuntu-community-team on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/technical-board-member.c:11
 msgid "technical-board-member_title"
-msgstr "Technical Board Member"
+msgstr ""
 
 #. ACCOMPLISHMENT: Technical Board Member ('description' field)
 #. .
@@ -927,7 +816,7 @@ msgstr "Technical Board Member"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/technical-board-member.c:20
 msgid "technical-board-member_description"
-msgstr "You are a member of the Ubuntu Technical Board"
+msgstr ""
 
 #. ACCOMPLISHMENT: Technical Board Member ('summary' field)
 #. .
@@ -942,14 +831,6 @@ msgstr "You are a member of the Ubuntu Technical Board"
 #: ../accomplishments/technical-board-member.c:32
 msgid "technical-board-member_summary"
 msgstr ""
-"The Ubuntu Technical Board is one of the most important governing boards in "
-"the Ubuntu community. The Technical Board advises and decides on technical "
-"policy and process as well as acting as an escalation body for incidents "
-"that occur elsewhere in the community.\r\n"
-"To be a member of the Technical Board you need to have demonstrated a strong "
-"commitment and participation history in Ubuntu, strong technical skills and "
-"knowledge of the archive, demonstrated clear leadership skills, and have the "
-"time and availability to commit to the needs of the board."
 
 #. ACCOMPLISHMENT: Technical Board Member ('steps' field)
 #. .
@@ -965,13 +846,6 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:45
 msgid "technical-board-member_steps"
 msgstr ""
-"Contribute extensively to Ubuntu for a sustained period of time. There is no "
-"fixed time period, but this should be long enough to demonstrate your "
-"commitment to the project.\r\n"
-"Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. "
-"In the wiki page include your contributions, describe which teams you are "
-"in, and summarize your efforts.\r\n"
-"In the next Technical Board election propose yourself as a candidate."
 
 #. ACCOMPLISHMENT: Technical Board Member ('links' field)
 #. .
@@ -986,8 +860,6 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:57
 msgid "technical-board-member_links"
 msgstr ""
-"https://wiki.ubuntu.com/TechnicalBoard\r\n"
-"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Technical Board Member ('help' field)
 #. .
@@ -1002,8 +874,6 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:69
 msgid "technical-board-member_help"
 msgstr ""
-"#ubuntu-devel-team on Freenode\r\n"
-"#ubuntu-community-team on Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
@@ -1015,7 +885,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-contributor.c:11
 msgid "juju-charm-contributor_title"
-msgstr "Juju Charm Contributor"
+msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
 #. .
@@ -1026,7 +896,7 @@ msgstr "Juju Charm Contributor"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
 msgid "juju-charm-contributor_description"
-msgstr "You contribute Juju charms to Ubuntu."
+msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 #. .
@@ -1040,9 +910,6 @@ msgstr "You contribute Juju charms to Ubuntu."
 #: ../accomplishments/juju-charm-contributor.c:31
 msgid "juju-charm-contributor_summary"
 msgstr ""
-"Juju is a technology powered by the quality of the available charms. This "
-"accomplishment is for those community members who have contributed charms to "
-"the Juju"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('steps' field)
 #. .
@@ -1058,9 +925,6 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:44
 msgid "juju-charm-contributor_steps"
 msgstr ""
-"Contribute a number of Juju charms.\r\n"
-"Contribute regularly and to a high enough quality.\r\n"
-"Ask a member of the Juju Contributors team if you can join."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
 #. .
@@ -1073,7 +937,7 @@ msgstr ""
 #. 
 #: ../accomplishments/juju-charm-contributor.c:55
 msgid "juju-charm-contributor_links"
-msgstr "http://juju.ubuntu.com"
+msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
@@ -1086,7 +950,7 @@ msgstr "http://juju.ubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:66
 msgid "juju-charm-contributor_help"
-msgstr "#juju on Freenode"
+msgstr ""
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
@@ -1098,7 +962,7 @@ msgstr "#juju on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/user-has-mugshot.c:11
 msgid "user-has-mugshot_title"
-msgstr "Setting a mugshot in Launchpad profile"
+msgstr ""
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
 #. .
@@ -1109,7 +973,7 @@ msgstr "Setting a mugshot in Launchpad profile"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/user-has-mugshot.c:20
 msgid "user-has-mugshot_description"
-msgstr "User has set a mugshot in his own Launchpad profile"
+msgstr ""
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
 #. .
@@ -1125,13 +989,6 @@ msgstr "User has set a mugshot in his own Launchpad profile"
 #: ../accomplishments/user-has-mugshot.c:33
 msgid "user-has-mugshot_summary"
 msgstr ""
-"A mugshot is an avatar image that the user can set in his Launchpad profile. "
-"It is nice when people can identify you just watching a picture of you.\r\n"
-"We advise you to choose a real picture of you (usually displaying only the "
-"face) or another avatar you really like. Please try to avoid picture with "
-"content that could offend someone else (e.g. adult content).\r\n"
-"The picture must be exactly <strong>192x192</strong> and big no more than "
-"<strong>100 Kb</strong>."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
 #. .
@@ -1150,15 +1007,6 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:49
 msgid "user-has-mugshot_steps"
 msgstr ""
-"Setting a mugshot is very simple.\r\n"
-"You must be logged on Launchpad.net website. \r\n"
-"Then he needs to go on your profile page that usually is "
-"http://launchpad.net/~YOURUSERNAME\r\n"
-"Click on the link \"Change details\". \r\n"
-"Be sure to have a 192x192 pixel piture to upload (.png or .jpg will be "
-"ok).\r\n"
-"Once the picture is uploaded, please click on \"Save changes\" button at the "
-"end of the page."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
 #. .
@@ -1171,7 +1019,7 @@ msgstr ""
 #. 
 #: ../accomplishments/user-has-mugshot.c:60
 msgid "user-has-mugshot_links"
-msgstr "http://www.launchpad.net"
+msgstr ""
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 #. .
@@ -1184,7 +1032,7 @@ msgstr "http://www.launchpad.net"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/user-has-mugshot.c:71
 msgid "user-has-mugshot_help"
-msgstr "#launchpad on Freenode"
+msgstr ""
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1196,7 +1044,7 @@ msgstr "#launchpad on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/registered-on-launchpad.c:11
 msgid "registered-on-launchpad_title"
-msgstr "Registered on Launchpad"
+msgstr ""
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('description' field)
 #. .
@@ -1207,7 +1055,7 @@ msgstr "Registered on Launchpad"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/registered-on-launchpad.c:20
 msgid "registered-on-launchpad_description"
-msgstr "Registered a Launchpad account"
+msgstr ""
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('summary' field)
 #. .
@@ -1222,11 +1070,6 @@ msgstr "Registered a Launchpad account"
 #: ../accomplishments/registered-on-launchpad.c:32
 msgid "registered-on-launchpad_summary"
 msgstr ""
-"Launchpad is a website in which we do much of our work in Ubuntu. There we "
-"build packages, file and fix bugs, perform translations, manage code, and "
-"other activities.\r\n"
-"You will need to register an account with Launchpad to participate in much "
-"of the Ubuntu community. Fortunately, registering is simple, safe, and free."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('steps' field)
 #. .
@@ -1242,9 +1085,6 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:45
 msgid "registered-on-launchpad_steps"
 msgstr ""
-"Load a web browser on your computer.\r\n"
-"In your web browser go to <tt>http://www.launchpad.net</tt>.\r\n"
-"Click the <i>Register</i> link in the corner of the screen to register."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('links' field)
 #. .
@@ -1257,7 +1097,7 @@ msgstr ""
 #. 
 #: ../accomplishments/registered-on-launchpad.c:56
 msgid "registered-on-launchpad_links"
-msgstr "http://www.launchpad.net"
+msgstr ""
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('help' field)
 #. .
@@ -1270,7 +1110,7 @@ msgstr "http://www.launchpad.net"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/registered-on-launchpad.c:67
 msgid "registered-on-launchpad_help"
-msgstr "#launchpad on Freenode"
+msgstr ""
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
@@ -1282,7 +1122,7 @@ msgstr "#launchpad on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-bug-confirmed.c:11
 msgid "first-bug-confirmed_title"
-msgstr "Filed Bug that was Confirmed"
+msgstr ""
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
 #. .
@@ -1293,7 +1133,7 @@ msgstr "Filed Bug that was Confirmed"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-bug-confirmed.c:20
 msgid "first-bug-confirmed_description"
-msgstr "Filed a bug in Ubuntu that was confirmed by someone else"
+msgstr ""
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 #. .
@@ -1307,12 +1147,6 @@ msgstr "Filed a bug in Ubuntu that was confirmed by someone else"
 #: ../accomplishments/first-bug-confirmed.c:31
 msgid "first-bug-confirmed_summary"
 msgstr ""
-"A bug is a defect in a piece of software. Filing bugs is a great way to help "
-"improve Ubuntu and in order for the bug to be fixed, someone else needs to "
-"be able to reproduce and confirm it. The more detailed and precise your bug "
-"report is, the most likely it is that it can be reproduced by someone else. "
-"This achievement reflects that at least one of your bug reports was of good "
-"quality and was confirmed by someone else."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
 #. .
@@ -1331,25 +1165,6 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:47
 msgid "first-bug-confirmed_steps"
 msgstr ""
-"File a bug as you would normally (see the Filed First Bug accomplishments "
-"for more details) and ensure that the description is detailed enough to "
-"enable others to reproduce it. To write a good bug report, include the "
-"following:\r\n"
-"A clear and concise description of the problem. Don't forget to mention "
-"whether the bug can be triggered every time or whether it is "
-"intermittent.\r\n"
-"A set of steps to reproduce the problem. Make sure that they are explicit. "
-"For instance, if a step involves selecting a menu item, specify whether "
-"selecting it using the mouse or keyboard shortcuts makes a difference.\r\n"
-"A description of the failure when following those steps.\r\n"
-"A description of what you expected the application to do instead. This is an "
-"important piece of information: sometimes, what the application does is what "
-"the developers expected it to do and they didn't realise it would cause you "
-"problems so describing what you expect is helpful to understand the "
-"defect.\r\n"
-"Any additional information you think can help diagnose the problem. For "
-"instance, if the application used to work and suddenly stopped working, "
-"specify when it started mis-behaving."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
 #. .
@@ -1365,9 +1180,6 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:60
 msgid "first-bug-confirmed_links"
 msgstr ""
-"http://www.ubuntu.com\r\n"
-"https://help.ubuntu.com/community/ReportingBugs\r\n"
-"http://www.chiark.greenend.org.uk/~sgtatham/bugs.html"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
@@ -1380,7 +1192,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:71
 msgid "first-bug-confirmed_help"
-msgstr "#ubuntu-testing on Freenode"
+msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
@@ -1392,7 +1204,7 @@ msgstr "#ubuntu-testing on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-reviewer.c:11
 msgid "juju-charm-reviewer_title"
-msgstr "Juju Charm Reviewer"
+msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
 #. .
@@ -1403,7 +1215,7 @@ msgstr "Juju Charm Reviewer"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
-msgstr "You contribute Juju charms to Ubuntu."
+msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
@@ -1417,9 +1229,6 @@ msgstr "You contribute Juju charms to Ubuntu."
 #: ../accomplishments/juju-charm-reviewer.c:31
 msgid "juju-charm-reviewer_summary"
 msgstr ""
-"Juju is a technology powered by the quality of the available charms. This "
-"accomplishment is for those trusted members of the community who review "
-"community charms and approve for inclusion in the Juju Store."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('steps' field)
 #. .
@@ -1435,9 +1244,6 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:44
 msgid "juju-charm-reviewer_steps"
 msgstr ""
-"Contribute a significant number of Juju charms.\r\n"
-"Contribute regularly and to a high enough quality.\r\n"
-"Ask a member of the Juju Reviews team if you can join."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 #. .
@@ -1450,7 +1256,7 @@ msgstr ""
 #. 
 #: ../accomplishments/juju-charm-reviewer.c:55
 msgid "juju-charm-reviewer_links"
-msgstr "http://juju.ubuntu.com"
+msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .
@@ -1463,7 +1269,7 @@ msgstr "http://juju.ubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:66
 msgid "juju-charm-reviewer_help"
-msgstr "#juju on Freenode"
+msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
@@ -1475,7 +1281,7 @@ msgstr "#juju on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/core-dev.c:11
 msgid "core-dev_title"
-msgstr "Ubuntu Core Developer"
+msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('description' field)
 #. .
@@ -1486,7 +1292,7 @@ msgstr "Ubuntu Core Developer"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/core-dev.c:20
 msgid "core-dev_description"
-msgstr "You are an Ubuntu Core Developer"
+msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('summary' field)
 #. .
@@ -1500,10 +1306,6 @@ msgstr "You are an Ubuntu Core Developer"
 #: ../accomplishments/core-dev.c:31
 msgid "core-dev_summary"
 msgstr ""
-"An Ubuntu Core Developer is responsible for packaging and resolving issues "
-"in the <tt>main</tt> archive. This includes some of the most critical "
-"software that is part of an Ubuntu system, and the pieces that ship in a "
-"default Ubuntu installation."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('steps' field)
 #. .
@@ -1519,9 +1321,6 @@ msgstr ""
 #: ../accomplishments/core-dev.c:44
 msgid "core-dev_steps"
 msgstr ""
-"Contribute extensively to Ubuntu for a sustained period of time.\r\n"
-"Make use of the Ubuntu Sponsorship Queue to make your contributions.\r\n"
-"Apply to the Ubuntu Developer Board to be a core developer."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('links' field)
 #. .
@@ -1534,7 +1333,7 @@ msgstr ""
 #. 
 #: ../accomplishments/core-dev.c:55
 msgid "core-dev_links"
-msgstr "https://wiki.ubuntu.com/SponsorshipProcess"
+msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 #. .
@@ -1547,4 +1346,4 @@ msgstr "https://wiki.ubuntu.com/SponsorshipProcess"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:66
 msgid "core-dev_help"
-msgstr "#ubuntu-devel on Freenode"
+msgstr ""
