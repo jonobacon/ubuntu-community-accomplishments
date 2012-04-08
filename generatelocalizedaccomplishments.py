@@ -43,6 +43,9 @@ class GenerateTranslations():
                 
                 if self.masterconfig.has_option("accomplishment", "category"):
                     self.outputconfig.set("accomplishment", "category", self.masterconfig.get("accomplishment", "category"))                
+
+                if self.masterconfig.has_option("accomplishment", "needs-signing"):
+                    self.outputconfig.set("accomplishment", "needs-signing", self.masterconfig.get("accomplishment", "needs-signing"))                
                 
                 if self.masterconfig.has_option("accomplishment", "icon"):
                     self.outputconfig.set("accomplishment", "icon", self.masterconfig.get("accomplishment", "icon"))                

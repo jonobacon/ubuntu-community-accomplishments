@@ -3,6 +3,7 @@ title = Juju Charm Contributor
 description = You contribute Juju charms to Ubuntu.
 application = ubuntu-community
 category = Juju
+needs-signing = true
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju

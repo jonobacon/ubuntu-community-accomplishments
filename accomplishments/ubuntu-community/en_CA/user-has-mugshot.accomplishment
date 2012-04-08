@@ -3,6 +3,7 @@ title = Setting a mugshot in Launchpad profile
 description = User has set a mugshot in his own Launchpad profile
 application = ubuntu-community
 category = Launchpad
+needs-signing = true
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
 summary = A mugshot is an avatar image that the user can set in his Launchpad profile. It is nice when people can identify you just watching a picture of you.

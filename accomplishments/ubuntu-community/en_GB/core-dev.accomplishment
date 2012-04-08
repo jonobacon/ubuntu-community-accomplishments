@@ -3,6 +3,7 @@ title = Ubuntu Core Developer
 description = You are an Ubuntu Core Developer
 application = ubuntu-community
 category = Development
+needs-signing = true
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
