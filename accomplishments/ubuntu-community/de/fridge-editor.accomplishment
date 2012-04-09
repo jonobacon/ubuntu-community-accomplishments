@@ -1,0 +1,17 @@
+[accomplishment]
+title = Fridge Editor
+description = Ein Mitglied des Fridge Editor Teams
+application = ubuntu-community
+category = Documentation
+needs-signing = true
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+summary = Die Ubuntu Fridge ist die offizielle Nachrichten Seite für die Ubuntu Gemeinschaft. Es ist ein gemeinschaftlich geschriebenes Nachrichtenportal, das Artikel, Nachrichten, Meinungen und andere Inhalte von überall aus der Welt und aus der Ubuntu Gemeinschaft bereit stellt.
+steps = Werde ein Ubuntu Mitglied. Habe eine gute Kenntnis über die Ubuntu Gemeinschaft, habe gute schriftliche Englisch Fähigkeiten. Jeder, der ein Mitglied des Ubuntu Fridge Redaktion Teams sein will, sollte einige Artikel an die Redaktion schicken, damit sie einen kennen lernen und einen beraten können (wenn nötig). Artikel können an das Nachrichtenteam durch IRC (Internet Chat Relay) auf Freenode (irc.freenode.net)-#ubuntu-news-- oder durch folgende E-Mail geschickt werden: ubuntu-news-team@lists.ubuntu.com (keine Anmeldung nötig).  Weitere Informationen kannst du auf der Fridge Wiki Seite bekommen unter Editors Guidelines.
+	Schreibe Entwürfe für jede deiner Ideen.
+	Schicke dein Inhalt an die Fridge Redaktion.
+tips = None
+pitfalls = None
+help = #ubuntu-community-team on Freenode
+	#ubuntu-news on Freenode
+

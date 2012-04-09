@@ -1,0 +1,16 @@
+[accomplishment]
+title = Juju Charm Gutachter
+description = Du trägst Juju Charms zu Ubuntu bei.
+application = ubuntu-community
+category = Juju
+needs-signing = true
+icon = juju.png
+depends = ubuntu-community/juju-charm-contributor
+summary = Juju ist eine Technologie die durch die Qualität verschiedenen Charms bereitgestellt wird. Diese Errungenschaft ist für die vertrauensvollen Mitglieder der Gemeinde welche Charms aus der Gemeinde begutachten und für die Aufnahme in den Juju Store genehmigen.
+steps = Trage eine Nummer von Juju Charms bei.
+	Trage regelmäßig und zu einer ausreichend hohen Qualität bei.
+	Frage ein Mitglied des Juju Beiträger Teams ob du beitreten darfst.
+tips = None
+pitfalls = None
+help = #juju auf Freenode
+

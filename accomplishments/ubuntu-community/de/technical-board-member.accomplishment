@@ -1,0 +1,18 @@
+[accomplishment]
+title = Technisches Vorstandsmitglied
+description = Du bist Mitglied des Technischen Ubuntu Vorstands
+application = ubuntu-community
+category = Governance
+needs-signing = true
+icon = devel.png
+depends = ubuntu-community/ubuntu-member
+summary = Der Ubuntu Technische Vorstand (Technical Board) ist einer der wichtigsten agierenden Vorstände in der Ubuntu Gemeinschaft. Der Technische Vorstand berät und entschließt Vorgehensweisen bezüglich technischen Themen. Er ist auch ein Eskalationskörper für Vorfälle, die anderswo in der Ubuntu-Gemeinschaft auftreten. 
+	Um Mitglied des Technischen Vorstands zu werden muss man ein starkes Engagement, Beteiligung in der Geschichte Ubuntus, und klare Führungsfertigkeiten vorgewiesen haben und die Zeit und die Möglichkeit sich den Bedürfnissen des Rates zu verpflichten haben.
+steps = Trage intensiv für einen längeren Zeitraum zu Ubuntu bei. Es gibt keine festgelegten Zeitraum, aber er sollte lang genug sein um deinen Einsatz für das Projekt zu erkennen.
+	Erstelle eine Seite auf <tt>wiki.ubuntu.com</tt> der deine Beiträge auflistet. Füge auf der Wiki-Seite deine Beiträge ein, beschreibe die Teams in dehnen du bist, und fasse deine Bemühungen zusammen.
+	Schlage dich in der nächsten Auswahl des Technischen Vorstands als Kandidat vor.
+tips = None
+pitfalls = None
+help = #ubuntu-devel-team on Freenode
+	#ubuntu-community-team on Freenode
+

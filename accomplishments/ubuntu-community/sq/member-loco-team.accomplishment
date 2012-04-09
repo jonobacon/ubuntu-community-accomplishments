@@ -1,0 +1,19 @@
+[accomplishment]
+title = Anëtar i një Ekipi LoCo
+description = Ju jeni një anëtar i një ekipi Ubuntu LoCo
+application = ubuntu-community
+category = LoCo Teams
+needs-signing = true
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+summary = Ekipet Ubuntu LoCo (Komumiteti lokal) janë grupe lokale përdoruesish më bazë të gjithë botën në të cilat njerëzit mblidhen së bashku për të diskutuar Ubuntu, ndajnë idetë, këshilla, truket, dhe njohuritë, dhe të punojnë së bashku për të përhapur fjalën Ubuntu dhe se si ajo mund të ndihmojë njerëzit.
+	.
+steps = Shko tek <tt> loco.ubuntu.com </ tt> për të gjetur ekipin tuaj më të afërt dhe ti bashkoheni atij. Ky trofe jepet nëse ju jeni një anëtar i ndonjë ekipi LoCo pavarësisht nga statusi i tij, i miratuar apo jo.
+	Vizito faqen e Launchpad të atij ekipi dhe klikoni në linkun e tij për tiu bashkuar.
+	.
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams on Freenode
+	#ubuntu-community-team on Freenode
+	.
+

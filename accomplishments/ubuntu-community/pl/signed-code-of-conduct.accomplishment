@@ -1,0 +1,23 @@
+[accomplishment]
+title = Podpisano Kodeks Postępowania Ubuntu
+description = Podpisałeś Kodeks Postępowania Ubuntu.
+application = ubuntu-community
+category = General
+needs-signing = true
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+summary = Kodeks postępowania Ubuntu jest ważnym dokumentem, który zawiera zbiór wytycznych i oczekiwań dobrego postępowania w społeczności Ubuntu.
+	Obejmuje on oczekiwania dotyczące rozwagi, szacunku, współpracy, oraz jak prosić o pomoc i jak ustąpić gdy stajesz się zbyt zajęty i brakuje Ci czasu.
+	To trofeum przyznawane jest, gdy zgodzisz się przestrzegać tych oczekiwań w społeczności i podpiszesz Kodeks Postępowania Ubuntu.
+steps = Najpierw wygeneruj klucz PGP, dodaj go do klucza serwera Ubuntu i zaimportuj je do Launchpad'a. Zobacz <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey"> tutaj </ a>, jak to zrobić.
+	Odwiedź <a href="https://launchpad.net/codeofconduct"> Kodeks Postępowania Ubuntu </ a>.
+	Pobierz Kodeks Postępowania Ubuntu, korzystając z linku znajdującego się w drugim etapie na tej stronie i otwórz go.
+	Zarejestruj go przez wpisanie w terminalu <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt>.
+	Teraz otwórz plik w edytorze tekstu.
+	Na stronie Kodeksu Postępowania Ubuntu, kliknij przycisk <i>Sign it!</i> następnie wklej w polu tekstowym. Kliknij <i>Continue</i>. Gratulacje, podpisałeś Kodeks Postępowania Ubuntu!
+tips = None
+pitfalls = None
+help = #ubuntu-pl na Freenode
+	#ubuntu-locoteams na Freenode
+	#ubuntu-community-team na Freenode
+

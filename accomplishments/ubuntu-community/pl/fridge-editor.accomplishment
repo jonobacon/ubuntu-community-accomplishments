@@ -1,0 +1,18 @@
+[accomplishment]
+title = Fridge Editor
+description = Członek zespołu Fridge Editor
+application = ubuntu-community
+category = Documentation
+needs-signing = true
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+summary = Ubuntu Fridge jest oficjalna stroną społeczności Ubuntu. Jest to strona prowadzona przez społeczność Ubuntu na której znajdziesz  nowinki, opinie oraz inne ciekawe informacje na temat Ubuntu.
+	<i>Ubuntu Fridge Editors</i> Jest to zespół który tworzy i publikuje zawartość strony <i>http://fridge.ubuntu.com/</i>. Aby zostać członkiem tego zespołu musisz dobrze pisać, często pisać oraz odpisywać na komentarze do publikowanych nowości i artykułów.
+steps = Zostań członkiem Ubuntu. Posiadasz dobrą wiedzę o społeczności Ubuntu, posiadasz dobre zdolności pisania w języku angielskim. Jeżeli jesteś zainteresowany członkostwem w zespole <i>Ubuntu Fridge Editors</i> powinieneś przesłać do nich kilka swoich artykułów w celu zapoznania sie przez zespół z Twoja osobą.  Artykuły możesz wysłać do "news team" przez IRC (Internet Chat Relay) na kanale #ubuntu-news (irc.freenode.net) albo możesz wysłać maila na: ubuntu-news-team@lists.ubuntu.com ( temat wiadomości nie jest obowiązkowy ). Dodatkowe informacje jakie członek tego zespołu powinien posiadać możesz naleźć na <i>https://wiki.ubuntu.com/Fridge/EditorGuidelines</i>.
+	Pisz notatki na brudno z pomysłów jakie przyjdą Ci do głowy.
+	Prześlij swoje treści do zespołu Fridge Editors.
+tips = None
+pitfalls = None
+help = #ubuntu-community-team on Freenode
+	#ubuntu-news on Freenode
+

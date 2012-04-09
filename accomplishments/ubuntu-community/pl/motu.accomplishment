@@ -1,0 +1,16 @@
+[accomplishment]
+title = Ubuntu MOTU Deweloper
+description = Jesteś Ubuntu MOTU Deweloper
+application = ubuntu-community
+category = Development
+needs-signing = true
+icon = devel.png
+depends = ubuntu-community/registered-on-launchpad
+summary = Ubuntu MOTU Deweloper jest odpowiedzialny za pakowanie i rozwiązywania problemów w archiwum wszechświata (ang. the <tt>universe</tt> archive). Obejmuje to szeroki zakres aplikacji, które zostały wprowadzone do Ubuntu z Debiana.
+steps = Przyczynić się w znacznym stopniu do projektu Ubuntu na dłuższy okres czasu.
+	Skorzystaj z kolejki Sponsoringu Ubuntu (ang. Ubuntu Sponsorship Queue) do podejmowania swoich składek.
+	Zwrócić się do Zarządu Ubuntu Developer by zostać deweloperem MOTU.
+tips = None
+pitfalls = None
+help = #ubuntu-devel na Freenode
+

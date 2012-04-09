@@ -1,0 +1,16 @@
+[accomplishment]
+title = Ubuntu MOTU-utvecklare.
+description = Du är en Ubuntu MOTU-utvecklare.
+application = ubuntu-community
+category = Development
+needs-signing = true
+icon = devel.png
+depends = ubuntu-community/registered-on-launchpad
+summary = En Ubuntu MOTU-utvecklare är ansvarig för packetering och i hantering av konflikter <tt>universe</tt>-arkivet. Detta arkiv innehåller en stor mängd olika applikationer som kommer till Ubuntu från Debian.
+steps = Contribute extensively to Ubuntu for a sustained period of time.
+	Make use of the Ubuntu Sponsorship Queue to make your contributions.
+	Apply to the Ubuntu Developer Board to be a MOTU developer.
+tips = None
+pitfalls = None
+help = #ubuntu-devel på Freenode
+

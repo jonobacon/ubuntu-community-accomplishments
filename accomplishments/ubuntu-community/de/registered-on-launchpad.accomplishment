@@ -1,0 +1,15 @@
+[accomplishment]
+title = Registriert bei Launchpad
+description = Ein Launchpad-Konto eröffnet
+application = ubuntu-community
+category = General
+needs-signing = true
+icon = default.png
+summary = Launchpad ist eine Webseite, in welcher wir viel Arbeit in Ubuntu verrichten. Dort werden Software-Packete gebaut, Softwarefehler (Bugs) gemeldet und behoben, Übersetzungen vorgenommen, Software-Code verwaltet, und andere Aktivitäten erledigt. Um in vielen Bereichen der Ubuntu Gemeinschaft mitzuwirken musst du ein Benutzerkonto auf Launchpad eröffnen.  Glücklicherweise ist das Registrieren einfach, sicher und kostenlos.
+steps = Lade einen Webbrowser von deinem Computer.
+	Gehe in deinem Webbrowser auf <tt>http://www.launchpad.net</tt>.
+	Klicke auf den Link <i>Register</i> in der oberen linken Ecke des Bildschirmes um dich zu registrieren.
+tips = None
+pitfalls = None
+help = #launchpad auf Freenode
+
