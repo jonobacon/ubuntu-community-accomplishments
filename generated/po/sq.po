@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-08 16:18+0000\n"
+"PO-Revision-Date: 2012-04-09 12:54+0000\n"
 "Last-Translator: Lulzim <Unknown>\n"
 "Language-Team: Albanian <sq@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-09 05:15+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -381,7 +381,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/signed-code-of-conduct.c:11
 msgid "signed-code-of-conduct_title"
-msgstr ""
+msgstr "Nënshkruaj kodin e mirësjelljes të Ubuntu"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
 #. .
@@ -392,7 +392,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
 msgid "signed-code-of-conduct_description"
-msgstr ""
+msgstr "Ju keni nënshkruar Kodin e mirësjelljes të Ubuntu"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .
@@ -408,6 +408,13 @@ msgstr ""
 #: ../accomplishments/signed-code-of-conduct.c:33
 msgid "signed-code-of-conduct_summary"
 msgstr ""
+"Kodi i mirësjelljes i Ubuntu është një dokument i rëndësishëm që ofron një "
+"sërë udhëzimesh për sjellje të mirë në Komunitetin Ubuntu.\r\n"
+"Ai përfshin udhezime rreth të qenit i vëmendshëm, i respektueshëm, "
+"bashkëpunuese, si për të kërkuar ndihmë, dhe pët të dhënë dorëheqjen kur ju "
+"jeni shumë i zënë.\r\n"
+"Ky trofe jepet kur ju keni rënë dakord të veproni në përputhje me këto "
+"udhëzime në komunitet dhe keni nënshkruar Kodin e mirësjelljes të Ubuntu."
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
 #. .
@@ -426,6 +433,20 @@ msgstr ""
 #: ../accomplishments/signed-code-of-conduct.c:49
 msgid "signed-code-of-conduct_steps"
 msgstr ""
+"Së pari gjeneroni një çelës PGP, shtoni atë në Ubuntu key-server, dhe "
+"importoni atë në Launchpad. Shiko <a "
+"href=\"https://help.launchpad.net/YourAccount/ImportingYourPGPKey\">këtu</a> "
+"për mënyrën se si ta bëni këtë.\r\n"
+"Vizito <a href=\"https://launchpad.net/codeofconduct\">faqen e Kodit të "
+"mirësjelljes</a>.\r\n"
+"Shkarko Kodin e mirësjelljes të Ubuntu, duke përdorur lidhjen e vendosur në "
+"hapin e dytë të faqes, dhe hapeni atë.\r\n"
+"Nënshkruajë atë duke hapur një terminal dhe ekzekutoni <tt>gpg --clearsign "
+"UbuntuCodeofConduct-*.txt</ tt>.\r\n"
+"Tani hapni skedarin në një editor teksti.\r\n"
+"Në faqen e kodint të mirësjelljes të Ubuntu, klikoni <i>nënshkruaj atë!</i> "
+"dhe pastaj vendoseni në kutinë e tekstit. Kliko <i>Vazhdo</ i>. Urime, ju "
+"keni nënshkruar Kodin e mirësjelljes të Ubuntu!"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
 #. .
@@ -437,7 +458,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/signed-code-of-conduct.c:59
 msgid "signed-code-of-conduct_links"
-msgstr ""
+msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('help' field)
 #. .
@@ -452,6 +473,8 @@ msgstr ""
 #: ../accomplishments/signed-code-of-conduct.c:71
 msgid "signed-code-of-conduct_help"
 msgstr ""
+"#ubuntu-locoteams në Freenode\r\n"
+"#ubuntu-community-team në Freenode"
 
 #. ACCOMPLISHMENT: Community Council Member ('title' field)
 #. .
@@ -463,7 +486,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/community-council-member.c:11
 msgid "community-council-member_title"
-msgstr ""
+msgstr "Anëtar i Këshillit të Komunitetit"
 
 #. ACCOMPLISHMENT: Community Council Member ('description' field)
 #. .
@@ -474,7 +497,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/community-council-member.c:20
 msgid "community-council-member_description"
-msgstr ""
+msgstr "Ju jeni një anëtar i Këshillit të Komunitetit"
 
 #. ACCOMPLISHMENT: Community Council Member ('summary' field)
 #. .
@@ -490,6 +513,15 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:33
 msgid "community-council-member_summary"
 msgstr ""
+"Këshilli i Komunitetit të Ubuntu është organi kryesor (dmth jo-teknikë)  "
+"qeverisës i projektit Ubuntu dhe si i tillë ka një rol të rëndësishëm dhe "
+"përgjegjësi ndaj komunitetit të Ubuntu.\r\n"
+"Këshilli i Komunitetit këshillon dhe vendos për politikat dhe proceset "
+"komunitare. Ai është gjithashtu një organ përshkallëzim për incidentet që "
+"ndodhin kudo në komunitetin Ubuntu.\r\n"
+"Anëtarët e Këshillit të Komunitetit kanë demonstruar një angazhim të fortë "
+"në historinë e pjesëmarrjes në Ubuntu, aftësitë të qarta drejtuese, dhe kanë "
+"kohën dhe disponueshmërinë e duhur për të kryer nevojat e këshillit."
 
 #. ACCOMPLISHMENT: Community Council Member ('steps' field)
 #. .
@@ -534,6 +566,11 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:71
 msgid "community-council-member_pitfalls"
 msgstr ""
+"Mos aplikoni në Këshillin e Komunitetit vetëm që të jeni në një pozitë të "
+"pushtetshme.\r\n"
+"Mundohuni të mos jeni në më shumë se një këshill (p.sh. Komuniteti i "
+"Këshillit të bordit Teknik) në të njëjtën kohë. bashkohuni në një, dhe jepni "
+"vëmendjen tuaj të plotë."
 
 #. ACCOMPLISHMENT: Community Council Member ('links' field)
 #. .
@@ -548,6 +585,9 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:83
 msgid "community-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/CommunityCouncil\r\n"
+"https://wiki.ubuntu.com/CommunityCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Community Council Member ('help' field)
 #. .
@@ -560,7 +600,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:94
 msgid "community-council-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team në Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 #. .
@@ -626,6 +666,9 @@ msgstr ""
 #: ../accomplishments/motu.c:56
 msgid "motu_links"
 msgstr ""
+"https://wiki.ubuntu.com/MOTU\r\n"
+"https://wiki.ubuntu.com/UbuntuDevelopment\r\n"
+"https://wiki.ubuntu.com/SponsorshipProcess"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('help' field)
 #. .
@@ -638,7 +681,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/motu.c:67
 msgid "motu_help"
-msgstr ""
+msgstr "#ubuntu-devel në Freenode"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('title' field)
 #. .
@@ -735,6 +778,9 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:83
 msgid "loco-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/LoCoCouncil\r\n"
+"https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('help' field)
 #. .
@@ -749,6 +795,8 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:95
 msgid "loco-council-member_help"
 msgstr ""
+"#ubuntu-community-team në Freenode\r\n"
+"#ubuntu-locoteams në Freenode"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 #. .
@@ -816,6 +864,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:58
 msgid "ubuntu-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/Membership\r\n"
+"https://wiki.ubuntu.com/Membership/RegionalBoards"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 #. .
@@ -828,7 +878,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:69
 msgid "ubuntu-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team në Freenode"
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
@@ -894,6 +944,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:56
 msgid "technical-board-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/TechnicalBoard\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Technical Board Member ('help' field)
 #. .
@@ -908,6 +960,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:68
 msgid "technical-board-member_help"
 msgstr ""
+"#ubuntu-devel-team në Freenode\r\n"
+"#ubuntu-community-team në Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
@@ -970,7 +1024,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-contributor.c:54
 msgid "juju-charm-contributor_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
@@ -983,7 +1037,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:65
 msgid "juju-charm-contributor_help"
-msgstr ""
+msgstr "#juju në Freenode"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
@@ -1051,7 +1105,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/user-has-mugshot.c:59
 msgid "user-has-mugshot_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 #. .
@@ -1064,7 +1118,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/user-has-mugshot.c:70
 msgid "user-has-mugshot_help"
-msgstr ""
+msgstr "#launchpad në Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1128,7 +1182,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/registered-on-launchpad.c:55
 msgid "registered-on-launchpad_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('help' field)
 #. .
@@ -1141,7 +1195,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/registered-on-launchpad.c:66
 msgid "registered-on-launchpad_help"
-msgstr ""
+msgstr "#launchpad në Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
@@ -1210,6 +1264,9 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_links"
 msgstr ""
+"http://www.ubuntu.com\r\n"
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"http://www.chiark.greenend.org.uk/~sgtatham/bugs.html"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
@@ -1222,7 +1279,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:70
 msgid "first-bug-confirmed_help"
-msgstr ""
+msgstr "#ubuntu-testing në Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
@@ -1285,7 +1342,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .
@@ -1298,7 +1355,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:65
 msgid "juju-charm-reviewer_help"
-msgstr ""
+msgstr "#juju në Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
@@ -1361,7 +1418,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/core-dev.c:54
 msgid "core-dev_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/SponsorshipProcess"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 #. .
@@ -1374,4 +1431,4 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:65
 msgid "core-dev_help"
-msgstr ""
+msgstr "#ubuntu-devel në Freenode"

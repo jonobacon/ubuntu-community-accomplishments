@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-08 14:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-09 15:07+0000\n"
+"Last-Translator: Ahmed Shokry <Unknown>\n"
 "Language-Team: Arabic <ar@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-09 05:15+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/member-loco-team.c:20
 msgid "member-loco-team_description"
-msgstr ""
+msgstr "أنت عضو في واحد من فرق أوبونتو المحلية."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 #. .
@@ -52,6 +52,9 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:31
 msgid "member-loco-team_summary"
 msgstr ""
+"فرق أوبونتو المحلية هي مجموعات من المستخدمين موجودة في كل انحاء العالم.\r\n"
+"هدفها تجمع المستخدمين للمناقشة حول أوبونتو , تبادل الأفكار والخبرات , "
+"والتعاون لنشر ثقافة أوبونتو و كيف يمكن للناس الاستفادة منه."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
 #. .

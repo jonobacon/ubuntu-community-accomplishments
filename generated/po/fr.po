@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-08 21:46+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-10 04:45+0000\n"
+"Last-Translator: hanynowsky <Unknown>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-09 05:15+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/member-loco-team.c:11
 msgid "member-loco-team_title"
-msgstr ""
+msgstr "Membre d'une Communauté Locale"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('description' field)
 #. .
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/member-loco-team.c:20
 msgid "member-loco-team_description"
-msgstr ""
+msgstr "Vous êtes membre d'une communauté locale"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 #. .
@@ -52,6 +52,10 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:31
 msgid "member-loco-team_summary"
 msgstr ""
+"Les communautés locales Ubuntu sont des groupes basés partout dans le monde "
+"au sein desquels des utilisateurs se retrouvent pour discuter de Ubuntu, "
+"partager des idées, trucs et astuces ainsi que des connaissances; et pour "
+"travailler ensemble à promouvoir Ubuntu auprès de nouveaux utilisateurs."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
 #. .
@@ -66,6 +70,11 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:43
 msgid "member-loco-team_steps"
 msgstr ""
+"Naviguez sur <tt>loco.ubuntu.com</tt> et trouvez l'équipe locale la plus "
+"proche. Ce trophée est discerné si vous êtes un membre d'une équipe "
+"quelconque même si votre appartenance n'a pas été approuvée. \r\n"
+"Visitez la page de l'équipe sur <i>Launchpad</i> et cliquez sur le lien "
+"<i>Join Team (Se joindre à l'équipe)</i>."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('links' field)
 #. .
@@ -77,7 +86,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/member-loco-team.c:53
 msgid "member-loco-team_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('help' field)
 #. .
@@ -92,6 +101,8 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:65
 msgid "member-loco-team_help"
 msgstr ""
+"#ubuntu-locoteams sur Freenode\r\n"
+"#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Report First Bug ('title' field)
 #. .
@@ -103,7 +114,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/report-first-bug.c:11
 msgid "report-first-bug_title"
-msgstr ""
+msgstr "Signaler son premier bogue"
 
 #. ACCOMPLISHMENT: Report First Bug ('description' field)
 #. .
@@ -114,7 +125,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
-msgstr ""
+msgstr "Vous avez rapporté votre premier bogue dans Ubuntu"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
@@ -132,6 +143,9 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:35
 msgid "report-first-bug_summary"
 msgstr ""
+"Un <i>bogue</i> est un défaut dans un logiciel. Quand vous signalez un "
+"bogue, cela signifie que vous informer le projet Ubuntu de la présence d'un "
+"des ces défauts, de telle sorte que nous puissions le résoudre."
 
 #. ACCOMPLISHMENT: Report First Bug ('steps' field)
 #. .
@@ -224,7 +238,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/fridge-editor.c:20
 msgid "fridge-editor_description"
-msgstr ""
+msgstr "Membre de l'équipe d'éditeurs du Fridge"
 
 #. ACCOMPLISHMENT: Fridge Editor ('summary' field)
 #. .

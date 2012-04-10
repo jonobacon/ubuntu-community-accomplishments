@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-09 00:36+0000\n"
+"PO-Revision-Date: 2012-04-09 23:16+0000\n"
 "Last-Translator: Kenneth Frantzen <Unknown>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-09 05:15+0000\n"
-"X-Generator: Launchpad (build 15060)\n"
+"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Generator: Launchpad (build 15070)\n"
 "Language: sv\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -306,6 +306,17 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:45
 msgid "fridge-editor_steps"
 msgstr ""
+"Bli Ubuntu medlem. Ha goda kunskaper om Ubuntugemenskapen. Ha god förmåga "
+"att skriva på engelska. Individer som är intresserade av att bli medlemmar i "
+"Ubuntu Fridge editors gruppen ska skicka in några artiklar så att Editors "
+"Team kan lära känna dig och ge dig råd (om nödvändigt). Artiklar kan skickas "
+"in till nyhetsgruppen på deras IRC (Internet Relay Chat) kanal på Freenode "
+"(irc.freenode.net)-#ubuntu-news-- eller så kan de skickas via email till: "
+"ubuntu-news-team@lists.ubuntu.com (ingen prenumeration nödvändig). "
+"Ytterligare information som alla editorer bör känna till finns på Fridges "
+"wikisida under Editors Guidelines.\r\n"
+"Skriv utkast för var och en av dina idéer.\r\n"
+"Skicka ditt material till Fridge Editors."
 
 #. ACCOMPLISHMENT: Fridge Editor ('links' field)
 #. .
@@ -345,7 +356,7 @@ msgstr "#ubuntu-community-team på Freenode #ubuntu-news på Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/signed-code-of-conduct.c:11
 msgid "signed-code-of-conduct_title"
-msgstr ""
+msgstr "Undertecknat Ubuntu Code Of Conduct"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
 #. .
@@ -356,7 +367,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
 msgid "signed-code-of-conduct_description"
-msgstr ""
+msgstr "Du har undertecknat Ubuntu Code Of Conduct"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .
@@ -372,6 +383,13 @@ msgstr ""
 #: ../accomplishments/signed-code-of-conduct.c:33
 msgid "signed-code-of-conduct_summary"
 msgstr ""
+"Ubuntu Code Of Conduct är ett viktigt dokument som innehåller en uppsättning "
+"riktlinjer och förväntningar på gott uppförande i Ubuntugemenskapen.\r\n"
+"Det innehåller förväntningar gällande omtänksamhet, respekt, samarbetsvilja, "
+"förmåga att be om hjälp samt hur man stiger åt sidan när man blir för "
+"upptagen.\r\n"
+"Denna trofé tilldelas dig när du har gått med på att respektera dessa "
+"förväntningar i gemenskapen och har undertecknat Ubuntu Code Of Conduct."
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
 #. .
@@ -390,6 +408,21 @@ msgstr ""
 #: ../accomplishments/signed-code-of-conduct.c:49
 msgid "signed-code-of-conduct_steps"
 msgstr ""
+"Först ska du generera en PGP nyckel, publicera den på Ubuntus nyckelserver "
+"och importera den till Launchpad. <a "
+"href=\"https://help.launchpad.net/YourAccount/ImportingYourPGPKey\">Här</a> "
+"finns mer information om hur det går till.\r\n"
+"Besök <a href=\"https://launchpad.net/codeofconduct\">Code Of Conduct "
+"sidan</a>.\r\n"
+"Hämta Ubuntu Code Of Conduct med hjälp av länken i sidans andra avdelning, "
+"och öppna den.\r\n"
+"Underteckna genom att öppna ett terminalfönster och kör <tt>gpg --clearsign "
+"UbuntuCodeofConduct-*.txt</tt>.\r\n"
+"Öppna nu filen i en texteditor.\r\n"
+"På Ubuntu Code Of Conduct sidan klickar du på <i>Sign it!</i> och därefter "
+"klistrar du in textfilens innehåll i textrutan. Klicka på "
+"<i>Continue</i>.\r\n"
+"Grattis, nu har du undertecknat Ubuntu Code Of Conduct!"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
 #. .
@@ -427,7 +460,7 @@ msgstr "#ubuntu-locoteams på Freenode #ubuntu-community-team på Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/community-council-member.c:11
 msgid "community-council-member_title"
-msgstr ""
+msgstr "Medlem i Community Council"
 
 #. ACCOMPLISHMENT: Community Council Member ('description' field)
 #. .
@@ -438,7 +471,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/community-council-member.c:20
 msgid "community-council-member_description"
-msgstr ""
+msgstr "Du är medlem i Community Council"
 
 #. ACCOMPLISHMENT: Community Council Member ('summary' field)
 #. .
@@ -454,6 +487,15 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:33
 msgid "community-council-member_summary"
 msgstr ""
+"Ubuntu Community Council är Ubuntuprojektets huvudsakliga gemenskaps (icke "
+"tekniska) styrande organ och har därmed en viktig roll och ett viktigt "
+"ansvar i Ubuntugemenskapen.\r\n"
+"Community Council råder och bestämmer när det gäller gemenskapens principer "
+"och procedurer. Det hanterar också upptrappningar inom den övriga "
+"Ubuntugemenskapen.\r\n"
+"Medlemmar i Community Council har historiskt visat ett stort engagemang och "
+"deltagande i Ubuntu, visat prov på tydliga ledaregenskaper och har tid och "
+"möjlighet att engagera sig i rådets behov."
 
 #. ACCOMPLISHMENT: Community Council Member ('steps' field)
 #. .
@@ -469,6 +511,18 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:46
 msgid "community-council-member_steps"
 msgstr ""
+"Bli Ubuntu medlem. Bidra ändamålsenligt och omfattande till Ubuntu under en "
+"sammanhängande period. Det finns ingen bestämd tidsperiod, men det ska vara "
+"tillräckligt länge för att visa att du är engagerad i projektet.\r\n"
+"Förbättra wikisidan som skapades för Ubuntu Membership och som normalt "
+"hittas på <tt>wiki.ubuntu.com</tt>, och se till att den är uppdaterad och "
+"visar dina bidrag. På wikisidan ska du ta med dina bidrag, beskriva i vilka "
+"grupper du ingår och sammanfatta dina insatser.\r\n"
+"Nominera dig själv som kandidat när nästa Community Council val "
+"tillkännages. Mark Shuttleworth, Ubuntus grundare, och också känd som sabdfl "
+"(self-appointed benevolent dictator for life dvs. självutnämnd välvillig "
+"diktator på livstid) väljer kandidaterna från en lista med nominerade och "
+"lägger fram de kandidater som nuvarande Ubuntu medlemmar kan rösta på."
 
 #. ACCOMPLISHMENT: Community Council Member ('tips' field)
 #. .
@@ -484,6 +538,12 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:59
 msgid "community-council-member_tips"
 msgstr ""
+"Fokusera på din ledarskapsförmåga. Community Council är en viktig "
+"ledarposition och vi letar efter starka, begåvade, självsäkra ledare.\r\n"
+"Du bör ha lett en annan grupp för att ha utvecklat och visat din "
+"ledarskapsförmåga innan du ansöker till Community Council.\r\n"
+"Sök endast till Community Council när du har betydande erfarenhet i "
+"gemenskapen."
 
 #. ACCOMPLISHMENT: Community Council Member ('pitfalls' field)
 #. .
@@ -498,6 +558,9 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:71
 msgid "community-council-member_pitfalls"
 msgstr ""
+"Sök inte till Community Council enbart för att få en maktposition.\r\n"
+"Försök att inte vara med i mer än ett råd (t.ex. Community Council, "
+"Technical Board) samtidigt. Gå med i ett, och ge det din fulla uppmärksamhet."
 
 #. ACCOMPLISHMENT: Community Council Member ('links' field)
 #. .
@@ -512,6 +575,9 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:83
 msgid "community-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/CommunityCouncil\r\n"
+"https://wiki.ubuntu.com/CommunityCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Community Council Member ('help' field)
 #. .
@@ -524,7 +590,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:94
 msgid "community-council-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team på Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 #. .
@@ -561,8 +627,8 @@ msgstr "Du är en Ubuntu MOTU-utvecklare."
 #: ../accomplishments/motu.c:31
 msgid "motu_summary"
 msgstr ""
-"En Ubuntu MOTU-utvecklare är ansvarig för packetering och i hantering av "
-"konflikter <tt>universe</tt>-arkivet. Detta arkiv innehåller en stor mängd "
+"En Ubuntu MOTU-utvecklare är ansvarig för packetering och hantering av "
+"konflikter i <tt>universe</tt>-arkivet. Detta arkiv innehåller en stor mängd "
 "olika applikationer som kommer till Ubuntu från Debian."
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('steps' field)
@@ -579,6 +645,9 @@ msgstr ""
 #: ../accomplishments/motu.c:44
 msgid "motu_steps"
 msgstr ""
+"Kom med betydande bidrag till Ubuntu under en sammanhängande tidsperiod.\r\n"
+"Använd Ubuntu Sponsorship Queue för att göra dina bidrag.\r\n"
+"Ansök till Ubuntu Developer Board för att bli en MOTU utvecklare."
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
 #. .
@@ -619,7 +688,7 @@ msgstr "#ubuntu-devel på Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/loco-council-member.c:11
 msgid "loco-council-member_title"
-msgstr ""
+msgstr "Loco Council Medlem"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('description' field)
 #. .
@@ -630,7 +699,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/loco-council-member.c:20
 msgid "loco-council-member_description"
-msgstr ""
+msgstr "Du är medlem i Loco Council"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 #. .
@@ -740,7 +809,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:20
 msgid "ubuntu-member_description"
-msgstr ""
+msgstr "Du är en godkänd Ubuntu medlem"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 #. .
@@ -1144,7 +1213,7 @@ msgstr "#launchpad på Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-bug-confirmed.c:11
 msgid "first-bug-confirmed_title"
-msgstr ""
+msgstr "Rapporterade en Bug som var konstaterad"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
 #. .
@@ -1155,7 +1224,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-bug-confirmed.c:20
 msgid "first-bug-confirmed_description"
-msgstr ""
+msgstr "Raporterade en bug i Ubuntu som redan var konstaterad av någon annan"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 #. .
@@ -1169,6 +1238,13 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:31
 msgid "first-bug-confirmed_summary"
 msgstr ""
+"En bug är ett fel som uppstått i mjukvara. Att rapportera buggar är ett "
+"jättebra sätt att hjälpa till med att göra Ubuntu bättre. För att buggen "
+"skall kunna åtgärdas, måste någon annan först kunna återskapa och bekräfta "
+"den. Så ju mer detaljerad och exakt din buggrapport är, desto troligare är "
+"det att någon annan kan återskapa problemet. Denna prestationen visar att en "
+"av dina buggrapporter hade tillräckligt hög kvalitet och kunde bekräftas av "
+"någon annan."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
 #. .
@@ -1201,6 +1277,9 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_links"
 msgstr ""
+"http://www.ubuntu.com\r\n"
+"https://help.ubuntu.com/community/ReportingBugs \r\n"
+"http://www.chiark.greenend.org.uk~sgtatham/bugs.html"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
@@ -1213,7 +1292,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:70
 msgid "first-bug-confirmed_help"
-msgstr ""
+msgstr "#ubuntu-testing på Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
@@ -1225,7 +1304,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-reviewer.c:11
 msgid "juju-charm-reviewer_title"
-msgstr ""
+msgstr "Juju Charm recensent"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
 #. .
@@ -1236,7 +1315,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
-msgstr ""
+msgstr "Du Bidrar Juju charms till Ubuntu"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
@@ -1276,7 +1355,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .
@@ -1289,7 +1368,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:65
 msgid "juju-charm-reviewer_help"
-msgstr ""
+msgstr "#juju på Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
@@ -1301,7 +1380,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/core-dev.c:11
 msgid "core-dev_title"
-msgstr ""
+msgstr "Ubuntu Core Developer"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('description' field)
 #. .
@@ -1312,7 +1391,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/core-dev.c:20
 msgid "core-dev_description"
-msgstr ""
+msgstr "Du är en Ubuntu Core Developer"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('summary' field)
 #. .
@@ -1352,7 +1431,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/core-dev.c:54
 msgid "core-dev_links"
-msgstr ""
+msgstr "http://wiki.ubuntu.com/SponsorshipProcess"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 #. .
@@ -1365,4 +1444,4 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:65
 msgid "core-dev_help"
-msgstr ""
+msgstr "#ubunbu-devel på Freenode"
