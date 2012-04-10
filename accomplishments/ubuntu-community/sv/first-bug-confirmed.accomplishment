@@ -1,12 +1,12 @@
 [accomplishment]
-title = Filed Bug that was Confirmed
-description = Filed a bug in Ubuntu that was confirmed by someone else
+title = Rapporterade en Bug som var konstaterad
+description = Raporterade en bug i Ubuntu som redan var konstaterad av någon annan
 application = ubuntu-community
 category = QA
 needs-signing = true
 icon = default.png
 depends = ubuntu-community/report-first-bug
-summary = A bug is a defect in a piece of software. Filing bugs is a great way to help improve Ubuntu and in order for the bug to be fixed, someone else needs to be able to reproduce and confirm it. The more detailed and precise your bug report is, the most likely it is that it can be reproduced by someone else. This achievement reflects that at least one of your bug reports was of good quality and was confirmed by someone else.
+summary = En bug är ett fel som uppstått i mjukvara. Att rapportera buggar är ett jättebra sätt att hjälpa till med att göra Ubuntu bättre. För att buggen skall kunna åtgärdas, måste någon annan först kunna återskapa och bekräfta den. Så ju mer detaljerad och exakt din buggrapport är, desto troligare är det att någon annan kan återskapa problemet. Denna prestationen visar att en av dina buggrapporter hade tillräckligt hög kvalitet och kunde bekräftas av någon annan.
 steps = File a bug as you would normally (see the Filed First Bug accomplishments for more details) and ensure that the description is detailed enough to enable others to reproduce it. To write a good bug report, include the following:
 	A clear and concise description of the problem. Don't forget to mention whether the bug can be triggered every time or whether it is intermittent.
 	A set of steps to reproduce the problem. Make sure that they are explicit. For instance, if a step involves selecting a menu item, specify whether selecting it using the mouse or keyboard shortcuts makes a difference.
@@ -15,5 +15,5 @@ steps = File a bug as you would normally (see the Filed First Bug accomplishment
 	Any additional information you think can help diagnose the problem. For instance, if the application used to work and suddenly stopped working, specify when it started mis-behaving.
 tips = None
 pitfalls = None
-help = #ubuntu-testing on Freenode
+help = #ubuntu-testing på Freenode
 

@@ -6,11 +6,12 @@ category = Development
 needs-signing = true
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
-summary = Ein Ubuntu Kern-Entwickler ist für das Zusammenstellen von Software-Packeten und Problemlösungen im  <tt>main</tt> (Haupt) Archiv verantwortlich. Das beinhaltet einige der kritischsten Software, die Teil des Ubuntu Systems ist, und den Teilen, die mit einer standardgemäßen Ubuntu Installation mitgeliefert werden.
+summary = Ein Ubuntu Kern-Entwickler ist für das Zusammenstellen von Software-Packeten und Problemlösungen im  <tt>main</tt> (Haupt) Archiv verantwortlich. Das beinhaltet einige der kritischsten Software, die Teil des Ubuntu Systems ist und den Teilen, die mit einer standardgemäßen Ubuntu Installation mitgeliefert werden.
 steps = Trage über eine längeren Zeitraum intensiv zu Ubuntu bei.
-	Nutze die "Ubuntu Sponsorship" Schlange  um deine Beiträge vorzulegen.
-	Bewerbe dich beim Ubuntu Entwickler-Board um ein Kern-Entwickler zu werden.
+	Reihe dich in der Ubuntu Sponsorship Warteschlange ("Ubuntu Sponsorship Queue") ein um beizutragen.
+	Bewerbe dich beim Ubuntu Entwickler Vorstand ("Ubuntu Developer Board") um ein Kern-Entwickler zu werden.
 tips = None
 pitfalls = None
-help = #ubuntu-devel auf Freenode
+help = International:
+	#ubuntu-devel auf Freenode
 

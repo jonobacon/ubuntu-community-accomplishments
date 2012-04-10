@@ -5,12 +5,14 @@ application = ubuntu-community
 category = General
 needs-signing = true
 icon = default.png
-summary = Launchpad is a website in which we do much of our work in Ubuntu. There we build packages, file and fix bugs, perform translations, manage code, and other activities.
-	You will need to register an account with Launchpad to participate in much of the Ubuntu community. Fortunately, registering is simple, safe, and free.
-steps = Load a web browser on your computer.
-	In your web browser go to <tt>http://www.launchpad.net</tt>.
-	Click the <i>Register</i> link in the corner of the screen to register.
+summary = Launchpad es un sitio donde la mayor cantidad de trabajo que se hace para Ubuntu es desarrollado. Se crean paquetes, se reportan y corrigen errores, se agregan traducciones, se guarda y edita el código de programas, entre otras cosas. Requerirá una cuenta en launchpad para participar en varias actividades de la comunidad. Afortunadamente el registro es simple, seguro y gratuito.
+steps = Para crear una cuenta en Launchpad siga los siguientes pasos:
+	Arranque un navegador
+	Visite el sitio <tt>http://www.launchpad.net</tt>
+	Presione «Register» en la esquina superior derecha
+	Rellene el formulario y confirme su correo electrónico
 tips = None
 pitfalls = None
-help = #launchpad en Freenode
+help = #ubuntu-es en Freenode
+	#launchpad en Freenode
 

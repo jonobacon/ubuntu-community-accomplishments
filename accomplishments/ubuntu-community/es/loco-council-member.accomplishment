@@ -1,22 +1,24 @@
 [accomplishment]
-title = Miembro del Consejo de LoCo
-description = Es miembro del Consejo de LoCo
+title = Miembro del consejo LoCo
+description = Es miembro del consejo LoCo
 application = ubuntu-community
 category = Governance
 needs-signing = true
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
-summary = The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
-	The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally.
-	To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
-steps = Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-	Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-	In the next LoCo Council election propose yourself as a candidate.
-tips = Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
-	You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
-	Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
-pitfalls = Don't apply to the LoCo Council just to be in a position of power.
-	Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
+summary = El consejo de los equipos LoCo es la mesa directiva que dicta las obligaciones y derechos sobre los equipos LoCo.
+	Este equipo da sugerencias y determina los procesos que seguirán los equipos LoCo. También se encarga de resolver los problemas que no hayan podido resolverse al interior del equipo LoCo.
+	Para ser miembro del consejo LoCo debe demostrar un fuerte compromiso y participación en los asuntos que se atañen a los equipos LoCo, además debe poseer buenas habilidades de liderazgo y tener el tiempo para hacerse caso de los compromisos que conlleven el puesto. 
+	Un buen miembro del consejo LoCo debe ser capaz de escuchar, entender y canalizar las diversas necesidades de varios equipos LoCo con diversas culturas y comunidades. Deberá ser capaz de inspirar liderazgo y guía a los lideres de los equipos LoCo con los que se relacione.
+steps = Puede comenzar por ayudar a su comunidad local en la organización de eventos
+	O hacerlo a una escala global
+	Cree una página wiki en <tt>wiki.ubuntu.com</tt> que refleje sus contribuciones, estas deben ser sustentables por un tiempo no inferior a seis meses. Describa los equipos a los que pertenece y los logros que ha conseguido en cada uno.
+	En la siguiente elección del consejo LoCo asegúrese de nominarse
+	Las votaciones se llevaran a cabo y en caso de ser seleccionado se le concederá este trofeo.
+tips = Concentrece en sus habilidades como lider. Ser miembro del consejo LoCo es una importante posición, se requieren de personas con un fuerte sentido de comunicación, planeación y liderazgo. Es aconsejable que haya guiado un equipo LoCo antes de postularse como miembro del consejo.
+	Solo considere ser parte cuando crea tener una considerable cantidad de experiencia en la comunidad LoCo.
+pitfalls = No se postule al consejo LoCo solo por estar en una posición privilegiada.
+	No sea parte de más de un consejo (LoCo,  técnico)  al mismo tiempo. Integrese a uno y ponga toda su atención en ello.
 help = #ubuntu-community-team en Freenode
 	#ubuntu-locoteams en Freenode
 

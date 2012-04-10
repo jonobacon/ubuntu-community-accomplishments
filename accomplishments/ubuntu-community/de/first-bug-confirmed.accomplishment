@@ -10,5 +10,6 @@ summary = Ein Bug ist ein Defekt in einem Teil von Software. Bugs zu melden ist 
 steps = Melde einen Bug, so wie du es normalerweise tun würdest (siehe die „Ersten Bug Melden“ Errungenschaft) und stell sicher, dass deine Beschreibung detailliert genug ist, damit andere es reproduzieren können. Um eine gute Bug Meldung zu schreiben, vergiss nicht folgendes mit einzubeziehen:  Eine klare, knappe und präzise Beschreibung des Problems. Vergiss nicht zu erwähnen, ob ein Bug jedes mal ausgelöst werden kann oder nur sporadisch.  Eine Liste von Schritten um das Problem zu reproduzieren. Stell sicher, dass sie detailliert sind. Z.B. wenn ein Schritt beinhaltet ein Menü Eintrag auszuwählen, dann schreibe konkret hin wie, ob mit Maus oder mit einem Tastenkürzel, da es ein Unterschied machen kann.  Eine Beschreibung was schief läuft, wenn man den Schritten folgt.  Eine Beschreibung was du stattdessen erwartet hast, wie sich das Programm sich hätte verhalten soll. Dies ist ein wichtiger Teil der Beschreibung: manchmal ist das gemeldete Verhalten des Programms so, wie sich der Entwickler es sich vorgestellt hat, eventuell weil ihm nicht bewusst war, dass es Probleme bereiten könnte. Somit ist die Beschreibung was man selber erwartet hat ein wichtiger Bestandteil der Meldung.  Jegliche zusätzliche Information, die helfen könnte das Problem zu diagnostizieren. Zum Beispiel, wenn das Programm lief, aber dann aufgehört hat zu arbeiten, schreibe wann.
 tips = None
 pitfalls = None
-help = #ubuntu-testing auf Freenode
+help = International:
+	#ubuntu-testing auf Freenode
 

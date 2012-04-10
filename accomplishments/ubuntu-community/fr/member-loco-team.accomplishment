@@ -1,16 +1,16 @@
 [accomplishment]
-title = LoCo Team Member
-description = You are a member of an Ubuntu LoCo Team
+title = Membre d'une Communauté Locale
+description = Vous êtes membre d'une communauté locale
 application = ubuntu-community
 category = LoCo Teams
 needs-signing = true
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
-summary = Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
-steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
-	Visit that team's Launchpad page click the Join Team link.
+summary = Les communautés locales Ubuntu sont des groupes basés partout dans le monde au sein desquels des utilisateurs se retrouvent pour discuter de Ubuntu, partager des idées, trucs et astuces ainsi que des connaissances; et pour travailler ensemble à promouvoir Ubuntu auprès de nouveaux utilisateurs.
+steps = Naviguez sur <tt>loco.ubuntu.com</tt> et trouvez l'équipe locale la plus proche. Ce trophée est discerné si vous êtes un membre d'une équipe quelconque même si votre appartenance n'a pas été approuvée. 
+	Visitez la page de l'équipe sur <i>Launchpad</i> et cliquez sur le lien <i>Join Team (Se joindre à l'équipe)</i>.
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams on Freenode
-	#ubuntu-community-team on Freenode
+help = #ubuntu-locoteams sur Freenode
+	#ubuntu-community-team sur Freenode
 

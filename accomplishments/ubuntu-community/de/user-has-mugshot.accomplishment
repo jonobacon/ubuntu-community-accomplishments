@@ -1,6 +1,6 @@
 [accomplishment]
 title = Ein ("Mugshot") Bild in deinem Launchpad-Profil einrichten
-description = Der Nutzer hat ein (Mugshot) Bild in seinem eigenem Launchpad Profil eingerichtet
+description = Der Nutzer hat ein ("Mugshot") Bild in seinem eigenem Launchpad Profil eingerichtet
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
@@ -17,5 +17,6 @@ steps = Es ist sehr einfach ein Mugshot aufzusetzen.
 	Wenn das Bild hochgeladen ist, wähle den Knopf "Save changes" am Seitenende.
 tips = None
 pitfalls = None
-help = #launchpad auf Freenode
+help = International:
+	#launchpad auf Freenode
 

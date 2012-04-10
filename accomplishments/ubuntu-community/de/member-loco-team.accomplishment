@@ -7,11 +7,13 @@ needs-signing = true
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Ubuntu LoCo ("Local Community" = Örtliche Gemeinschaft) sind örtliche Ubuntu Nutzer Gruppen aus der ganzen Welt, die zusammenkommen um über Ubuntu zu reden um Ideen, Tipps, Tricks und Wissen zu teilen. Desweiteren arbeiten sie zusammen um Ubuntu bekannt zu machen und zu zeigen, wie Ubuntu anderen helfen kann.
-steps = Besuche <tt>loco.ubuntu.com</tt> um ein Team in deiner Nähe zu finden. Das deutsche Team findest du unter  <tt>ubuntu-de.org</tt> . Diese Trophäe wird verliehen wenn du ein Mitglied eines LoCo Team wirst, egal ob das Team schon anerkannt ist.
+steps = Besuche <tt>loco.ubuntu.com</tt> um ein Team in deiner Nähe zu finden. Das deutsche Team findest du unter  <tt>ubuntu-de.org</tt> . Diese Trophäe wird verliehen wenn du ein Mitglied eines LoCo Teams wirst, egal ob das Team schon anerkannt ist.
 	Gehe zu der Launchpad Seite des Teams dem du beitreten willst und klicke auf den "Join Team" link.
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams on Freenode
-	#ubuntu-community-team on Freenode
+help = International:
+	#ubuntu-locoteams auf Freenode
+	#ubuntu-community-team auf Freenode
+	Deutschsprachig:
 	#ubuntu-de auf irc.freenode.org
 

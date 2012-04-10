@@ -1,6 +1,6 @@
 [accomplishment]
 title = Juju Charm Beiträger
-description = Du trägst zu Juju Charms nach Ubuntu zu.
+description = Du trägst Juju Charms für Ubuntu bei.
 application = ubuntu-community
 category = Juju
 needs-signing = true
@@ -12,5 +12,6 @@ steps = Trage einige Juju Charms bei.
 	Frage ein Mitglied des Juju Beiträger Teams, ob du beitreten darfst.
 tips = None
 pitfalls = None
-help = #juju auf Freenode
+help = International:
+	#juju auf Freenode
 

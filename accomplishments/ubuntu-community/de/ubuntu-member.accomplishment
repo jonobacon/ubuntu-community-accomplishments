@@ -5,14 +5,15 @@ application = ubuntu-community
 category = General
 needs-signing = true
 icon = default.png
-summary = Ein Ubuntu Mitglied (Ubuntu Member) ist jemand, der signifikante und nachhaltige Beiträge zu Ubuntu demonstriert hat.
+summary = Ein Ubuntu Mitglied ("Ubuntu Member") ist jemand, der signifikante und nachhaltige Beiträge zu Ubuntu demonstriert hat.
 	Jedes Ubuntu Mitglied wird als zuverlässiger und berechenbarer Faktor zu Ubuntu angesehen um Ubuntu zu fördern und zu verbessern.
 	Wichtig ist, dass die Ubuntu Mitgliedschaft keine speziellen Kenntnise erfodert; großartige Beiträge in Entwicklung, Dokumentation, Übersetzungen, Unterstützung, Kunst, Design und vielen anderen Bereichen sind alle einer Mitgliedschaft würdig.
 steps = Trage intensiv über einen längeren Zeitraum zu Ubuntu bei. Es gibt keinen festgelegten Zeitraum, aber er sollte lang genug sein deinen Einsatz für Ubuntu zu erkennen.
-	Erstelle eine Seite auf <tt>wiki.ubuntu.com</tt> der deine Beiträge auflistet. Füge auf der Wiki Seite deine , in welchen Teams du bist und fasse deine Bemühungen zusammen.
+	Erstelle eine Seite auf <tt>wiki.ubuntu.com</tt>, der deine Beiträge auflistet. Füge auf der Wiki Seite deine , in welchen Teams du bist und fasse deine Bemühungen zusammen.
 	Frage deine Kollegen Zeugnisse deiner Beiträge beizutragen.
-	Plane dich sich selber für ein Überprüfung bei einem regionalen Mitgliedschafts Board , IRC Council, Foren Council, oder Entwickler Mitgliedschaft-Bordtreffen ein um deine Beiträge zu überprüfen. Du kannst das dir am nähsten liegende Board mittels der unteren Links herausfinden.
+	Plane dich sich selber für eine Überprüfung bei einem regionalen Mitgliedschafts Vorstand ("regional membership board") , IRC Rat ("IRC Council"), Foren Rat ("Forums Council"), oder Entwickler Mitgliedschaft Vorstand ("developer membership board") Treffen ein um deine Beiträge überprüfen zu lassen. Du kannst das dir am nähsten liegende Board mittels der unteren Links herausfinden.
 tips = None
 pitfalls = None
-help = #ubuntu-community-team auf Freenode
+help = International:
+	#ubuntu-community-team auf Freenode
 

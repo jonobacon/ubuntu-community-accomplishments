@@ -8,9 +8,9 @@ icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Ubuntu Fridge är den officiella nyhetssiten för Ubuntugemenskapen. Nyhetssiten som drivs av gemenskapen innehåller artiklar, nyheter, åsikter och annat innehåll från utsidan och insidan av Ubuntugemenskapen.
 	<i>Ubuntu Fridge editorerna</i> är en grupp som skapar och publicerar innehåll till siten. För att bli medlem av denna grupp behöver du kunna skriva bra och ofta, samt vara tillgänglig för att publicera nytt innehåll och nyheter.
-steps = Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, have good written English skills.  Individuals who are interested in becoming a member of the Ubuntu Fridge editors team should submit a few stories so the Editors Team can get to know you and offer guidance (if necessary).  Stories can be submitted to the news team through its IRC (Internet Chat Relay) Channel on Freenode (irc.freenode.net)-#ubuntu-news-- or can send an email to: ubuntu-news-team@lists.ubuntu.com (no subscription necessary). Additional information that all editors should be knowledgeable of can be found on the Fridge wiki page under Editors Guidelines.
-	Write drafts for each of your ideas.
-	Submit your content to the Fridge Editors.
+steps = Bli Ubuntu medlem. Ha goda kunskaper om Ubuntugemenskapen. Ha god förmåga att skriva på engelska. Individer som är intresserade av att bli medlemmar i Ubuntu Fridge editors gruppen ska skicka in några artiklar så att Editors Team kan lära känna dig och ge dig råd (om nödvändigt). Artiklar kan skickas in till nyhetsgruppen på deras IRC (Internet Relay Chat) kanal på Freenode (irc.freenode.net)-#ubuntu-news-- eller så kan de skickas via email till: ubuntu-news-team@lists.ubuntu.com (ingen prenumeration nödvändig). Ytterligare information som alla editorer bör känna till finns på Fridges wikisida under Editors Guidelines.
+	Skriv utkast för var och en av dina idéer.
+	Skicka ditt material till Fridge Editors.
 tips = None
 pitfalls = None
 help = #ubuntu-community-team på Freenode #ubuntu-news på Freenode

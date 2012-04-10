@@ -1,0 +1,16 @@
+[accomplishment]
+title = Membru al unei Comunități Locale
+description = Ești membru al unei Comunități Locale
+application = ubuntu-community
+category = LoCo Teams
+needs-signing = true
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+summary = Comunitățile locale Ubuntu sunt răspândite în toată lumea și sunt formate din utilizatori
+steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
+	Visit that team's Launchpad page click the Join Team link.
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams on Freenode
+	#ubuntu-community-team on Freenode
+

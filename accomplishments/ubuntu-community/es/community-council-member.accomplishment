@@ -1,21 +1,22 @@
 [accomplishment]
 title = Miembro del Consejo de la Comunidad
-description = Es un miembro del Consejo de la Comunidad
+description = Es un miembro del consejo de la comunidad
 application = ubuntu-community
 category = Governance
 needs-signing = true
 icon = default.png
 depends = ubuntu-community/ubuntu-member
-summary = The Ubuntu Community Council is the primary community (i.e. non-technical) governance body for the Ubuntu Project and as such has an important role and responsibility to the Ubuntu community.
-	The Community Council advises and decides on community policy and process. It is also an escalation body for incidents that occur elsewhere in the Ubuntu community.
-	Members of the Community Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council.
-steps = Become an Ubuntu Member. Demonstrate effective and extensive contribution  to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-	Amend the wiki page that was created for Ubuntu Membership usually found on <tt>wiki.ubuntu.com</tt> that is up todate and outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-	When the next Community Council election is announced, nominate yourself as a candidate.  Mark Shuttleworth, the Founder of Ubuntu, and also known as sabdfl (self-appointed bebevolent dictator for life) selects the canidates from the list of nominees and puts those forward to be voted on by current Ubuntu Members.
-tips = Focus on your leadership abilities. The Community Council is an important leadership position and we look for strong, capable, confident leaders.
-	You should probably have led another team to develop and demonstrate your leadership capabilities before applying to be on the Community Council.
-	Only apply to the Community Council when you have had a significant amount of experience in the community.
-pitfalls = No aplica al Consejo de la Comunidad, solamente estar en una posición de poder.
-	Intente no estar en más de un consejo (Consejo de la comunidad,  Consejo técnico) a la vez. Únase a uno y préstele toda su atención.
+summary = El consejo de la comunidad de Ubuntu es el principal instrumento de gobierno (no técnico) que sigue Ubuntu, y como tal tiene un importante papel con la comunidad. El consejo sugiere y decide las reglas y los procedimientos que deberá seguir la comunidad. También es un organismo al que se le delegan los incidentes que ocurran en otras partes del proyecto. Los miembros del comité, son personas que han demostrado una fuerte partición y compromiso con Ubuntu, poseen claras habilidades de liderazgo y tienen el tiempo y la disponibilidad suficientes para atender los asuntos del consejo.
+steps = Ser miembro del consejo de la comunidad de Ubuntu es un cargo muy importante, para llevarlo a cabo, tendrá que cumplir varios requisitos:
+	Ser miembro oficial de Ubuntu
+	Demostrar colaboración estable y extensa sobre un periodo intermedio de tiempo. No existe un periodo mínimo, pero debe ser suficiente para demostrar su compromiso con el proyecto.
+	Actualizar sus metas alcanzadas en su página wiki (esta bien usar la misma que uso para convertirse en miembro de Ubuntu), <tt>wiki.ubuntu.com/su_nick</tt>.
+	Estar pendiendo de las convocatorias de elecciones del consejo
+	Nominarse a si mismo
+	Mark Shuttleworth, el fundador de Ubuntu, también conocido como sabdfl (por sus siglas en ingles, dictador benevolente auto-elegido de por vida) selecciona los candidatos de la lista de nominados
+	Los miembros de Ubuntu seleccionan a los miembros del consejo de la lista de candidatos
+tips = Concentrece en sus habilidades de lider. El consejo de la comunidad es una posición que requiere tales características. Generalmente se buscan individuos que tengan facilidad para ser lideres y que puedan generar una fuerte y estable relación con sus similares. Se recomienda que se tenga experiencia como lider de otro equipo antes de intentar ser parte del consejo.
+pitfalls = No intente ser parte del consejo, solamente para estar en una posición de poder.
+	Intente no estar en más de un consejo (Consejo de la comunidad, Consejo técnico) a la vez. Únase a uno y préstele toda su atención.
 help = #ubuntu-community-team en Freenode
 

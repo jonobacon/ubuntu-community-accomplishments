@@ -1,16 +1,19 @@
 [accomplishment]
 title = Desarrollador MOTU de Ubuntu
-description = Es un desarrollador/a MOTU de Ubuntu
+description = Es un desarrollador MOTU de Ubuntu
 application = ubuntu-community
 category = Development
 needs-signing = true
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Un desarrollador MOTU (Masters of the Universe) de Ubuntu es responsable de empaquetar y resolver problemas en el repositorio <tt>universe</tt>. Esto incluye una amplia variedad de aplicaciones que se incluyen en Ubuntu desde Debian.
-steps = Contribute extensively to Ubuntu for a sustained period of time.
-	Make use of the Ubuntu Sponsorship Queue to make your contributions.
-	Apply to the Ubuntu Developer Board to be a MOTU developer.
+	Para ocupar este cargo deberá contar con experiencia en varios aspectos del trabajo de Ubuntu y su relación con Debian así como con otros proyectos de software, se recomienda tener experiencia con paquetes que no compilan (FTBFS), sincronización de software (sync/merges), corrección de fallos, tanto en Ubuntu como en Debian.
+steps = Enviar parches a Ubuntu durante un periodo constante de tiempo.
+	Hacer uso del proceso de patrocinio para incluir los cambios en la distribución
+	Nominarse a si mismo o por sugerencia de alguien más al puesto de desarrollador MOTU
+	Ser aprobado frente al consejo de desarrolladores de Ubuntu
 tips = None
 pitfalls = None
 help = #ubuntu-devel en Freenode
+	#ubuntu-motu en Freenode
 

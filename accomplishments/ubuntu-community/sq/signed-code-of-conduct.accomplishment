@@ -1,22 +1,22 @@
 [accomplishment]
-title = Signed Ubuntu Code Of Conduct
-description = You have signed the Ubuntu Code Of Conduct
+title = Nënshkruaj kodin e mirësjelljes të Ubuntu
+description = Ju keni nënshkruar Kodin e mirësjelljes të Ubuntu
 application = ubuntu-community
 category = General
 needs-signing = true
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
-summary = The Ubuntu Code Of Conduct is an important document that provides a set of guidelines and expectations for good conduct in the Ubuntu Community.
-	It includes expectations around being considerate, respectful, collaborative, how to ask for help, and how to step down when you become too busy.
-	This trophy is awarded when you have agreed to abide by these expectations in the community and have signed the Ubuntu Code Of Conduct.
-steps = First generate a PGP key, add it to the Ubuntu key-server, and import it into Launchpad. See <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">here</a> for how to do this.
-	Visit the <a href="https://launchpad.net/codeofconduct">Code Of Conduct page</a>.
-	Download the Ubuntu Code of Conduct, using the link located in the second step of the page, and open it.
-	Sign it by opening a terminal and running <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt>.
-	Now open the file in the Text Editor.
-	On the Ubuntu Code of Conduct page, click <i>Sign it!</i> then paste into the textbox. Click <i>Continue</i>. Congratulations, you've signed the Ubuntu Code of Conduct!
+summary = Kodi i mirësjelljes i Ubuntu është një dokument i rëndësishëm që ofron një sërë udhëzimesh për sjellje të mirë në Komunitetin Ubuntu.
+	Ai përfshin udhezime rreth të qenit i vëmendshëm, i respektueshëm, bashkëpunuese, si për të kërkuar ndihmë, dhe pët të dhënë dorëheqjen kur ju jeni shumë i zënë.
+	Ky trofe jepet kur ju keni rënë dakord të veproni në përputhje me këto udhëzime në komunitet dhe keni nënshkruar Kodin e mirësjelljes të Ubuntu.
+steps = Së pari gjeneroni një çelës PGP, shtoni atë në Ubuntu key-server, dhe importoni atë në Launchpad. Shiko <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">këtu</a> për mënyrën se si ta bëni këtë.
+	Vizito <a href="https://launchpad.net/codeofconduct">faqen e Kodit të mirësjelljes</a>.
+	Shkarko Kodin e mirësjelljes të Ubuntu, duke përdorur lidhjen e vendosur në hapin e dytë të faqes, dhe hapeni atë.
+	Nënshkruajë atë duke hapur një terminal dhe ekzekutoni <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</ tt>.
+	Tani hapni skedarin në një editor teksti.
+	Në faqen e kodint të mirësjelljes të Ubuntu, klikoni <i>nënshkruaj atë!</i> dhe pastaj vendoseni në kutinë e tekstit. Kliko <i>Vazhdo</ i>. Urime, ju keni nënshkruar Kodin e mirësjelljes të Ubuntu!
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams on Freenode
-	#ubuntu-community-team on Freenode
+help = #ubuntu-locoteams në Freenode
+	#ubuntu-community-team në Freenode
 
