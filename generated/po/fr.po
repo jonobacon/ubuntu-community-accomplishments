@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-10 04:45+0000\n"
-"Last-Translator: hanynowsky <Unknown>\n"
+"PO-Revision-Date: 2012-04-10 14:29+0000\n"
+"Last-Translator: Winael <vinzjobard@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-11 04:59+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -52,10 +52,11 @@ msgstr "Vous êtes membre d'une communauté locale"
 #: ../accomplishments/member-loco-team.c:31
 msgid "member-loco-team_summary"
 msgstr ""
-"Les communautés locales Ubuntu sont des groupes basés partout dans le monde "
-"au sein desquels des utilisateurs se retrouvent pour discuter de Ubuntu, "
-"partager des idées, trucs et astuces ainsi que des connaissances; et pour "
-"travailler ensemble à promouvoir Ubuntu auprès de nouveaux utilisateurs."
+"Les équipe locales de la communauté Ubuntu sont des groupes d'utilisateurs "
+"basés partout dans le monde au sein desquels des membres se retrouvent pour "
+"discuter d'Ubuntu, partagent des idées, trucs et astuces ainsi que des "
+"connaissances et travaillent ensemble promouvoir Ubuntu comment il peut "
+"aider les gens."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
 #. .
@@ -125,7 +126,7 @@ msgstr "Signaler son premier bogue"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
-msgstr "Vous avez rapporté votre premier bogue dans Ubuntu"
+msgstr "Vous avez signalé votre premier bogue dans Ubuntu"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
@@ -203,6 +204,8 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:84
 msgid "report-first-bug_links"
 msgstr ""
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"https://wiki.ubuntu.com/HelpingWithBugs"
 
 #. ACCOMPLISHMENT: Report First Bug ('help' field)
 #. .
@@ -318,7 +321,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
 msgid "signed-code-of-conduct_description"
-msgstr ""
+msgstr "Vous avez signé le code de conduite Ubuntu"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .
@@ -686,7 +689,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-member.c:11
 msgid "ubuntu-member_title"
-msgstr ""
+msgstr "Membre Ubuntu approuvé"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
 #. .
@@ -697,7 +700,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:20
 msgid "ubuntu-member_description"
-msgstr ""
+msgstr "Vous êtes un membre Ubuntu approuvé"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 #. .
@@ -1002,7 +1005,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/registered-on-launchpad.c:11
 msgid "registered-on-launchpad_title"
-msgstr ""
+msgstr "Enregistré sur Launchpad"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('description' field)
 #. .
@@ -1043,6 +1046,11 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:45
 msgid "registered-on-launchpad_steps"
 msgstr ""
+"Lancez un navigateur.\r\n"
+"Dans votre navigateur allez à l'adresse "
+"<tt>http://www.launchpad.net</tt>.\r\n"
+"Pour vous inscrire, cliquez sur le lien \"S'inscrire\" dans le coin de la "
+"page."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('links' field)
 #. .
@@ -1287,7 +1295,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/core-dev.c:54
 msgid "core-dev_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/SponsorshipProcess"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 #. .
@@ -1300,4 +1308,4 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:65
 msgid "core-dev_help"
-msgstr ""
+msgstr "#ubuntu-devel sur Freenode"

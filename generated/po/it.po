@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-08 14:26+0000\n"
+"PO-Revision-Date: 2012-04-10 18:06+0000\n"
 "Last-Translator: Nicola Jelmorini <Unknown>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-11 05:00+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -713,7 +713,7 @@ msgstr "#ubuntu-devel on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/loco-council-member.c:11
 msgid "loco-council-member_title"
-msgstr ""
+msgstr "Membro del consiglio delle LoCo"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('description' field)
 #. .
@@ -724,7 +724,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/loco-council-member.c:20
 msgid "loco-council-member_description"
-msgstr ""
+msgstr "Sei un membro del consiglio delle LoCo"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 #. .
@@ -740,6 +740,18 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:33
 msgid "loco-council-member_summary"
 msgstr ""
+"Il consiglio delle LoCo di Ubuntu è un comitato direttivo che sovrintende i "
+"LoCo team globali.\r\n"
+"Il consiglio delle LoCo consiglia e determina la politica e i processi delle "
+"LoCo. Il consiglio delle LoCo aiuta anche a risolvere i problemi che i LoCo "
+"team non sono stati in grado di risolvere internamente.\r\n"
+"Per essere membro del consiglio delle LoCo devi aver dimostrato un forte "
+"impegno e una lunga partecipazione negli Ubuntu LoCo team, dimostrato chiare "
+"capacità di leadership, e avere il tempo e la disponibilità per rispondere "
+"alle esigenze del consiglio. Un buon membro del consiglio delle LoCo "
+"mostrerà la capacità di ascoltare e capire le diverse esigenze delle varie "
+"culture e comunità. I membri del consiglio delle LoCo dovrebbero essere in "
+"grado di ispirare e guidare la leadership dei LoCo team."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
 #. .
@@ -755,6 +767,14 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:46
 msgid "loco-council-member_steps"
 msgstr ""
+"Iniziate contribuendo alla vostra comunità locale organizzando eventi e poi "
+"contribuendo ai LoCo team delle comunità su scala globale. I contributi "
+"dovrebbero essere estesi su un lungo periodo di tempo. Non c'è un periodo "
+"prefissato di tempo, ma questo dovrebbe essere lungo a sufficienza da "
+"dimostrare il vostro impegno verso il progetto.\r\n"
+"Create una pagina su <tt>wiki.ubuntu.com</tt> che delinei i vostri "
+"contributi. Nella pagina wiki includete i vostri contributi, descrivete in "
+"quali team vi trovate, e riassumete i vostri sforzi."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
 #. .
@@ -770,6 +790,14 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:59
 msgid "loco-council-member_tips"
 msgstr ""
+"Focalizzatevi sulle vostre capacità di leadership. Il consiglio delle LoCo è "
+"un'importante posizione di leadership e noi cerchiamo forti, capaci, "
+"fiduciosi leader.\r\n"
+"Dovreste probabilmente aver diretto un LoCo team per sviluppare e dimostrare "
+"le vostre capacità di leadership prima di impegnarvi ad essere nel consiglio "
+"delle LoCo.\r\n"
+"Indirizzatevi verso il consiglio delle LoCo solo quando avete avuto una "
+"significativa esperienza nella comunità LoCo."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
 #. .
@@ -784,6 +812,11 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:71
 msgid "loco-council-member_pitfalls"
 msgstr ""
+"Non indirizzatevi verso il consiglio delle LoCo solo per essere in una "
+"posizione di potere.\r\n"
+"Cercate di non essere in più di un consiglio (per es. consiglio delle LoCo, "
+"Consiglio della comunità) contemporaneamente. Partecipate ad uno, e dategli "
+"tutta la vostra attenzione."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
@@ -798,6 +831,10 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:83
 msgid "loco-council-member_links"
 msgstr ""
+"http://wiki.ubuntu-it.org/Consiglio\r\n"
+"https://wiki.ubuntu.com/LoCoCouncil\r\n"
+"https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('help' field)
 #. .
@@ -812,6 +849,8 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:95
 msgid "loco-council-member_help"
 msgstr ""
+"#ubuntu-community-team on Freenode\r\n"
+"#ubuntu-locoteams on Freenode"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 #. .
@@ -823,7 +862,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-member.c:11
 msgid "ubuntu-member_title"
-msgstr ""
+msgstr "Membro approvato di Ubuntu"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
 #. .
@@ -834,7 +873,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:20
 msgid "ubuntu-member_description"
-msgstr ""
+msgstr "Sei un membro approvato di Ubuntu"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 #. .
@@ -850,6 +889,14 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:33
 msgid "ubuntu-member_summary"
 msgstr ""
+"Un membro di Ubuntu è qualcuno che ha dimostrato un <i>significativo e "
+"duraturo</i> contributo ad Ubuntu.\r\n"
+"Ogni membro di Ubuntu è visto come un contributore affidabile e sicuro ad "
+"Ubuntu che ha contribuito per promuovere e migliorare Ubuntu.\r\n"
+"È importante sottolineare che, essere membro di Ubuntu non richiede "
+"specifiche abilità; grandi contributi nello sviluppo, nella documentazione, "
+"nelle traduzioni, nella promozione, nel supporto, nelle arti, nel design, e "
+"in molte altre aree sono tutti degni di appartenenza."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
 #. .
@@ -879,6 +926,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:58
 msgid "ubuntu-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/Membership\r\n"
+"https://wiki.ubuntu.com/Membership/RegionalBoards"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 #. .
@@ -891,7 +940,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:69
 msgid "ubuntu-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team on Freenode"
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
@@ -957,6 +1006,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:56
 msgid "technical-board-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/TechnicalBoard\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Technical Board Member ('help' field)
 #. .
@@ -971,6 +1022,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:68
 msgid "technical-board-member_help"
 msgstr ""
+"#ubuntu-devel-team on Freenode\r\n"
+"#ubuntu-community-team on Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
@@ -1033,7 +1086,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-contributor.c:54
 msgid "juju-charm-contributor_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
@@ -1046,7 +1099,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:65
 msgid "juju-charm-contributor_help"
-msgstr ""
+msgstr "#juju on Freenode"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
@@ -1058,7 +1111,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/user-has-mugshot.c:11
 msgid "user-has-mugshot_title"
-msgstr ""
+msgstr "Impostazione di una foto segnaletica nel profilo Launchpad"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
 #. .
@@ -1070,6 +1123,7 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:20
 msgid "user-has-mugshot_description"
 msgstr ""
+"L'utente ha impostato una foto segnaletica nel suo proprio profilo Launchpad"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
 #. .
@@ -1085,6 +1139,15 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:33
 msgid "user-has-mugshot_summary"
 msgstr ""
+"Una foto segnaletica è un'immagine avatar che l'utente può impostare nel suo "
+"profilo Launchpad. È bello quando la gente può riconoscervi solo guardando "
+"una vostra foto.\r\n"
+"Noi vi consigliamo di scegliere una vera foto di voi (solitamente mostrando "
+"solo la faccia) oppure un altro avatar che vi piaccia veramente. Per favore "
+"cercate di evitare foto contenuto che potrebbe offendere qualcun altro (per "
+"es. contenuto per adulti).\r\n"
+"La foto deve essere esattamente <strong>192x192</strong> e non più grossa di "
+"<strong>100 Kb</strong>."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
 #. .
@@ -1103,6 +1166,15 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:49
 msgid "user-has-mugshot_steps"
 msgstr ""
+"Impostare una foto segnaletica è molto semplice.\r\n"
+"Dovete accedere al sito web Launchpad.net.\r\n"
+"Poi si deve andare sulla vostra pagina del profilo che solitamente è "
+"https://launchpad.net/~VOSTRONOMEUSER\r\n"
+"Fare clic sul link \"Change details\".\r\n"
+"Assicurarsi di avere una foto di 192x192 pixel da caricare (.png o .jpg "
+"andrà bene).\r\n"
+"Una volta che la foto è caricata, cliccate sul pulsante \"Save changes\" "
+"alla fine della pagina."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
 #. .
@@ -1114,7 +1186,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/user-has-mugshot.c:59
 msgid "user-has-mugshot_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 #. .
@@ -1127,7 +1199,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/user-has-mugshot.c:70
 msgid "user-has-mugshot_help"
-msgstr ""
+msgstr "#launchpad on Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1139,7 +1211,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/registered-on-launchpad.c:11
 msgid "registered-on-launchpad_title"
-msgstr ""
+msgstr "Registrato su Launchpad"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('description' field)
 #. .
@@ -1150,7 +1222,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/registered-on-launchpad.c:20
 msgid "registered-on-launchpad_description"
-msgstr ""
+msgstr "Registrato un account su Launchpad"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('summary' field)
 #. .
@@ -1165,6 +1237,12 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:32
 msgid "registered-on-launchpad_summary"
 msgstr ""
+"Launchpad è un sito web nel quale noi facciamo molto del nostro lavoro in "
+"Ubuntu. Qui noi costruiamo i pacchetti, apriamo e risolviamo i bug, facciamo "
+"le traduzioni, gestiamo il codice, e altre attività.\r\n"
+"Sarà necessario registrare un account con Launchpad per partecipare a gran "
+"parte della comunità di Ubuntu. Fortunatamente, la registrazione è semplice, "
+"sicura, e gratuita."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('steps' field)
 #. .
@@ -1180,6 +1258,9 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:45
 msgid "registered-on-launchpad_steps"
 msgstr ""
+"Avviate un browser web sul vostro computer.\r\n"
+"Nel vostro browser web andate su <tt>http://www.launchpad.net</tt>.\r\n"
+"Fate clic sul link <i>Register</i> nell'angolo dello schermo per registrarsi."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('links' field)
 #. .
@@ -1191,7 +1272,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/registered-on-launchpad.c:55
 msgid "registered-on-launchpad_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('help' field)
 #. .
@@ -1204,7 +1285,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/registered-on-launchpad.c:66
 msgid "registered-on-launchpad_help"
-msgstr ""
+msgstr "#launchpad on Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
@@ -1273,6 +1354,10 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_links"
 msgstr ""
+"http://wiki.ubuntu-it.org/AmministrazioneSistema/SegnalareBug\r\n"
+"http://www.ubuntu.com\r\n"
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"http://www.chiark.greenend.org.uk/~sgtatham/bugs.html"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
@@ -1285,7 +1370,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:70
 msgid "first-bug-confirmed_help"
-msgstr ""
+msgstr "#ubuntu-testing on Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
@@ -1348,7 +1433,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .
@@ -1361,7 +1446,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:65
 msgid "juju-charm-reviewer_help"
-msgstr ""
+msgstr "#juju on Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
@@ -1424,7 +1509,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/core-dev.c:54
 msgid "core-dev_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/SponsorshipProcess"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 #. .
@@ -1437,4 +1522,4 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:65
 msgid "core-dev_help"
-msgstr ""
+msgstr "#ubuntu-devel on Freenode"

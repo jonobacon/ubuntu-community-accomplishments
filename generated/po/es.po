@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-10 05:29+0000\n"
+"PO-Revision-Date: 2012-04-10 06:20+0000\n"
 "Last-Translator: Javier P.L. <chilicuil@ubuntu.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-11 05:00+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -83,7 +83,7 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:43
 msgid "member-loco-team_steps"
 msgstr ""
-"Visite <tt>loco.ubuntu.com</tt> (puede cambiar el idioma con la pestaña "
+"Visite <tt>loco.ubuntu.com</tt> (puede cambiar el idioma en la pestaña "
 "inferior izquierda)\r\n"
 "Encuentre el equipo más cercano para unirse\r\n"
 "Visite la página en Launchpad de ese equipo\r\n"
@@ -1388,6 +1388,13 @@ msgstr "Error enviado que se ha confirmado por alguien"
 #: ../accomplishments/first-bug-confirmed.c:31
 msgid "first-bug-confirmed_summary"
 msgstr ""
+"Un bug es un defecto en una pieza de software. Reportar estos fallos es una "
+"gran forma de mejorar Ubuntu, sin embargo para que estos reportes sean "
+"tomados más en serio, necesitan ser confirmados y reproducidos por al menos "
+"otra persona. Entre mejor haya sido su reporte, mayores posibilidades habran "
+"de que alguien mas pueda reproducirlo. Este logro quiere decir que al menos "
+"uno de sus reportes fue de excelente calidad y por lo tanto fue confirmado "
+"por alguien mas."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
 #. .
@@ -1406,6 +1413,19 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:47
 msgid "first-bug-confirmed_steps"
 msgstr ""
+"Para obtener este trofeo siga las siguientes instrucciones:\r\n"
+"\r\n"
+"Reporte un fallo como normalmente lo haría (vea el logro - Reportar su "
+"primer fallo de Ubuntu - para obtener más detalles)\r\n"
+"Asegúrese que la descripción contiene suficiente información de tal manera "
+"que pueda ser reproducido por otros.\r\n"
+"Sea lo más detallado posible, si el problema surge después de seleccionar un "
+"elemento en un menú asegúrese de describir de que forma tiene que ser "
+"seleccionado, ya sea con el teclado o con el ratón\r\n"
+"Describa el comportamiento que considere debería ser el correcto\r\n"
+"Agregue cualquier información extra que considere pueda ser util para "
+"corregir el problema, por ejemplo, si el programa dejo de funcionar después "
+"de cierta actualización mencione esto en la descripción del fallo."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
 #. .
@@ -1420,6 +1440,10 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_links"
 msgstr ""
+"http://www.chiark.greenend.org.uk/~sgtatham/bugs-es.htm\r\n"
+"https://help.ubuntu.com/community/ReportingBugs_es\r\n"
+"http://josepablosarco.wordpress.com/2010/12/09/%C2%BFcomo-escribir-un-buen-"
+"reporte-de-fallasbugs/"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
@@ -1432,7 +1456,9 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:70
 msgid "first-bug-confirmed_help"
-msgstr "#ubuntu-testing en Freenode"
+msgstr ""
+"#ubuntu-es en Freenode\r\n"
+"#ubuntu-testing en Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
@@ -1444,7 +1470,7 @@ msgstr "#ubuntu-testing en Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-reviewer.c:11
 msgid "juju-charm-reviewer_title"
-msgstr "Revisor de encantamientos de Juju"
+msgstr "Revisor de recetas de Juju"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
 #. .
@@ -1455,7 +1481,7 @@ msgstr "Revisor de encantamientos de Juju"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
-msgstr "Contribuye con encantamientos Juju a Ubuntu"
+msgstr "Contribuye con recetas de Juju a Ubuntu"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
@@ -1484,6 +1510,13 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:44
 msgid "juju-charm-reviewer_steps"
 msgstr ""
+"Para obtener este trofeo, puede intentar la siguiente ruta:\r\n"
+"\r\n"
+"Crear y compartir un número significativo de recetas para Juju\r\n"
+"Demostrar que estas recetas son de buena calidad y que se envian nuevas con "
+"cierta regularidad\r\n"
+"Preguntar a un miembro del equipo de revisores de Juju si puede ser parte "
+"del equipo"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 #. .
@@ -1495,7 +1528,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .
@@ -1545,6 +1578,14 @@ msgstr "Es un desarrollador del núcleo de Ubuntu"
 #: ../accomplishments/core-dev.c:31
 msgid "core-dev_summary"
 msgstr ""
+"Un desarrollador del núcleo de Ubuntu es responsable de empaquetar y "
+"resolver problemas de los programas que sean parte del repositorio "
+"<tt>main</tt> . Este repositorio incluye algunas de las aplicaciones más "
+"importantes de la distribución y todas las que son parte integral de una "
+"instalación de Ubuntu por defecto. La posición que ocupa un desarrollador "
+"del núcleo de Ubuntu es considerada una de las más importantes de toda la "
+"comunidad, al menos en el aspecto técnico, por delante aún de los "
+"desarrolladores MOTU."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('steps' field)
 #. .
@@ -1560,6 +1601,14 @@ msgstr ""
 #: ../accomplishments/core-dev.c:44
 msgid "core-dev_steps"
 msgstr ""
+"Para obtener este trofeo, se sugiere que:\r\n"
+"\r\n"
+"Envíe correcciones en forma de parches o ramas de bazaar a Ubuntu por un "
+"periodo considerable de tiempo\r\n"
+"Asegúrese de hacer que otros desarrolladores revisen y aprueben sus "
+"cambios\r\n"
+"Aplique para obtener derechos de desarrollador del núcleo en una junta de la "
+"comisión de desarrolladores de Ubuntu"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('links' field)
 #. .
@@ -1572,6 +1621,9 @@ msgstr ""
 #: ../accomplishments/core-dev.c:54
 msgid "core-dev_links"
 msgstr ""
+"https://wiki.ubuntu.com/SponsorshipProcess\r\n"
+"https://wiki.ubuntu.com/UbuntuDevelopers#Ubuntu_Core_Developers\r\n"
+"https://launchpad.net/~ubuntu-core-dev"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 #. .

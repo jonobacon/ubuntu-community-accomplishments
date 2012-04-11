@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-09 15:07+0000\n"
-"Last-Translator: Ahmed Shokry <Unknown>\n"
+"PO-Revision-Date: 2012-04-11 01:40+0000\n"
+"Last-Translator: hanynowsky <Unknown>\n"
 "Language-Team: Arabic <ar@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-11 04:59+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -307,7 +307,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
 msgid "signed-code-of-conduct_description"
-msgstr ""
+msgstr "لقد وقعت على مدونة قواعد السلوك أوبونتو"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .
@@ -352,7 +352,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/signed-code-of-conduct.c:59
 msgid "signed-code-of-conduct_links"
-msgstr ""
+msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('help' field)
 #. .
@@ -463,6 +463,9 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:83
 msgid "community-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/CommunityCouncil\r\n"
+"https://wiki.ubuntu.com/CommunityCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Community Council Member ('help' field)
 #. .
@@ -541,6 +544,9 @@ msgstr ""
 #: ../accomplishments/motu.c:56
 msgid "motu_links"
 msgstr ""
+"https://wiki.ubuntu.com/MOTU\r\n"
+"https://wiki.ubuntu.com/UbuntuDevelopment\r\n"
+"https://wiki.ubuntu.com/SponsorshipProcess"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('help' field)
 #. .
@@ -650,6 +656,9 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:83
 msgid "loco-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/LoCoCouncil\r\n"
+"https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('help' field)
 #. .
@@ -675,7 +684,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-member.c:11
 msgid "ubuntu-member_title"
-msgstr ""
+msgstr "عضو أوبونتو معتمد"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
 #. .
@@ -686,7 +695,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:20
 msgid "ubuntu-member_description"
-msgstr ""
+msgstr "أنت عضو أوبونتو معتمد"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 #. .
@@ -731,6 +740,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:58
 msgid "ubuntu-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/Membership \r\n"
+"https://wiki.ubuntu.com/Membership/RegionalBoards"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 #. .
@@ -809,6 +820,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:56
 msgid "technical-board-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/TechnicalBoard \r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Technical Board Member ('help' field)
 #. .
@@ -845,7 +858,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
 msgid "juju-charm-contributor_description"
-msgstr ""
+msgstr "أنت تساهم بأسحآر جوجو في أوبونتو."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 #. .
@@ -885,7 +898,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-contributor.c:54
 msgid "juju-charm-contributor_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
@@ -966,7 +979,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/user-has-mugshot.c:59
 msgid "user-has-mugshot_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 #. .
@@ -1043,7 +1056,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/registered-on-launchpad.c:55
 msgid "registered-on-launchpad_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('help' field)
 #. .
@@ -1125,6 +1138,9 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_links"
 msgstr ""
+"http://www.ubuntu.com\r\n"
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"http://www.chiark.greenend.org.uk/~sgtatham/bugs.html"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
@@ -1160,7 +1176,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
-msgstr ""
+msgstr "أنت تساهم بأسحآر جوجو في أوبونتو."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
@@ -1200,7 +1216,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .

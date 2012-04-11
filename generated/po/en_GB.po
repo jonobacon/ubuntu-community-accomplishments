@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-07 23:32+0000\n"
-"Last-Translator: Jono Bacon <jono@ubuntu.com>\n"
+"PO-Revision-Date: 2012-04-10 09:04+0000\n"
+"Last-Translator: hanynowsky <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-11 05:00+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -779,6 +779,12 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:59
 msgid "loco-council-member_tips"
 msgstr ""
+"Focus on your <strong>leadership abilities</strong>. The LoCo Council is an "
+"important leadership position and we look for strong, capable, confident "
+"leaders. You should probably have led a LoCo team to develop and demonstrate "
+"your leadership capabilities before applying to be on the LoCo Council. Only "
+"apply to the LoCo Council when you have had a significant amount of "
+"experience in the LoCo community."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
 #. .
@@ -793,6 +799,9 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:71
 msgid "loco-council-member_pitfalls"
 msgstr ""
+"Don't apply to the LoCo Council just to be in a position of power. Try not "
+"to be on more than one council (e.g. LoCo Council, Community Council) at the "
+"same time. Join one, and give it your full attention."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .

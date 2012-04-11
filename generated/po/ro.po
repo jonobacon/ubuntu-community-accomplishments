@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-09 20:44+0000\n"
+"PO-Revision-Date: 2012-04-10 09:49+0000\n"
 "Last-Translator: Daniel Pop <danielpop@ymail.com>\n"
 "Language-Team: Romanian <ro@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-11 05:00+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -68,6 +68,11 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:43
 msgid "member-loco-team_steps"
 msgstr ""
+"Mergi la <tt>loco.ubuntu.com</tt> și găsește comunitatea locală cea mai "
+"apropiată. Acest trofeu este acordat dacă ești membru al oricărei comunități "
+"locale, indiferent dacă aceasta este aprobată sau nu. \r\n"
+"Vizitează pagina Launchpad a acelei comunități locale și apasă pe link-ul "
+"Join Team."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('links' field)
 #. .
@@ -79,7 +84,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/member-loco-team.c:53
 msgid "member-loco-team_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('help' field)
 #. .
@@ -93,7 +98,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/member-loco-team.c:65
 msgid "member-loco-team_help"
-msgstr ""
+msgstr "#ubuntu-ro pe Freenote"
 
 #. ACCOMPLISHMENT: Report First Bug ('title' field)
 #. .
@@ -135,8 +140,8 @@ msgstr "Ai raportat prima eroare în Ubuntu"
 msgid "report-first-bug_summary"
 msgstr ""
 "Un <i>bug (eroare)</i> este un defect dintr-un program informatic. Când "
-"raportezi un bug, informezi Ubuntu despre existența acestuia pentru ca noi "
-"să îl putem elimina.  \r\n"
+"raportezi o eroare, informezi Ubuntu despre existența acesteia pentru ca noi "
+"să o putem elimina.  \r\n"
 "Când raportezi o eroare, pornește automat o conversație pe marginea acestuia "
 "cu programatorii și alte persoane interesate în a descoperi cauza problemei, "
 "pentru a oferi informații suficiente programatorului care se va ocupa de "
@@ -170,6 +175,13 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:48
 msgid "report-first-bug_steps"
 msgstr ""
+"Deschide un terminal prin apăsarea butonului Ubuntu și tastarea cuvântului "
+"<i>terminal</i> în fereastră.\r\n"
+"Tastează <tt>ubuntu-bug</tt> și numele pachetului pentru care vrei să "
+"raportezi o problemă (ex.: <tt>ubuntu-bug unity</tt> pentru Unity). Dacă nu "
+"știi numele pachetului, rulează doar <tt>ubuntu-bug</tt> și urmează "
+"instrucțiunile.\r\n"
+"Urmează instrucțiunile în Launchpad."
 
 #. ACCOMPLISHMENT: Report First Bug ('tips' field)
 #. .
@@ -226,6 +238,8 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:84
 msgid "report-first-bug_links"
 msgstr ""
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"https://wiki.ubuntu.com/HelpingWithBugs"
 
 #. ACCOMPLISHMENT: Report First Bug ('help' field)
 #. .
@@ -238,7 +252,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/report-first-bug.c:95
 msgid "report-first-bug_help"
-msgstr ""
+msgstr "#ubuntu-testing pe Freenode"
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
@@ -261,7 +275,7 @@ msgstr "Editor Fridge"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/fridge-editor.c:20
 msgid "fridge-editor_description"
-msgstr ""
+msgstr "Ai devenit membru al echipei de editori Fridge"
 
 #. ACCOMPLISHMENT: Fridge Editor ('summary' field)
 #. .
@@ -276,6 +290,12 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:32
 msgid "fridge-editor_summary"
 msgstr ""
+"Ubuntu Fridge este site-ul oficial de știri pentru Comunitatea Ubuntu. Este "
+"un site de știri coordonat de comunitate, care oferă articole, știri, opinii "
+"și alte tipuri de conținut din cadrul și din jurul comunității Ubuntu. \r\n"
+"<i>Editorii Ubuntu Fridge</i> formează echipa care publică și produce "
+"conținut pentru site. Pentru a deveni membru al acestei echipe, trebuie să "
+"scrieți bine, des și să fiți receptiv la publicarea de conținut nou și știri."
 
 #. ACCOMPLISHMENT: Fridge Editor ('steps' field)
 #. .
@@ -291,6 +311,18 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:45
 msgid "fridge-editor_steps"
 msgstr ""
+"Înregistrează-te ca Membru Ubuntu. Fii la curent cu ce se întâmplă în "
+"comunitatea Ubuntu, deține abilități bune de scriere în limba engleză. Cei "
+"care sunt interesați în a deveni membri ai echipei de editori Ubuntu Fridge, "
+"trebuie să trimită câteva articole echipei de editori pentru ca aceștia să "
+"vă poată cunoaște mai bine și, dacă este necesar, să vă îndrume. Articolele "
+"pot fi trimise echipei fie prin canalul IRC (Internet Relay Chat) #ubuntu-"
+"news de pe server-ul Freenode (irc.freenode.net), fie prin e-mail la adresa "
+"ubuntu-news-team@lists.ubuntu.com. Informațiile adiționale care trebuie "
+"asimilate de toți editorii pot fi găsite la pagina wiki Fridge, sub Editor "
+"Guidelines.  \r\n"
+"Scrie schițe pentru fiecare din ideile tale.\r\n"
+"Trimite conținutul tău la Editorii Fridge."
 
 #. ACCOMPLISHMENT: Fridge Editor ('links' field)
 #. .
@@ -335,7 +367,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/signed-code-of-conduct.c:11
 msgid "signed-code-of-conduct_title"
-msgstr ""
+msgstr "Semnat Codul de Conduită Ubuntu"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
 #. .
@@ -362,6 +394,13 @@ msgstr "Ai semnat Codul de Conduită Ubuntu"
 #: ../accomplishments/signed-code-of-conduct.c:33
 msgid "signed-code-of-conduct_summary"
 msgstr ""
+"Codul de Conduită Ubuntu este un document important ce stabilește un set de "
+"reguli și așteptări pentru o bună conduită în cadrul Comunității Ubuntu.\r\n"
+"Include așteptări ce au legătură cu o atitudine respectuoasă, de colaborare "
+"și  oferă informații despre cum să ceri ajutor și cum să te retragi când "
+"devii prea ocupat.\r\n"
+"Acest trofeu este acordat când accepți să te aliniezi acestor așteptări în "
+"cadrul comunității, și semnezi Codul de Conduită Ubuntu."
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
 #. .
@@ -460,6 +499,15 @@ msgstr "Ai devenit membru al Consiliului Comunitar"
 #: ../accomplishments/community-council-member.c:33
 msgid "community-council-member_summary"
 msgstr ""
+"Consiliul Comunitar Ubuntu este principalul organism de guvernare a "
+"comunității pentru Proiectul Ubuntu, având astfel un rol și o "
+"responsabilitate importante în comunitatea Ubuntu.\r\n"
+"Consiliul Comunitar sfătuiește și decide asupra procesului și politicei "
+"comunitare. Este de asemenea un organism de escaladare a incidentelor ce "
+"apar în comunitatea Ubuntu.\r\n"
+"Membrii Consiliului Comunitar au demonstrat un puternic angajament și "
+"implicare în Ubuntu, abilități clare de conducere, și au timpul și "
+"disponibilitatea de a-și oferi serviciile, în funcție de nevoile consiliului."
 
 #. ACCOMPLISHMENT: Community Council Member ('steps' field)
 #. .
@@ -475,6 +523,19 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:46
 msgid "community-council-member_steps"
 msgstr ""
+"Fii Membru Ubuntu. Contribuie constant, eficient și extensiv la Ubuntu. Nu "
+"există o perioadă fixă de timp, dar trebuie să fie suficient de mare pentru "
+"a-ți demonstra angajamentul față de proiect. \r\n"
+"Corectează pagina wiki care a fost creată pentru Comunitatea de Membri "
+"Ubuntu, aflată de obicei la <tt>wiki.ubuntu.com</tt>, care este adusă la zi "
+"și reflectă contribuțiile tale. În pagina wiki, include contribuțiile tale, "
+"descrie echipele din care faci parte, și fă un sumar al eforturilor depuse "
+"de tine. \r\n"
+"Când este anunțat următorul scrutin al Consiliului Comunitar, depune-ți "
+"candidatura. Mark Shuttleworth, Fondatorul Ubuntu, cunoscut și ca dbadpv "
+"(dictator benevolent auto-desemnat pe viață), selectează candidații din "
+"lista de nominalizări și aduce în față pe cei din rândul cărora vor alege "
+"actualii Membri Ubuntu."
 
 #. ACCOMPLISHMENT: Community Council Member ('tips' field)
 #. .
@@ -512,6 +573,10 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:71
 msgid "community-council-member_pitfalls"
 msgstr ""
+"Nu aplica la Consiliul Comunitar doar pentru a fi într-o poziție de "
+"putere.\r\n"
+"Încearcă să nu fii în mai multe consilii (ex.: Consiliul Comunitar, Comisia "
+"Tehnică). Intră într-un singur consiliu și conferă-i toată atenția ta."
 
 #. ACCOMPLISHMENT: Community Council Member ('links' field)
 #. .
@@ -596,6 +661,10 @@ msgstr ""
 #: ../accomplishments/motu.c:44
 msgid "motu_steps"
 msgstr ""
+"Contribuie extensiv la Ubuntu pentru o perioadă mare de timp.\r\n"
+"Folosește-te de Programul de Sponsorizare Ubuntu pentru a realiza "
+"contribuțiile tale.\r\n"
+"Aplică la Comisia de Programare Ubuntu pentru poziția de programator MOTU."
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
 #. .
@@ -664,6 +733,18 @@ msgstr "Ești membru al Consiliului Comunității Locale (LoCo)"
 #: ../accomplishments/loco-council-member.c:33
 msgid "loco-council-member_summary"
 msgstr ""
+"Consiliul LoCo Ubuntu este o comisie ce supervizează echipele de comunități "
+"locale din lume.\r\n"
+"Consiliul LoCo recomandă și determină politica și procesul comunităților "
+"locale. Consiliul LoCo ajută de asemenea la rezolvarea problemelor ce nu au "
+"putut fi rezolvate intern de către echipele LoCo. \r\n"
+"Pentru a fi membru al consiliului LoCo, trebuie să fi demonstrat un "
+"angajament puternic și o durată mare de participare în Echipele Ubuntu LoCo, "
+"capacități clare de lider, și să ai timpul și disponibilitatea necesară de a "
+"răspunde nevoilor consiliului. Un bun membru al Consiliului LoCo va arăta că "
+"este capabil să asculte și să înțeleagă nevoile diverselor culturi și "
+"comunități. Membrii Consiliului LoCo trebuie să fie capabili să inspire și "
+"să ghideze conducerile echipelor LoCo."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
 #. .
@@ -679,6 +760,16 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:46
 msgid "loco-council-member_steps"
 msgstr ""
+"Începe prin a contribui la echipa comunității tale locale prin organizarea "
+"de evenimente și apoi contribuie pentru echipele loco la scară globală. "
+"Contribuțiile trebuie să fie întinse pe o perioadă lungă de timp. Nu există "
+"o durată fixă, dar trebuie să fie suficient de lungă încât să demonstreze "
+"angajamentul tău față de proiect. \r\n"
+"Creează o pagină pe <tt>wiki.ubuntu.com</tt> care scoate în evidență "
+"contribuțiile tale. Include în pagina wiki contribuțiile tale, descrie "
+"echipele din care faci parte și realizează un rezumat al eforturilor depuse "
+"de tine.\r\n"
+"În următorul scrutin al Consiliului Loco, depune-ți candidatura."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
 #. .
@@ -694,6 +785,14 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:59
 msgid "loco-council-member_tips"
 msgstr ""
+"Concentrează-te pe abilitățile tale de lider. Consiliul LoCo este o poziție "
+"importantă de conducere și căutăm lideri puternici, capabili și "
+"încrezători.\r\n"
+"Probabil că ai condus deja o echipă LoCo, pentru a-ți dezvolta și demonstra "
+"capacitățile de conducere, înainte de a aplica la o poziție în Consiliul "
+"LoCo.\r\n"
+"Aplică la Consiliul Comunitar doar după ce ai ajuns la un nivel important de "
+"experiență în cadrul comunității LoCo."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
 #. .
@@ -708,6 +807,10 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:71
 msgid "loco-council-member_pitfalls"
 msgstr ""
+"Nu aplica la Consiliul LoCo doar pentru a fi într-o poziție de putere.\r\n"
+"Încearcă să nu fii în mai multe consilii (ex.: Consiliul Comunitar, "
+"Consiliul LoCo) în același timp. Intră într-unul singur și oferă-i toată "
+"atenția ta."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
@@ -722,6 +825,9 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:83
 msgid "loco-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/LoCoCouncil\r\n"
+"https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('help' field)
 #. .
@@ -736,6 +842,8 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:95
 msgid "loco-council-member_help"
 msgstr ""
+"#ubuntu-community-team pe Freenode\r\n"
+"#ubuntu-locoteams pe Freenode"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 #. .
@@ -747,7 +855,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-member.c:11
 msgid "ubuntu-member_title"
-msgstr ""
+msgstr "Membru Ubuntu Aprobat"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
 #. .
@@ -758,7 +866,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:20
 msgid "ubuntu-member_description"
-msgstr ""
+msgstr "Ești Membru Ubuntu Aprobat"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
 #. .
@@ -774,6 +882,14 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:33
 msgid "ubuntu-member_summary"
 msgstr ""
+"Un Membru Ubuntu este orice persoană care a demonstrat o contribuție "
+"<i>susținută și însemnată</i> la Ubuntu. \r\n"
+"Fiecare Membru Ubuntu este văzut ca un contribuitor de încredere, pe care te "
+"poți baza și care a contribuit la continuarea și îmbunătățirea Ubuntu.\r\n"
+"Foarte important, Calitatea de Membru Ubuntu nu necesită nicio abilitate "
+"specifică; contribuțiile importante în dezvoltare, documentație, traduceri, "
+"susținere, suport, artă, design, și în multe alte domenii, sunt toate demne "
+"pentru a obține calitatea de membru."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
 #. .
@@ -790,6 +906,18 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:47
 msgid "ubuntu-member_steps"
 msgstr ""
+"Contribuie îndelungat la Ubuntu pe o perioadă susținută de timp. Nu există o "
+"perioadă fixă de timp, dar trebuie să fie suficient de mare pentru a-ți "
+"demonstra angajamentul față de proiect. \r\n"
+"Creează o pagină pe <tt>wiki.ubuntu.com</tt> care reflectă contribuțiile "
+"tale. În această pagina wiki, include contribuțiile tale, descrie echipele "
+"din care faci parte, și fă un sumar al eforturilor depuse de tine. \r\n"
+"Roagă ceilalți membri ai comunității să-ți recomande în scris "
+"contribuțiile.\r\n"
+"Programează-te pentru verificare la întrunirea unei comisii regionale de "
+"membri, consiliu IRC, consiliu Forum, sau comisie a dezvoltatorilor pentru a-"
+"ți fi analizate contribuțiile. Poți găsi cea mai apropiată comisie folosind "
+"link-urile de mai jos."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
 #. .
@@ -803,6 +931,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:58
 msgid "ubuntu-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/Membership "
+"https://wiki.ubuntu.com/Membership/RegionalBoards"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 #. .
@@ -815,7 +945,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:69
 msgid "ubuntu-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team pe Freenode"
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
@@ -827,7 +957,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/technical-board-member.c:11
 msgid "technical-board-member_title"
-msgstr ""
+msgstr "Membru al Comisiei Tehnice"
 
 #. ACCOMPLISHMENT: Technical Board Member ('description' field)
 #. .
@@ -838,7 +968,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/technical-board-member.c:20
 msgid "technical-board-member_description"
-msgstr ""
+msgstr "Ești membru al Comisiei Tehnice Ubuntu"
 
 #. ACCOMPLISHMENT: Technical Board Member ('summary' field)
 #. .
@@ -853,6 +983,14 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:32
 msgid "technical-board-member_summary"
 msgstr ""
+"Comisia Tehnică Ubuntu este una din cele mai importante organisme "
+"decizionale în cadrul comunității Ubuntu. Comisia Tehnică  recomandă și "
+"decide politica și procesul tehnice, dar funcționează și ca organism de "
+"escaladare a incidentelor ce au loc în comunitate.\r\n"
+"Pentru a fi membru al Comisiei Tehnice, trebuie să fi demonstrat un "
+"angajament puternic și o durată mare de participare în Ubuntu, capacități "
+"clare de lider, capacități tehnice importante, o cunoaștere a arhivei și să "
+"ai timpul și disponibilitatea necesară de a răspunde nevoilor comisiei."
 
 #. ACCOMPLISHMENT: Technical Board Member ('steps' field)
 #. .
@@ -868,6 +1006,14 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:45
 msgid "technical-board-member_steps"
 msgstr ""
+"Contribuie pe o perioadă îndelungată la Ubuntu. Nu există o durată fixă, dar "
+"trebuie să fie suficient de lungă încât să demonstreze angajamentul tău față "
+"de proiect. \r\n"
+"Creează o pagină pe <tt>wiki.ubuntu.com</tt> care scoate în evidență "
+"contribuțiile tale. Include în pagina wiki contribuțiile tale, descrie "
+"echipele din care faci parte și realizează un rezumat al eforturilor depuse "
+"de tine.\r\n"
+"În următorul scrutin al Comisiei Tehnice, depune-ți candidatura."
 
 #. ACCOMPLISHMENT: Technical Board Member ('links' field)
 #. .
@@ -881,6 +1027,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:56
 msgid "technical-board-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/TechnicalBoard\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Technical Board Member ('help' field)
 #. .
@@ -895,6 +1043,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:68
 msgid "technical-board-member_help"
 msgstr ""
+"#ubuntu-devel-team pe Freenode\r\n"
+"#ubuntu-community-team pe Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
@@ -906,7 +1056,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-contributor.c:11
 msgid "juju-charm-contributor_title"
-msgstr ""
+msgstr "Contribuitor Talismane Juju"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
 #. .
@@ -917,7 +1067,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
 msgid "juju-charm-contributor_description"
-msgstr ""
+msgstr "Ai contribuit cu talismane Juju la Ubuntu."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 #. .
@@ -931,6 +1081,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:31
 msgid "juju-charm-contributor_summary"
 msgstr ""
+"Juju este o tehnologie propulsată de calitatea talismanelor disponibile. "
+"Această realizare este pentru acei membri comunitari care au contribuit "
+"talismane pentru comunitatea Juju."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('steps' field)
 #. .
@@ -946,6 +1099,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:44
 msgid "juju-charm-contributor_steps"
 msgstr ""
+"Contribuie un număr de talismane Juju.\r\n"
+"Contribuie în mod regulat, dar la standarde suficient de înalte.\r\n"
+"Întreabă un membru al echipei de Contribuitori Juju dacă te poți alătura lor."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
 #. .
@@ -957,7 +1113,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-contributor.c:54
 msgid "juju-charm-contributor_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
@@ -970,7 +1126,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:65
 msgid "juju-charm-contributor_help"
-msgstr ""
+msgstr "#juju pe Freenode"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
@@ -982,7 +1138,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/user-has-mugshot.c:11
 msgid "user-has-mugshot_title"
-msgstr ""
+msgstr "Setarea unei poze în profilul Launchpad"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
 #. .
@@ -993,7 +1149,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/user-has-mugshot.c:20
 msgid "user-has-mugshot_description"
-msgstr ""
+msgstr "Utilizatorul a setat o poză în profilul propriu Launchpad"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
 #. .
@@ -1009,6 +1165,15 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:33
 msgid "user-has-mugshot_summary"
 msgstr ""
+"O poză este o imagine avatar pe care utilizatorul o poate seta în profilul "
+"său Launchpad. Este bine când oamenii te pot identifica doar privind o "
+"fotografie de-a ta.\r\n"
+"Îți recomandăm să alegi o poză reala de a ta (de obicei doar la nivelul "
+"feței) sau un alt avatar care îți place cu adevărat. Te rugăm să încerci să "
+"eviți imagini cu conținut potențial ofensator la adresa altor persoane (ex.: "
+"conținut exclusiv pentru adulți).\r\n"
+"Această imagine trebuie să aibă exact dimensiunile <strong>192x192</strong> "
+"și șă nu fie mai mare de <strong>100 Kb</strong>."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
 #. .
@@ -1027,6 +1192,15 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:49
 msgid "user-has-mugshot_steps"
 msgstr ""
+"Setarea unei poze este foarte simplă.\r\n"
+"Trebuie să fii autentificat pe site-ul web Launchpad.net.\r\n"
+"Apoi trebuie să mergi la pagina ta de profil care se găsește de obicei la "
+"http://launchpad.net/~NUMELETĂUDEUTILIZATOR\r\n"
+"Dă click pe link-ul \"Change details\".\r\n"
+"Asigură-te că ai o imagine de 192x192 pixeli pregătită pentru încărcare "
+"(.png sau .jpg sunt în regulă).\r\n"
+"Odată ce imaginea a fost încărcată, dați click pe butonul \"Save changes\" "
+"aflat la sfârșitul paginii."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
 #. .
@@ -1038,7 +1212,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/user-has-mugshot.c:59
 msgid "user-has-mugshot_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 #. .
@@ -1051,7 +1225,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/user-has-mugshot.c:70
 msgid "user-has-mugshot_help"
-msgstr ""
+msgstr "#launchpad pe Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1063,7 +1237,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/registered-on-launchpad.c:11
 msgid "registered-on-launchpad_title"
-msgstr ""
+msgstr "Înregistrat pe Launchpad"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('description' field)
 #. .
@@ -1074,7 +1248,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/registered-on-launchpad.c:20
 msgid "registered-on-launchpad_description"
-msgstr ""
+msgstr "S-a Înregistrat un cont Launchpad"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('summary' field)
 #. .
@@ -1089,6 +1263,12 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:32
 msgid "registered-on-launchpad_summary"
 msgstr ""
+"Launchpad este un site web în care se realizează mare parte din munca "
+"noastră pentru Ubuntu. Acolo creăm pachete, înregistrăm și reparăm erori, "
+"efectuăm traduceri, administrăm cod, și alte activități.\r\n"
+"Va trebui să înregistrezi un cont pe Launchpad pentru a participa în multe "
+"domenii din cadrul comunității Ubuntu. Din fericire, procesul de "
+"înregistrare este simplu, sigur și gratuit."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('steps' field)
 #. .
@@ -1104,6 +1284,10 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:45
 msgid "registered-on-launchpad_steps"
 msgstr ""
+"Deschide un navigator web pe calculatorul tău.\r\n"
+"În navigatorul tău web, mergi la <tt>http://www.launchpad.net</tt>.\r\n"
+"Dă click pe link-ul <i>Register</i> din colțul ecranului pentru a te "
+"înregistra."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('links' field)
 #. .
@@ -1115,7 +1299,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/registered-on-launchpad.c:55
 msgid "registered-on-launchpad_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('help' field)
 #. .
@@ -1128,7 +1312,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/registered-on-launchpad.c:66
 msgid "registered-on-launchpad_help"
-msgstr ""
+msgstr "#launchpad pe Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
@@ -1140,7 +1324,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-bug-confirmed.c:11
 msgid "first-bug-confirmed_title"
-msgstr ""
+msgstr "Confirmarea unei erori înregistrate"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
 #. .
@@ -1151,7 +1335,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-bug-confirmed.c:20
 msgid "first-bug-confirmed_description"
-msgstr ""
+msgstr "S-a înregistrat o eroare care a fost confirmată de altcineva"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 #. .
@@ -1165,6 +1349,13 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:31
 msgid "first-bug-confirmed_summary"
 msgstr ""
+"O eroare este un defect dintr-o aplicație software. Înregistrarea de erori "
+"este o metodă grozavă de a ajuta la îmbunătățirea Ubuntu, iar pentru ca "
+"eroarea să fie rezolvată, altcineva trebuie să reușească să o reproducă și "
+"să o confirme. Cu cât un raport de eroare este mai detaliat și mai precis, "
+"cu atât el va fi mai ușor de confirmat de către altcineva. Această reușită "
+"atestă faptul că cel puțin unul din rapoartele tale a fost de bună calitate "
+"și a fost confirmat de altcineva."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
 #. .
@@ -1183,6 +1374,26 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:47
 msgid "first-bug-confirmed_steps"
 msgstr ""
+"Înregistrează o eroare în mod normal (vezi reușita Înregistrat Prima Eroare "
+"pentru mai multe detalii) și asigură-te că descrierea este destul de "
+"detaliată pentru a permite altora să o reproducă. Ca să realizezi un raport "
+"de eroare bun, include următoarele:\r\n"
+"O descriere clară și concisă a problemei. Nu uita să menționezi daca eroarea "
+"poate fi declanșată de fiecare data sau este intermitentă.\r\n"
+"Un set de pași necesari pentru a reproduce problema. Asigură-te că sunt "
+"expliciți. De exemplu, dacă un pas presupune selectarea unui element din "
+"meniu, specifică daca selectarea sa cu mouse-ul diferă de selectarea sa cu "
+"ajutorul scurtăturilor de la tastatură.\r\n"
+"O descriere a defecțiunii când se parcurg acei pași.\r\n"
+"O descriere a felului în care te-ai fi așteptat să se comporte aplicația. "
+"Aceasta este o informație importantă: uneori, ceea ce face aplicația este "
+"ceea ce dezvoltatorii au dorit și nu au realizat faptul că ar putea să-ți "
+"cauzeze probleme, așa că descrierea așteptărilor tale este de ajutor în "
+"înțelegerea defectului.\r\n"
+"Orice informație adițională care crezi că ar putea ajuta la diagnosticarea "
+"problemei. De exemplu, dacă aplicația a funcționat corect și deodată a "
+"încetat să mai funcționeze, specifică momentul la care a început să se "
+"comporte anormal."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
 #. .
@@ -1197,6 +1408,9 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_links"
 msgstr ""
+"http://www.ubuntu.com\r\n"
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"http://www.chiark.greenend.org.uk/~sgtatham/bugs.html"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
@@ -1209,7 +1423,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:70
 msgid "first-bug-confirmed_help"
-msgstr ""
+msgstr "#ubuntu-testing pe Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
@@ -1221,7 +1435,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-reviewer.c:11
 msgid "juju-charm-reviewer_title"
-msgstr ""
+msgstr "Referent Talismane Juju"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
 #. .
@@ -1232,7 +1446,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
-msgstr ""
+msgstr "Contribui talismane Juju la Ubuntu."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
@@ -1246,6 +1460,10 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:31
 msgid "juju-charm-reviewer_summary"
 msgstr ""
+"Juju este o tehnologie propulsată de calitatea talismanelor disponibile. "
+"Această reușită este pentru acei membri de încredere ai comunității care "
+"analizează talismanele din comunitate și le aprobă pentru includerea lor în "
+"Magazinul Juju."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('steps' field)
 #. .
@@ -1261,6 +1479,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:44
 msgid "juju-charm-reviewer_steps"
 msgstr ""
+"Contribuie un număr semnificativ de talismane Juju.\r\n"
+"Contribuie în mod regulat și la standarde suficient de înalte.\r\n"
+"Întreabă un membru al echipei de Referenți Juju dacă te poți alătura lor."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 #. .
@@ -1272,7 +1493,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .
@@ -1285,7 +1506,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:65
 msgid "juju-charm-reviewer_help"
-msgstr ""
+msgstr "#juju pe Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
@@ -1297,7 +1518,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/core-dev.c:11
 msgid "core-dev_title"
-msgstr ""
+msgstr "Dezvoltator de Bază Ubuntu"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('description' field)
 #. .
@@ -1308,7 +1529,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/core-dev.c:20
 msgid "core-dev_description"
-msgstr ""
+msgstr "Ești un Dezvoltator de Bază Ubuntu"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('summary' field)
 #. .
@@ -1322,6 +1543,10 @@ msgstr ""
 #: ../accomplishments/core-dev.c:31
 msgid "core-dev_summary"
 msgstr ""
+"Un Dezvoltator de Bază Ubuntu este responsabil de crearea de pachete și "
+"rezolvarea problemelor din arhiva <tt>main</tt>. Aceasta include unele din "
+"soft-urile critice care fac parte din sistemul Ubuntu, și piesele care sunt "
+"integrate într-o instalare standard Ubuntu."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('steps' field)
 #. .
@@ -1337,6 +1562,10 @@ msgstr ""
 #: ../accomplishments/core-dev.c:44
 msgid "core-dev_steps"
 msgstr ""
+"Contribuie la Ubuntu pentru o perioadă susținută de timp.\r\n"
+"Folosește-te de Programul de Sponsorizare Ubuntu pentru a realiza "
+"contribuțiile tale.\r\n"
+"Aplică la Comisia de Dezvoltare Ubuntu pentru poziția de programator de bază."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('links' field)
 #. .
@@ -1348,7 +1577,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/core-dev.c:54
 msgid "core-dev_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/SponsorshipProcess"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
 #. .
@@ -1361,4 +1590,4 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:65
 msgid "core-dev_help"
-msgstr ""
+msgstr "#ubuntu-devel pe Freenode"
