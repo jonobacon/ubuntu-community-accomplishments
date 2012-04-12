@@ -1,15 +1,15 @@
 [accomplishment]
-title = Registered on Launchpad
-description = Registered a Launchpad account
+title = Registrato su Launchpad
+description = Registrato un account su Launchpad
 application = ubuntu-community
 category = General
 needs-signing = true
 icon = default.png
-summary = Launchpad is a website in which we do much of our work in Ubuntu. There we build packages, file and fix bugs, perform translations, manage code, and other activities.
-	You will need to register an account with Launchpad to participate in much of the Ubuntu community. Fortunately, registering is simple, safe, and free.
-steps = Load a web browser on your computer.
-	In your web browser go to <tt>http://www.launchpad.net</tt>.
-	Click the <i>Register</i> link in the corner of the screen to register.
+summary = Launchpad è un sito web nel quale noi facciamo molto del nostro lavoro in Ubuntu. Qui noi costruiamo i pacchetti, apriamo e risolviamo i bug, facciamo le traduzioni, gestiamo il codice, e altre attività.
+	Sarà necessario registrare un account con Launchpad per partecipare a gran parte della comunità di Ubuntu. Fortunatamente, la registrazione è semplice, sicura, e gratuita.
+steps = Avviate un browser web sul vostro computer.
+	Nel vostro browser web andate su <tt>http://www.launchpad.net</tt>.
+	Fate clic sul link <i>Register</i> nell'angolo dello schermo per registrarsi.
 tips = None
 pitfalls = None
 help = #launchpad on Freenode

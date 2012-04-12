@@ -6,18 +6,18 @@ category = QA
 needs-signing = true
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
-summary = Un <i>bug (eroare)</i> este un defect dintr-un program informatic. Când raportezi un bug, informezi Ubuntu despre existența acestuia pentru ca noi să îl putem elimina.  
+summary = Un <i>bug (eroare)</i> este un defect dintr-un program informatic. Când raportezi o eroare, informezi Ubuntu despre existența acesteia pentru ca noi să o putem elimina.  
 	Când raportezi o eroare, pornește automat o conversație pe marginea acestuia cu programatorii și alte persoane interesate în a descoperi cauza problemei, pentru a oferi informații suficiente programatorului care se va ocupa de eliminarea acesteia. De multe ori, programatorul îți va pune diverse întrebări pentru a putea descoperi exact cauza problemei raportate de tine.
 	Această conversație va fi purtată într-o <i>platformă de urmărire a erorilor</i>; aceasta este o unealtă ce oferă instrumentele necesare purtării acestei conversații si permite setarea de câmpuri de prioritizare, pentru a asigura o rezolvare mai rapidă a erorilor grave.  
 	Sunt mai multe metode pentru a înregistra o eroare, dar noi recomandăm folosirea uneltei <tt>ubuntu-bug</tt>, pre-instalată în toate sistemele Ubuntu. Această unealtă ajută la recoltarea tuturor informațiilor ce pot fi de folos programatorului la găsirea sursei erorii și rezolvarea acesteia. 
 	 Pentru a înregistra o eroare ajutându-te de o interfață grafică, folosește opțiunea <i>Raportați o problemă</i> din meniul Ajutor al unei aplicații; aceasta este doar o metodă grafică de a rula <tt>ubuntu-bug</tt>.
-steps = Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.
-	Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the instructions.
-	Follow the instructions in Launchpad.
+steps = Deschide un terminal prin apăsarea butonului Ubuntu și tastarea cuvântului <i>terminal</i> în fereastră.
+	Tastează <tt>ubuntu-bug</tt> și numele pachetului pentru care vrei să raportezi o problemă (ex.: <tt>ubuntu-bug unity</tt> pentru Unity). Dacă nu știi numele pachetului, rulează doar <tt>ubuntu-bug</tt> și urmează instrucțiunile.
+	Urmează instrucțiunile în Launchpad.
 tips = Încearcă întotdeauna să fii concis dar și detaliat în rapoartele de erori. 
 	Dacă știi pașii care trebuie făcuți pentru a declanșa eroarea, include acei pași în descrierea erorii. Aceasta se numește <i>reproducerea erorii</i>. 
 	Ține minte, când înregistrezi o eroare, chemi un programator să o rezolve. Încearcă să fii cât mai cooperant, politicos și respectă timpul pe care acesta îl dedică rezolvării acelei erori.
 pitfalls = Nu înregistra erori pentru lucruri care te frustrează într-un program; înregistrează erori numai când un program nu funcționează așa cum ar trebui.  
 	Nu răspunde la o eroare cu "și eu!"; folosește link-ul <i>this bug affects me</i>(această eroare mă afectează) aflat deasupra raportului de eroare (în Launchpad).
-help = #ubuntu-testing on Freenode
+help = #ubuntu-testing pe Freenode
 

@@ -1,15 +1,16 @@
 [accomplishment]
-title = Revisor de encantamientos de Juju
-description = Contribuye con encantamientos Juju a Ubuntu
+title = Revisor de recetas de Juju
+description = Contribuye con recetas de Juju a Ubuntu
 application = ubuntu-community
 category = Juju
 needs-signing = true
 icon = juju.png
 depends = ubuntu-community/juju-charm-contributor
 summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
-steps = Contribute a significant number of Juju charms.
-	Contribute regularly and to a high enough quality.
-	Ask a member of the Juju Reviews team if you can join.
+steps = Para obtener este trofeo, puede intentar la siguiente ruta:
+	Crear y compartir un número significativo de recetas para Juju
+	Demostrar que estas recetas son de buena calidad y que se envian nuevas con cierta regularidad
+	Preguntar a un miembro del equipo de revisores de Juju si puede ser parte del equipo
 tips = None
 pitfalls = None
 help = #juju en Freenode

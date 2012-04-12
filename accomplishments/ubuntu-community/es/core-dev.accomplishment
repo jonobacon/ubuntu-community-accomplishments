@@ -6,10 +6,11 @@ category = Development
 needs-signing = true
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
-summary = An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
-steps = Contribute extensively to Ubuntu for a sustained period of time.
-	Make use of the Ubuntu Sponsorship Queue to make your contributions.
-	Apply to the Ubuntu Developer Board to be a core developer.
+summary = Un desarrollador del núcleo de Ubuntu es responsable de empaquetar y resolver problemas de los programas que sean parte del repositorio <tt>main</tt> . Este repositorio incluye algunas de las aplicaciones más importantes de la distribución y todas las que son parte integral de una instalación de Ubuntu por defecto. La posición que ocupa un desarrollador del núcleo de Ubuntu es considerada una de las más importantes de toda la comunidad, al menos en el aspecto técnico, por delante aún de los desarrolladores MOTU.
+steps = Para obtener este trofeo, se sugiere que:
+	Envíe correcciones en forma de parches o ramas de bazaar a Ubuntu por un periodo considerable de tiempo
+	Asegúrese de hacer que otros desarrolladores revisen y aprueben sus cambios
+	Aplique para obtener derechos de desarrollador del núcleo en una junta de la comisión de desarrolladores de Ubuntu
 tips = None
 pitfalls = None
 help = #ubuntu-devel en Freenode

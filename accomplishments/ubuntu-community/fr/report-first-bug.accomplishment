@@ -1,6 +1,6 @@
 [accomplishment]
 title = Signaler son premier bogue
-description = Vous avez rapporté votre premier bogue dans Ubuntu
+description = Vous avez signalé votre premier bogue dans Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true

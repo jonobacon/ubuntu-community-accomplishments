@@ -6,17 +6,17 @@ category = Governance
 needs-signing = true
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
-summary = The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
-	The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally.
-	To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
-steps = Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-	Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-	In the next LoCo Council election propose yourself as a candidate.
-tips = Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
-	You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
-	Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
-pitfalls = Don't apply to the LoCo Council just to be in a position of power.
-	Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
-help = #ubuntu-community-team on Freenode
-	#ubuntu-locoteams on Freenode
+summary = Consiliul LoCo Ubuntu este o comisie ce supervizează echipele de comunități locale din lume.
+	Consiliul LoCo recomandă și determină politica și procesul comunităților locale. Consiliul LoCo ajută de asemenea la rezolvarea problemelor ce nu au putut fi rezolvate intern de către echipele LoCo. 
+	Pentru a fi membru al consiliului LoCo, trebuie să fi demonstrat un angajament puternic și o durată mare de participare în Echipele Ubuntu LoCo, capacități clare de lider, și să ai timpul și disponibilitatea necesară de a răspunde nevoilor consiliului. Un bun membru al Consiliului LoCo va arăta că este capabil să asculte și să înțeleagă nevoile diverselor culturi și comunități. Membrii Consiliului LoCo trebuie să fie capabili să inspire și să ghideze conducerile echipelor LoCo.
+steps = Începe prin a contribui la echipa comunității tale locale prin organizarea de evenimente și apoi contribuie pentru echipele loco la scară globală. Contribuțiile trebuie să fie întinse pe o perioadă lungă de timp. Nu există o durată fixă, dar trebuie să fie suficient de lungă încât să demonstreze angajamentul tău față de proiect. 
+	Creează o pagină pe <tt>wiki.ubuntu.com</tt> care scoate în evidență contribuțiile tale. Include în pagina wiki contribuțiile tale, descrie echipele din care faci parte și realizează un rezumat al eforturilor depuse de tine.
+	În următorul scrutin al Consiliului Loco, depune-ți candidatura.
+tips = Concentrează-te pe abilitățile tale de lider. Consiliul LoCo este o poziție importantă de conducere și căutăm lideri puternici, capabili și încrezători.
+	Probabil că ai condus deja o echipă LoCo, pentru a-ți dezvolta și demonstra capacitățile de conducere, înainte de a aplica la o poziție în Consiliul LoCo.
+	Aplică la Consiliul Comunitar doar după ce ai ajuns la un nivel important de experiență în cadrul comunității LoCo.
+pitfalls = Nu aplica la Consiliul LoCo doar pentru a fi într-o poziție de putere.
+	Încearcă să nu fii în mai multe consilii (ex.: Consiliul Comunitar, Consiliul LoCo) în același timp. Intră într-unul singur și oferă-i toată atenția ta.
+help = #ubuntu-community-team pe Freenode
+	#ubuntu-locoteams pe Freenode
 

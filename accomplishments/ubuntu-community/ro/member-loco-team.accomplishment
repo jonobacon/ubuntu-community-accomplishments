@@ -7,10 +7,9 @@ needs-signing = true
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Comunitățile locale Ubuntu sunt răspândite în toată lumea și sunt formate din utilizatori
-steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
-	Visit that team's Launchpad page click the Join Team link.
+steps = Mergi la <tt>loco.ubuntu.com</tt> și găsește comunitatea locală cea mai apropiată. Acest trofeu este acordat dacă ești membru al oricărei comunități locale, indiferent dacă aceasta este aprobată sau nu. 
+	Vizitează pagina Launchpad a acelei comunități locale și apasă pe link-ul Join Team.
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams on Freenode
-	#ubuntu-community-team on Freenode
+help = #ubuntu-ro pe Freenote
 

@@ -1,16 +1,16 @@
 [accomplishment]
-title = Ubuntu Core Developer
-description = You are an Ubuntu Core Developer
+title = Dezvoltator de Bază Ubuntu
+description = Ești un Dezvoltator de Bază Ubuntu
 application = ubuntu-community
 category = Development
 needs-signing = true
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
-summary = An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
-steps = Contribute extensively to Ubuntu for a sustained period of time.
-	Make use of the Ubuntu Sponsorship Queue to make your contributions.
-	Apply to the Ubuntu Developer Board to be a core developer.
+summary = Un Dezvoltator de Bază Ubuntu este responsabil de crearea de pachete și rezolvarea problemelor din arhiva <tt>main</tt>. Aceasta include unele din soft-urile critice care fac parte din sistemul Ubuntu, și piesele care sunt integrate într-o instalare standard Ubuntu.
+steps = Contribuie la Ubuntu pentru o perioadă susținută de timp.
+	Folosește-te de Programul de Sponsorizare Ubuntu pentru a realiza contribuțiile tale.
+	Aplică la Comisia de Dezvoltare Ubuntu pentru poziția de programator de bază.
 tips = None
 pitfalls = None
-help = #ubuntu-devel on Freenode
+help = #ubuntu-devel pe Freenode
 

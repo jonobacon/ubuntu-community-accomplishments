@@ -6,9 +6,9 @@ category = Governance
 needs-signing = true
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
-summary = The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
-	The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally.
-	To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
+summary = Ubuntu LoCo Council är en styrelse som övervakar de globala Ubuntu LoCo grupperna.
+	LoCo Council råder och bestämmer när det gäller LoCos principer och procedurer. LoCo Council hjälper också till att lösa frågor som LoCo grupperna inte lyckats lösa internt.
+	För att vara medlem i LoCo Council krävs att du historiskt har visat ett stort engagemang och deltagande i Ubuntu LoCo grupper, visat prov på tydliga ledaregenskaper och har tid och möjlighet att engagera sig i rådets behov. En bra LoCo Council medlem har god förmåga lyssna på och förstå olika kulturers och samfunds skiftande behov. LoCo Council medlemmar ska kunna inspirera och vägleda LoCo gruppens ledarskap.
 steps = Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
 	Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
 	In the next LoCo Council election propose yourself as a candidate.

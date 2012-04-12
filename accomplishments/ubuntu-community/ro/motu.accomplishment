@@ -7,9 +7,9 @@ needs-signing = true
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Un programator Ubuntu MOTU este responsabil de pachete și de rezolvarea problemelor apărute în arhiva <tt>universe</tt>. Aceasta include o varietate largă de aplicații care sunt introduse în Ubuntu din Debian.
-steps = Contribute extensively to Ubuntu for a sustained period of time.
-	Make use of the Ubuntu Sponsorship Queue to make your contributions.
-	Apply to the Ubuntu Developer Board to be a MOTU developer.
+steps = Contribuie extensiv la Ubuntu pentru o perioadă mare de timp.
+	Folosește-te de Programul de Sponsorizare Ubuntu pentru a realiza contribuțiile tale.
+	Aplică la Comisia de Programare Ubuntu pentru poziția de programator MOTU.
 tips = None
 pitfalls = None
 help = #ubuntu-devel pe Freenode
