@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-10 06:52+0000\n"
+"PO-Revision-Date: 2012-04-11 05:24+0000\n"
 "Last-Translator: Max Linde <max.linde@telia.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-11 05:00+0000\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 "Language: sv\n"
 
@@ -741,6 +741,15 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:46
 msgid "loco-council-member_steps"
 msgstr ""
+"Börja med att bidra till din lokala gemenskap genom att arrangera evenemang "
+"och bidra sedan till LoCo Community grupperna på global nivå. Bidrag bör "
+"vara omfattande under en sammanhängande tidsperiod. Det finns ingen bestämd "
+"tidsperiod, men det ska vara tillräckligt länge för att visa att du är "
+"engagerad i projektet.\r\n"
+"Skapa en sida på <tt>wiki.ubuntu.com</tt> som visar dina bidrag. På "
+"wikisidan ska du ta med dina bidrag, beskriva i vilka grupper du ingår och "
+"sammanfatta dina insatser.\r\n"
+"Nominera dig själv som kandidat till nästa val i LoCo Council."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
 #. .
@@ -784,6 +793,9 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:83
 msgid "loco-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/LoCoCouncil\r\n"
+"https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('help' field)
 #. .
@@ -798,6 +810,8 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:95
 msgid "loco-council-member_help"
 msgstr ""
+"#ubuntu-community-team på Freenode\r\n"
+"#ubuntu-locoteams på Freenode"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 #. .
@@ -809,7 +823,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-member.c:11
 msgid "ubuntu-member_title"
-msgstr ""
+msgstr "Godkänd Ubuntu medlem"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
 #. .

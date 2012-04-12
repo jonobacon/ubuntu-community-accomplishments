@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-09 05:12+0000\n"
+"PO-Revision-Date: 2012-04-11 07:00+0000\n"
 "Last-Translator: Jericho Rivera <Unknown>\n"
 "Language-Team: Filipino <fil@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -120,7 +120,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
-msgstr ""
+msgstr "Ikaw ay nakapag-ulat ng iyong unang bug sa Ubuntu"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .

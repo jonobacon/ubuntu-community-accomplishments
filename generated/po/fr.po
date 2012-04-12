@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-10 14:29+0000\n"
-"Last-Translator: Winael <vinzjobard@gmail.com>\n"
+"PO-Revision-Date: 2012-04-11 22:33+0000\n"
+"Last-Translator: piew <piewww@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-11 04:59+0000\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -285,6 +285,9 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:57
 msgid "fridge-editor_links"
 msgstr ""
+"http://fridge.ubuntu.com\r\n"
+"https//wiki.ubuntu.com/Fridge\r\n"
+"https://launchpad.net/~ubuntu-fridge"
 
 #. ACCOMPLISHMENT: Fridge Editor ('help' field)
 #. .
@@ -299,6 +302,8 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:69
 msgid "fridge-editor_help"
 msgstr ""
+"#ubuntu-community-team sur Freenode\r\n"
+"#ubuntu-news sur Freenode"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
 #. .

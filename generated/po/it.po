@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-10 18:06+0000\n"
+"PO-Revision-Date: 2012-04-11 17:19+0000\n"
 "Last-Translator: Nicola Jelmorini <Unknown>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-11 05:00+0000\n"
+"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -913,6 +913,17 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:47
 msgid "ubuntu-member_steps"
 msgstr ""
+"Contribuite ampiamente ad Ubuntu per un periodo prolungato di tempo. Non c'è "
+"un periodo prefissato di tempo, ma questo dovrebbe essere lungo a "
+"sufficienza da dimostrare il vostro impegno verso il progetto.Create una "
+"pagina su <tt>wiki.ubuntu.com</tt> che delinei i vostri contributi. Nella "
+"pagina wiki includete i vostri contributi, descrivete in quali team vi "
+"trovate, e riassumete i vostri sforzi.Chiedete ai vostri compagni membri "
+"della comunità di portare testimonianze dei vostri contributi. Pianificate "
+"voi stessi una revisione presso un comitato di appartenenza regionale, "
+"consiglio IRC, consiglio dei Forum, oppure siate promotore di un incontro "
+"del comitato di appartenenza per la revisione dei vostri contributi. Potete "
+"trovare il comitato più vicino usando i link sotto."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
 #. .
@@ -952,7 +963,7 @@ msgstr "#ubuntu-community-team on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/technical-board-member.c:11
 msgid "technical-board-member_title"
-msgstr ""
+msgstr "Membro della commissione tecnica"
 
 #. ACCOMPLISHMENT: Technical Board Member ('description' field)
 #. .
@@ -963,7 +974,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/technical-board-member.c:20
 msgid "technical-board-member_description"
-msgstr ""
+msgstr "Sei un membro della commissione tecnica di Ubuntu"
 
 #. ACCOMPLISHMENT: Technical Board Member ('summary' field)
 #. .
@@ -978,6 +989,14 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:32
 msgid "technical-board-member_summary"
 msgstr ""
+"La commissione tecnica di Ubuntu è uno dei più importanti consigli di "
+"governo nella comunità di Ubuntu. La commissione tecnica consiglia e decide "
+"sulle politiche tecniche e i processi nonché agisce come organo di "
+"escalation per gli episodi che capitano altrove nella comunità. Per essere "
+"membro della commissione tecnica dovete aver dimostrato un forte impegno e "
+"lunga partecipazione in Ubuntu, forti competenze tecniche e conoscenza "
+"dell'archivio, dimostrato chiare competenze di leadership, ed avere il tempo "
+"e la disponibilità per andare incontro ai bisogni del comitato."
 
 #. ACCOMPLISHMENT: Technical Board Member ('steps' field)
 #. .
@@ -993,6 +1012,13 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:45
 msgid "technical-board-member_steps"
 msgstr ""
+"Contribuite ampiamente ad Ubuntu per un prolungato periodo di tempo. Non c'è "
+"un periodo prefissato di tempo, ma questo dovrebbe essere lungo a "
+"sufficienza da dimostrare il vostro impegno verso il progetto. Create una "
+"pagina su <tt>wiki.ubuntu.com</tt> che delinei i vostri contributi. Nella "
+"pagina wiki includete i vostri contributi, descrivete in quali team vi "
+"trovate, e riassumete i vostri sforzi. Nelle prossime elezioni della "
+"commissione tecnica proponete voi stessi come un candidato."
 
 #. ACCOMPLISHMENT: Technical Board Member ('links' field)
 #. .
@@ -1035,7 +1061,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-contributor.c:11
 msgid "juju-charm-contributor_title"
-msgstr ""
+msgstr "Contributore di Juju Charm"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
 #. .
@@ -1046,7 +1072,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
 msgid "juju-charm-contributor_description"
-msgstr ""
+msgstr "Hai contribuito con dei charm Juju ad Ubuntu."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 #. .
@@ -1060,6 +1086,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:31
 msgid "juju-charm-contributor_summary"
 msgstr ""
+"Juju è una tecnologia alimentata dalla qualità dei charm disponibili. Questo "
+"adempimento è per i membri della comunità che hanno contribuito con dei "
+"charm alla comunità Juju."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('steps' field)
 #. .
@@ -1075,6 +1104,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:44
 msgid "juju-charm-contributor_steps"
 msgstr ""
+"Contribuite con una serie di charm Juju.\r\n"
+"Contribuite regolarmente e con una qualità sufficientemente elevata.\r\n"
+"Chiedete ad un membro del team di contributori Juju se potete aderire."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
 #. .
@@ -1297,7 +1329,7 @@ msgstr "#launchpad on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-bug-confirmed.c:11
 msgid "first-bug-confirmed_title"
-msgstr ""
+msgstr "Un bug aperto che è stato confermato"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
 #. .
@@ -1308,7 +1340,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-bug-confirmed.c:20
 msgid "first-bug-confirmed_description"
-msgstr ""
+msgstr "Un bug aperto in Ubuntu che è stato confermato da qualcun altro"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 #. .
@@ -1322,6 +1354,13 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:31
 msgid "first-bug-confirmed_summary"
 msgstr ""
+"Un bug è un difetto in un software. Aprire bug è un ottima maniera per "
+"aiutare a migliorare Ubuntu e per fare in modo che il bug venga risolto, "
+"qualcun altro deve essere in grado di riprodurlo e confermarlo. Con più è "
+"dettagliata e precisa la vostra segnalazione del bug, più è probabile che "
+"questo possa essere riprodotto da qualcun altro. Questo risultato riflette "
+"il fatto che almeno una delle vostre segnalazioni di bug era di buona "
+"qualità ed è stata confermata da qualcun altro."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
 #. .
@@ -1340,6 +1379,26 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:47
 msgid "first-bug-confirmed_steps"
 msgstr ""
+"Aprite un bug come lo fareste normalmente (vedere l'adempimento \"Segnalare "
+"il primo bug\" per maggiori dettagli) e assicurarsi che la descrizione sia "
+"sufficientemente dettagliata per consentire agli altri di riprodurlo. Per "
+"scrivere una buona segnalazione di bug, includere quanto segue:\r\n"
+"Una chiara e concisa descrizione del problema. Non scordare di menzionare se "
+"il bug può essere scatenato ogni volta o se è intermittente.\r\n"
+"Una serie di passi per riprodurre il problema. Accertarsi  che essi siano "
+"espliciti. Per esempio, se un passo comprende la selezione di una voce di "
+"menu, specificare se selezionandola usando il mouse oppure le scorciatoie da "
+"tastiera fa differenza.\r\n"
+"Una descrizione del guasto quando si seguono questi passi.\r\n"
+"Una descrizione di cosa invece ci si aspetta che faccia l'applicazione. "
+"Questa è una parte importante dell'informazione: a volte, cosa fa "
+"l'applicazione è cosa gli sviluppatori si aspettano che debba fare e loro "
+"non realizzano che questo potrebbe causarci problemi, così descrivendo cosa "
+"ci si aspetta è utile per capire il difetto.\r\n"
+"Qualsiasi informazione aggiuntiva che si pensa possa aiutare la diagnosi del "
+"problema. Per esempio, se l'applicazione solitamente funziona e "
+"improvvisamente smette di funzionare, specificare quando ha iniziato a "
+"comportarsi in modo anomalo."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
 #. .
@@ -1382,7 +1441,7 @@ msgstr "#ubuntu-testing on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-reviewer.c:11
 msgid "juju-charm-reviewer_title"
-msgstr ""
+msgstr "Revisore di Charm Juju"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
 #. .
@@ -1393,7 +1452,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
-msgstr ""
+msgstr "Hai contribuito con charm Juju ad Ubuntu"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
@@ -1407,6 +1466,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:31
 msgid "juju-charm-reviewer_summary"
 msgstr ""
+"Juju è una tecnologia alimentata dalla qualità dei charm disponibili. Questo "
+"adempimento è per quei membri fidati della comunità che revisionano i charm "
+"della comunità e li approvano per l'inclusione nel negozio di Juju."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('steps' field)
 #. .
@@ -1422,6 +1484,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:44
 msgid "juju-charm-reviewer_steps"
 msgstr ""
+"Contribuite con un numero significativo di charm Juju.\r\n"
+"Contribuite regolarmente e con una sufficiente qualità.\r\n"
+"Chiedete ad un membro del team delle revisioni di Juju se potete aderire."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 #. .
@@ -1458,7 +1523,7 @@ msgstr "#juju on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/core-dev.c:11
 msgid "core-dev_title"
-msgstr ""
+msgstr "core developer di Ubuntu"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('description' field)
 #. .
@@ -1469,7 +1534,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/core-dev.c:20
 msgid "core-dev_description"
-msgstr ""
+msgstr "Sei un core developer di Ubuntu"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('summary' field)
 #. .
@@ -1483,6 +1548,10 @@ msgstr ""
 #: ../accomplishments/core-dev.c:31
 msgid "core-dev_summary"
 msgstr ""
+"Un core developer di Ubuntu è responsabile per la creazione dei pacchetti e "
+"la soluzione dei problemi nell'archivio <tt>main</tt>. Questo include alcuni "
+"dei più critici programmi software che sono parte di un sistema Ubuntu, e le "
+"parti che sono incluse in un'installazione di default di Ubuntu."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('steps' field)
 #. .
@@ -1498,6 +1567,11 @@ msgstr ""
 #: ../accomplishments/core-dev.c:44
 msgid "core-dev_steps"
 msgstr ""
+"Contribuite ampiamente ad Ubuntu per un periodo prolungato di tempo.\r\n"
+"Fate uso della coda di sponsorizzazione di Ubuntu per fare i vostri "
+"contributi.\r\n"
+"Indirizzatevi alla commissione degli sviluppatori di Ubuntu per essere un "
+"core developer."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('links' field)
 #. .
