@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-08 23:05+0000\n"
-"Last-Translator: Szymon Waliczek <Unknown>\n"
+"PO-Revision-Date: 2012-04-12 20:00+0000\n"
+"Last-Translator: Rafal Cieślak <rafalcieslak256@gmail.com>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-13 14:55+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -52,10 +52,10 @@ msgstr "Jesteś członkiem zespołu Ubuntu LoCo"
 #: ../accomplishments/member-loco-team.c:31
 msgid "member-loco-team_summary"
 msgstr ""
-"Ubuntu LoCo ( Lokalna spoleczność ang. Local Community ) są to lokalne grupy "
-"ludzi z całego Świata, które omawiają pomysły, wskazówki, triki i wiedze "
-"oraz pracują razem nad rozpowszechnieniem w Świecie Ubuntu oraz jak Ubuntu "
-"może być pomocny ludziom."
+"Ubuntu LoCo ( Lokalna spoleczność, ang. Local Community ) to regionalne "
+"grupy ludzi z całego świata, które omawiają pomysły, wskazówki, triki i "
+"wiedzę oraz pracują razem nad rozpowszechnieniem Ubuntu na świecie i "
+"czynieniem Ubuntu jak najbardziej pomocnym dla ludzi."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
 #. .
@@ -71,7 +71,7 @@ msgstr ""
 msgid "member-loco-team_steps"
 msgstr ""
 "Idź do <tt>loco.ubuntu.com</tt> i odszukaj swoją najbliższy zespół. Trofeum "
-"jest przyznawane jeżeli jesteś członkiem jakiegokolwiek LoCo zespołu "
+"jest przyznawane, jeżeli jesteś członkiem jakiegokolwiek LoCo zespołu, "
 "niezależnie od jego statusu zatwierdzenia."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('links' field)
@@ -84,7 +84,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/member-loco-team.c:53
 msgid "member-loco-team_links"
-msgstr "http://loco.ubuntu.com/teams/ubuntu-pl"
+msgstr "http://loco.ubuntu.com/"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('help' field)
 #. .
@@ -99,8 +99,9 @@ msgstr "http://loco.ubuntu.com/teams/ubuntu-pl"
 #: ../accomplishments/member-loco-team.c:65
 msgid "member-loco-team_help"
 msgstr ""
-"IRC kanał #ubuntu-locoteams na irc.freenode.net:8001\r\n"
-"IRC kanał #ubuntu-community-team na irc.freenode.net:8001"
+"Kanał IRC #ubuntu-locoteams na irc.freenode.net:8001\r\n"
+"Kanał IRC #ubuntu-community-team na irc.freenode.net:8001\r\n"
+"Kanał IRC #ubuntu-pl na irc.freenode.net:8001"
 
 #. ACCOMPLISHMENT: Report First Bug ('title' field)
 #. .
@@ -112,7 +113,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/report-first-bug.c:11
 msgid "report-first-bug_title"
-msgstr "Zgłoś pierwszy błąd"
+msgstr "Zgłoś swój pierwszy błąd"
 
 #. ACCOMPLISHMENT: Report First Bug ('description' field)
 #. .
@@ -142,23 +143,25 @@ msgstr "Zgłośiłeś swój pierwszy błąd w Ubuntu"
 msgid "report-first-bug_summary"
 msgstr ""
 "<i>Błąd</i> występuje w części oprogramowania. Kiedy zgłaszasz błąd oznacza "
-"to, że informujesz projekt Ubuntu o tych błędach i dzięki temu możemy je "
+"to, że informujesz o nim projekt Ubuntu, dzięki czemu możemy go "
 "rozwiązać.\r\n"
-"W momencie zgłoszenia błędu rozpoczyna się dyskusja z deweloperami oraz "
-"innymi zainteresowanymi tym błędem w celu zgromadzenia odpowiedniej ilości "
-"informacji potrzebnych do ustalenia źródła problemu po to aby mógł zostać on "
-"szybko usunięty. Do dyskusji tej z reguły angażują się deweloperzy zadając "
-"Ci różne pytania które pomogą im na szybsze zlokalizowanie problemu.\r\n"
+"W momencie zgłoszenia błędu rozpoczyna się dyskusja z twórcami Ubuntu oraz "
+"innymi zainteresowanymi tym błędem, mająca na celu zgromadzenie odpowiedniej "
+"ilości informacji, które są potrzebne do ustalenia źródła problemu, aby mógł "
+"zostać on szybko usunięty. Do dyskusji tej z reguły angażują się "
+"deweloperzy, zadając Ci różne pytania, które pomogą im na szybsze "
+"zlokalizowanie problemu.\r\n"
 "Ta dyskusja ma miejsce w tzw. <i>bug tracker</i>; jest to narzędzie które "
-"pozwala na prowadzenie tej dyskusji oraz ustawanie priorytetu błędu aby mieć "
-"pewność, że ważne błędy zostaną rozwiązane wcześniej.\r\n"
+"pozwala na prowadzenie tej dyskusji, oraz ustawanie priorytetu błędu, aby "
+"mieć pewność, że ważne błędy zostaną rozwiązane wcześniej.\r\n"
 "Jest kilka różnych sposobów zgłaszania błędu, ale my zalecamy używanie "
-"narzędzia <tt>ubuntu-bug</tt> które jest przed-instalowane na wszystkich "
-"Ubuntu systemach. To narzędzie pomaga w zgromadzeniu niezbędnych informacji "
-"które mogą być potrzebne deweloperom do odszukania źródła błędu i jego "
-"naprawienia.\r\n"
+"narzędzia <tt>ubuntu-bug</tt> które domyślnie jest zainstalowane na "
+"wszystkich systemach Ubuntu. To narzędzie pomaga w zgromadzeniu niezbędnych "
+"informacji, które mogą być potrzebne deweloperom do odszukania źródła błędu "
+"i jego naprawienia.\r\n"
 "Możesz zgłosić błąd w bardziej \"graficzny\" sposób poprzez opcje <i>Zgłoś "
-"problem</i> w menu aplikacji pod zakładką <i>Pomoc</i>."
+"problem</i> w menu aplikacji, pod zakładką <i>Pomoc</i>, zazwyczaj umożliwia "
+"to graficzną obsługę <tt>ubuntu-bug</tt>"
 
 #. ACCOMPLISHMENT: Report First Bug ('steps' field)
 #. .
@@ -174,13 +177,13 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:48
 msgid "report-first-bug_steps"
 msgstr ""
-"Otworz terminal, aby to zrobić wciśnij klawisz Super ( jest to klawisz "
-"windowsa na klawiaturze ) i wpisz w polu wyszukiwania <i>terminal</i>.\r\n"
-"W terminalu wpisz <tt>ubuntu-bug</tt> i po odstępie wpisz nazwe "
-"aplikacji/paczki w której wykryłeś błąd i chcesz go zgłosić (np. <tt>ubuntu-"
-"bug unity</tt> dla paczki Unity ). Jeżeli nie znasz nazwy paczki wpisz samo "
-"<tt>ubuntu-bug</tt> i postępuj zgodnie z instrukcjami.\r\n"
-"Postępuj zgodnie z instrukcjami w Lunchpad."
+"Otworz terminal - aby to zrobić wciśnij klawisz Super ( jest to klawisz z "
+"logo Windows) i wpisz w polu wyszukiwania <i>terminal</i>.\r\n"
+"W terminalu wpisz <tt>ubuntu-bug</tt> i po spacji dodaj nazwę "
+"aplikacji/pakietu w której wykryłeś błąd i chcesz go zgłosić (np. <tt>ubuntu-"
+"bug unity</tt> dla programu Unity ). Jeżeli nie znasz nazwy pakietu wpisz po "
+"prostu <tt>ubuntu-bug</tt> i postępuj zgodnie z instrukcjami.\r\n"
+"Następie postępuj zgodnie ze wskazaniami w portalu Launchpad."
 
 #. ACCOMPLISHMENT: Report First Bug ('tips' field)
 #. .
@@ -196,12 +199,12 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:61
 msgid "report-first-bug_tips"
 msgstr ""
-"Zawsze staraj się być zwięzły i zarazem detaliczny podczas zgłaszania "
+"Zawsze staraj się być zwięzły i zarazem szczegółowy podczas zgłaszania "
 "błędu.\r\n"
-"Jeżeli pamiętasz kroki które robiłeś kiedy problem się pojawił, dołącz je do "
-"opisu błędu. Ta czynność zwana jest <i>Odtwarzanie błędu</i>.\r\n"
+"Jeżeli pamiętasz kroki, które robiłeś kiedy wystąpił problem, dołącz je do "
+"opisu błędu. Ta czynność zwana jest <i>Odtwarzaniem błędu</i>.\r\n"
 "Pamiętaj, przez zgłaszanie błędu prosisz dewelopera o jego czas żeby "
-"rozwiązać problem. Postaraj się byś uczynny, grzeczny i szanuj jego czas."
+"rozwiązać problem. Postaraj się byś uczynny, grzeczny i szanuj ten czas."
 
 #. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
 #. .
@@ -216,11 +219,11 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:73
 msgid "report-first-bug_pitfalls"
 msgstr ""
-"Nie zgłaszaj błędu jeżeli sposób w jaki działa dany program Cię irytuje; "
-"Tylko zgłaszaj błąd jeżeli działa on nie tak jak powinny.\r\n"
+"Nie zgłaszaj błędu, jeżeli sposób w jaki działa dany program irytuje Cię; "
+"rób to wyłącznie gdy program działa niepoprawnie.\r\n"
 "Nie odpowiadaj na błąd pisząc \"u mnie też!\", \"to samo!\" itp. ; zamiast "
 "tego użyj przycisku <i>Ten błąd dotyczy mnie</i> ( <i>this bug affects "
-"me</i> ) na górze strony z raportem błędu ( na Launchpad )"
+"me</i> ) na górze strony z raportem błędu (w portalu Launchpad)."
 
 #. ACCOMPLISHMENT: Report First Bug ('links' field)
 #. .
@@ -248,7 +251,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/report-first-bug.c:95
 msgid "report-first-bug_help"
-msgstr "#ubuntu-pl on Freenode"
+msgstr "#ubuntu-testing on Freenode"
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
@@ -260,7 +263,7 @@ msgstr "#ubuntu-pl on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/fridge-editor.c:11
 msgid "fridge-editor_title"
-msgstr "Fridge Editor"
+msgstr "Redaktor Fridge"
 
 #. ACCOMPLISHMENT: Fridge Editor ('description' field)
 #. .
@@ -271,7 +274,7 @@ msgstr "Fridge Editor"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/fridge-editor.c:20
 msgid "fridge-editor_description"
-msgstr "Członek zespołu Fridge Editor"
+msgstr "Członek zespołu redaktorów Fridge"
 
 #. ACCOMPLISHMENT: Fridge Editor ('summary' field)
 #. .
@@ -287,12 +290,12 @@ msgstr "Członek zespołu Fridge Editor"
 msgid "fridge-editor_summary"
 msgstr ""
 "Ubuntu Fridge jest oficjalna stroną społeczności Ubuntu. Jest to strona "
-"prowadzona przez społeczność Ubuntu na której znajdziesz  nowinki, opinie "
+"prowadzona przez społeczność Ubuntu, na której znajdziesz  nowinki, opinie "
 "oraz inne ciekawe informacje na temat Ubuntu.\r\n"
-"<i>Ubuntu Fridge Editors</i> Jest to zespół który tworzy i publikuje "
-"zawartość strony <i>http://fridge.ubuntu.com/</i>. Aby zostać członkiem tego "
-"zespołu musisz dobrze pisać, często pisać oraz odpisywać na komentarze do "
-"publikowanych nowości i artykułów."
+"<i>Ubuntu Fridge Editors</i> to zespół, który tworzy i publikuje zawartość "
+"strony <i>http://fridge.ubuntu.com/</i>. Aby zostać członkiem tego zespołu "
+"musisz pisać ciekawie, często oraz odpowiadać na komentarze do publikowanych "
+"nowości i artykułów."
 
 #. ACCOMPLISHMENT: Fridge Editor ('steps' field)
 #. .
@@ -308,15 +311,14 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:45
 msgid "fridge-editor_steps"
 msgstr ""
-"Zostań członkiem Ubuntu. Posiadasz dobrą wiedzę o społeczności Ubuntu, "
-"posiadasz dobre zdolności pisania w języku angielskim. Jeżeli jesteś "
-"zainteresowany członkostwem w zespole <i>Ubuntu Fridge Editors</i> "
-"powinieneś przesłać do nich kilka swoich artykułów w celu zapoznania sie "
-"przez zespół z Twoja osobą.  Artykuły możesz wysłać do \"news team\" przez "
-"IRC (Internet Chat Relay) na kanale #ubuntu-news (irc.freenode.net) albo "
-"możesz wysłać maila na: ubuntu-news-team@lists.ubuntu.com ( temat wiadomości "
-"nie jest obowiązkowy ). Dodatkowe informacje jakie członek tego zespołu "
-"powinien posiadać możesz naleźć na "
+"Zostań członkiem Ubuntu. Posiądź dobrą wiedzę o społeczności Ubuntu, zdobądź "
+"dobre zdolności pisania w języku angielskim. Jeżeli jesteś zainteresowany "
+"członkostwem w zespole <i>Ubuntu Fridge Editors</i>, powinieneś przesłać do "
+"nich kilka swoich artykułów, by zespół mógł się z Tobą zapoznać.  Artykuły "
+"możesz wysłać do \"news team\" przez IRC (Internet Chat Relay) na kanale "
+"#ubuntu-news (irc.freenode.net) albo możesz wysłać maila na: ubuntu-news-"
+"team@lists.ubuntu.com (temat wiadomości dowolny). Dodatkowe informacje, "
+"jakie członek tego zespołu powinien posiadać, możesz znaleźć na "
 "<i>https://wiki.ubuntu.com/Fridge/EditorGuidelines</i>.\r\n"
 "Pisz notatki na brudno z pomysłów jakie przyjdą Ci do głowy.\r\n"
 "Prześlij swoje treści do zespołu Fridge Editors."
@@ -364,7 +366,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/signed-code-of-conduct.c:11
 msgid "signed-code-of-conduct_title"
-msgstr "Podpisano Kodeks Postępowania Ubuntu"
+msgstr "Podpisałeś Kodeks Postępowania Ubuntu"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
 #. .
@@ -375,7 +377,7 @@ msgstr "Podpisano Kodeks Postępowania Ubuntu"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
 msgid "signed-code-of-conduct_description"
-msgstr "Podpisałeś Kodeks Postępowania Ubuntu."
+msgstr "Złożyłeś swój podpis pod Kodeksem Postępowania Ubuntu."
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .
@@ -391,13 +393,13 @@ msgstr "Podpisałeś Kodeks Postępowania Ubuntu."
 #: ../accomplishments/signed-code-of-conduct.c:33
 msgid "signed-code-of-conduct_summary"
 msgstr ""
-"Kodeks postępowania Ubuntu jest ważnym dokumentem, który zawiera zbiór "
-"wytycznych i oczekiwań dobrego postępowania w społeczności Ubuntu.\r\n"
-"Obejmuje on oczekiwania dotyczące rozwagi, szacunku, współpracy, oraz jak "
-"prosić o pomoc i jak ustąpić gdy stajesz się zbyt zajęty i brakuje Ci "
-"czasu.\r\n"
-"To trofeum przyznawane jest, gdy zgodzisz się przestrzegać tych oczekiwań w "
-"społeczności i podpiszesz Kodeks Postępowania Ubuntu."
+"Kodeks Postępowania Ubuntu jest ważnym dokumentem, który zawiera zbiór "
+"wytycznych i zasad dobrego postępowania w społeczności Ubuntu.\r\n"
+"Obejmuje on oczekiwania dotyczące rozwagi, szacunku, współpracy, oraz "
+"wskazuje, jak prosić o pomoc i jak ustąpić, gdy stajesz się zbyt zajęty i "
+"brakuje Ci czasu dla wkładu w Ubuntu.\r\n"
+"Otrzymasz to trofeum zgodziwszy się przestrzegać tych zasad społeczności i "
+"podpiszesz Kodeks Postępowania Ubuntu."
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
 #. .
@@ -416,20 +418,21 @@ msgstr ""
 #: ../accomplishments/signed-code-of-conduct.c:49
 msgid "signed-code-of-conduct_steps"
 msgstr ""
-"Najpierw wygeneruj klucz PGP, dodaj go do klucza serwera Ubuntu i zaimportuj "
-"je do Launchpad'a. Zobacz <a "
-"href=\"https://help.launchpad.net/YourAccount/ImportingYourPGPKey\"> tutaj "
-"</ a>, jak to zrobić.\r\n"
-"Odwiedź <a href=\"https://launchpad.net/codeofconduct\"> Kodeks Postępowania "
-"Ubuntu </ a>.\r\n"
+"Najpierw wygeneruj klucz elektronicznego podpisu PGP (o ile go jeszcze nie "
+"posiadasz), wyślij go na serwer kluczy Ubuntu i zaimportuj je do portalu "
+"Launchpad. Zobacz <a "
+"href=\"https://help.launchpad.net/YourAccount/ImportingYourPGPKey\">tutaj</ "
+"a> jak to wykonać [strona w języku angielskim].\r\n"
+"Obejrzyj <a href=\"https://launchpad.net/codeofconduct\">Kodeks Postępowania "
+"Ubuntu</ a>.\r\n"
 "Pobierz Kodeks Postępowania Ubuntu, korzystając z linku znajdującego się w "
 "drugim etapie na tej stronie i otwórz go.\r\n"
-"Zarejestruj go przez wpisanie w terminalu <tt>gpg --clearsign "
+"Podpisz go przez wpisanie w terminalu <tt>gpg --clearsign "
 "UbuntuCodeofConduct-*.txt</tt>.\r\n"
-"Teraz otwórz plik w edytorze tekstu.\r\n"
+"Teraz otwórz plik w edytorze tekstu i skopiuj jego zawartość.\r\n"
 "Na stronie Kodeksu Postępowania Ubuntu, kliknij przycisk <i>Sign it!</i> "
-"następnie wklej w polu tekstowym. Kliknij <i>Continue</i>. Gratulacje, "
-"podpisałeś Kodeks Postępowania Ubuntu!"
+"następnie wklej treść pliku w polu tekstowym. Kliknij <i>Continue</i>.\r\n"
+"Gratulacje, podpisałeś Kodeks Postępowania Ubuntu!"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
 #. .
@@ -456,9 +459,9 @@ msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
 #: ../accomplishments/signed-code-of-conduct.c:71
 msgid "signed-code-of-conduct_help"
 msgstr ""
-"#ubuntu-pl na Freenode\r\n"
 "#ubuntu-locoteams na Freenode\r\n"
-"#ubuntu-community-team na Freenode"
+"#ubuntu-community-team na Freenode\r\n"
+"#ubuntu-pl na Freenode"
 
 #. ACCOMPLISHMENT: Community Council Member ('title' field)
 #. .
@@ -603,9 +606,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:94
 msgid "community-council-member_help"
-msgstr ""
-"#ubuntu-pl na Freenode\r\n"
-"#ubuntu-community-team na Freenode"
+msgstr "#ubuntu-community-team na Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 #. .
@@ -642,10 +643,10 @@ msgstr "Jesteś Ubuntu MOTU Deweloper"
 #: ../accomplishments/motu.c:31
 msgid "motu_summary"
 msgstr ""
-"Ubuntu MOTU Deweloper jest odpowiedzialny za pakowanie i rozwiązywania "
-"problemów w archiwum wszechświata (ang. the <tt>universe</tt> archive). "
-"Obejmuje to szeroki zakres aplikacji, które zostały wprowadzone do Ubuntu z "
-"Debiana."
+"Ubuntu MOTU Deweloper (Masters Of The Universe, ang. Władcy Wszechświata) "
+"jest odpowiedzialny za pakowanie i rozwiązywania problemów w archiwum "
+"\"wszechświata\" (ang. the <tt>universe</tt> archive). Obejmuje to szeroki "
+"zakres aplikacji, które zostały wprowadzone do Ubuntu z Debiana."
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('steps' field)
 #. .
@@ -663,8 +664,8 @@ msgid "motu_steps"
 msgstr ""
 "Przyczynić się w znacznym stopniu do projektu Ubuntu na dłuższy okres "
 "czasu.\r\n"
-"Skorzystaj z kolejki Sponsoringu Ubuntu (ang. Ubuntu Sponsorship Queue) do "
-"podejmowania swoich składek.\r\n"
+"Skorzystaj z kolejki Sponsoringu Ubuntu (ang. Ubuntu Sponsorship Queue) by "
+"wnieść swój pierwszy wkład.\r\n"
 "Zwrócić się do Zarządu Ubuntu Developer by zostać deweloperem MOTU."
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
@@ -850,6 +851,14 @@ msgstr "Jesteś zatwierdzonym użytkownikiem Ubuntu"
 #: ../accomplishments/ubuntu-member.c:33
 msgid "ubuntu-member_summary"
 msgstr ""
+"Członek Ubuntu jest to ktoś, kto wykazał <i>znaczący i długoterminowy</i> "
+"wkład w Ubuntu.\r\n"
+"Każdy Członek Ubuntu jest kimś odpowiedzialnym, można na nim polegać, a jego "
+"wkład w Ubuntu czyni je jeszcze lepszym.\r\n"
+"Co ważne, Członkostwo Ubuntu nie wymaga żadnych konkretnych uzdolnień; warty "
+"uznania jest wkład zarówno w programowanie, jak i przygotowywanie "
+"dokumentacji, tłumaczenie, doradztwo prawne, wsparcie dla użytkowników, "
+"projektowanie wyglądu i inne."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
 #. .
@@ -866,6 +875,16 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:47
 msgid "ubuntu-member_steps"
 msgstr ""
+"Udzielaj się dla Ubuntu w szerokim tego słowa znaczeniu, przez znaczący "
+"okres czasu. Nie ma określonego wymaganego czasu, ale powinno być to na tyle "
+"długo, byś udowodnił swoje poświęcenie dla projektu.\r\n"
+"Utwórz stronę na <tt>wiki.ubuntu.com</tt>, na której uwidocznisz swój wkład. "
+"Opisz na niej co zrobiłeś, wyjaśnij do jakich zespołów należysz, i podsumuj "
+"swoje starania.\r\n"
+"Poproś kolegów należących do społeczności o napisanie Ci testymonii "
+"oceniających Twój wkład.\r\n"
+"Zgłoś się do regionalnych zespołów członkostwa by przejrzano Twoje "
+"kontrybucje. Możesz znaleść kontakt do nich używając linków poniżej."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
 #. .
@@ -879,6 +898,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:58
 msgid "ubuntu-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/Membership\r\n"
+"https://wiki.ubuntu.com/Membership/RegionalBoards"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 #. .
@@ -891,7 +912,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:69
 msgid "ubuntu-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team on Freenode"
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
@@ -903,7 +924,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/technical-board-member.c:11
 msgid "technical-board-member_title"
-msgstr ""
+msgstr "Zostań członkiem Rady Technicznej"
 
 #. ACCOMPLISHMENT: Technical Board Member ('description' field)
 #. .
@@ -914,7 +935,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/technical-board-member.c:20
 msgid "technical-board-member_description"
-msgstr ""
+msgstr "Należysz do zespołu Rady Technicznej Ubuntu"
 
 #. ACCOMPLISHMENT: Technical Board Member ('summary' field)
 #. .
@@ -957,6 +978,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:56
 msgid "technical-board-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/TechnicalBoard\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Technical Board Member ('help' field)
 #. .
@@ -971,6 +994,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:68
 msgid "technical-board-member_help"
 msgstr ""
+"#ubuntu-devel-team on Freenode\r\n"
+"#ubuntu-community-team on Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
@@ -982,7 +1007,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-contributor.c:11
 msgid "juju-charm-contributor_title"
-msgstr ""
+msgstr "Kontrybutor Juju Charms"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
 #. .
@@ -993,7 +1018,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
 msgid "juju-charm-contributor_description"
-msgstr ""
+msgstr "Dokonujesz kontrybucji do projektu Juju Charms"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 #. .
@@ -1007,6 +1032,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:31
 msgid "juju-charm-contributor_summary"
 msgstr ""
+"Technologia Juju opiera się na jakości dostępnych Breloków. To osiągnięcie "
+"należy się tym członkom społeczności, którzy dopracowują Breloki dla twórców "
+"Juju."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('steps' field)
 #. .
@@ -1022,6 +1050,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:44
 msgid "juju-charm-contributor_steps"
 msgstr ""
+"Dostarczaj pewną ilość Breloków Juju.\r\n"
+"Udoskonalaj je regularnie, zapewniając wystarczająco wysoką jakość.\r\n"
+"Poproś członka zespołu Juju Contributors, aby doń dołączyć."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
 #. .
@@ -1033,7 +1064,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-contributor.c:54
 msgid "juju-charm-contributor_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
@@ -1046,7 +1077,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:65
 msgid "juju-charm-contributor_help"
-msgstr ""
+msgstr "#juju on Freenode"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
@@ -1058,7 +1089,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/user-has-mugshot.c:11
 msgid "user-has-mugshot_title"
-msgstr ""
+msgstr "Ustawiono mugshot w profilu Lauchpad"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
 #. .
@@ -1069,7 +1100,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/user-has-mugshot.c:20
 msgid "user-has-mugshot_description"
-msgstr ""
+msgstr "Użytkownik wstawił zdjęcie dołączone do profilu Launchpad"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
 #. .
@@ -1085,6 +1116,13 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:33
 msgid "user-has-mugshot_summary"
 msgstr ""
+"\"Mugshot\" jest obrazkiem który ustawia się w profilu użytkownika na "
+"Launchpadzie. Identyfikowanie ludzi po ich twarzach jest całkiem fajne.\r\n"
+"Zalecamy wstawić prawdziwe Twoje zdjęcie (tradycyjnie uwidaczniające tylko "
+"twarz), lub inny avatar, który naprawdę lubisz. Unikaj obrazków, które mogą "
+"zawierać treści obraźliwe lub niestosowne.\r\n"
+"Obrazek musi być o dokładnych wymiarach: <strong>192x192</stron>, i nie może "
+"być większy niż <strong>100 Kb</strong>."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
 #. .
@@ -1103,6 +1141,14 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:49
 msgid "user-has-mugshot_steps"
 msgstr ""
+"Ustawienie obrazka jest bardzo proste.\r\n"
+"Najpierw zaloguj się na stronie launchpad.net.\r\n"
+"Następnie wejdź na stronę swojego profilu, która zazwyczaj znajduje się pod "
+"adresem http://launchpad.net/~LOGIN\r\n"
+"Kliknij link \"Change details\".\r\n"
+"Upewnij się, że obrazek ma dokładnie 192x192 piksele (.png lub .jpg będą w "
+"sam raz).\r\n"
+"Gdy obrazek się załaduje, kliknij na \"Save changes\" na dole strony."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
 #. .
@@ -1114,7 +1160,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/user-has-mugshot.c:59
 msgid "user-has-mugshot_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
 #. .
@@ -1127,7 +1173,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/user-has-mugshot.c:70
 msgid "user-has-mugshot_help"
-msgstr ""
+msgstr "#launchpad on Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1139,7 +1185,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/registered-on-launchpad.c:11
 msgid "registered-on-launchpad_title"
-msgstr ""
+msgstr "Zarejestrowano się na Launchpadzie"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('description' field)
 #. .
@@ -1150,7 +1196,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/registered-on-launchpad.c:20
 msgid "registered-on-launchpad_description"
-msgstr ""
+msgstr "Zarejestruj się na Launchpadzie"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('summary' field)
 #. .
@@ -1165,6 +1211,12 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:32
 msgid "registered-on-launchpad_summary"
 msgstr ""
+"Launchpad to portal internetowy, gdzie wykonujemy sporą część naszej pracy "
+"nad Ubuntu. Tam budowane są pakiety, wypełniane i naprawiane błędy, "
+"dokonywane są tłumaczenia, zarządzany jest kod źródłowy, i wiele innych.\r\n"
+"Musisz być zarejestrowany na Launchpadzie, aby móc dołączyć do znacznej "
+"części społeczności Ubuntu. Na szczęście jest to proste, bezpieczne i "
+"darmowe."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('steps' field)
 #. .
@@ -1180,6 +1232,10 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:45
 msgid "registered-on-launchpad_steps"
 msgstr ""
+"Otwórz przeglądarkę internetową.\r\n"
+"Wejdź na stronę <tt>http://www.launchpad.net</tt>\r\n"
+"Kliknij na przycisk <i>Register</i> w górnym rogu ekranu, by się "
+"zarejestrować."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('links' field)
 #. .
@@ -1191,7 +1247,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/registered-on-launchpad.c:55
 msgid "registered-on-launchpad_links"
-msgstr ""
+msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('help' field)
 #. .
@@ -1204,7 +1260,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/registered-on-launchpad.c:66
 msgid "registered-on-launchpad_help"
-msgstr ""
+msgstr "#launchpad on Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
@@ -1216,7 +1272,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-bug-confirmed.c:11
 msgid "first-bug-confirmed_title"
-msgstr ""
+msgstr "Zgłoś błąd, który zostanie uznany za Potwierdzony"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
 #. .
@@ -1228,6 +1284,7 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:20
 msgid "first-bug-confirmed_description"
 msgstr ""
+"Wypełniono raport błędu, który został potwierdzony przez kogoś innego"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 #. .
@@ -1273,6 +1330,9 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:59
 msgid "first-bug-confirmed_links"
 msgstr ""
+"http://www.ubuntu.com\r\n"
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"http://www.chiark.greenend.org.uk/~sgtatham/bugs.html"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('help' field)
 #. .
@@ -1285,7 +1345,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:70
 msgid "first-bug-confirmed_help"
-msgstr ""
+msgstr "#ubuntu-testing on Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
@@ -1297,7 +1357,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-reviewer.c:11
 msgid "juju-charm-reviewer_title"
-msgstr ""
+msgstr "Redaktor Breloków Juju"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
 #. .
@@ -1308,7 +1368,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
-msgstr ""
+msgstr "Dostarczasz Breloki Juju do Ubuntu."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
@@ -1322,6 +1382,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:31
 msgid "juju-charm-reviewer_summary"
 msgstr ""
+"Technologia Juju oparta jest na jakości dostępnych Breloków. To osiągnięcie "
+"należy się zaufanym członkom społeczności, którzy przeglądają nowe Breloki i "
+"akceptują ich udostępnienie w Juju Store."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('steps' field)
 #. .
@@ -1348,7 +1411,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-reviewer.c:54
 msgid "juju-charm-reviewer_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
 #. .
@@ -1361,7 +1424,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:65
 msgid "juju-charm-reviewer_help"
-msgstr ""
+msgstr "#juju on Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .

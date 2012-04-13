@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-09 20:00+0000\n"
+"PO-Revision-Date: 2012-04-12 12:35+0000\n"
 "Last-Translator: Eduard Gotwig <eduardgotwig@gmail.com>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-10 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-04-13 14:55+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -38,7 +38,7 @@ msgstr "LoCo Team Mitglied"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/member-loco-team.c:20
 msgid "member-loco-team_description"
-msgstr "Du bist ein Mitglied des Ubuntu LoCo Teams"
+msgstr "Sie sind ein Mitglied des Ubuntu LoCo Teams"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 #. .
@@ -71,12 +71,12 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:43
 msgid "member-loco-team_steps"
 msgstr ""
-"Besuche <tt>loco.ubuntu.com</tt> um ein Team in deiner Nähe zu finden. Das "
-"deutsche Team findest du unter  <tt>ubuntu-de.org</tt> . Diese Trophäe wird "
-"verliehen wenn du ein Mitglied eines LoCo Teams wirst, egal ob das Team "
-"schon anerkannt ist.\r\n"
-"Gehe zu der Launchpad Seite des Teams dem du beitreten willst und klicke auf "
-"den \"Join Team\" link."
+"Besuchen Sie <tt>loco.ubuntu.com</tt> um ein Team in Ihrer Nähe zu finden. "
+"Das deutsche Team finden Sie unter  <tt>ubuntu-de.org</tt> . Diese Trophäe "
+"wird verliehen wenn Sie Mitglied eines LoCo Teams werden, unabhängig von der "
+"Anerkanntheit des Teams.\r\n"
+"Gehen Sie dazu auf die Launchpad Seite des Teams dem Sie beitreten wollen "
+"und klicken dann auf den Link \"Join Team\"."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('links' field)
 #. .
@@ -136,7 +136,7 @@ msgstr "Ersten Bug Melden"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
-msgstr "Du hast deinen ersten Bug in Ubuntu gemeldet"
+msgstr "Sie haben Ihren ersten Bug in Ubuntu gemeldet"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
@@ -154,22 +154,23 @@ msgstr "Du hast deinen ersten Bug in Ubuntu gemeldet"
 #: ../accomplishments/report-first-bug.c:35
 msgid "report-first-bug_summary"
 msgstr ""
-"Ein Bug ist ein Defekt innerhalb eines Teils der Software. Wenn du ein Bug "
-"meldest, dann machst du das Ubuntu Projekt auf diesen Defekt aufmerksam, so "
-"dass wir ihn dann reparieren können. Wenn du ein Bug meldest, dann fängst du "
-"an mit den Entwicklern und allen interessierten Parteien zu kommunizieren um "
-"das Problem zu identifizieren und genug Informationen zu geben, damit "
-"Entwickler es beheben können. Es kommt öfters vor, dass die Kommunikation "
-"beinhaltet, dass das Entwickler Team dir Fragen stellt, die wichtig sind um "
-"das Problem beheben zu können. Diese Unterhaltung findet statt in <i>bug "
-"tracker</i>; ein Tool, das diese Kommunikation ermöglicht und Prioritäten "
-"setzt, so dass kritische Bugs schneller behoben werden als harmlosere.\r\n"
-"Es gibt mehrere Wege, wie du Bugs melden kannst, aber wir empfehlen das Tool "
-"<tt>ubuntu-bug</tt> zu benutzen, das du vorinstalliert in Ubuntu findest. "
-"Dieses Tool hilft hilfreiche Informationen für das Entwickler Team zu "
-"sammeln, die dabei helfen wird das Problem zu beheben.\r\n"
-"Du kannst ein Bug auch graphisch melden in dem du unter dem <i>Hilfe</i> "
-"Menü eines Programms auf <i>Fehler Melden</i> drückst, was dann <tt>ubuntu-"
+"Ein Bug ist ein Defekt innerhalb eines Teils von Software. Wenn Sie einen "
+"Bug melden, machen Sie das Ubuntu Projekt auf diesen Defekt aufmerksam, so "
+"dass wir ihn anschließend reparieren können. Wenn Sie einen Bug melden, "
+"fangen Sie an mit den Entwicklern und allen interessierten Parteien zu "
+"kommunizieren um das Problem zu identifizieren und genug Informationen zu "
+"liefern, damit der Entwickler es beheben kann. Es kommt öfters vor, dass die "
+"Kommunikation beinhaltet, dass das Entwickler Team Ihnen Fragen stellt, die "
+"zum Lösen des Problems notwendig sind. Diese Unterhaltung findet statt im "
+"<i>bug tracker</i>; ein Tool, das diese Kommunikation ermöglicht und "
+"Prioritäten setzt, so dass kritische Bugs schneller behoben werden als "
+"harmlosere.\r\n"
+"Es existieren mehrere Wege, wie Sie Bugs melden können, aber wir empfehlen "
+"das Tool <tt>ubuntu-bug</tt> zu benutzen, das Sie vorinstalliert in Ubuntu "
+"finden. Dieses Tool hilft hilfreiche Informationen für das Entwickler Team "
+"zu sammeln, die dabei helfen können das Problem zu beheben.\r\n"
+"Sie können  ein Bug auch graphisch melden in dem Sie unter dem <i>Hilfe</i> "
+"Menü eines Programms auf <i>Fehler Melden</i> drücken, was dann <tt>ubuntu-"
 "bug</tt> startet."
 
 #. ACCOMPLISHMENT: Report First Bug ('steps' field)
@@ -186,13 +187,13 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:48
 msgid "report-first-bug_steps"
 msgstr ""
-"Öffne ein Terminal in dem du den Ubuntuknopf drückst und <i>terminal</i> in "
-"das Schnellstart Textfeld eingibst.\r\n"
-"Tippe in das Terminal <tt>ubuntu-bug</tt> ein gefolgt vom Namen des Pakets "
-"in dem der Bug vorkommt, den du melden möchtest. Wenn du nicht den Namen des "
-"Pakets weißt,  dann gib einfach <tt>ubuntu-bug</tt> ein ohne den Paketnamen "
-"und folgen den Anweisungen.\r\n"
-"Folge den Anweisungen in Launchpad."
+"Öffnen Sie ein Terminal in dem Sie den Ubuntuknopf drücken und "
+"<i>terminal</i> in das Schnellstart Textfeld eingeben.\r\n"
+"Tippen Sie in das Terminal <tt>ubuntu-bug</tt> ein gefolgt vom Namen des "
+"Pakets in dem der Bug vorkommt, den Sie melden möchten. Wenn Sie sich beim "
+"Namen des Paketes nicht sicher sind,  geben Sie einfach nur <tt>ubuntu-"
+"bug</tt> ein ohne den Paketnamen und folgen den Anweisungen.\r\n"
+"Folgen Sie danach den Anweisungen in Launchpad."
 
 #. ACCOMPLISHMENT: Report First Bug ('tips' field)
 #. .
@@ -208,14 +209,14 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:61
 msgid "report-first-bug_tips"
 msgstr ""
-"Versuche immer knappe, präzise und detaillierte Bug Meldungen zu "
+"Versuchen Sie stets knappe, präzise und detaillierte Bug Meldungen zu "
 "schreiben.\r\n"
-"Wenn du weißt, wie man den Bug auslösen kann, dann beschreibe die Schritte "
-"in der Meldung. Das wird <i>reproduzieren des Bugs</i>  oder <i>reproducing "
-"the bug</i> genannt.\r\n"
-"Beachte, dass wenn du ein Bug meldest, du einen Entwickler fragst Zeit "
-"aufzuwenden um es zu beheben. Versuch also hilfreich, höflich und "
-"respektvoll zu sein."
+"Wenn Sie wissen, wie der Bug gelöst werden kann, beschreiben Sie die dazu "
+"notwendigen Schritte in der Meldung. Das wird <i>reproduzieren des Bugs</i>  "
+"oder <i>reproducing the bug</i> genannt.\r\n"
+"Beachten Sie, beim Melden eines Bugs, dass Sie dadurch eine Anfrage an einen "
+"Entwickler starten um diesen in einer von ihm aufgebrachten Zeit zu lösen. "
+"Versuchen Sie deshalb hilfreich, höflich und respektvoll zu bleiben."
 
 #. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
 #. .
@@ -230,10 +231,12 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:73
 msgid "report-first-bug_pitfalls"
 msgstr ""
-"Melde keinen Bug, wenn etwas dich an der Software einfach nervt, melde nur "
-"Bugs, wenn sich die Software nicht so verhält, wie man erwarten würde.\r\n"
-"Antworte keiner Bug Meldung mit einem \"ich auch!\"; Stattdessen nutze den "
-"<i>this bug affects me</i> link oben auf der Seite (in Launchpad)."
+"Melden Sie keinen Bug, wenn Sie etwas an der Software einfach nervt, melden "
+"Sie nur Bugs, wenn sich die Software nicht so verhält, wie es von ihr "
+"erwartet wird.\r\n"
+"Antworten Sie keiner Bug Meldung mit einem \"Mich auch!\"; Stattdessen "
+"sollten Sie den Link <i>this bug affects me</i> link oben auf der Seite (in "
+"Launchpad) nutzen."
 
 #. ACCOMPLISHMENT: Report First Bug ('links' field)
 #. .
@@ -322,15 +325,15 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:45
 msgid "fridge-editor_steps"
 msgstr ""
-"Werde ein Ubuntu Mitglied. Habe eine gute Kenntnis über die Ubuntu "
-"Gemeinschaft, habe gute schriftliche Englisch Fähigkeiten. Jeder, der ein "
+"Werde Sie ein Ubuntu Mitglied. Haben Sie eine gute Kenntnis über die Ubuntu "
+"Gemeinschaft und gute englische schriftliche Fähigkeiten. Jeder, der ein "
 "Mitglied des Ubuntu Fridge Redaktion Teams (\"Editors Team\") sein will, "
 "sollte einige Artikel an die Redaktion schicken, damit sie einen kennen "
-"lernen und einen beraten können (wenn nötig). Artikel können an das "
+"lernen und beraten können (wenn nötig). Artikel können an das "
 "Nachrichtenteam durch IRC (Internet Chat Relay) auf Freenode "
-"(irc.freenode.net)-#ubuntu-news-- oder durch folgende E-Mail geschickt "
-"werden: ubuntu-news-team@lists.ubuntu.com (keine Anmeldung nötig).  Weitere "
-"Informationen kannst du auf der Fridge Wiki Seite bekommen unter \"Editors "
+"(irc.freenode.net)-#ubuntu-news-- oder an folgende E-Mail geschickt werden: "
+"ubuntu-news-team@lists.ubuntu.com (keine Anmeldung nötig).  Weitere "
+"Informationen können Sie auf der Fridge Wiki Seite bekommen unter \"Editors "
 "Guidelines\".\r\n"
 "Schreibe Entwürfe für jede deiner Ideen.\r\n"
 "Schicke dein Inhalt an die Fridge Redaktion."
@@ -391,7 +394,7 @@ msgstr "Ubuntu Verhaltenskodex unterschrieben"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
 msgid "signed-code-of-conduct_description"
-msgstr "Du hast den Ubuntu Verhaltenskodex unterschrieben"
+msgstr "Sie haben den Ubuntu Verhaltenskodex unterschrieben"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .

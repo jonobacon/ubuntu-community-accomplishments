@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-11 05:24+0000\n"
+"PO-Revision-Date: 2012-04-12 05:50+0000\n"
 "Last-Translator: Max Linde <max.linde@telia.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
+"X-Launchpad-Export-Date: 2012-04-13 14:55+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 "Language: sv\n"
 
@@ -538,7 +538,7 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:59
 msgid "community-council-member_tips"
 msgstr ""
-"Fokusera på din ledarskapsförmåga. Community Council är en viktig "
+"Fokusera på din ledarskapsförmåga. Community Council har en viktig "
 "ledarposition och vi letar efter starka, begåvade, självsäkra ledare.\r\n"
 "Du bör ha lett en annan grupp för att ha utvecklat och visat din "
 "ledarskapsförmåga innan du ansöker till Community Council.\r\n"
@@ -765,6 +765,12 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:59
 msgid "loco-council-member_tips"
 msgstr ""
+"Fokusera på din ledarskapsförmåga. LoCo Council har en viktig ledarposition "
+"och vi letar efter starka, begåvade, självsäkra ledare.\r\n"
+"Du bör ha lett en LoCo grupp för att ha utvecklat och visat din "
+"ledarskapsförmåga innan du ansöker till LoCo Council.\r\n"
+"Sök endast till LoCo Council när du har betydande erfarenhet i LoCo "
+"gemenskapen."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
 #. .
@@ -779,6 +785,9 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:71
 msgid "loco-council-member_pitfalls"
 msgstr ""
+"Sök inte till LoCo Council enbart för att få en maktposition.\r\n"
+"Försök att inte vara med i mer än ett råd (t.ex. LoCo Council, Community "
+"Council) samtidigt. Gå med i ett, och ge det din fulla uppmärksamhet."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
