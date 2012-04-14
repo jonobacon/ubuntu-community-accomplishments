@@ -1,6 +1,6 @@
 [accomplishment]
-title = Report First Bug
-description = Ikaw ay nakapag-ulat ng iyong unang bug sa Ubuntu
+title = Poročanje prvega hrošča
+description = V Ubuntuju ste prijavili svoj prvi hrošč
 application = ubuntu-community
 category = QA
 needs-signing = true

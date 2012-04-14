@@ -1,6 +1,6 @@
 [accomplishment]
-title = Développeur Ubuntu MOTU
-description = Vous êtes un développeur Ubuntu MOTU
+title = Ubuntu MOTU Developer
+description = You are an Ubuntu MOTU Developer
 application = ubuntu-community
 category = Development
 needs-signing = true
@@ -12,5 +12,5 @@ steps = Contribute extensively to Ubuntu for a sustained period of time.
 	Apply to the Ubuntu Developer Board to be a MOTU developer.
 tips = None
 pitfalls = None
-help = #ubuntu-devel sur Freenode
+help = #ubuntu-devel on Freenode
 

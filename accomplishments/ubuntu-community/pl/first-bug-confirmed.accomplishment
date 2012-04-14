@@ -1,6 +1,6 @@
 [accomplishment]
-title = Filed Bug that was Confirmed
-description = Filed a bug in Ubuntu that was confirmed by someone else
+title = Zgłoś błąd, który zostanie uznany za Potwierdzony
+description = Wypełniono raport błędu, który został potwierdzony przez kogoś innego
 application = ubuntu-community
 category = QA
 needs-signing = true

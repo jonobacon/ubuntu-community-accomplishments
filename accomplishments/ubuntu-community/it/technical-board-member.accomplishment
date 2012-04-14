@@ -1,16 +1,13 @@
 [accomplishment]
-title = Technical Board Member
-description = You are a member of the Ubuntu Technical Board
+title = Membro della commissione tecnica
+description = Sei un membro della commissione tecnica di Ubuntu
 application = ubuntu-community
 category = Governance
 needs-signing = true
 icon = devel.png
 depends = ubuntu-community/ubuntu-member
-summary = The Ubuntu Technical Board is one of the most important governing boards in the Ubuntu community. The Technical Board advises and decides on technical policy and process as well as acting as an escalation body for incidents that occur elsewhere in the community.
-	To be a member of the Technical Board you need to have demonstrated a strong commitment and participation history in Ubuntu, strong technical skills and knowledge of the archive, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the board.
-steps = Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-	Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-	In the next Technical Board election propose yourself as a candidate.
+summary = La commissione tecnica di Ubuntu è uno dei più importanti consigli di governo nella comunità di Ubuntu. La commissione tecnica consiglia e decide sulle politiche tecniche e i processi nonché agisce come organo di escalation per gli episodi che capitano altrove nella comunità. Per essere membro della commissione tecnica dovete aver dimostrato un forte impegno e lunga partecipazione in Ubuntu, forti competenze tecniche e conoscenza dell'archivio, dimostrato chiare competenze di leadership, ed avere il tempo e la disponibilità per andare incontro ai bisogni del comitato.
+steps = Contribuite ampiamente ad Ubuntu per un prolungato periodo di tempo. Non c'è un periodo prefissato di tempo, ma questo dovrebbe essere lungo a sufficienza da dimostrare il vostro impegno verso il progetto. Create una pagina su <tt>wiki.ubuntu.com</tt> che delinei i vostri contributi. Nella pagina wiki includete i vostri contributi, descrivete in quali team vi trovate, e riassumete i vostri sforzi. Nelle prossime elezioni della commissione tecnica proponete voi stessi come un candidato.
 tips = None
 pitfalls = None
 help = #ubuntu-devel-team on Freenode

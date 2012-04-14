@@ -1,6 +1,6 @@
 [accomplishment]
 title = Fridge Editor
-description = Membre de l'équipe d'éditeurs du Fridge
+description = A member of the Fridge Editors team
 application = ubuntu-community
 category = Documentation
 needs-signing = true
@@ -13,6 +13,6 @@ steps = Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, 
 	Submit your content to the Fridge Editors.
 tips = None
 pitfalls = None
-help = #ubuntu-community-team sur Freenode
-	#ubuntu-news sur Freenode
+help = #ubuntu-community-team on Freenode
+	#ubuntu-news on Freenode
 

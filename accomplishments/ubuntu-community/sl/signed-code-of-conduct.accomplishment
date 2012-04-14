@@ -1,12 +1,14 @@
 [accomplishment]
 title = Signed Ubuntu Code Of Conduct
-description = Vous avez signé le code de conduite Ubuntu
+description = You have signed the Ubuntu Code Of Conduct
 application = ubuntu-community
 category = General
 needs-signing = true
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
-summary = Le Code de Conduite Ubuntu est un document important qui fournit un ensemble de directives et d’exigences dans le but d’assurer une bonne conduite au sein de la communauté Ubuntu. Il inclut des exigences en matière de considération, de respect, de collaboration et explique comment demander de l’aide ou se retirer en cas d’indisponibilité. Ce trophée est décerné lorsque vous avez accepté de respecter ces exigences dans la communauté et avez signé le Code de Conduite Ubuntu.
+summary = The Ubuntu Code Of Conduct is an important document that provides a set of guidelines and expectations for good conduct in the Ubuntu Community.
+	It includes expectations around being considerate, respectful, collaborative, how to ask for help, and how to step down when you become too busy.
+	This trophy is awarded when you have agreed to abide by these expectations in the community and have signed the Ubuntu Code Of Conduct.
 steps = First generate a PGP key, add it to the Ubuntu key-server, and import it into Launchpad. See <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">here</a> for how to do this.
 	Visit the <a href="https://launchpad.net/codeofconduct">Code Of Conduct page</a>.
 	Download the Ubuntu Code of Conduct, using the link located in the second step of the page, and open it.
@@ -15,6 +17,6 @@ steps = First generate a PGP key, add it to the Ubuntu key-server, and import it
 	On the Ubuntu Code of Conduct page, click <i>Sign it!</i> then paste into the textbox. Click <i>Continue</i>. Congratulations, you've signed the Ubuntu Code of Conduct!
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams sur Freenode
-	#ubuntu-community-team sur Freenode
+help = #ubuntu-locoteams on Freenode
+	#ubuntu-community-team on Freenode
 

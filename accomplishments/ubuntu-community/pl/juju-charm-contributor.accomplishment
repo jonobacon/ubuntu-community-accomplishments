@@ -1,15 +1,15 @@
 [accomplishment]
-title = Juju Charm Contributor
-description = You contribute Juju charms to Ubuntu.
+title = Kontrybutor Juju Charms
+description = Dokonujesz kontrybucji do projektu Juju Charms
 application = ubuntu-community
 category = Juju
 needs-signing = true
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
-summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
-steps = Contribute a number of Juju charms.
-	Contribute regularly and to a high enough quality.
-	Ask a member of the Juju Contributors team if you can join.
+summary = Technologia Juju opiera się na jakości dostępnych Breloków. To osiągnięcie należy się tym członkom społeczności, którzy dopracowują Breloki dla twórców Juju.
+steps = Dostarczaj pewną ilość Breloków Juju.
+	Udoskonalaj je regularnie, zapewniając wystarczająco wysoką jakość.
+	Poproś członka zespołu Juju Contributors, aby doń dołączyć.
 tips = None
 pitfalls = None
 help = #juju on Freenode

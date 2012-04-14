@@ -9,14 +9,14 @@ depends = ubuntu-community/ubuntu-member
 summary = Ubuntu LoCo Council är en styrelse som övervakar de globala Ubuntu LoCo grupperna.
 	LoCo Council råder och bestämmer när det gäller LoCos principer och procedurer. LoCo Council hjälper också till att lösa frågor som LoCo grupperna inte lyckats lösa internt.
 	För att vara medlem i LoCo Council krävs att du historiskt har visat ett stort engagemang och deltagande i Ubuntu LoCo grupper, visat prov på tydliga ledaregenskaper och har tid och möjlighet att engagera sig i rådets behov. En bra LoCo Council medlem har god förmåga lyssna på och förstå olika kulturers och samfunds skiftande behov. LoCo Council medlemmar ska kunna inspirera och vägleda LoCo gruppens ledarskap.
-steps = Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-	Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-	In the next LoCo Council election propose yourself as a candidate.
-tips = Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
-	You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
-	Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
-pitfalls = Don't apply to the LoCo Council just to be in a position of power.
-	Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
-help = #ubuntu-community-team on Freenode
-	#ubuntu-locoteams on Freenode
+steps = Börja med att bidra till din lokala gemenskap genom att arrangera evenemang och bidra sedan till LoCo Community grupperna på global nivå. Bidrag bör vara omfattande under en sammanhängande tidsperiod. Det finns ingen bestämd tidsperiod, men det ska vara tillräckligt länge för att visa att du är engagerad i projektet.
+	Skapa en sida på <tt>wiki.ubuntu.com</tt> som visar dina bidrag. På wikisidan ska du ta med dina bidrag, beskriva i vilka grupper du ingår och sammanfatta dina insatser.
+	Nominera dig själv som kandidat till nästa val i LoCo Council.
+tips = Fokusera på din ledarskapsförmåga. LoCo Council har en viktig ledarposition och vi letar efter starka, begåvade, självsäkra ledare.
+	Du bör ha lett en LoCo grupp för att ha utvecklat och visat din ledarskapsförmåga innan du ansöker till LoCo Council.
+	Sök endast till LoCo Council när du har betydande erfarenhet i LoCo gemenskapen.
+pitfalls = Sök inte till LoCo Council enbart för att få en maktposition.
+	Försök att inte vara med i mer än ett råd (t.ex. LoCo Council, Community Council) samtidigt. Gå med i ett, och ge det din fulla uppmärksamhet.
+help = #ubuntu-community-team på Freenode
+	#ubuntu-locoteams på Freenode
 

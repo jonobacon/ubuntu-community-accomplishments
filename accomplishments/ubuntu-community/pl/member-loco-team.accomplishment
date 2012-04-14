@@ -6,10 +6,11 @@ category = LoCo Teams
 needs-signing = true
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
-summary = Ubuntu LoCo ( Lokalna spoleczność ang. Local Community ) są to lokalne grupy ludzi z całego Świata, które omawiają pomysły, wskazówki, triki i wiedze oraz pracują razem nad rozpowszechnieniem w Świecie Ubuntu oraz jak Ubuntu może być pomocny ludziom.
-steps = Idź do <tt>loco.ubuntu.com</tt> i odszukaj swoją najbliższy zespół. Trofeum jest przyznawane jeżeli jesteś członkiem jakiegokolwiek LoCo zespołu niezależnie od jego statusu zatwierdzenia.
+summary = Ubuntu LoCo ( Lokalna spoleczność, ang. Local Community ) to regionalne grupy ludzi z całego świata, które omawiają pomysły, wskazówki, triki i wiedzę oraz pracują razem nad rozpowszechnieniem Ubuntu na świecie i czynieniem Ubuntu jak najbardziej pomocnym dla ludzi.
+steps = Idź do <tt>loco.ubuntu.com</tt> i odszukaj swoją najbliższy zespół. Trofeum jest przyznawane, jeżeli jesteś członkiem jakiegokolwiek LoCo zespołu, niezależnie od jego statusu zatwierdzenia.
 tips = None
 pitfalls = None
-help = IRC kanał #ubuntu-locoteams na irc.freenode.net:8001
-	IRC kanał #ubuntu-community-team na irc.freenode.net:8001
+help = Kanał IRC #ubuntu-locoteams na irc.freenode.net:8001
+	Kanał IRC #ubuntu-community-team na irc.freenode.net:8001
+	Kanał IRC #ubuntu-pl na irc.freenode.net:8001
 

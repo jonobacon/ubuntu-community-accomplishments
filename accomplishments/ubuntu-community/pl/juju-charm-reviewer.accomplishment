@@ -1,12 +1,12 @@
 [accomplishment]
-title = Juju Charm Reviewer
-description = You contribute Juju charms to Ubuntu.
+title = Redaktor Breloków Juju
+description = Dostarczasz Breloki Juju do Ubuntu.
 application = ubuntu-community
 category = Juju
 needs-signing = true
 icon = juju.png
 depends = ubuntu-community/juju-charm-contributor
-summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
+summary = Technologia Juju oparta jest na jakości dostępnych Breloków. To osiągnięcie należy się zaufanym członkom społeczności, którzy przeglądają nowe Breloki i akceptują ich udostępnienie w Juju Store.
 steps = Contribute a significant number of Juju charms.
 	Contribute regularly and to a high enough quality.
 	Ask a member of the Juju Reviews team if you can join.

@@ -1,23 +1,23 @@
 [accomplishment]
-title = Zgłoś pierwszy błąd
+title = Zgłoś swój pierwszy błąd
 description = Zgłośiłeś swój pierwszy błąd w Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
-summary = <i>Błąd</i> występuje w części oprogramowania. Kiedy zgłaszasz błąd oznacza to, że informujesz projekt Ubuntu o tych błędach i dzięki temu możemy je rozwiązać.
-	W momencie zgłoszenia błędu rozpoczyna się dyskusja z deweloperami oraz innymi zainteresowanymi tym błędem w celu zgromadzenia odpowiedniej ilości informacji potrzebnych do ustalenia źródła problemu po to aby mógł zostać on szybko usunięty. Do dyskusji tej z reguły angażują się deweloperzy zadając Ci różne pytania które pomogą im na szybsze zlokalizowanie problemu.
-	Ta dyskusja ma miejsce w tzw. <i>bug tracker</i>; jest to narzędzie które pozwala na prowadzenie tej dyskusji oraz ustawanie priorytetu błędu aby mieć pewność, że ważne błędy zostaną rozwiązane wcześniej.
-	Jest kilka różnych sposobów zgłaszania błędu, ale my zalecamy używanie narzędzia <tt>ubuntu-bug</tt> które jest przed-instalowane na wszystkich Ubuntu systemach. To narzędzie pomaga w zgromadzeniu niezbędnych informacji które mogą być potrzebne deweloperom do odszukania źródła błędu i jego naprawienia.
-	Możesz zgłosić błąd w bardziej "graficzny" sposób poprzez opcje <i>Zgłoś problem</i> w menu aplikacji pod zakładką <i>Pomoc</i>.
-steps = Otworz terminal, aby to zrobić wciśnij klawisz Super ( jest to klawisz windowsa na klawiaturze ) i wpisz w polu wyszukiwania <i>terminal</i>.
-	W terminalu wpisz <tt>ubuntu-bug</tt> i po odstępie wpisz nazwe aplikacji/paczki w której wykryłeś błąd i chcesz go zgłosić (np. <tt>ubuntu-bug unity</tt> dla paczki Unity ). Jeżeli nie znasz nazwy paczki wpisz samo <tt>ubuntu-bug</tt> i postępuj zgodnie z instrukcjami.
-	Postępuj zgodnie z instrukcjami w Lunchpad.
-tips = Zawsze staraj się być zwięzły i zarazem detaliczny podczas zgłaszania błędu.
-	Jeżeli pamiętasz kroki które robiłeś kiedy problem się pojawił, dołącz je do opisu błędu. Ta czynność zwana jest <i>Odtwarzanie błędu</i>.
-	Pamiętaj, przez zgłaszanie błędu prosisz dewelopera o jego czas żeby rozwiązać problem. Postaraj się byś uczynny, grzeczny i szanuj jego czas.
-pitfalls = Nie zgłaszaj błędu jeżeli sposób w jaki działa dany program Cię irytuje; Tylko zgłaszaj błąd jeżeli działa on nie tak jak powinny.
-	Nie odpowiadaj na błąd pisząc "u mnie też!", "to samo!" itp. ; zamiast tego użyj przycisku <i>Ten błąd dotyczy mnie</i> ( <i>this bug affects me</i> ) na górze strony z raportem błędu ( na Launchpad )
-help = #ubuntu-pl on Freenode
+summary = <i>Błąd</i> występuje w części oprogramowania. Kiedy zgłaszasz błąd oznacza to, że informujesz o nim projekt Ubuntu, dzięki czemu możemy go rozwiązać.
+	W momencie zgłoszenia błędu rozpoczyna się dyskusja z twórcami Ubuntu oraz innymi zainteresowanymi tym błędem, mająca na celu zgromadzenie odpowiedniej ilości informacji, które są potrzebne do ustalenia źródła problemu, aby mógł zostać on szybko usunięty. Do dyskusji tej z reguły angażują się deweloperzy, zadając Ci różne pytania, które pomogą im na szybsze zlokalizowanie problemu.
+	Ta dyskusja ma miejsce w tzw. <i>bug tracker</i>; jest to narzędzie które pozwala na prowadzenie tej dyskusji, oraz ustawanie priorytetu błędu, aby mieć pewność, że ważne błędy zostaną rozwiązane wcześniej.
+	Jest kilka różnych sposobów zgłaszania błędu, ale my zalecamy używanie narzędzia <tt>ubuntu-bug</tt> które domyślnie jest zainstalowane na wszystkich systemach Ubuntu. To narzędzie pomaga w zgromadzeniu niezbędnych informacji, które mogą być potrzebne deweloperom do odszukania źródła błędu i jego naprawienia.
+	Możesz zgłosić błąd w bardziej "graficzny" sposób poprzez opcje <i>Zgłoś problem</i> w menu aplikacji, pod zakładką <i>Pomoc</i>, zazwyczaj umożliwia to graficzną obsługę <tt>ubuntu-bug</tt>
+steps = Otworz terminal - aby to zrobić wciśnij klawisz Super ( jest to klawisz z logo Windows) i wpisz w polu wyszukiwania <i>terminal</i>.
+	W terminalu wpisz <tt>ubuntu-bug</tt> i po spacji dodaj nazwę aplikacji/pakietu w której wykryłeś błąd i chcesz go zgłosić (np. <tt>ubuntu-bug unity</tt> dla programu Unity ). Jeżeli nie znasz nazwy pakietu wpisz po prostu <tt>ubuntu-bug</tt> i postępuj zgodnie z instrukcjami.
+	Następie postępuj zgodnie ze wskazaniami w portalu Launchpad.
+tips = Zawsze staraj się być zwięzły i zarazem szczegółowy podczas zgłaszania błędu.
+	Jeżeli pamiętasz kroki, które robiłeś kiedy wystąpił problem, dołącz je do opisu błędu. Ta czynność zwana jest <i>Odtwarzaniem błędu</i>.
+	Pamiętaj, przez zgłaszanie błędu prosisz dewelopera o jego czas żeby rozwiązać problem. Postaraj się byś uczynny, grzeczny i szanuj ten czas.
+pitfalls = Nie zgłaszaj błędu, jeżeli sposób w jaki działa dany program irytuje Cię; rób to wyłącznie gdy program działa niepoprawnie.
+	Nie odpowiadaj na błąd pisząc "u mnie też!", "to samo!" itp. ; zamiast tego użyj przycisku <i>Ten błąd dotyczy mnie</i> ( <i>this bug affects me</i> ) na górze strony z raportem błędu (w portalu Launchpad).
+help = #ubuntu-testing on Freenode
 
