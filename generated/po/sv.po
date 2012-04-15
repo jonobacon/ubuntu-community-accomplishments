@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-12 05:50+0000\n"
+"PO-Revision-Date: 2012-04-14 09:04+0000\n"
 "Last-Translator: Max Linde <max.linde@telia.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-13 14:55+0000\n"
+"X-Launchpad-Export-Date: 2012-04-15 05:12+0000\n"
 "X-Generator: Launchpad (build 15070)\n"
 "Language: sv\n"
 
@@ -859,6 +859,14 @@ msgstr "Du är en godkänd Ubuntu medlem"
 #: ../accomplishments/ubuntu-member.c:33
 msgid "ubuntu-member_summary"
 msgstr ""
+"En Ubuntumedlem är någon som kommit med betydande och ihållande bidrag till "
+"Ubuntu.\r\n"
+"Varje Ubuntumedlem ses som en pålitlig medarbetare som har bidragit till att "
+"vidareutveckla och förbättra Ubuntu.\r\n"
+"Viktigt är att Ubuntumedlemskap inte kräver några speciella färdigheter; "
+"betydande bidrag inom utveckling, dokumentation, översättningar, "
+"befrämjande, support, konst, design och många andra områden är alla värda "
+"medlemskap."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
 #. .
@@ -875,6 +883,16 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:47
 msgid "ubuntu-member_steps"
 msgstr ""
+"Kom med omfattande bidrag till Ubuntu under en sammanhängande period. Det "
+"finns ingen bestämd tidsperiod, men det ska vara tillräckligt länge för att "
+"visa att du är engagerad i projektet.\r\n"
+"Skapa en sida på <tt>wiki.ubuntu.com</tt> som visar dina bidrag. På "
+"wikisidan ska du ta med dina bidrag, beskriva i vilka grupper du ingår och "
+"sammanfatta dina insatser.\r\n"
+"Be dina kollegor i gemenskapen att bidra med vittnesmål om dina bidrag.\r\n"
+"Boka in dig för en granskning på ett möte med regional styrelse, IRC råd, "
+"Forumsråd eller utvecklingsstyrelse så att de kan granska dina bidrag. Du "
+"kan hitta närmaste styrelse bland länkarna nedan."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
 #. .
@@ -888,6 +906,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:58
 msgid "ubuntu-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/Membership\r\n"
+"https://wiki.ubuntu.com/Membership/RegionalBoards"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
 #. .
@@ -900,7 +920,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:69
 msgid "ubuntu-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team på Freenode"
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
