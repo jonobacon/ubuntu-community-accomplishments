@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-14 09:04+0000\n"
+"PO-Revision-Date: 2012-04-16 06:14+0000\n"
 "Last-Translator: Max Linde <max.linde@telia.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-15 05:12+0000\n"
-"X-Generator: Launchpad (build 15070)\n"
+"X-Launchpad-Export-Date: 2012-04-17 05:36+0000\n"
+"X-Generator: Launchpad (build 15099)\n"
 "Language: sv\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -932,7 +932,7 @@ msgstr "#ubuntu-community-team på Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/technical-board-member.c:11
 msgid "technical-board-member_title"
-msgstr ""
+msgstr "Medlem i Technical Board"
 
 #. ACCOMPLISHMENT: Technical Board Member ('description' field)
 #. .
@@ -943,7 +943,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/technical-board-member.c:20
 msgid "technical-board-member_description"
-msgstr ""
+msgstr "Du är medlem i Ubuntu Technical Board"
 
 #. ACCOMPLISHMENT: Technical Board Member ('summary' field)
 #. .
