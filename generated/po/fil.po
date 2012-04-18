@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-11 07:00+0000\n"
+"PO-Revision-Date: 2012-04-17 23:26+0000\n"
 "Last-Translator: Jericho Rivera <Unknown>\n"
 "Language-Team: Filipino <fil@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
-"X-Generator: Launchpad (build 15070)\n"
+"X-Launchpad-Export-Date: 2012-04-18 09:11+0000\n"
+"X-Generator: Launchpad (build 15108)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -153,6 +153,13 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:48
 msgid "report-first-bug_steps"
 msgstr ""
+"Buksan ang terminal sa pamamagitan ng pag-click sa Ubuntu button at mag-type "
+"ng <i>terminal</i> sa dash.\r\n"
+"I-type and <tt>ubuntu-bug</tt> at and pangalan ng package kung saan mo "
+"gustong i-file ang bug (e.g. <tt>ubuntu-bug unity</tt> for Unity). Kung "
+"hindi mo alam ang pangalan ng package, i-type mo lang ang <tt>ubuntu-"
+"bug</tt> at samahan ang mga susunod na tagubilin.\r\n"
+"Samahan ang mga tagubilin sa Launchpad."
 
 #. ACCOMPLISHMENT: Report First Bug ('tips' field)
 #. .
@@ -168,6 +175,13 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:61
 msgid "report-first-bug_tips"
 msgstr ""
+"Siguraduhing dapat na maging kumpleto and detalyado and inyong ulat tungkol "
+"sa mga bugs.\r\n"
+"Kung alam mo ang mga paraan upang maiulit ang bug, isali ang mga paraang ito "
+"sa deskripsyon ng bug. Ito ay tinatawag na <i>pag-uulit ng bug</i>.\r\n"
+"Dapat tandaan na sa tuwing mag-file ng bug report, ikaw ay humihingi sa "
+"developer ng oras upang ito ay maresolba. Subuking maging matulungin at "
+"magalang sa tuwina."
 
 #. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
 #. .
