@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-16 06:14+0000\n"
+"PO-Revision-Date: 2012-04-19 06:19+0000\n"
 "Last-Translator: Max Linde <max.linde@telia.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-17 05:36+0000\n"
-"X-Generator: Launchpad (build 15099)\n"
+"X-Launchpad-Export-Date: 2012-04-20 05:30+0000\n"
+"X-Generator: Launchpad (build 15120)\n"
 "Language: sv\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -859,14 +859,6 @@ msgstr "Du är en godkänd Ubuntu medlem"
 #: ../accomplishments/ubuntu-member.c:33
 msgid "ubuntu-member_summary"
 msgstr ""
-"En Ubuntumedlem är någon som kommit med betydande och ihållande bidrag till "
-"Ubuntu.\r\n"
-"Varje Ubuntumedlem ses som en pålitlig medarbetare som har bidragit till att "
-"vidareutveckla och förbättra Ubuntu.\r\n"
-"Viktigt är att Ubuntumedlemskap inte kräver några speciella färdigheter; "
-"betydande bidrag inom utveckling, dokumentation, översättningar, "
-"befrämjande, support, konst, design och många andra områden är alla värda "
-"medlemskap."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
 #. .
@@ -986,6 +978,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:56
 msgid "technical-board-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/TechnicalBoard\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Technical Board Member ('help' field)
 #. .
@@ -1000,6 +994,8 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:68
 msgid "technical-board-member_help"
 msgstr ""
+"#ubuntu-devel-team på Freenode\r\n"
+"#ubuntu-community-team på Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
