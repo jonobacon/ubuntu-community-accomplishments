@@ -1,5 +1,5 @@
 [accomplishment]
-title = LoCo Team Member
+title = أصبحت عضواً في فريق أوبونتو المحلي
 description = أنت عضو في واحد من فرق أوبونتو المحلية.
 application = ubuntu-community
 category = LoCo Teams
@@ -12,6 +12,8 @@ steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This 
 	Visit that team's Launchpad page click the Join Team link.
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams on Freenode
-	#ubuntu-community-team on Freenode
+help = https://lists.ubuntu.com/mailman/listinfo/ubuntu-eg
+	http://ubuntuforums.org/forumdisplay.php?f=258
+	https://wiki.ubuntu.com/EgyptTeam
+	#ubuntu-eg على Freenode
 

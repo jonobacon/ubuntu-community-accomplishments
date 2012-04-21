@@ -8,11 +8,11 @@ icon = default.png
 summary = An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu.
 	Each Ubuntu Member is seen as a reliable and dependable contributor to Ubuntu who has contributed to further and improve Ubuntu.
 	Importantly, Ubuntu Membership does not require any specific skill; great contributions in development, documentation, translations, advocacy, support, art, design, and many other areas are all worthy of membership.
-steps = Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-	Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-	Ask your fellow community members to contribute testimonials of your contributions.
-	Schedule yourself for review at a regional membership board, IRC council, Forums council, or developer membership board meeting to review your contributions. You can find the nearest board using the links below.
+steps = Kom med omfattande bidrag till Ubuntu under en sammanhängande period. Det finns ingen bestämd tidsperiod, men det ska vara tillräckligt länge för att visa att du är engagerad i projektet.
+	Skapa en sida på <tt>wiki.ubuntu.com</tt> som visar dina bidrag. På wikisidan ska du ta med dina bidrag, beskriva i vilka grupper du ingår och sammanfatta dina insatser.
+	Be dina kollegor i gemenskapen att bidra med vittnesmål om dina bidrag.
+	Boka in dig för en granskning på ett möte med regional styrelse, IRC råd, Forumsråd eller utvecklingsstyrelse så att de kan granska dina bidrag. Du kan hitta närmaste styrelse bland länkarna nedan.
 tips = None
 pitfalls = None
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team på Freenode
 

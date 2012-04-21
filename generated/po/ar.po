@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-11 01:40+0000\n"
-"Last-Translator: hanynowsky <Unknown>\n"
+"PO-Revision-Date: 2012-04-18 14:05+0000\n"
+"Last-Translator: Ahmed Shokry <Unknown>\n"
 "Language-Team: Arabic <ar@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-12 05:21+0000\n"
-"X-Generator: Launchpad (build 15070)\n"
+"X-Launchpad-Export-Date: 2012-04-19 05:03+0000\n"
+"X-Generator: Launchpad (build 15108)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/member-loco-team.c:11
 msgid "member-loco-team_title"
-msgstr ""
+msgstr "أصبحت عضواً في فريق أوبونتو المحلي"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('description' field)
 #. .
@@ -95,6 +95,10 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:65
 msgid "member-loco-team_help"
 msgstr ""
+"https://lists.ubuntu.com/mailman/listinfo/ubuntu-eg\r\n"
+"http://ubuntuforums.org/forumdisplay.php?f=258\r\n"
+"https://wiki.ubuntu.com/EgyptTeam\r\n"
+"#ubuntu-eg على Freenode"
 
 #. ACCOMPLISHMENT: Report First Bug ('title' field)
 #. .
@@ -106,7 +110,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/report-first-bug.c:11
 msgid "report-first-bug_title"
-msgstr ""
+msgstr "الإبلاغ عن أول bug"
 
 #. ACCOMPLISHMENT: Report First Bug ('description' field)
 #. .
@@ -117,7 +121,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
-msgstr ""
+msgstr "لقد أبلغت عن أول bug لك في أوبونتو"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
@@ -135,6 +139,22 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:35
 msgid "report-first-bug_summary"
 msgstr ""
+"الـ<i>bug</i> هي عيب في برنامج معين. فعندما تبلغ عن هذه العيوب فإنك تساعد "
+"مشروع أوبونتو في إيجاد هذا العيب ليتم حله.\r\n"
+"عندما تبلغ عن bug فإنك تبدأ مناقشة بين المطورين و المهتمين الآخرين بالموضوع "
+"لإيجاد سبب المشكلة و تقديم المعلومات الكافية ليتم حلها بواسطة المطورين.\r\n"
+"هذه المناقشة غالباً ما يسألك المطورون فيها العديد من الأسئلة لتساعدهم في "
+"الوصول لسبب المشكلة.\r\n"
+"هذه المناقشة تتم بواسطة أداة لتتبع الـbugs تعرف بـ<i>bug tracker</i> , فهي "
+"أداة توفر اتمام هذه المناقشة و يتم وضع أولوية لهذه المشاكل ليتم حل الأخطر "
+"منها قبل الأقل أهمية.\r\n"
+"هناك العديد من الطرق ليتم الإبلاغ عن المشاكل, ولكننا نفضل أنك تستخدم أداة "
+"تسمى <tt>ubuntu-bug</tt> وهي تأتي مع أي نظام أوبونتو.\r\n"
+"هذه الأداة تساعد في جمع المعلومات اللازمة عن المشكلة ليتمكن المطورون من "
+"إيجاد السبب وحل المشكلة.\r\n"
+"يمكنك أيضاً الإبلاغ عن المشكلة عن طريق <i>Report a Problem</i> الموجودة في "
+"قائمة المساعدة في أي برنامج <i>Help</i>,\r\n"
+"وهي ببساطة طريقة رسومية لتشغيل أداة <tt>ubuntu-bug</tt>."
 
 #. ACCOMPLISHMENT: Report First Bug ('steps' field)
 #. .
@@ -150,6 +170,14 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:48
 msgid "report-first-bug_steps"
 msgstr ""
+"قم بفتح سطر الأوامر (أو الطرفية - كما تحب أن تسميها) عن طريق الضغط على زر "
+"أوبونتو في أعلى الشريط الأيسر وكتابة <i>terminal</i> في مربع البحث.\r\n"
+"عندما يفتح سطر الأوامر اكتب <tt>ubuntu-bug</tt> ثم اسم الحزمة (البرنامج) "
+"التي تريد الإبلاغ عن مشكلة فيها \r\n"
+"(مثلاً اكتب <tt>ubuntu-bug unity</tt> للإبلاغ عن مشكلة في يونيتي).\r\n"
+"إذا كنت ﻻ تعرف اسم الحزمة (البرنامج) فقط اكتب <tt>ubuntu-bug</tt> لوحدها "
+"واتبع التعليمات.\r\n"
+"اتبع بعد ذلك التعليمات في Launchpad ."
 
 #. ACCOMPLISHMENT: Report First Bug ('tips' field)
 #. .

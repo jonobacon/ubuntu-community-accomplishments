@@ -1,6 +1,6 @@
 [accomplishment]
-title = Technical Board Member
-description = You are a member of the Ubuntu Technical Board
+title = Medlem i Technical Board
+description = Du är medlem i Ubuntu Technical Board
 application = ubuntu-community
 category = Governance
 needs-signing = true
@@ -13,6 +13,6 @@ steps = Contribute extensively to Ubuntu for a sustained period of time. There i
 	In the next Technical Board election propose yourself as a candidate.
 tips = None
 pitfalls = None
-help = #ubuntu-devel-team on Freenode
-	#ubuntu-community-team on Freenode
+help = #ubuntu-devel-team på Freenode
+	#ubuntu-community-team på Freenode
 
