@@ -6,14 +6,8 @@ category = LoCo Teams
 needs-signing = true
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
-summary = Los equipos LoCo (Local Community) son grupos locales de usuarios que se reunen para discutir temas sobre Ubuntu, compartir ideas, consejos, trucos, mejorar la distribución y ayudar a difundir el uso de Ubuntu.
-	Generalmente los equipos locales tienen un gran área de influencia. Así por ejemplo el equipo local de Venezuela tiene un solo grupo para todo el país. Esto se debe a que Venezuela es un país bastante pequeño. Sin embargo, ocurren reuniones pequeñas en todo el país y todo ello corresponde al equipo local de Venezuela (ubuntu-ve). Para países más grandes, como los EE.UU., es más común que se tenga equipos locales a nivel de estados (ubuntu-us-ma / Massachusetts), ya que es un país muy grande como para tener un solo equipo local.
-	Para obtener este trofeo, el usuario tendra que ser parte de su equipo local de usuarios, la mayoría de ellos se encuentra sin moderación, es decir abiertos al público en general, sin embargo aun así tendrá que contar con una cuenta de launchpad, para ser parte de uno.
-steps = Visite <tt>loco.ubuntu.com</tt> (puede cambiar el idioma en la pestaña inferior izquierda)
-	Encuentre el equipo más cercano para unirse
-	Visite la página en Launchpad de ese equipo
-	Pulse en el enlace «Join Team».
-	Este trofeo se le otorgará si es miembro de cualquier equipo LoCo, sin importar su estado de aprobación.
+summary = Los equipos LoCo (Local Community) son grupos locales de usuarios que se reunen para discutir temas sobre Ubuntu, compartir ideas, consejos, trucos, mejorar la distribución y ayudar a difundir el uso de Ubuntu
+steps = Visite <tt>loco.ubuntu.com</tt> (puede cambiar el idioma en la pestaña inferior izquierda). Encuentre el equipo más cercano para unirse. Visite la página en Launchpad de ese equipo. Pulse en el enlace «Join Team». Este trofeo se le otorgará si es miembro de cualquier equipo LoCo, sin importar su estado de aprobación.
 tips = None
 pitfalls = None
 help = #ubuntu-locoteams en Freenode

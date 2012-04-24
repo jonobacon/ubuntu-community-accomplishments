@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-08 08:14-0700\n"
-"PO-Revision-Date: 2012-04-19 06:19+0000\n"
+"PO-Revision-Date: 2012-04-22 09:00+0000\n"
 "Last-Translator: Max Linde <max.linde@telia.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-20 05:30+0000\n"
-"X-Generator: Launchpad (build 15120)\n"
+"X-Launchpad-Export-Date: 2012-04-23 05:29+0000\n"
+"X-Generator: Launchpad (build 15135)\n"
 "Language: sv\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -1058,7 +1058,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-contributor.c:54
 msgid "juju-charm-contributor_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
@@ -1071,7 +1071,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:65
 msgid "juju-charm-contributor_help"
-msgstr ""
+msgstr "#juju på Freenode"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
