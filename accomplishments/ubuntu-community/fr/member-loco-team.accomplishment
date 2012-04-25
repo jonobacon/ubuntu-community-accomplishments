@@ -4,6 +4,7 @@ description = Vous êtes membre d'une équipe locale de la communauté Ubuntu
 application = ubuntu-community
 category = LoCo Teams
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Les équipe locales de la communauté Ubuntu sont des groupes d'utilisateurs basés partout dans le monde au sein desquels des membres se retrouvent pour discuter d'Ubuntu, partagent des idées, trucs et astuces ainsi que des connaissances et travaillent ensemble promouvoir Ubuntu comment il peut aider les gens.

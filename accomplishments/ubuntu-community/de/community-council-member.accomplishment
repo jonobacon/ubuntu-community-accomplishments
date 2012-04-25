@@ -4,6 +4,7 @@ description = Du bist ein Mitglied der Gemeinderates
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Der Ubuntu-Gemeinderat ("Community-Council") ist der primäre regierende Teil des Ubuntu Projektes und hat als dieser eine wichtige Rolle und hohe Verantwortung gegenüber der Ubuntu Community zu tragen.

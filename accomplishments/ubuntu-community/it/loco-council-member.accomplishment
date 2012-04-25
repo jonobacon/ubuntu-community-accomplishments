@@ -4,6 +4,7 @@ description = Sei un membro del consiglio delle LoCo
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
 summary = Il consiglio delle LoCo di Ubuntu è un comitato direttivo che sovrintende i LoCo team globali.

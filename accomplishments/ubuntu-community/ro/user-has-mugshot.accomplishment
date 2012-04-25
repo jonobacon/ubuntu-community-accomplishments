@@ -4,6 +4,7 @@ description = Utilizatorul a setat o poză în profilul propriu Launchpad
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
+needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
 summary = O poză este o imagine avatar pe care utilizatorul o poate seta în profilul său Launchpad. Este bine când oamenii te pot identifica doar privind o fotografie de-a ta.

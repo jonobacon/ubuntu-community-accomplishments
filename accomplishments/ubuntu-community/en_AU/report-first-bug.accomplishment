@@ -4,6 +4,7 @@ description = You have reported your first bug in Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it. When you report a bug it starts a conversation with developers and other interested parties to help identify the cause of the problem to provide enough information so the developer can resolve it. This conversation can often involve the developer(s) asking you various questions to help track down the cause of the issue. This conversation takes place in a <i>bug tracker</i>; a tool that provides features for having this conversation, and setting  prioritisation fields to ensure that the most disruptive bugs get resolved sooner than more more benign issues. There are a few different ways in which you can file a bug, but we recommend you use a tool called <tt>ubuntu-bug</tt> that comes pre-installed on all Ubuntu systems. This tool helps gather up neccessary information that can be useful for the developer to find the source of the bug so they can resolve it. You can file a bug in a more graphical way by using the <i>Report a Problem</i> option in the <i>Help</i> menu of an application; this simply provides a graphical way of running <tt>ubuntu-bug</tt>.

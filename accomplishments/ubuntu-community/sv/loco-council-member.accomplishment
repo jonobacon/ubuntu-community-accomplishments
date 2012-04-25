@@ -4,6 +4,7 @@ description = Du är medlem i Loco Council
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
 summary = Ubuntu LoCo Council är en styrelse som övervakar de globala Ubuntu LoCo grupperna.

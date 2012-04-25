@@ -6,6 +6,7 @@ description = Ju keni raportuar defektin tuaj të parë në Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Një <i>defekt</ i> është një problem në një pjesë të softuerit. Kur ju raportoni një defekt kjo do të thotë se ju bëni me dije projektin Ubuntu rreth njërit prej këtyre defekteve kështu që ne mund ta rregullojmë atë.

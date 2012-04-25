@@ -4,6 +4,7 @@ description = Du bist Mitglied des Technischen Ubuntu Vorstands
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/ubuntu-member
 summary = Der Ubuntu Technische Vorstand ("Technical Board") ist einer der wichtigsten agierenden Vorstände in der Ubuntu Gemeinschaft. Der Technische Vorstand berät und entschließt Vorgehensweisen bezüglich technischen Themen. Er ist auch ein Eskalationskörper für Vorfälle, die anderswo in der Ubuntu-Gemeinschaft auftreten. 

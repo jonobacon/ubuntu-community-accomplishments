@@ -4,6 +4,7 @@ description = Jesteś zatwierdzonym użytkownikiem Ubuntu
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 summary = Członek Ubuntu jest to ktoś, kto wykazał <i>znaczący i długoterminowy</i> wkład w Ubuntu.
 	Każdy Członek Ubuntu jest kimś odpowiedzialnym, można na nim polegać, a jego wkład w Ubuntu czyni je jeszcze lepszym.

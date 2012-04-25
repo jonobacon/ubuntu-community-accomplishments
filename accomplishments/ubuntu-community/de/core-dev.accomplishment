@@ -4,6 +4,7 @@ description = Du bist ein Ubuntu Kern-Entwickler
 application = ubuntu-community
 category = Development
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Ein Ubuntu Kern-Entwickler ist für das Zusammenstellen von Software-Packeten und Problemlösungen im  <tt>main</tt> (Haupt) Archiv verantwortlich. Das beinhaltet einige der kritischsten Software, die Teil des Ubuntu Systems ist und den Teilen, die mit einer standardgemäßen Ubuntu Installation mitgeliefert werden.

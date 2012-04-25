@@ -4,6 +4,7 @@ description = Registrato un account su Launchpad
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 summary = Launchpad è un sito web nel quale noi facciamo molto del nostro lavoro in Ubuntu. Qui noi costruiamo i pacchetti, apriamo e risolviamo i bug, facciamo le traduzioni, gestiamo il codice, e altre attività.
 	Sarà necessario registrare un account con Launchpad per partecipare a gran parte della comunità di Ubuntu. Fortunatamente, la registrazione è semplice, sicura, e gratuita.

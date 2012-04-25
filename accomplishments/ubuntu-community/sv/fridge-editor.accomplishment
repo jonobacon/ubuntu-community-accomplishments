@@ -4,6 +4,7 @@ description = Medlem i Fridge Editors gruppen
 application = ubuntu-community
 category = Documentation
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Ubuntu Fridge är den officiella nyhetssiten för Ubuntugemenskapen. Nyhetssiten som drivs av gemenskapen innehåller artiklar, nyheter, åsikter och annat innehåll från utsidan och insidan av Ubuntugemenskapen.

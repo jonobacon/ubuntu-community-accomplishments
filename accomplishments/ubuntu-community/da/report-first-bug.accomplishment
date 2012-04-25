@@ -4,6 +4,7 @@ description = You have reported your first bug in Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it.

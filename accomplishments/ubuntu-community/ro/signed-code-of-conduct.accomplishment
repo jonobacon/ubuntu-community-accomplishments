@@ -4,6 +4,7 @@ description = Ai semnat Codul de Conduită Ubuntu
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Codul de Conduită Ubuntu este un document important ce stabilește un set de reguli și așteptări pentru o bună conduită în cadrul Comunității Ubuntu.

@@ -4,6 +4,7 @@ description = Du har rapporterat din första bugg i Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = En <i>bugg</i> är ett fel i en mjukvara. När du rapporterar en bugg innebär det att du delger Ubuntuprojektet information om ett sådant fel så att vi kan åtgärda det.

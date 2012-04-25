@@ -4,6 +4,7 @@ description = You have signed the Ubuntu Code Of Conduct
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = The Ubuntu Code Of Conduct is an important document that provides a set of guidelines and expectations for good conduct in the Ubuntu Community. 

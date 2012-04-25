@@ -4,6 +4,7 @@ description = Ai devenit membru al Consiliului Comunitar
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Consiliul Comunitar Ubuntu este principalul organism de guvernare a comunității pentru Proiectul Ubuntu, având astfel un rol și o responsabilitate importante în comunitatea Ubuntu.

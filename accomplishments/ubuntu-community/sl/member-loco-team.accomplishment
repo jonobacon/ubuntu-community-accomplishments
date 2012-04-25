@@ -4,6 +4,7 @@ description = Postali ste član ekipe Ubuntu LoCo
 application = ubuntu-community
 category = LoCo Teams
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Ekipe Ubuntu Loco so uporabniške skupine po vsem svetu kjer se ljudje dobivajo za razpravljanje o Ubuntuju, deljenje idej, trikov in nasvetov in skupaj širijo besedo o Ubuntuju in kako lahko pomaga ljudem.

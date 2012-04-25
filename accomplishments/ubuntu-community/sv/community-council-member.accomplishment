@@ -4,6 +4,7 @@ description = Du är medlem i Community Council
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Ubuntu Community Council är Ubuntuprojektets huvudsakliga gemenskaps (icke tekniska) styrande organ och har därmed en viktig roll och ett viktigt ansvar i Ubuntugemenskapen.

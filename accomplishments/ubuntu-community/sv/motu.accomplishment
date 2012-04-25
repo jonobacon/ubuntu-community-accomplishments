@@ -4,6 +4,7 @@ description = Du är en Ubuntu MOTU-utvecklare.
 application = ubuntu-community
 category = Development
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = En Ubuntu MOTU-utvecklare är ansvarig för packetering och hantering av konflikter i <tt>universe</tt>-arkivet. Detta arkiv innehåller en stor mängd olika applikationer som kommer till Ubuntu från Debian.

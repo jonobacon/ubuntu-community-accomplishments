@@ -4,6 +4,7 @@ description = Një anëtar i ekipit editorët e Fridge
 application = ubuntu-community
 category = Documentation
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Ubuntu Fridge është faqja zyrtare e lajmeve për komunitetin Ubuntu. Kjo është një faqe lajmesh e drejtuar nga komuniteti e cila përmban artikuj, lajme, opinione, dhe përmbajtje të tjera rreth komunitet Ubuntu.

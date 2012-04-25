@@ -4,6 +4,7 @@ description = Du bist ein geprüftes Ubuntu Mitglied
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 summary = Ein Ubuntu Mitglied ("Ubuntu Member") ist jemand, der signifikante und nachhaltige Beiträge zu Ubuntu demonstriert hat.
 	Jedes Ubuntu Mitglied wird als zuverlässiger und berechenbarer Faktor zu Ubuntu angesehen um Ubuntu zu fördern und zu verbessern.

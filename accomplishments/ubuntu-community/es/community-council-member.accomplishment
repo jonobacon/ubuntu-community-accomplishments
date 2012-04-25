@@ -4,6 +4,7 @@ description = Es un miembro del consejo de la comunidad
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = El consejo de la comunidad de Ubuntu es el principal instrumento de gobierno (no técnico) que sigue Ubuntu, y como tal tiene un importante papel con la comunidad. El consejo sugiere y decide las reglas y los procedimientos que deberá seguir la comunidad. También es un organismo al que se le delegan los incidentes que ocurran en otras partes del proyecto. Los miembros del comité, son personas que han demostrado una fuerte partición y compromiso con Ubuntu, poseen claras habilidades de liderazgo y tienen el tiempo y la disponibilidad suficientes para atender los asuntos del consejo.

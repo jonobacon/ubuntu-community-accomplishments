@@ -4,6 +4,7 @@ description = Sie haben Ihren ersten Bug in Ubuntu gemeldet
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Ein Bug ist ein Defekt innerhalb eines Teils von Software. Wenn Sie einen Bug melden, machen Sie das Ubuntu Projekt auf diesen Defekt aufmerksam, so dass wir ihn anschließend reparieren können. Wenn Sie einen Bug melden, fangen Sie an mit den Entwicklern und allen interessierten Parteien zu kommunizieren um das Problem zu identifizieren und genug Informationen zu liefern, damit der Entwickler es beheben kann. Es kommt öfters vor, dass die Kommunikation beinhaltet, dass das Entwickler Team Ihnen Fragen stellt, die zum Lösen des Problems notwendig sind. Diese Unterhaltung findet statt im <i>bug tracker</i>; ein Tool, das diese Kommunikation ermöglicht und Prioritäten setzt, so dass kritische Bugs schneller behoben werden als harmlosere.

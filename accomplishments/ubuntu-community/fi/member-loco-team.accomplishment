@@ -4,6 +4,7 @@ description = Liityit paikallistiimin jäseneksi
 application = ubuntu-community
 category = LoCo Teams
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.

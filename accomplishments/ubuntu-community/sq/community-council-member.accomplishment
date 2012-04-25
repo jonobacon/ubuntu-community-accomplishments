@@ -4,6 +4,7 @@ description = Ju jeni një anëtar i Këshillit të Komunitetit
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Këshilli i Komunitetit të Ubuntu është organi kryesor (dmth jo-teknikë)  qeverisës i projektit Ubuntu dhe si i tillë ka një rol të rëndësishëm dhe përgjegjësi ndaj komunitetit të Ubuntu.

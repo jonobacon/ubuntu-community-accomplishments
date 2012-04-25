@@ -4,6 +4,7 @@ description = Członek zespołu redaktorów Fridge
 application = ubuntu-community
 category = Documentation
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Ubuntu Fridge jest oficjalna stroną społeczności Ubuntu. Jest to strona prowadzona przez społeczność Ubuntu, na której znajdziesz  nowinki, opinie oraz inne ciekawe informacje na temat Ubuntu.

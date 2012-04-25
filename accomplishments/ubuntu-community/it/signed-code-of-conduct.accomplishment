@@ -4,6 +4,7 @@ description = Hai firmato il codice di condotta di Ubuntu
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Il codice di condotta di Ubuntu è un importante documento che fornisce un insieme di linee guida e aspettative per una buona condotta nella comunità di Ubuntu.

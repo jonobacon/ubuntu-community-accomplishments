@@ -4,6 +4,7 @@ description = Du bist ein Ubuntu MOTU Entwickler
 application = ubuntu-community
 category = Development
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Ein Ubuntu MOTU Entwickler ist verantwortlich Pakete zu erstellen und Probleme im <tt>universe</tt> Archiv zu beheben. Das beinhaltet eine große Anzahl und Vielfalt von Programmen in Ubuntu, die von Debian kommen.

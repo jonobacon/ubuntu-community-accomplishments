@@ -4,6 +4,7 @@ description = Złożyłeś swój podpis pod Kodeksem Postępowania Ubuntu.
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Kodeks Postępowania Ubuntu jest ważnym dokumentem, który zawiera zbiór wytycznych i zasad dobrego postępowania w społeczności Ubuntu.

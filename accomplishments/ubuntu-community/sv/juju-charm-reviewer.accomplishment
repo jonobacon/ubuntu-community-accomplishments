@@ -4,6 +4,7 @@ description = Du Bidrar Juju charms till Ubuntu
 application = ubuntu-community
 category = Juju
 needs-signing = true
+needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/juju-charm-contributor
 summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.

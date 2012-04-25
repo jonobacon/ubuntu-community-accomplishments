@@ -4,6 +4,7 @@ description = Hai segnalato il tuo primo bug in Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Un <i>bug</i> (problema) è un difetto in un programma software. Quando segnali un bug, significa che fai conoscere al progetto Ubuntu uno di questi difetti in modo che noi possiamo risolverlo.

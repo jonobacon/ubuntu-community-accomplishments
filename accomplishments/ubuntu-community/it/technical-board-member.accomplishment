@@ -4,6 +4,7 @@ description = Sei un membro della commissione tecnica di Ubuntu
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/ubuntu-member
 summary = La commissione tecnica di Ubuntu è uno dei più importanti consigli di governo nella comunità di Ubuntu. La commissione tecnica consiglia e decide sulle politiche tecniche e i processi nonché agisce come organo di escalation per gli episodi che capitano altrove nella comunità. Per essere membro della commissione tecnica dovete aver dimostrato un forte impegno e lunga partecipazione in Ubuntu, forti competenze tecniche e conoscenza dell'archivio, dimostrato chiare competenze di leadership, ed avere il tempo e la disponibilità per andare incontro ai bisogni del comitato.

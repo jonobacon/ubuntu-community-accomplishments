@@ -4,6 +4,7 @@ description = Du bist Mitglied des LoCo Gemeinderates
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
 summary = Der Ubuntu LoCo Gemeinderat ("LoCo Council") ist ein Verwaltungsrat, der die globalen Ubuntu LoCo Teams beaufsichtigt.

@@ -4,6 +4,7 @@ description = Jesteś członkiem Rady Wspólnoty
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Rada Wspólnoty Ubuntu jest podstawową społecznością organu nadzorczego dla projektu Ubuntu i odgrywa ważną i odpowiedzialną rolę wobec społeczności Ubuntu.

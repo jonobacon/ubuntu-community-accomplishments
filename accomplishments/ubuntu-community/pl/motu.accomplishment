@@ -4,6 +4,7 @@ description = Jesteś Ubuntu MOTU Deweloper
 application = ubuntu-community
 category = Development
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Ubuntu MOTU Deweloper (Masters Of The Universe, ang. Władcy Wszechświata) jest odpowiedzialny za pakowanie i rozwiązywania problemów w archiwum "wszechświata" (ang. the <tt>universe</tt> archive). Obejmuje to szeroki zakres aplikacji, które zostały wprowadzone do Ubuntu z Debiana.

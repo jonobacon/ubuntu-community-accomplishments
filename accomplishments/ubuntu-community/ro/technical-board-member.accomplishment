@@ -4,6 +4,7 @@ description = Ești membru al Comisiei Tehnice Ubuntu
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/ubuntu-member
 summary = Comisia Tehnică Ubuntu este una din cele mai importante organisme decizionale în cadrul comunității Ubuntu. Comisia Tehnică  recomandă și decide politica și procesul tehnice, dar funcționează și ca organism de escaladare a incidentelor ce au loc în comunitate.

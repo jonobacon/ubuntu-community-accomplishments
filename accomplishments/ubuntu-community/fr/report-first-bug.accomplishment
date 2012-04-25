@@ -4,6 +4,7 @@ description = Vous avez signalé votre premier bogue dans Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Un <i>bogue</i> est un défaut dans un logiciel. Quand vous signalez un bogue, cela signifie que vous informer le projet Ubuntu de la présence d'un des ces défauts, de telle sorte que nous puissions le résoudre.

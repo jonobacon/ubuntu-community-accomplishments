@@ -4,6 +4,7 @@ description = Sei un membro del consiglio della comunità
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Il consiglio della comunità di Ubuntu è l'organo di governo primario della comunità (ossia non tecnico) per il progetto Ubuntu, e in quanto tale ha un importante ruolo e responsabilità verso la comunità di Ubuntu.

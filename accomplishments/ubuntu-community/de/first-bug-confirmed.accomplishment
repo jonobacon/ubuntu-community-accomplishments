@@ -4,6 +4,7 @@ description = Hat einen Bug in Ubuntu gemeldet, der von jemand anderem bestätig
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/report-first-bug
 summary = Ein Bug ist ein Defekt in einem Teil von Software. Bugs zu melden ist ein großartiger Weg Ubuntu zu verbessern und im Falle, dass der Bug behoben ("gefixt") werden soll, sollte jemand anders in der Lage sein diesen Fehler nachzuproduzieren und ihn zu bestätigen. Je präziser und detailierter dein Fehlerbericht ("bug report") ist, umso wahrscheinlicher ist die Chance, dass er von jemand anderem nachproduziert werden kann. Diese Errungenschaft reflektiert, dass mindestens einer deiner Fehlerberichte in einem so guten Zustand ist, dass er von jemand anderem bestätigt wurde.

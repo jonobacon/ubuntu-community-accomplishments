@@ -4,6 +4,7 @@ description = Ești un Dezvoltator de Bază Ubuntu
 application = ubuntu-community
 category = Development
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Un Dezvoltator de Bază Ubuntu este responsabil de crearea de pachete și rezolvarea problemelor din arhiva <tt>main</tt>. Aceasta include unele din soft-urile critice care fac parte din sistemul Ubuntu, și piesele care sunt integrate într-o instalare standard Ubuntu.

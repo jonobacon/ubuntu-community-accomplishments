@@ -4,6 +4,7 @@ description = S-a înregistrat o eroare care a fost confirmată de altcineva
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/report-first-bug
 summary = O eroare este un defect dintr-o aplicație software. Înregistrarea de erori este o metodă grozavă de a ajuta la îmbunătățirea Ubuntu, iar pentru ca eroarea să fie rezolvată, altcineva trebuie să reușească să o reproducă și să o confirme. Cu cât un raport de eroare este mai detaliat și mai precis, cu atât el va fi mai ușor de confirmat de către altcineva. Această reușită atestă faptul că cel puțin unul din rapoartele tale a fost de bună calitate și a fost confirmat de altcineva.

@@ -4,6 +4,7 @@ description = Vous êtes un membre du Conseil de la Communauté
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = The Ubuntu Community Council is the primary community (i.e. non-technical) governance body for the Ubuntu Project and as such has an important role and responsibility to the Ubuntu community.

@@ -4,6 +4,7 @@ description = Ein Launchpad-Konto eröffnet
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 summary = Launchpad ist eine Webseite, in welcher wir viel Arbeit in Ubuntu verrichten. Dort werden Software-Packete gebaut, Softwarefehler (Bugs) gemeldet und behoben, Übersetzungen vorgenommen, Software-Code verwaltet, und andere Aktivitäten erledigt. Um in vielen Bereichen der Ubuntu Gemeinschaft mitzuwirken musst du ein Benutzerkonto auf Launchpad eröffnen.  Glücklicherweise ist das Registrieren einfach, sicher und kostenlos.
 steps = Öffne einen Webbrowser auf deinem Computer.

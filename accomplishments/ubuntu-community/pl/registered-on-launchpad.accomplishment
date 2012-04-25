@@ -4,6 +4,7 @@ description = Zarejestruj się na Launchpadzie
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 summary = Launchpad to portal internetowy, gdzie wykonujemy sporą część naszej pracy nad Ubuntu. Tam budowane są pakiety, wypełniane i naprawiane błędy, dokonywane są tłumaczenia, zarządzany jest kod źródłowy, i wiele innych.
 	Musisz być zarejestrowany na Launchpadzie, aby móc dołączyć do znacznej części społeczności Ubuntu. Na szczęście jest to proste, bezpieczne i darmowe.

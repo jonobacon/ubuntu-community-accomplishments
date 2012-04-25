@@ -4,6 +4,7 @@ description = El usuario tienen configurada una imagen de perfil en Launchpad
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
+needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Es útil configurar una imagen de avatar para que otros miembros de la comunidad puedan reconocerte. Sugerimos que se utilice una imagen real (preferiblemente del cuello hacia arriba) o alguna imagen que sienta que lo identifica. Evite las imágenes que puedan ofender a otros usuarios (por ejemplo, contenido para adultos). La imagen debe ser exactamente de <strong>192x192</strong> y no debe pesar mas de <strong>100 Kb</strong>.

@@ -4,6 +4,7 @@ description = Ai devenit membru al echipei de editori Fridge
 application = ubuntu-community
 category = Documentation
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = Ubuntu Fridge este site-ul oficial de știri pentru Comunitatea Ubuntu. Este un site de știri coordonat de comunitate, care oferă articole, știri, opinii și alte tipuri de conținut din cadrul și din jurul comunității Ubuntu. 

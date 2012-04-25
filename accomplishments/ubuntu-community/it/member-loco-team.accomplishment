@@ -4,6 +4,7 @@ description = Sei un membro di un LoCo team di Ubuntu
 application = ubuntu-community
 category = LoCo Teams
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
 summary = I LoCo (comunità locali) team di Ubuntu sono gruppi di utenti locali situati in tutto il mondo dove le persone si riuniscono per discutere di Ubuntu, condividere idee, suggerimenti, trucchi e conoscenze, e lavorare insieme per diffondere Ubuntu e spiegare come esso può aiutare le persone.

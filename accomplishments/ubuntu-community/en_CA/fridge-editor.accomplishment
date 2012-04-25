@@ -4,6 +4,7 @@ description = A member of the Fridge Editors team
 application = ubuntu-community
 category = Documentation
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.

@@ -4,6 +4,7 @@ description = Sei un membro approvato di Ubuntu
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 summary = Un membro di Ubuntu è qualcuno che ha dimostrato un <i>significativo e duraturo</i> contributo ad Ubuntu.
 	Ogni membro di Ubuntu è visto come un contributore affidabile e sicuro ad Ubuntu che ha contribuito per promuovere e migliorare Ubuntu.

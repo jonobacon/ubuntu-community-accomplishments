@@ -4,6 +4,7 @@ description = Użytkownik wstawił zdjęcie dołączone do profilu Launchpad
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
+needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
 summary = "Mugshot" jest obrazkiem który ustawia się w profilu użytkownika na Launchpadzie. Identyfikowanie ludzi po ich twarzach jest całkiem fajne.

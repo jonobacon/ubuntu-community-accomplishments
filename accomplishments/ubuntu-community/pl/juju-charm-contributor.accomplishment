@@ -4,6 +4,7 @@ description = Dokonujesz kontrybucji do projektu Juju Charms
 application = ubuntu-community
 category = Juju
 needs-signing = true
+needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Technologia Juju opiera się na jakości dostępnych Breloków. To osiągnięcie należy się tym członkom społeczności, którzy dopracowują Breloki dla twórców Juju.

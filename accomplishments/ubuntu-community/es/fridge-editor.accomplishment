@@ -4,6 +4,7 @@ description = Un miembro del equipo de editores de Fridge
 application = ubuntu-community
 category = Documentation
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
 summary = El sitio Fridge de Ubuntu es el portal oficial de noticias de Ubuntu. Es un sitio dirigido por su comunidad, que pública artículos sobre las opiniones de sus usuarios y el desarrollo de nuevas características. También se utilizar para hacer consensos y llamados de auxilio para finalizar o ayudar a un proyecto. Los <i>editores del sitio</i> son un equipo que produce y publica estos artículos. Para ser un miembro del equipo deberá ser capaz de escribir correctamente y de forma continua en Inglés.

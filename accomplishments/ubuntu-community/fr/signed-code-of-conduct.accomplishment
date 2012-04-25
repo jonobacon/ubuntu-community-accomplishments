@@ -4,6 +4,7 @@ description = Vous avez signé le code de conduite Ubuntu
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Le Code de Conduite Ubuntu est un document important qui fournit un ensemble de directives et d’exigences dans le but d’assurer une bonne conduite au sein de la communauté Ubuntu. Il inclut des exigences en matière de considération, de respect, de collaboration et explique comment demander de l’aide ou se retirer en cas d’indisponibilité. Ce trophée est décerné lorsque vous avez accepté de respecter ces exigences dans la communauté et avez signé le Code de Conduite Ubuntu.

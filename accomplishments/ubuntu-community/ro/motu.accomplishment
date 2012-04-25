@@ -4,6 +4,7 @@ description = Ești un programator Ubuntu MOTU
 application = ubuntu-community
 category = Development
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Un programator Ubuntu MOTU este responsabil de pachete și de rezolvarea problemelor apărute în arhiva <tt>universe</tt>. Aceasta include o varietate largă de aplicații care sunt introduse în Ubuntu din Debian.

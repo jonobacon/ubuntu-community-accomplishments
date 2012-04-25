@@ -4,6 +4,7 @@ description = Ha firmado el código de conducta de Ubuntu
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = El código de conducta de Ubuntu es un documento importante que proporciona un conjunto de directrices y expectativas de buena conducta en la comunidad de Ubuntu.

@@ -4,6 +4,7 @@ description = Der Nutzer hat ein ("Mugshot") Bild in seinem eigenem Launchpad Pr
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
+needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Ein Mugshot ist ein Profilbild, dass der Benutzer in seinem Launchpad Profil festlegen kann. Es ist schön, wenn dich Leute allein anhand deines Profilbildes erkennen können.

@@ -4,6 +4,7 @@ description = You are a member of the Ubuntu Technical Board
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/ubuntu-member
 summary = The Ubuntu Technical Board is one of the most important governing boards in the Ubuntu community. The Technical Board advises and decides on technical policy and process as well as acting as an escalation body for incidents that occur elsewhere in the community.

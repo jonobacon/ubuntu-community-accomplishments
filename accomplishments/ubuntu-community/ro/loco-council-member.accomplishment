@@ -4,6 +4,7 @@ description = Ești membru al Consiliului Comunității Locale (LoCo)
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
 summary = Consiliul LoCo Ubuntu este o comisie ce supervizează echipele de comunități locale din lume.

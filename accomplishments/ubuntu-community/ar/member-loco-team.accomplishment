@@ -4,6 +4,7 @@ description = أنت عضو في واحد من فرق أوبونتو المحل�
 application = ubuntu-community
 category = LoCo Teams
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
 summary = فرق أوبونتو المحلية هي مجموعات من المستخدمين موجودة في كل انحاء العالم.

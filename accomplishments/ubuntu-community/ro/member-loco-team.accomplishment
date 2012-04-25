@@ -4,6 +4,7 @@ description = Ești membru al unei Comunități Locale
 application = ubuntu-community
 category = LoCo Teams
 needs-signing = true
+needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Comunitățile locale Ubuntu sunt răspândite în toată lumea și sunt formate din utilizatori

@@ -4,6 +4,7 @@ description = Error enviado que se ha confirmado por alguien
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/report-first-bug
 summary = Un bug es un defecto en una pieza de software. Reportar estos fallos es una gran forma de mejorar Ubuntu, sin embargo para que estos reportes sean tomados más en serio, necesitan ser confirmados y reproducidos por al menos otra persona. Entre mejor haya sido su reporte, mayores posibilidades habran de que alguien mas pueda reproducirlo. Este logro quiere decir que al menos uno de sus reportes fue de excelente calidad y por lo tanto fue confirmado por alguien mas.

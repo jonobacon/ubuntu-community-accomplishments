@@ -4,6 +4,7 @@ description = Ai raportat prima eroare în Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Un <i>bug (eroare)</i> este un defect dintr-un program informatic. Când raportezi o eroare, informezi Ubuntu despre existența acesteia pentru ca noi să o putem elimina.  

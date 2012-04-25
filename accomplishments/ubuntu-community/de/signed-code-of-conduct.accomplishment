@@ -4,6 +4,7 @@ description = Sie haben den Ubuntu Verhaltenskodex unterschrieben
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Der Ubuntu Verhaltenskodex ("Code of Conduct") ist ein wichtiges Dokument, das Regeln und Erwartungen festlegt, wie man sich in der Ubuntu Gemeinschaft verhalten soll.

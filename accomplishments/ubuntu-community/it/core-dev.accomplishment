@@ -4,6 +4,7 @@ description = Sei un core developer di Ubuntu
 application = ubuntu-community
 category = Development
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Un core developer di Ubuntu è responsabile per la creazione dei pacchetti e la soluzione dei problemi nell'archivio <tt>main</tt>. Questo include alcuni dei più critici programmi software che sono parte di un sistema Ubuntu, e le parti che sono incluse in un'installazione di default di Ubuntu.

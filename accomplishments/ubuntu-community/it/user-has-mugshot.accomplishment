@@ -4,6 +4,7 @@ description = L'utente ha impostato una foto segnaletica nel suo proprio profilo
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
+needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Una foto segnaletica è un'immagine avatar che l'utente può impostare nel suo profilo Launchpad. È bello quando la gente può riconoscervi solo guardando una vostra foto.

@@ -4,6 +4,7 @@ description = لقد أبلغت عن أول bug لك في أوبونتو
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = الـ<i>bug</i> هي عيب في برنامج معين. فعندما تبلغ عن هذه العيوب فإنك تساعد مشروع أوبونتو في إيجاد هذا العيب ليتم حله.

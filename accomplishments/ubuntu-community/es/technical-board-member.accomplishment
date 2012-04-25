@@ -4,6 +4,7 @@ description = Es un miembro del consejo técnico de Ubuntu
 application = ubuntu-community
 category = Governance
 needs-signing = true
+needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/ubuntu-member
 summary = El consejo técnico de Ubuntu es uno de los cuerpos organizacionales más importantes dentro de la comunidad de Ubuntu.  Se encarga de tomar decisiones tomando únicamente como fundamentos la parte técnica del problema. También sirve como grupo al que se le asignan problemas que no hayan podido resolverse en otros grupos o consejos. Para ser miembro del consejo técnico debe haber demostrado suficiente participación y constancia en el desarrollo de Ubuntu, también deberá tener conocimientos solidos del archivo de software, tener buenos conocimientos técnicos y haber demostrado liderazgo. Ser parte del consejo técnico es una importante posición, asegurese de contar con el tiempo necesario para sobrellevarlo.

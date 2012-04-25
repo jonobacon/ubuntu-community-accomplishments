@@ -4,6 +4,7 @@ description = Zgłośiłeś swój pierwszy błąd w Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = <i>Błąd</i> występuje w części oprogramowania. Kiedy zgłaszasz błąd oznacza to, że informujesz o nim projekt Ubuntu, dzięki czemu możemy go rozwiązać.

@@ -4,6 +4,7 @@ description = Ju keni nënshkruar Kodin e mirësjelljes të Ubuntu
 application = ubuntu-community
 category = General
 needs-signing = true
+needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Kodi i mirësjelljes i Ubuntu është një dokument i rëndësishëm që ofron një sërë udhëzimesh për sjellje të mirë në Komunitetin Ubuntu.

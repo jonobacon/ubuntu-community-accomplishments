@@ -4,6 +4,7 @@ description = Du trägst Juju Charms für Ubuntu bei.
 application = ubuntu-community
 category = Juju
 needs-signing = true
+needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Juju ist eine Technologie, die durch die Qualität verschiedener Charms bereitgestellt wird. Diese Errungenschaft ist für die Mitglieder der Gemeinschaft gedacht, die Charms zu der Juju Gemeinschaft beigetragen haben.

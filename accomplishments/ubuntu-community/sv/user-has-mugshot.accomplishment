@@ -4,6 +4,7 @@ description = Användaren har lagt till en profilbild i sin Launchpad profil.
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
+needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
 summary = En profilbild är en bild av dig själv som du kan knyta till din Launchpad-profil. Det är trevligt när andra kan se en bild på dig och känna igen. Vi råder dig att välja ett riktigt foto av dig själv (oftast med bara ansiktet synligt), eller en annan bild som du verkligen gillar och identifieras med. Var snäll och undvik bilder med innehåll som skulle kunna uppröra någon annan (t.ex. pronografiska motiv). Bilden måste vara <i>exakt</i> <strong>192x192</strong> pixlar stor och inte mer än <strong>100 Kb</strong> tung.

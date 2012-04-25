@@ -4,6 +4,7 @@ description = Contribuye con recetas de Juju a Ubuntu.
 application = ubuntu-community
 category = Juju
 needs-signing = true
+needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Juju es una nueva tecnología altamente dependiente de las archivos disponibles para su configuración. Este trofeo es para aquellos miembros de la comunidad que hayan contribuido recetas a Juju. Las recetas comúnmente se encargan de configurar de forma genérica un servicio y proveen de relaciones básicas para que puedan combinarse con otros servicios.
