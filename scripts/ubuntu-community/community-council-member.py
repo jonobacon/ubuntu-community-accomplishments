@@ -9,7 +9,7 @@ try:
     from launchpadlib.launchpad import Launchpad
 
     api = dbusapi.Accomplishments()
-    f = api.getExtraInformation("ubuntu-community", "launchpad-email")
+    f = api.get_extra_information("ubuntu-community", "launchpad-email")
     if bool(f[0]["launchpad-email"]) == False:
         sys.exit(4)
     else:
