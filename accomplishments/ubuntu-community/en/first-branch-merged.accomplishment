@@ -18,7 +18,7 @@ steps: You submit your request to merge your branch into the main one (or whiche
 tips: Join the IRC channel best suited for the branch you are working on and talk to developers, they will be glad to help you.
       Read bazaar documentation to get acquainted with it.
       Try to understand how code review works.
-pitfalls: If your change is not acceppted, don't resign, try harder.
+pitfalls: If your branch is not accepted, don't resign, try harder.
 links: https://help.launchpad.net/Code/Review
        http://wiki.bazaar.canonical.com/Tutorials
 help = #ubuntu-devel on Freenode
