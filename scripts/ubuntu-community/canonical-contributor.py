@@ -15,8 +15,8 @@ try:
     else:
         email = f[0]["launchpad-email"]
 
-    # Get count of bugs reported by user from Launchpad, using email to
-    # identify
+    # Check if user is member of contributor-agreement-canonical team, 
+    # using email to identify
     l = Launchpad.login_anonymously(
         'ubuntu-community accomplishments', 'production')
     me = l.people.getByEmail(email=email)
