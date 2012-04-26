@@ -1,0 +1,13 @@
+[accomplishment]
+title=Signed the Canonical Contributors agreement
+description=Signed the Canonical Contributors agreement and can have branches merged.
+application=ubuntu-community
+category=Development
+icon=devel.png
+depends=ubuntu-community/report-first-bug
+needs-signing=true
+needs-information=launchpad-email
+summary = Canonical Contributor Agreement team tracks the set of people who have signed the Canonical Contributors agreement, and can have branches merged.
+steps: Signing the single-page agreement is very easy and is typically done with a single email. For more information see attached links.
+links: http://www.canonical.com/contributors
+help = #ubuntu-devel on Freenode
