@@ -24,7 +24,7 @@ try:
         sys.exit(1)
     else:
         team = l.people['contributor-agreement-canonical']
-        members = team.participants
+        members = team.getMembersByStatus(status='Approved')
         for member in members:
           if member.name == me.name:
             sys.exit(0)
