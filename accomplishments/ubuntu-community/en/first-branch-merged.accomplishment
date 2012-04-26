@@ -1,0 +1,24 @@
+[accomplishment]
+title=First branch merged 
+description=Code you wrote is in Ubuntu, congratulations!
+application=ubuntu-community
+category=Development
+icon=devel.png
+depends=ubuntu-community/report-first-bug
+needs-signing=true
+needs-information=launchpad-email
+summary = When you've come to a stage in your development where you're ready to merge your code into another branch you can make a public merge proposal.
+steps: You submit your request to merge your branch into the main one (or whichever target branch interests you)
+       Wait for one of the target branch's reviewers to review your code, they'll either:
+       Accept your code, and it will be merged.
+       Modify your code slightly, then merge it.
+       Tell you what to do with a comment, marking your review as "Needs Fixing".
+       If you're happy to, you do make the changes requested and push them into your branch. Then comment back on your proposal that you have done that. You should now await further action. 
+       Reject the changes. At this point, you can either try again discuss with the branch owner how to make your changes acceptable or continue work in your own branch.
+tips: Join the IRC channel best suited for the branch you are working on and talk to developers, they will be glad to help you.
+      Read bazaar documentation to get acquainted with it.
+      Try to understand how code review works.
+pitfalls: If your change is not acceppted, don't resign, try harder.
+links: https://help.launchpad.net/Code/Review
+       http://wiki.bazaar.canonical.com/Tutorials
+help = #ubuntu-devel on Freenode
