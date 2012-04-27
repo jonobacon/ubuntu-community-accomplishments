@@ -30,8 +30,8 @@ try:
   sys.exit(0)
 
 except SystemExit, e:
-	sys.exit(e.code)
+  sys.exit(e.code)
 except:
-	traceback.print_exc()
-	sys.exit(2)
+  traceback.print_exc()
+  sys.exit(2)
 
