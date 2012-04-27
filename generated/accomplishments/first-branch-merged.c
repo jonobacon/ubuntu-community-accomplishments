@@ -35,7 +35,9 @@ _("first-branch-merged_summary")
 // ACCOMPLISHMENT: First Bazaar Branch Merged ('steps' field)
 // .
 // ENGLISH TRANSLATION:
-// You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a Propose XXXXXXXXXX
+// You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a <i>Propose For Merging</i> link. Click it.
+// In the form choose the branch you want to merge into and fill a detailed description of the change, fix, or feature that you have contributed.
+// Click the <i>Propose Merge</i> button to submit your contribution.
 // Wait for one of the target branch's reviewers to review your code, they will either (1) accept your code, and it will be merged, (2) modify your code slightly, and then merge it, or (3) ask for you to make some improvements before they merge it.
 // If they request changes to be made, make the changes requested and push them into your branch. Then comment back on your proposal to say that you have made the requested changes.
 // Now wait for the developer to review your changes. When it is merged you will get an email to inform you it was merged in.
