@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-26 18:06-0700\n"
+"POT-Creation-Date: 2012-04-26 22:23-0700\n"
 "PO-Revision-Date: 2012-04-17 23:26+0000\n"
 "Last-Translator: Jericho Rivera <Unknown>\n"
 "Language-Team: Filipino <fil@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-28 05:20+0000\n"
+"X-Launchpad-Export-Date: 2012-04-29 05:23+0000\n"
 "X-Generator: Launchpad (build 15149)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -265,7 +265,9 @@ msgstr ""
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a Propose XXXXXXXXXX
+#. You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a <i>Propose For Merging</i> link. Click it.
+#. In the form choose the branch you want to merge into and fill a detailed description of the change, fix, or feature that you have contributed.
+#. Click the <i>Propose Merge</i> button to submit your contribution.
 #. Wait for one of the target branch's reviewers to review your code, they will either (1) accept your code, and it will be merged, (2) modify your code slightly, and then merge it, or (3) ask for you to make some improvements before they merge it.
 #. If they request changes to be made, make the changes requested and push them into your branch. Then comment back on your proposal to say that you have made the requested changes.
 #. Now wait for the developer to review your changes. When it is merged you will get an email to inform you it was merged in.
@@ -274,7 +276,7 @@ msgstr ""
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:48
+#: ../accomplishments/first-branch-merged.c:50
 msgid "first-branch-merged_steps"
 msgstr ""
 
@@ -290,7 +292,7 @@ msgstr ""
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:62
+#: ../accomplishments/first-branch-merged.c:64
 msgid "first-branch-merged_tips"
 msgstr ""
 
@@ -303,7 +305,7 @@ msgstr ""
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:73
+#: ../accomplishments/first-branch-merged.c:75
 msgid "first-branch-merged_pitfalls"
 msgstr ""
 
@@ -316,7 +318,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/first-branch-merged.c:84
+#: ../accomplishments/first-branch-merged.c:86
 msgid "first-branch-merged_links"
 msgstr ""
 
@@ -329,7 +331,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:95
+#: ../accomplishments/first-branch-merged.c:97
 msgid "first-branch-merged_help"
 msgstr ""
 

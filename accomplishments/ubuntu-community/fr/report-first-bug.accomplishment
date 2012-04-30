@@ -16,5 +16,5 @@ tips = Always try to be concise and detailed in your bug reports.
 	Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
 pitfalls = Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
 	Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
-help = #ubuntu-testing on Freenode
+help = #ubuntu-testing sur Freenode
 

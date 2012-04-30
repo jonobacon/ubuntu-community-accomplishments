@@ -1,4 +1,4 @@
-# Slovak translation for ubuntu-community-accomplishments
+# Icelandic translation for ubuntu-community-accomplishments
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the ubuntu-community-accomplishments package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-26 22:23-0700\n"
-"PO-Revision-Date: 2012-04-09 14:14+0000\n"
-"Last-Translator: Robert Kasanický <robokaso@gmail.com>\n"
-"Language-Team: Slovak <sk@li.org>\n"
+"PO-Revision-Date: 2012-04-29 23:16+0000\n"
+"Last-Translator: Styrmir Magnússon <Unknown>\n"
+"Language-Team: Icelandic <is@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-29 05:23+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-04-30 05:19+0000\n"
+"X-Generator: Launchpad (build 15171)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/member-loco-team.c:11
 msgid "member-loco-team_title"
-msgstr "Člen LoCo tímu"
+msgstr "Meðlimur í LoCo"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('description' field)
 #. .
@@ -38,7 +38,7 @@ msgstr "Člen LoCo tímu"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/member-loco-team.c:20
 msgid "member-loco-team_description"
-msgstr "Si členom LoCo tímu"
+msgstr "Þú ert meðlimur í Ubuntu LoCo"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 #. .
@@ -52,10 +52,9 @@ msgstr "Si členom LoCo tímu"
 #: ../accomplishments/member-loco-team.c:31
 msgid "member-loco-team_summary"
 msgstr ""
-"Ubuntu LoCo tímy (LoCo = lokálna komunita) sú lokálne skupiny používateľov "
-"situované po celom svete. Členovia diskutujú o Ubuntu, zdieľajú nápady, "
-"tipy, triky a vedomosti a spolupracujú na šírení povedomia o Ubuntu a jeho "
-"využiteľnosti."
+"Ubuntu LoCo eru samfélagshópar þar sem fólk getur hist og rætt saman um "
+"Ubuntu, deilt hugmyndum, þekkingu og gefið ráð og unnið að því að breiða út "
+"Ubuntu."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
 #. .
@@ -70,11 +69,10 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:43
 msgid "member-loco-team_steps"
 msgstr ""
-"Choď na <tt>loco.ubuntu.com</tt> a nájdi svoj najbližší tím. Táto trofej sa "
-"udeľuje členom ľuboľného LoCo tímu, bez ohľadu na to či bolo členstvo "
-"schválené.\r\n"
-"Na stránke vybraného LoCo tímu klikni na \"Join This Team!\" a zaregistruj "
-"sa ako člen tímu na Launchpade."
+"Farðu á <tt>loco.ubuntu.com</tt> til að finna hóp nálægt þér. Þessi bikar er "
+"veittur ef þú ert meðlimur í LoCo hóp, hvort sem hópurinn er samþykktur eða "
+"ekki.\r\n"
+"Farðu svo á Launchpad síðuna og ýttu á tengil þar til að bæta þér í hópinn."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('links' field)
 #. .
@@ -86,7 +84,9 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/member-loco-team.c:53
 msgid "member-loco-team_links"
-msgstr "http://loco.ubuntu.com/teams/ubuntu-sk"
+msgstr ""
+"http://loco.ubuntu.com\r\n"
+"http://loco.ubuntu.com/teams/ubuntu-is"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('help' field)
 #. .
@@ -100,7 +100,10 @@ msgstr "http://loco.ubuntu.com/teams/ubuntu-sk"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/member-loco-team.c:65
 msgid "member-loco-team_help"
-msgstr "#ubuntu-cz on Freenode"
+msgstr ""
+"#ubuntu-locoteams á Freenode\r\n"
+"#ubuntu-community-team á Freenode\r\n"
+"#ubuntu.is á Freenode"
 
 #. ACCOMPLISHMENT: Report First Bug ('title' field)
 #. .
@@ -112,7 +115,7 @@ msgstr "#ubuntu-cz on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/report-first-bug.c:11
 msgid "report-first-bug_title"
-msgstr "Reportuj prvý bug (chybu)"
+msgstr "Tilkynnt fyrstu villuna"
 
 #. ACCOMPLISHMENT: Report First Bug ('description' field)
 #. .
@@ -123,7 +126,7 @@ msgstr "Reportuj prvý bug (chybu)"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
-msgstr "Úspešne si odreportoval svoj prvý bug v Ubuntu"
+msgstr "Þú hefur tilkynnt fyrstu villuna þína í Ubuntu"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
@@ -141,6 +144,22 @@ msgstr "Úspešne si odreportoval svoj prvý bug v Ubuntu"
 #: ../accomplishments/report-first-bug.c:35
 msgid "report-first-bug_summary"
 msgstr ""
+"<i>Villa</i> er galli í forriti. Þegar þú tilkynnir villu ertu að láta "
+"Ubuntu vita um villuna svo hægt sé að laga hana.\r\n"
+"Þegar þú tilkynnir villu hefst umræða við hönnuði og aðra áhugasama til að "
+"hjálpa við að finna hver sé orsök vandans og til þess að afla nægra "
+"upplýsinga til að leysa vandann. Umræðan getur falið í sér að hönnuðir "
+"forritsins spyrja þig spurninga til að reka orsökina.\r\n"
+"Umræðan fer fram í <i>villu kerfi</i>, forrit til að halda utan um villu "
+"tilkynningar og umræður um þær, einnig er hægt að stilla mikilvægi þannig að "
+"þær villur sem skipta mestu máli hljóta mestan forgang.\r\n"
+"Það eru nokkrar leiðir til að tilkynna villur, en við mælum með forriti sem "
+"heitir <tt>ubuntu-bug</tt> sem kemur uppsett með Ubuntu. Þetta forrit safnar "
+"nauðsynlegum upplýsingum sem geta komið að gagni til að finna hver ástæða "
+"villurnar gæti verið.\r\n"
+"Einnig er hægt að tilkynna um villur með því að nota <i>Tilkynna villu</i> "
+"sem er að finna í <i>Hjálp</i> valmyndinni á forritum. Þessi aðferð gefur "
+"grafískt viðmót á <tt>ubuntu-bug</tt>."
 
 #. ACCOMPLISHMENT: Report First Bug ('steps' field)
 #. .
@@ -156,6 +175,12 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:48
 msgid "report-first-bug_steps"
 msgstr ""
+"Opnaðu útstöð með því að ýta á Ubuntu takkann og skrifa <i>terminal</i>. Í "
+"útstöðina skrifar þú svo <tt>ubuntu-bug</tt> og lætur svo nafn pakkans "
+"fylgja (dæmi: <tt>ubuntu-bug unity</tt> fyrir Unity). Ef þú veist ekki hvað "
+"pakkinn heitir, skrifaðu þá bara <tt>ubuntu-bug</tt> og fylgdu "
+"leiðbeiningunum sem fylgja.\r\n"
+"Fylgdu leiðbeiningunum í Launchpad."
 
 #. ACCOMPLISHMENT: Report First Bug ('tips' field)
 #. .
@@ -171,6 +196,13 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:61
 msgid "report-first-bug_tips"
 msgstr ""
+"Reynið að lýsa villunni vel og hnitmiðað.\r\n"
+"Ef þú veist hvað þarf að gera til að fá fram villuna, vinsamlegast láttu það "
+"fylgja. Það er það sem við köllum að <i>framkalla villuna</i>.\r\n"
+"Hafðu í huga að þegar þú tilkynnir villur ertu að biðja hönnuð forritsins að "
+"taka frá tíma til að laga villuna, því biðjum við þig að vera hjálpsama(n) "
+"og kurteisa(n) og taka tillit til þess tíma sem það gæti tekið að laga "
+"villuna."
 
 #. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
 #. .
@@ -185,6 +217,12 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:73
 msgid "report-first-bug_pitfalls"
 msgstr ""
+"Ekki tilkynna villur ef það er eitthvað í forritinu sem fer í taugarnar á "
+"þér, tilkynnið ef það er eitthvað sem virkar ekki eins og það ætti að "
+"virka.\r\n"
+"Ekki skrifa í umræður um villur: „mig líka“, notaðu frekar <i>this bug "
+"affects me</i> (isl. þessi villa er líka hjá mér) tengilinn sem er efst í "
+"villu tilkynningunni (í Launchpad)."
 
 #. ACCOMPLISHMENT: Report First Bug ('links' field)
 #. .
@@ -211,6 +249,8 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:95
 msgid "report-first-bug_help"
 msgstr ""
+"#ubuntu-testing á Freenode\r\n"
+"#ubuntu.is á Freenode"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('title' field)
 #. .
@@ -222,7 +262,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-branch-merged.c:11
 msgid "first-branch-merged_title"
-msgstr ""
+msgstr "Fyrsti Bazaar hlutinn sameinaður"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
 #. .
@@ -233,7 +273,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-branch-merged.c:20
 msgid "first-branch-merged_description"
-msgstr ""
+msgstr "Þú hefur til kóða í verkefni í Launchpad"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
 #. .
@@ -250,6 +290,15 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:34
 msgid "first-branch-merged_summary"
 msgstr ""
+"Kjarninn í Launchpad er sá möguleiki að geta hýst mismunandi hluta af kóða "
+"(með Bazaar útgáfu kerfinu) og að aðrir get lagt til breytingar og viðbætur "
+"í þessa hluta.\r\n"
+"Algengt er að það feli í sér að þú notir <i>branch</i> til að sækja kóðann "
+"frá Launchpad (til dæmis með: <tt>bzr branch lp:heiti_verkefnis</tt> og "
+"þannig færðu eintak af aðal kóðanum á þína tölvu. Því næst getur þú bætt við "
+"kóðann og sett inn breytingarnar með <tt>bzr commit</tt>. Því næst hleður þú "
+"breytingarnar inn á Launchpad með <tt>bzr push</tt> svo aðrir geti séð "
+"framlag þitt."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('steps' field)
 #. .
@@ -268,6 +317,24 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:50
 msgid "first-branch-merged_steps"
 msgstr ""
+"Fyrst þarf að gera <i>Merge Proposal</i> til að mæla með að þinn hluti verði "
+"sameinaður þeim sem fyrir er. Farðu síðuna fyrir verkefnið á Launchpad sem "
+"þó hlóðst inn og þar ættir þú að sjá <i>Propose For Merging</i> tengil, ýttu "
+"á hann.\r\n"
+"Þar þarftu að velja hlutann sem þú vilt láta sameinast við og setja inn "
+"greinagóða lýsingu á breytingunni eða því sem þú hefur bætt við kóðann.\r\n"
+"Ýttu á <i>Propose Merge</i> takkann til að setja inn þinn hluta.\r\n"
+"Næst þarf einhver sem tekur þátt í verkefninu að skoða kóðann þinn og leggja "
+"mat á hann. Eftir það er gerist eitt af eftirfarandi (1) kóðinn þinn er "
+"samþykktur og hann sameinaður verkefninu, (2) kóðanum er breytt lítisháttar "
+"og hann svo sameinaður verkefninu eða (3) þú ert beðinn um að laga kóðann "
+"til áður en hann er sameinaður verkefninu.\r\n"
+"Ef beðið er um að gerðar séu breytingar, þarft þú að gera þær og hlaða þær "
+"aftur inn í þinn hluta. Næst þarftu að láta vita að þú hafir gert umbeðnar "
+"breytingar.\r\n"
+"Þá er að bíða eftir að hönnuðirnir skoði breytingarnar þínar. Þegar það "
+"hefur verið gert færð þú tölvupóst þar sem þér er tilkynnt að framlag þitt "
+"hafi verið sameinað verkefninu."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('tips' field)
 #. .
@@ -284,6 +351,13 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:64
 msgid "first-branch-merged_tips"
 msgstr ""
+"Farðu á IRC rásina sem líklegast er að höfundar verkefnisins séu á og ræddu "
+"við þá og þeir munu örugglega hjálpa þér.\r\n"
+"Lestu bazaar hjálpina til að skilja það betur.\r\n"
+"Fyrsta skiptið sem þú leggur til breytingar vertu þá óhræddur við að spyrja "
+"spurninga hvernig það virki. Einhverstaðar verður maður að byrja.\r\n"
+"Mörg verkefni eru með ákveðnar línur hvernig kóðinn skuli settur fram. "
+"Reyndu að láta framlag þitt samrýmast þeim línum sem settar hafa verið."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('pitfalls' field)
 #. .

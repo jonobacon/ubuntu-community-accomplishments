@@ -1,0 +1,24 @@
+[accomplishment]
+title = Fyrsti Bazaar hlutinn sameinaður
+description = Þú hefur til kóða í verkefni í Launchpad
+application = ubuntu-community
+category = Launchpad
+needs-signing = true
+needs-information = launchpad-email
+icon = launchpad.png
+depends = ubuntu-community/registered-on-launchpad
+summary = Kjarninn í Launchpad er sá möguleiki að geta hýst mismunandi hluta af kóða (með Bazaar útgáfu kerfinu) og að aðrir get lagt til breytingar og viðbætur í þessa hluta.
+	Algengt er að það feli í sér að þú notir <i>branch</i> til að sækja kóðann frá Launchpad (til dæmis með: <tt>bzr branch lp:heiti_verkefnis</tt> og þannig færðu eintak af aðal kóðanum á þína tölvu. Því næst getur þú bætt við kóðann og sett inn breytingarnar með <tt>bzr commit</tt>. Því næst hleður þú breytingarnar inn á Launchpad með <tt>bzr push</tt> svo aðrir geti séð framlag þitt.
+steps = Fyrst þarf að gera <i>Merge Proposal</i> til að mæla með að þinn hluti verði sameinaður þeim sem fyrir er. Farðu síðuna fyrir verkefnið á Launchpad sem þó hlóðst inn og þar ættir þú að sjá <i>Propose For Merging</i> tengil, ýttu á hann.
+	Þar þarftu að velja hlutann sem þú vilt láta sameinast við og setja inn greinagóða lýsingu á breytingunni eða því sem þú hefur bætt við kóðann.
+	Ýttu á <i>Propose Merge</i> takkann til að setja inn þinn hluta.
+	Næst þarf einhver sem tekur þátt í verkefninu að skoða kóðann þinn og leggja mat á hann. Eftir það er gerist eitt af eftirfarandi (1) kóðinn þinn er samþykktur og hann sameinaður verkefninu, (2) kóðanum er breytt lítisháttar og hann svo sameinaður verkefninu eða (3) þú ert beðinn um að laga kóðann til áður en hann er sameinaður verkefninu.
+	Ef beðið er um að gerðar séu breytingar, þarft þú að gera þær og hlaða þær aftur inn í þinn hluta. Næst þarftu að láta vita að þú hafir gert umbeðnar breytingar.
+	Þá er að bíða eftir að hönnuðirnir skoði breytingarnar þínar. Þegar það hefur verið gert færð þú tölvupóst þar sem þér er tilkynnt að framlag þitt hafi verið sameinað verkefninu.
+tips = Farðu á IRC rásina sem líklegast er að höfundar verkefnisins séu á og ræddu við þá og þeir munu örugglega hjálpa þér.
+	Lestu bazaar hjálpina til að skilja það betur.
+	Fyrsta skiptið sem þú leggur til breytingar vertu þá óhræddur við að spyrja spurninga hvernig það virki. Einhverstaðar verður maður að byrja.
+	Mörg verkefni eru með ákveðnar línur hvernig kóðinn skuli settur fram. Reyndu að láta framlag þitt samrýmast þeim línum sem settar hafa verið.
+pitfalls = If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
+help = #ubuntu-devel on Freenode
+
