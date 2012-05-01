@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-26 22:23-0700\n"
-"PO-Revision-Date: 2012-04-22 09:00+0000\n"
-"Last-Translator: Max Linde <max.linde@telia.com>\n"
+"PO-Revision-Date: 2012-05-01 02:22+0000\n"
+"Last-Translator: Arve Eriksson <Unknown>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-04-29 05:23+0000\n"
-"X-Generator: Launchpad (build 15149)\n"
+"X-Launchpad-Export-Date: 2012-05-01 06:02+0000\n"
+"X-Generator: Launchpad (build 15171)\n"
 "Language: sv\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -258,7 +258,7 @@ msgstr "#ubuntu-testing på Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-branch-merged.c:11
 msgid "first-branch-merged_title"
-msgstr ""
+msgstr "Första Bazaar-gren sammanfogad"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
 #. .
@@ -269,7 +269,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-branch-merged.c:20
 msgid "first-branch-merged_description"
-msgstr ""
+msgstr "Du har skickat in kod till ett projekt i Launchpad"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
 #. .
@@ -320,6 +320,13 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:64
 msgid "first-branch-merged_tips"
 msgstr ""
+"Gå med i den IRC-kanal som är bäst lämpad för grenen du arbetar med och tala "
+"med utvecklarna, de hjälper dig gärna.\r\n"
+"Läs bazaars dokumentation för att lära känna systemet.\r\n"
+"Första gången du skickar inen en gren för genomgång, ställ gärna frågor om "
+"hur det fungerar. Alla måste börja någonstans!\r\n"
+"Många projekt har riktlinjer för vilken stil man ska strukturera och skriva "
+"sin kod i. Försök se till att ditt bidrag följer dem."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('pitfalls' field)
 #. .
@@ -333,6 +340,8 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:75
 msgid "first-branch-merged_pitfalls"
 msgstr ""
+"Bli inte frustrerad om din gren inte accepteras. Fråga utvecklaren hur du "
+"kan förbättra den; oftast krävs inga stora ändringar."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('links' field)
 #. .
@@ -346,6 +355,8 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:86
 msgid "first-branch-merged_links"
 msgstr ""
+"https://help.launchpad.net/Code/Review\r\n"
+"http://wiki.bazaar.canonical.com/Tutorials"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('help' field)
 #. .
@@ -358,7 +369,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-branch-merged.c:97
 msgid "first-branch-merged_help"
-msgstr ""
+msgstr "#ubuntu-devel på Freenode"
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
@@ -1062,6 +1073,14 @@ msgstr "Du är medlem i Ubuntu Technical Board"
 #: ../accomplishments/technical-board-member.c:32
 msgid "technical-board-member_summary"
 msgstr ""
+"Ubuntus tekniska styrelse är en av de viktigaste styrelserna i Ubuntus "
+"gemenskap. Den tekniska styrelsen ger råd och beslutar om teknisk policy och "
+"processer, så väl som att utgöra en eskalering för incidenter som uppstår "
+"någon annanstans i gemenskapen.\r\n"
+"För att bli medlem i den tekniska styrelsen behöver du ha visat ett starkt "
+"engagemang och deltagande i Ubuntu, stora tekniska färdigheter och kännedom "
+"av arkivet, visat tydliga ledartalanger, och ha den lediga tid för att kunna "
+"se till styrelsens behov."
 
 #. ACCOMPLISHMENT: Technical Board Member ('steps' field)
 #. .
@@ -1077,6 +1096,13 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:45
 msgid "technical-board-member_steps"
 msgstr ""
+"Gör omfattande bidrag till Ubuntu under en lång tid. Det finns ingen bestämd "
+"tidsgräns, men det bör vara länge nog för att bevisa ditt engagemang för "
+"projektet.\r\n"
+"Skapa en sida på <tt>wiki.ubuntu.com</tt> som beskriver dina bidrag. "
+"Inkludera dina bidrag, beskriv vilka grupper du är med i, och sammanfatta "
+"ditt arbete på wiki-sidan.\r\n"
+"Föreslå dig själv som kandidat vid nästa val till den tekniska styrelsen."
 
 #. ACCOMPLISHMENT: Technical Board Member ('links' field)
 #. .
@@ -1119,7 +1145,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-contributor.c:11
 msgid "juju-charm-contributor_title"
-msgstr ""
+msgstr "Bidrar med Juju-charm"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
 #. .
@@ -1130,7 +1156,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
 msgid "juju-charm-contributor_description"
-msgstr ""
+msgstr "Du bidrar med Juju-charm till Ubuntu."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 #. .
@@ -1144,6 +1170,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:31
 msgid "juju-charm-contributor_summary"
 msgstr ""
+"Juju är en teknologi som lever på kvaliteten i den tillgängliga charmen. "
+"Denna prestation är för de medlemmar i gemenskapen som har bidragit med "
+"charm till Juju-gemenskapen."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('steps' field)
 #. .
@@ -1159,6 +1188,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:44
 msgid "juju-charm-contributor_steps"
 msgstr ""
+"Bidra med en viss mängd Juju-charm.\r\n"
+"Bidra regelbunder och till en tillräckligt hög kvalitet.\r\n"
+"Fråga en medlem i gruppen Juju Contributors om du kan gå med."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
 #. .
@@ -1425,6 +1457,23 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:47
 msgid "first-bug-confirmed_steps"
 msgstr ""
+"Skicka in en felanmälan i vanlig ordning (se prestationen Skicka in första "
+"felanmälan för fler detaljer) och se till att beskrivningen är nog "
+"detaljerad för att göra det möjligt för andra att upprepa tillståndet. För "
+"att skriva en bra felrapport, inkludera följande:\r\n"
+"En klar och tydlig beskrivning av problemet. Glöm inte att skriva om felet "
+"inträffar varje gång, eller bara då och då.\r\n"
+"En serie steg för att upprepa problemet. Se till att de är uttryckliga och "
+"tydliga. Om ett steg t.ex. inbegriper att välja ett menyobjekt, ange om du "
+"väljer det med musen eller tangentbordsgenvägar - det har betydelse.\r\n"
+"En beskrivning av misslyckandet när dessa steg följs.\r\n"
+"En beskrivning av hur du förväntade dig att programmet skulle bete sig "
+"istället. Detta är viktig information: ibland gör inte programmet vad "
+"utvecklaren förväntade sig och insåg inte att det skulle leda till problem "
+"för dig, så denna beskrivning hjälper folk att förstå vad som blev fel.\r\n"
+"All övrig information du kan tänka på som kan hjälpa till att diagnosticera "
+"problemet. Om programmet t.ex. brukade fungera och plötsligt började "
+"krascha, ange när problemen började uppstå."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
 #. .
@@ -1491,6 +1540,9 @@ msgstr "Du Bidrar Juju charms till Ubuntu"
 #: ../accomplishments/juju-charm-reviewer.c:31
 msgid "juju-charm-reviewer_summary"
 msgstr ""
+"Juju är en teknologi som lever på kvaliteten i tillgänglig charm. Denna "
+"prestation är till för de betrodda medlemmar i gemenskapen som går igenom "
+"gemenskapens charm och godkänner inkludering i Juus butik."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('steps' field)
 #. .
@@ -1506,6 +1558,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:44
 msgid "juju-charm-reviewer_steps"
 msgstr ""
+"Bidra med en viss mängd Juju-charm.\r\n"
+"Bidra regelbundet och till en tillräckligt hög kvalitet.\r\n"
+"Fråga en medlem i gruppen Juju Reviews om du kan gå med."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 #. .
@@ -1567,6 +1622,10 @@ msgstr "Du är en Ubuntu Core Developer"
 #: ../accomplishments/core-dev.c:31
 msgid "core-dev_summary"
 msgstr ""
+"En Ubuntu-centralutvecklare ansvarar för paketering och att lösa problem i "
+"arkivet <tt>main</tt>. Detta inkluderar bland den mest kritiska mjukvaran i "
+"ett Ubuntu-system, och delarna som skickas med en standardinstallation av "
+"Ubuntu."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('steps' field)
 #. .
