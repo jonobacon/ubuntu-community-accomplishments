@@ -1,16 +1,16 @@
 [accomplishment]
-title = Juju Charm Contributor
-description = You contribute Juju charms to Ubuntu.
+title = Bidrar med Juju-charm
+description = Du bidrar med Juju-charm till Ubuntu.
 application = ubuntu-community
 category = Juju
 needs-signing = true
 needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
-summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
-steps = Contribute a number of Juju charms.
-	Contribute regularly and to a high enough quality.
-	Ask a member of the Juju Contributors team if you can join.
+summary = Juju är en teknologi som lever på kvaliteten i den tillgängliga charmen. Denna prestation är för de medlemmar i gemenskapen som har bidragit med charm till Juju-gemenskapen.
+steps = Bidra med en viss mängd Juju-charm.
+	Bidra regelbunder och till en tillräckligt hög kvalitet.
+	Fråga en medlem i gruppen Juju Contributors om du kan gå med.
 tips = None
 pitfalls = None
 help = #juju på Freenode

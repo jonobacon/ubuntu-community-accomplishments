@@ -1,6 +1,6 @@
 [accomplishment]
 title = Gemeinderatmitglied
-description = Du bist ein Mitglied der Gemeinderates
+description = Sie sind ein Mitglied der Gemeinderates
 application = ubuntu-community
 category = Governance
 needs-signing = true
@@ -10,14 +10,14 @@ depends = ubuntu-community/ubuntu-member
 summary = Der Ubuntu-Gemeinderat ("Community-Council") ist der primäre regierende Teil des Ubuntu Projektes und hat als dieser eine wichtige Rolle und hohe Verantwortung gegenüber der Ubuntu Community zu tragen.
 	Das Community-Council berät und entscheidet über die Gemeinschaftspolitik und Vorgänge. Es ist auch eine Eskalationskörper für Vorfälle, die anderswo in der Ubuntu-Gemeinschaft auftreten.
 	Mitglieder des Community-Council weisen ein starkes Engagement, Beteiligung in der Geschichte Ubuntus, und klare Führungsfertigkeiten vor, und haben die Zeit und die Möglichkeit sich den Bedürfnissen des Rates zu verpflichten.
-steps = Werde Ubuntu Mitglied. Demonstriere eine effektive und umfangreiche Beteiligung an Ubuntu über einen längeren Zeitraum. Es gibt keine vorgeschriebene Zeit, aber der Zeitraum sollte lang genug sein um dein Engagement in dem Projekt demonstrieren zu können.
-	Ändere die Wiki Seite, die erschaffen wurde um Ubuntu Mitglied zu werden, die du normalerweise unter <tt>wiki.ubuntu.com</tt> findest, welche aktuell ist und deine Beteiligung zeigt. Füge dieser Wiki Seite deinen bisherigen Beitrag, welchen Teams du beigetreten bist und eine Zusammenfassung deiner Bemühungen hinzu.
-	Wenn die nächste Gemeinderatwahl angekündigt wird, nominiere dich als Kandidat. Mark Shuttleworth, der Gründer von Ubuntu, auch als sabdfl ("self-appointed benevolent dictator for life" = selbst ernannter wohlwollender Diktator fürs Leben) bekannt, wählt die Kandidaten aus der Liste der nominierten aus und leitet sie weiter, damit Ubuntu Mitglieder über sie abstimmen können.
-tips = Konzentriere dich auf deine Führungsqualitäten. Der Gemeinderat ist eine wichtige Führungsposition und wir suchen starke, kompetente und selbstbewusste Anführer.
-	Du solltest am besten schon einmal ein anderes Team angeführt haben um deine Führungsqualitäten zu entwickeln und zu demonstrieren bevor du dich um eine Position im Gemeinderat bewirbst.
-	Bewerb dich nur im Gemeinderat, wenn du genug signifikante Erfahrung mit der Gemeinschaft hast.
-pitfalls = Bewerbe dich nicht um eine Position im Gemeinderat nur um an Macht zu kommen.
-	Versuche nicht mehr als in einem Rat zu sein (z.B. Gemeinderat, Technischer Vorstand ("Technical Board")) zur gleichen Zeit. Tritt einem bei und widme dich ihm ganz.
+steps = Werden Sie Ubuntu Mitglied. Demonstrieren Sie eine effektive und umfangreiche Beteiligung an Ubuntu über einen längeren Zeitraum. Es gibt keine vorgeschriebene Zeit, aber der Zeitraum sollte lang genug sein um ihr Engagement in dem Projekt demonstrieren zu können.
+	Ändern Sie die Wiki Seite, die erschaffen wurde um Ubuntu Mitglied zu werden, die SIe normalerweise unter <tt>wiki.ubuntu.com</tt> finden, welche aktuell ist und ihre Beteiligung zeigt. Fügen Sie dieser Wiki Seite ihren bisherigen Beitrag, welchen Teams Sie beigetreten sind und eine Zusammenfassung ihrer Bemühungen hinzu.
+	Wenn die nächste Gemeinderatwahl angekündigt wird, nominieren Sie sich als Kandidat. Mark Shuttleworth, der Gründer von Ubuntu, auch als sabdfl ("self-appointed benevolent dictator for life" = selbst ernannter wohlwollender Diktator fürs Leben) bekannt, wählt die Kandidaten aus der Liste der nominierten aus und leitet sie weiter, damit Ubuntu Mitglieder über sie abstimmen können.
+tips = Konzentrieren Sie sich auf ihre Führungsqualitäten. Der Gemeinderat ist eine wichtige Führungsposition und wir suchen starke, kompetente und selbstbewusste Anführer.
+	SIe sollten am besten schon einmal ein anderes Team angeführt haben um ihre Führungsqualitäten zu entwickeln und zu demonstrieren bevor Sie sich um eine Position im Gemeinderat bewerben.
+	Bewerben SIe sich nur im Gemeinderat, wenn Sie genug signifikante Erfahrung mit der Gemeinschaft haben.
+pitfalls = Bewerben Sie sich nicht um eine Position im Gemeinderat nur um an Macht zu kommen.
+	Versuchen Sie nicht mehr als in einem Rat zu sein (z.B. Gemeinderat, Technischer Vorstand ("Technical Board")) zur gleichen Zeit. Treten SIe einem bei und widmen Sie sich ihm ganz.
 help = International:
 	#ubuntu-community-team auf Freenode
 

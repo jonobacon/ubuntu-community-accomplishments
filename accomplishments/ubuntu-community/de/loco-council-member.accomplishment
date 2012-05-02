@@ -1,6 +1,6 @@
 [accomplishment]
 title = LoCo Gemeinderat Mitglied
-description = Du bist Mitglied des LoCo Gemeinderates
+description = Sie sind Mitglied des LoCo Gemeinderates
 application = ubuntu-community
 category = Governance
 needs-signing = true
@@ -9,15 +9,15 @@ icon = loco.png
 depends = ubuntu-community/ubuntu-member
 summary = Der Ubuntu LoCo Gemeinderat ("LoCo Council") ist ein Verwaltungsrat, der die globalen Ubuntu LoCo Teams beaufsichtigt.
 	Das LoCo Council berät und bestimmt die LoCo Politik und den Progress. Das LoCo Council hilft darüber hinaus auch Probleme in LoCo Teams zu lösen, bei welchen eine interne Lösung nicht möglich war.
-	Um Mitglied des LoCo Council zu werden solltest du ein starkes Engagement, Beteiligung in der Geschichte Ubuntus und klare Führungsfertigkeiten vorweisen, und die Zeit und Möglichkeit haben sich den Bedürfnissen des Rates zu verpflichten . Ein gutes Mitglied des LoCo Council wird die Fertigkeit zeigen diverse Nöte in verschiedenen Kulturen und Gemeinschaften zu erkennen und  zu verstehen. LoCo Council Mitglieder sollten in der Lage sein zu inspirieren und Führungsrollen in LoCo Teams zu übernehmen.
-steps = Fange an zu deinem lokalen Community Team durch das Planen von Veranstaltungen beizutragen, und trage dann bei den LoCo Teams auf einem globalem Maßstab bei. Die Beiträge sollten intensiv über einen längeren Zeitraum erfolgen. Es gibt keinen festgelegten Zeitraum, aber er sollte lang genug sein deinen Einsatz für Ubuntu zu erkennen.
-	Erstelle eine Seite auf <tt>wiki.ubuntu.com</tt>, der deine Beiträge auflistet. Füge auf der Wiki-Seite deine Beiträge ein, in welchen Teams du bist und fasse deine Bemühungen zusammen.
-	Nominiere dich für die nächste LoCo Council Wahl als Kandidat.
-tips = Fokussiere dich auf deine Führungsfertigkeiten. Das LoCo Council ist eine wichtige Führungsposition und wir suchen nachen starken, fähigen und zuversichtlichen Führungspersonen.
-	Du solltest ein LoCo Team bereits geführt haben um deine Führungsfertigkeiten zu entwickeln und zu demonstrieren bevor du dich für das  LoCo Council bewirbst.
-	Bewerbe dich ausschließlich beim LoCo Council, wenn du eine signifikante Menge an Erfahrung aus der LoCo Gemeinschaft mitbringst.
-pitfalls = Bewerbe dich nicht bei dem LoCo Council ausschließlich um eine Machtposition zu ergattern.
-	Versuche nicht bei mehr als einem Council (z.B LoCo Council, Community Council) zur selben Zeit zu sein. Trete einem bei und gib ihm deine volle Aufmerksamkeit.
+	Um Mitglied des LoCo Council zu werden sollten Sie ein starkes Engagement, Beteiligung in der Geschichte Ubuntus und klare Führungsfertigkeiten vorweisen, und die Zeit und Möglichkeit haben sich den Bedürfnissen des Rates zu verpflichten . Ein gutes Mitglied des LoCo Council wird die Fertigkeit zeigen diverse Nöte in verschiedenen Kulturen und Gemeinschaften zu erkennen und  zu verstehen. LoCo Council Mitglieder sollten in der Lage sein zu inspirieren und Führungsrollen in LoCo Teams zu übernehmen.
+steps = Fangen Sie an zu ihrem lokalen Community Team durch das Planen von Veranstaltungen beizutragen und tragen Sie dann bei den LoCo Teams auf einem globalem Maßstab bei. Die Beiträge sollten intensiv über einen längeren Zeitraum erfolgen. Es gibt keinen festgelegten Zeitraum, aber er sollte lang genug sein ihren Einsatz für Ubuntu zu erkennen.
+	Erstellen Sie eine Seite auf <tt>wiki.ubuntu.com</tt>, der ihre Beiträge auflistet. Fügen Sie auf der Wiki-Seite ihre Beiträge ein, in welchen Teams sie sind und fassen Sie ihre Bemühungen zusammen.
+	Nominieren Sie sich für die nächste LoCo Council Wahl als Kandidat.
+tips = Fokussieren Sie sich auf ihre Führungsfertigkeiten. Das LoCo Council ist eine wichtige Führungsposition und wir suchen nachen starken, fähigen und zuversichtlichen Führungspersonen.
+	Sie sollten ein LoCo Team bereits geführt haben um ihre Führungsfertigkeiten zu entwickeln und zu demonstrieren bevor Sie sich für das  LoCo Council bewirbst.
+	Bewerben Sie sich ausschließlich beim LoCo Council, wenn Sie eine signifikante Menge an Erfahrung aus der LoCo Gemeinschaft mitbringen.
+pitfalls = Bewerben SIe sich nicht bei dem LoCo Council ausschließlich um eine Machtposition zu ergattern.
+	Versuchen Sie nicht bei mehr als einem Council (z.B LoCo Council, Community Council) zur selben Zeit zu sein. Treten Sie einem bei und geben SIe ihm ihre volle Aufmerksamkeit.
 help = International:
 	#ubuntu-community-team auf Freenode
 	#ubuntu-locoteams auf Freenode

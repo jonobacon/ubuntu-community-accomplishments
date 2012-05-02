@@ -7,7 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
-summary = An Ubuntu Core Developer is responsible for packaging and resolving issues in the <tt>main</tt> archive. This includes some of the most critical software that is part of an Ubuntu system, and the pieces that ship in a default Ubuntu installation.
+summary = En Ubuntu-centralutvecklare ansvarar för paketering och att lösa problem i arkivet <tt>main</tt>. Detta inkluderar bland den mest kritiska mjukvaran i ett Ubuntu-system, och delarna som skickas med en standardinstallation av Ubuntu.
 steps = Contribute extensively to Ubuntu for a sustained period of time.
 	Make use of the Ubuntu Sponsorship Queue to make your contributions.
 	Apply to the Ubuntu Developer Board to be a core developer.

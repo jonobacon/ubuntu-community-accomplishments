@@ -10,18 +10,18 @@ depends = ubuntu-community/registered-on-launchpad
 summary = Der Ubuntu Verhaltenskodex ("Code of Conduct") ist ein wichtiges Dokument, das Regeln und Erwartungen festlegt, wie man sich in der Ubuntu Gemeinschaft verhalten soll.
 	Es beinhaltet Erwartungen wie man sich rücksichtsvoll, respektvoll und helfend zu verhalten hat,  wie man nach Hilfe fragen sollte und wie man sich am besten zurück zieht, wenn man zu beschäftigt wird.
 	Die Trophäe ist verliehen wenn man sich einverstanden erklärt diese Erwartungen in der Gemeinschaft zu erfüllen und man den Ubuntu Verhaltenskodex unterschrieben hat.
-steps = Schaue dir die  <a href="https://launchpad.net/codeofconduct">Verhaltenskodex Seite</a> an.
-	Erstelle zunächst einen PGP Schlüssel, füge ihn zum Ubuntu key-server hinzu und importiere ihn in Launchpad.
-	Du kannst dies tun, in dem du <i>Passwörter und Verschlüsselung</i> aufrufst.
-	Unter dem Menüpunkt Datei oben im Panel drückst du dann Neu … . Im nun geöffneten <i>Neu erstellen ...</i> wählst du den PGP-Schlüssel aus und drückst weiter. Fülle das aufgetauchte Formular aus.
-	Nach dem erstellen des PGP-Schlüssels, drücke im Menüpunkt Entfernt <i>Schlüssel abgleichen und veröffentlichen</i>. Dort gehst du auf Schlüssel-Server und wählst unter <i>Schlüssel veröffentlichen auf</i> den keysever.ubuntu.com. Schließe das Fenster und  drücke danach auf <i>Abgleichen</i>.
-	Unter dem <i>Eigene Schlüssel<i> Tab findest du den neu erstellten PGP-Schlüssel. Wähle ihn aus und drücke die Leertaste um das <i>Eigenschaften</i> Menü zu öffnen oder durch Rechtsklick und dann auf Eigenschaften drücken. Im „Eigenschaften“ Fenster solltest du eine zehn stellige Nummer sehen, den <i>Fingerabdruck</i> oder <i>"Fingerprint"<i>.
-	Öffne den „1. Register an OpenPGP key“ Link in Launchpad und gibt dort unter „Fingerprint“ die Zahl ein. (Es kann sein, dass du einige Minuten warten musst nach dem Abgleich, bis du ihn dort eingeben kannst).
-	Du bekommst eine Email, die du mit OpenPGP entschlüsseln musst. Installiere dazu am besten die Thunderbird Erweiterung Enigmail, die du dir im  Software-Center holen kannst. Nachdem du die Email  in Thunderbird öffnest, fragt dich Enigmail nach deinem PGP Passwort um die Nachricht zu entschlüsselst. Nach der Eingabe siehst du einen Link, mit dem du den Schlüssel zu deinem Launchpad Account hinzufügen kannst.
-	Lade dir den Ubuntu Verhaltenskodex runter, den du im Link im zweiten Schritt „2. Download the current Code of Conduct“ findest, öffne ihn und lese ihn dir durch. Du kannst auch eine deutsche Übersetzung <a href=" http://wiki.ubuntuusers.de/Ubuntu/Code_of_Conduct">hier</a> finden.
-	Unterzeichne ihn indem du das Terminal öffnest und <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt> eingibst. (Beachte, dass du zuerst in den richtigen Ordner gehen musst. z.B. wenn sich die Datei in Downloads befindet, zuerst cd ~/Downloads eingeben und Enter drücken.)
-	Jetzt öffne die neu-erstellte .asc Datei in einem Text Editor.
-	Auf der Ubuntu Verhaltenskodex Seite klicke auf <i>Sign it!</i> und dann kopiere den Inhalt der .asc Datei in die Textbox. Klicke auf <i>Continue</i>. Herzlichen Glückwunsch, du hast den Verhaltenskodex unterzeichnet!
+steps = Schauen Sie sich die  <a href="https://launchpad.net/codeofconduct">Verhaltenskodex Seite</a> an.
+	Erstellen Sie zunächst einen PGP Schlüssel, füge ihn zum Ubuntu key-server hinzu und importieren Sie ihn in Launchpad.
+	Sie können dies tun, in dem Sie <i>Passwörter und Verschlüsselung</i> aufrufen.
+	Unter dem Menüpunkt Datei oben im Panel drücken Sie dann Neu … . Im nun geöffneten <i>Neu erstellen ...</i> wählen Sie den PGP-Schlüssel aus und drücken Sie weiter. Füllen Sie das aufgetauchte Formular aus.
+	Nach dem erstellen des PGP-Schlüssels, drücken SIe im Menüpunkt Entfernt <i>Schlüssel abgleichen und veröffentlichen</i>. Dort gehen Sie auf Schlüssel-Server und wählen unter <i>Schlüssel veröffentlichen auf</i> den keysever.ubuntu.com. Schließen Sie das Fenster und  drücken Sie danach auf <i>Abgleichen</i>.
+	Unter dem <i>Eigene Schlüssel<i> Tab finden Sie den neu erstellten PGP-Schlüssel. Wählen Sie ihn aus und drücken Sie die Leertaste um das <i>Eigenschaften</i> Menü zu öffnen oder durch Rechtsklick und dann auf Eigenschaften drücken. Im „Eigenschaften“ Fenster sollten Sie eine zehn stellige Nummer sehen, den <i>Fingerabdruck</i> oder <i>"Fingerprint"<i>.
+	Öffnen Sie den „1. Register an OpenPGP key“ Link in Launchpad und geben Sie dort unter „Fingerprint“ die Zahl ein. (Es kann sein, dass Sie einige Minuten warten müssen nach dem Abgleich, bis Sie ihn dort eingeben können).
+	Sie bekommen eine Email, die Sie mit OpenPGP entschlüsseln müssen. Installieren Sie dazu am besten die Thunderbird Erweiterung Enigmail, die Sie im  Software-Center holen können. Nachdem Sie die Email  in Thunderbird öffnen, fragt Enigmail Sie nach ihrem PGP Passwort um die Nachricht zu entschlüsseln. Nach der Eingabe sehen Sie einen Link, mit dem Sie den Schlüssel zu ihrem Launchpad Account hinzufügen können.
+	Laden Sie den Ubuntu Verhaltenskodex runter, den Sie im Link im zweiten Schritt „2. Download the current Code of Conduct“ finden, öffnen Sie ihn und lese Sie ihn sich durch. Sie können auch eine deutsche Übersetzung <a href=" http://wiki.ubuntuusers.de/Ubuntu/Code_of_Conduct">hier</a> finden.
+	Unterzeichnen Sie ihn indem Sie das Terminal öffnen und <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt> eingeben (Beachte Sie, dass Sie zuerst in den richtigen Ordner gehen müssen. z.B. wenn sich die Datei in Downloads befindet, müssen Sie zuerst cd ~/Downloads eingeben und Enter drücken.)
+	Jetzt öffnen Sie die neu-erstellte .asc Datei in einem Text Editor.
+	Auf der Ubuntu Verhaltenskodex Seite klicken Sie auf <i>Sign it!</i> und dann kopieren Sie den Inhalt der .asc Datei in die Textbox. Klicken Sie auf <i>Continue</i>. Herzlichen Glückwunsch, SIe haben den Verhaltenskodex unterzeichnet!
 tips = None
 pitfalls = None
 help = International:

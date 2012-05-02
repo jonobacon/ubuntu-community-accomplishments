@@ -1,26 +1,27 @@
 [accomplishment]
-title = First Bazaar Branch Merged
-description = You have contributed code to a project in Launchpad
+title = Ersten Bazaar Zweig zusammengeführt
+description = Sie haben Code zu einem Launchpad-Projekt beigetragen
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
 needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
-summary = A core part of Launchpad is the ability to host different branches of code (using the Bazaar version control system) and for other people to propose improvements and changes to those branches.
-	What commonly happens here is that you <i>branch</i> the code from launchpad (for example, running <tt>bzr branch lp:the-project</tt>) and this downloads the current main branch to your computer. You then work on improvements to that branch and commit your changes using <tt>bzr commit</tt>. You then uplod your changes to Launchpad using <tt>bzr push</tt> so others can see your work.
-	You can now propose that your branch is merged into another branch. This means that the owner of the original branch that you improved will contribute your improvements to it, this merging in your work.
-	This trophy is awarded when you have successfully had one of your branches merged into another branch.
-steps = You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a <i>Propose For Merging</i> link. Click it.
-	In the form choose the branch you want to merge into and fill a detailed description of the change, fix, or feature that you have contributed.
-	Click the <i>Propose Merge</i> button to submit your contribution.
-	Wait for one of the target branch's reviewers to review your code, they will either (1) accept your code, and it will be merged, (2) modify your code slightly, and then merge it, or (3) ask for you to make some improvements before they merge it.
-	If they request changes to be made, make the changes requested and push them into your branch. Then comment back on your proposal to say that you have made the requested changes.
-	Now wait for the developer to review your changes. When it is merged you will get an email to inform you it was merged in.
-tips = Join the IRC channel best suited for the branch you are working on and talk to developers, they will be glad to help you.
-	Read bazaar documentation to get acquainted with it.
-	The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
-	Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
-pitfalls = If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
-help = #ubuntu-devel on Freenode
+summary = Eine Kernfähigkeit von Launchpad ist die Möglicht verschiedene Zweige von Code bereit zu stellen (durch die Bazaar Versionskontrolle) und es anderen möglich zu machen Verbesserungen und Änderungen zu diesen Zweigen vorzustellen.
+	Was normalerweise hier passiert ist, dass Sie den Code von Launchpad abzweigen (z.B. in dem <tt>bzr branch lp:the-project</tt> aufgeruft wird), was dann den aktuellen Hauptzweig auf ihren Computer lädt. Sie arbeiten dann an Verbesserungen an diesem Zweig und  verpflichten dann ihre Änderungen in dem Sie <tt>bzr commit</tt> aufrufen. Sie laden dann ihre Änderungen zu Launchpad hoch mit <tt>bzr push</tt>, so dass anderen ihre Arbeit sehen können.
+	Sie können dann vorschlagen, dass ihr Zweig mit einem anderen zusammengeführt werden soll. Das heißt, dass der Besitzer des ursprünglichen Zweiges ihre Verbesserungen in den ursprünglichen Zweig einfließen lässt und somit die Zweige zusammenführt.
+	Diese Trophäe wird verliehen wenn Sie erfolgreich eines ihrer Zweige mit einem anderen zusammengeführt haben.
+steps = Sie müssen erst einen <i>Merge Proposal</i> durchführen um vorzuschlagen, dass ein Zweig in einen anderen zusammengeführt werden soll.. Gehen Sie zu der Launchpad Seite für den Zweig, den sie hochgeladen haben und Sie sollten den <i>Merge Proposal</i> Link sehen. Drücken sie auf ihn.
+	Geben sie in dem Formular an welchen Zweig Sie zusammenführen wollen und schreiben Sie eine detaillierte Beschreibung über die Änderungen, Lösungen und Neuerungen, die sie geschrieben haben.
+	Drücken Sie auf den <i>Propose Merge</i> Knopf um ihre Verbesserungen einzureichen. 
+	Warten Sie bis ein Gutachter des Zielzweiges ihren Code überprüft hat, sie werden entweder (1) ihren Code akzeptieren und zusammenführen, (2) ihren Code etwas modifizieren und dann zusammenführen oder Sie bitten einige Verbessrungen zu machen bevor sie ihn zusammenführen.
+	Wenn sie Änderungen vorschlagen, verbessern Sie ihren Code und fügen Sie in ihren Zweig ein. Dann kommentieren Sie auf ihren Vorschlag, dass sie die Veränderungen um die sie gebetet wurden durchgeführt haben.
+	Warten Sie jetzt bis ein Entwickler ihre Veränderungen überprüft hat. Wenn er zusammengeführt wurde, dann bekommen Sie eine email, dass er zusammengeführt wurde.
+tips = Treten Sie einem IRC Kanal bei, der am besten für ihren Zweig an dem Sie arbeiten geeignet ist und reden Sie mit den Entwickler, sie helfen ihnen gerne weiter.
+	Lesen Sie die Bazaar Dokumentation, damit sie damit vertraut werden.
+	Scheuen Sie sich nicht davor Fragen zu stellen, wie alles funktioniert, wenn sie das erste mal einen Zweig zur Überprüfung stellen, jeder muss mal irgendwo anfangen!
+	Viele Projekte haben Stilrichtlinien, die beschreiben, wie der Code geschrieben und formatiert werden soll. Versuche diesen Richtlinien zu folgen.
+pitfalls = Falls ihr Entwicklungszweig nicht akzeptiert wird, seien sie nicht zu frustriert. Fragen sie den Entwickler wie sie ihn verbessern können, oftmals sind die nötigen Änderungen nur geringfügig.
+help = International:
+	#ubuntu-devel on Freenode
 

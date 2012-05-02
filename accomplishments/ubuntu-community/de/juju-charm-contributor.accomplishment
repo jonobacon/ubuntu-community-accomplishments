@@ -1,6 +1,6 @@
 [accomplishment]
 title = Juju Charm Beiträger
-description = Du trägst Juju Charms für Ubuntu bei.
+description = Sie tragen Juju Charms für Ubuntu bei.
 application = ubuntu-community
 category = Juju
 needs-signing = true
@@ -8,9 +8,9 @@ needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
 summary = Juju ist eine Technologie, die durch die Qualität verschiedener Charms bereitgestellt wird. Diese Errungenschaft ist für die Mitglieder der Gemeinschaft gedacht, die Charms zu der Juju Gemeinschaft beigetragen haben.
-steps = Trage einige Juju Charms bei.
-	Trage regelmäßig und zu einer ausreichend hohen Qualität bei.
-	Frage ein Mitglied des Juju Beiträger Teams, ob du beitreten darfst.
+steps = Tragen Sie einige Juju Charms bei.
+	Tragen Sie regelmäßig und zu einer ausreichend hohen Qualität bei.
+	Fragen Sie ein Mitglied des Juju Beiträger Teams, ob Sie beitreten dürfen.
 tips = None
 pitfalls = None
 help = International:

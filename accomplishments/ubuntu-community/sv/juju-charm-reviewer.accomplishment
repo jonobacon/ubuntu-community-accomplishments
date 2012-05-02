@@ -7,10 +7,10 @@ needs-signing = true
 needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/juju-charm-contributor
-summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
-steps = Contribute a significant number of Juju charms.
-	Contribute regularly and to a high enough quality.
-	Ask a member of the Juju Reviews team if you can join.
+summary = Juju är en teknologi som lever på kvaliteten i tillgänglig charm. Denna prestation är till för de betrodda medlemmar i gemenskapen som går igenom gemenskapens charm och godkänner inkludering i Juus butik.
+steps = Bidra med en viss mängd Juju-charm.
+	Bidra regelbundet och till en tillräckligt hög kvalitet.
+	Fråga en medlem i gruppen Juju Reviews om du kan gå med.
 tips = None
 pitfalls = None
 help = #juju på Freenode

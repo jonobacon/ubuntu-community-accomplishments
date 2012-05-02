@@ -1,6 +1,6 @@
 [accomplishment]
-title = First Bazaar Branch Merged
-description = You have contributed code to a project in Launchpad
+title = Första Bazaar-gren sammanfogad
+description = Du har skickat in kod till ett projekt i Launchpad
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
@@ -17,10 +17,10 @@ steps = You first need to perform a <i>Merge Proposal</i> to propose your branch
 	Wait for one of the target branch's reviewers to review your code, they will either (1) accept your code, and it will be merged, (2) modify your code slightly, and then merge it, or (3) ask for you to make some improvements before they merge it.
 	If they request changes to be made, make the changes requested and push them into your branch. Then comment back on your proposal to say that you have made the requested changes.
 	Now wait for the developer to review your changes. When it is merged you will get an email to inform you it was merged in.
-tips = Join the IRC channel best suited for the branch you are working on and talk to developers, they will be glad to help you.
-	Read bazaar documentation to get acquainted with it.
-	The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
-	Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
-pitfalls = If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
-help = #ubuntu-devel on Freenode
+tips = Gå med i den IRC-kanal som är bäst lämpad för grenen du arbetar med och tala med utvecklarna, de hjälper dig gärna.
+	Läs bazaars dokumentation för att lära känna systemet.
+	Första gången du skickar inen en gren för genomgång, ställ gärna frågor om hur det fungerar. Alla måste börja någonstans!
+	Många projekt har riktlinjer för vilken stil man ska strukturera och skriva sin kod i. Försök se till att ditt bidrag följer dem.
+pitfalls = Bli inte frustrerad om din gren inte accepteras. Fråga utvecklaren hur du kan förbättra den; oftast krävs inga stora ändringar.
+help = #ubuntu-devel på Freenode
 
