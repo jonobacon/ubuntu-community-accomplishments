@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-04-26 22:23-0700\n"
-"PO-Revision-Date: 2012-04-12 12:35+0000\n"
-"Last-Translator: Eduard Gotwig <eduardgotwig@gmail.com>\n"
+"PO-Revision-Date: 2012-05-01 18:39+0000\n"
+"Last-Translator: Alexander Neumann <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-01 06:02+0000\n"
-"X-Generator: Launchpad (build 15171)\n"
+"X-Launchpad-Export-Date: 2012-05-02 05:57+0000\n"
+"X-Generator: Launchpad (build 15177)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -280,7 +280,7 @@ msgstr "#ubuntu-testing on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-branch-merged.c:11
 msgid "first-branch-merged_title"
-msgstr ""
+msgstr "Ersten Bazaar Zweig zusammengeführt"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
 #. .
@@ -291,7 +291,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-branch-merged.c:20
 msgid "first-branch-merged_description"
-msgstr ""
+msgstr "Sie haben Code zu einem Launchpad-Projekt beigetragen"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
 #. .
@@ -308,6 +308,23 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:34
 msgid "first-branch-merged_summary"
 msgstr ""
+"Eine Kernfähigkeit von Launchpad ist die Möglicht verschiedene Zweige von "
+"Code bereit zu stellen (durch die Bazaar Versionskontrolle) und es anderen "
+"möglich zu machen Verbesserungen und Änderungen zu diesen Zweigen "
+"vorzustellen.\r\n"
+"Was normalerweise hier passiert ist, dass Sie den Code von Launchpad "
+"abzweigen (z.B. in dem <tt>bzr branch lp:the-project</tt> aufgeruft wird), "
+"was dann den aktuellen Hauptzweig auf ihren Computer lädt. Sie arbeiten dann "
+"an Verbesserungen an diesem Zweig und  verpflichten dann ihre Änderungen in "
+"dem Sie <tt>bzr commit</tt> aufrufen. Sie laden dann ihre Änderungen zu "
+"Launchpad hoch mit <tt>bzr push</tt>, so dass anderen ihre Arbeit sehen "
+"können.\r\n"
+"Sie können dann vorschlagen, dass ihr Zweig mit einem anderen "
+"zusammengeführt werden soll. Das heißt, dass der Besitzer des ursprünglichen "
+"Zweiges ihre Verbesserungen in den ursprünglichen Zweig einfließen lässt und "
+"somit die Zweige zusammenführt.\r\n"
+"Diese Trophäe wird verliehen wenn Sie erfolgreich eines ihrer Zweige mit "
+"einem anderen zusammengeführt haben."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('steps' field)
 #. .
@@ -326,6 +343,25 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:50
 msgid "first-branch-merged_steps"
 msgstr ""
+"Sie müssen erst einen <i>Merge Proposal</i> durchführen um vorzuschlagen, "
+"dass ein Zweig in einen anderen zusammengeführt werden soll.. Gehen Sie zu "
+"der Launchpad Seite für den Zweig, den sie hochgeladen haben und Sie sollten "
+"den <i>Merge Proposal</i> Link sehen. Drücken sie auf ihn.\r\n"
+"Geben sie in dem Formular an welchen Zweig Sie zusammenführen wollen und "
+"schreiben Sie eine detaillierte Beschreibung über die Änderungen, Lösungen "
+"und Neuerungen, die sie geschrieben haben.\r\n"
+"Drücken Sie auf den <i>Propose Merge</i> Knopf um ihre Verbesserungen "
+"einzureichen. \r\n"
+"Warten Sie bis ein Gutachter des Zielzweiges ihren Code überprüft hat, sie "
+"werden entweder (1) ihren Code akzeptieren und zusammenführen, (2) ihren "
+"Code etwas modifizieren und dann zusammenführen oder Sie bitten einige "
+"Verbessrungen zu machen bevor sie ihn zusammenführen.\r\n"
+"Wenn sie Änderungen vorschlagen, verbessern Sie ihren Code und fügen Sie in "
+"ihren Zweig ein. Dann kommentieren Sie auf ihren Vorschlag, dass sie die "
+"Veränderungen um die sie gebetet wurden durchgeführt haben.\r\n"
+"Warten Sie jetzt bis ein Entwickler ihre Veränderungen überprüft hat. Wenn "
+"er zusammengeführt wurde, dann bekommen Sie eine email, dass er "
+"zusammengeführt wurde."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('tips' field)
 #. .
@@ -342,6 +378,16 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:64
 msgid "first-branch-merged_tips"
 msgstr ""
+"Treten Sie einem IRC Kanal bei, der am besten für ihren Zweig an dem Sie "
+"arbeiten geeignet ist und reden Sie mit den Entwickler, sie helfen ihnen "
+"gerne weiter.\r\n"
+"Lesen Sie die Bazaar Dokumentation, damit sie damit vertraut werden.\r\n"
+"Scheuen Sie sich nicht davor Fragen zu stellen, wie alles funktioniert, wenn "
+"sie das erste mal einen Zweig zur Überprüfung stellen, jeder muss mal "
+"irgendwo anfangen!\r\n"
+"Viele Projekte haben Stilrichtlinien, die beschreiben, wie der Code "
+"geschrieben und formatiert werden soll. Versuche diesen Richtlinien zu "
+"folgen."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('pitfalls' field)
 #. .
@@ -355,6 +401,9 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:75
 msgid "first-branch-merged_pitfalls"
 msgstr ""
+"Falls ihr Entwicklungszweig nicht akzeptiert wird, seien sie nicht zu "
+"frustriert. Fragen sie den Entwickler wie sie ihn verbessern können, oftmals "
+"sind die nötigen Änderungen nur geringfügig."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('links' field)
 #. .
@@ -368,6 +417,12 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:86
 msgid "first-branch-merged_links"
 msgstr ""
+"International:\r\n"
+"https://help.launchpad.net/Code/Review\r\n"
+"http://wiki.bazaar.canonical.com/Tutorials\r\n"
+"\r\n"
+"Deutschsprachig:\r\n"
+"http://wiki.ubuntuusers.de/Bazaar"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('help' field)
 #. .
@@ -381,6 +436,8 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:97
 msgid "first-branch-merged_help"
 msgstr ""
+"International:\r\n"
+"#ubuntu-devel on Freenode"
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
@@ -447,8 +504,8 @@ msgstr ""
 "ubuntu-news-team@lists.ubuntu.com (keine Anmeldung nötig).  Weitere "
 "Informationen können Sie auf der Fridge Wiki Seite bekommen unter \"Editors "
 "Guidelines\".\r\n"
-"Schreibe Entwürfe für jede deiner Ideen.\r\n"
-"Schicke dein Inhalt an die Fridge Redaktion."
+"Schreiben Sie Entwürfe für jede Ihrer Ideen.\r\n"
+"Schicke Sie ihren Inhalt an die Fridge Redaktion."
 
 #. ACCOMPLISHMENT: Fridge Editor ('links' field)
 #. .
@@ -549,48 +606,50 @@ msgstr ""
 #: ../accomplishments/signed-code-of-conduct.c:49
 msgid "signed-code-of-conduct_steps"
 msgstr ""
-"Schaue dir die  <a "
+"Schauen Sie sich die  <a "
 "href=\"https://launchpad.net/codeofconduct\">Verhaltenskodex Seite</a> "
 "an.\r\n"
-"Erstelle zunächst einen PGP Schlüssel, füge ihn zum Ubuntu key-server hinzu "
-"und importiere ihn in Launchpad.\r\n"
-"Du kannst dies tun, in dem du <i>Passwörter und Verschlüsselung</i> "
-"aufrufst.\r\n"
-"Unter dem Menüpunkt Datei oben im Panel drückst du dann Neu … . Im nun "
-"geöffneten <i>Neu erstellen ...</i> wählst du den PGP-Schlüssel aus und "
-"drückst weiter. Fülle das aufgetauchte Formular aus.\r\n"
-"Nach dem erstellen des PGP-Schlüssels, drücke im Menüpunkt Entfernt "
-"<i>Schlüssel abgleichen und veröffentlichen</i>. Dort gehst du auf Schlüssel-"
-"Server und wählst unter <i>Schlüssel veröffentlichen auf</i> den "
-"keysever.ubuntu.com. Schließe das Fenster und  drücke danach auf "
+"Erstellen Sie zunächst einen PGP Schlüssel, füge ihn zum Ubuntu key-server "
+"hinzu und importieren Sie ihn in Launchpad.\r\n"
+"Sie können dies tun, in dem Sie <i>Passwörter und Verschlüsselung</i> "
+"aufrufen.\r\n"
+"Unter dem Menüpunkt Datei oben im Panel drücken Sie dann Neu … . Im nun "
+"geöffneten <i>Neu erstellen ...</i> wählen Sie den PGP-Schlüssel aus und "
+"drücken Sie weiter. Füllen Sie das aufgetauchte Formular aus.\r\n"
+"Nach dem erstellen des PGP-Schlüssels, drücken SIe im Menüpunkt Entfernt "
+"<i>Schlüssel abgleichen und veröffentlichen</i>. Dort gehen Sie auf "
+"Schlüssel-Server und wählen unter <i>Schlüssel veröffentlichen auf</i> den "
+"keysever.ubuntu.com. Schließen Sie das Fenster und  drücken Sie danach auf "
 "<i>Abgleichen</i>.\r\n"
-"Unter dem <i>Eigene Schlüssel<i> Tab findest du den neu erstellten PGP-"
-"Schlüssel. Wähle ihn aus und drücke die Leertaste um das "
+"Unter dem <i>Eigene Schlüssel<i> Tab finden Sie den neu erstellten PGP-"
+"Schlüssel. Wählen Sie ihn aus und drücken Sie die Leertaste um das "
 "<i>Eigenschaften</i> Menü zu öffnen oder durch Rechtsklick und dann auf "
-"Eigenschaften drücken. Im „Eigenschaften“ Fenster solltest du eine zehn "
+"Eigenschaften drücken. Im „Eigenschaften“ Fenster sollten Sie eine zehn "
 "stellige Nummer sehen, den <i>Fingerabdruck</i> oder "
 "<i>\"Fingerprint\"<i>.\r\n"
-"Öffne den „1. Register an OpenPGP key“ Link in Launchpad und gibt dort unter "
-"„Fingerprint“ die Zahl ein. (Es kann sein, dass du einige Minuten warten "
-"musst nach dem Abgleich, bis du ihn dort eingeben kannst).\r\n"
-"Du bekommst eine Email, die du mit OpenPGP entschlüsseln musst. Installiere "
-"dazu am besten die Thunderbird Erweiterung Enigmail, die du dir im  Software-"
-"Center holen kannst. Nachdem du die Email  in Thunderbird öffnest, fragt "
-"dich Enigmail nach deinem PGP Passwort um die Nachricht zu entschlüsselst. "
-"Nach der Eingabe siehst du einen Link, mit dem du den Schlüssel zu deinem "
-"Launchpad Account hinzufügen kannst.\r\n"
-"Lade dir den Ubuntu Verhaltenskodex runter, den du im Link im zweiten "
-"Schritt „2. Download the current Code of Conduct“ findest, öffne ihn und "
-"lese ihn dir durch. Du kannst auch eine deutsche Übersetzung <a href=\" "
-"http://wiki.ubuntuusers.de/Ubuntu/Code_of_Conduct\">hier</a> finden.\r\n"
-"Unterzeichne ihn indem du das Terminal öffnest und <tt>gpg --clearsign "
-"UbuntuCodeofConduct-*.txt</tt> eingibst. (Beachte, dass du zuerst in den "
-"richtigen Ordner gehen musst. z.B. wenn sich die Datei in Downloads "
-"befindet, zuerst cd ~/Downloads eingeben und Enter drücken.)\r\n"
-"Jetzt öffne die neu-erstellte .asc Datei in einem Text Editor.\r\n"
-"Auf der Ubuntu Verhaltenskodex Seite klicke auf <i>Sign it!</i> und dann "
-"kopiere den Inhalt der .asc Datei in die Textbox. Klicke auf "
-"<i>Continue</i>. Herzlichen Glückwunsch, du hast den Verhaltenskodex "
+"Öffnen Sie den „1. Register an OpenPGP key“ Link in Launchpad und geben Sie "
+"dort unter „Fingerprint“ die Zahl ein. (Es kann sein, dass Sie einige "
+"Minuten warten müssen nach dem Abgleich, bis Sie ihn dort eingeben "
+"können).\r\n"
+"Sie bekommen eine Email, die Sie mit OpenPGP entschlüsseln müssen. "
+"Installieren Sie dazu am besten die Thunderbird Erweiterung Enigmail, die "
+"Sie im  Software-Center holen können. Nachdem Sie die Email  in Thunderbird "
+"öffnen, fragt Enigmail Sie nach ihrem PGP Passwort um die Nachricht zu "
+"entschlüsseln. Nach der Eingabe sehen Sie einen Link, mit dem Sie den "
+"Schlüssel zu ihrem Launchpad Account hinzufügen können.\r\n"
+"Laden Sie den Ubuntu Verhaltenskodex runter, den Sie im Link im zweiten "
+"Schritt „2. Download the current Code of Conduct“ finden, öffnen Sie ihn und "
+"lese Sie ihn sich durch. Sie können auch eine deutsche Übersetzung <a "
+"href=\" http://wiki.ubuntuusers.de/Ubuntu/Code_of_Conduct\">hier</a> "
+"finden.\r\n"
+"Unterzeichnen Sie ihn indem Sie das Terminal öffnen und <tt>gpg --clearsign "
+"UbuntuCodeofConduct-*.txt</tt> eingeben (Beachte Sie, dass Sie zuerst in den "
+"richtigen Ordner gehen müssen. z.B. wenn sich die Datei in Downloads "
+"befindet, müssen Sie zuerst cd ~/Downloads eingeben und Enter drücken.)\r\n"
+"Jetzt öffnen Sie die neu-erstellte .asc Datei in einem Text Editor.\r\n"
+"Auf der Ubuntu Verhaltenskodex Seite klicken Sie auf <i>Sign it!</i> und "
+"dann kopieren Sie den Inhalt der .asc Datei in die Textbox. Klicken Sie auf "
+"<i>Continue</i>. Herzlichen Glückwunsch, SIe haben den Verhaltenskodex "
 "unterzeichnet!"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
@@ -651,7 +710,7 @@ msgstr "Gemeinderatmitglied"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/community-council-member.c:20
 msgid "community-council-member_description"
-msgstr "Du bist ein Mitglied der Gemeinderates"
+msgstr "Sie sind ein Mitglied der Gemeinderates"
 
 #. ACCOMPLISHMENT: Community Council Member ('summary' field)
 #. .
@@ -691,16 +750,16 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:46
 msgid "community-council-member_steps"
 msgstr ""
-"Werde Ubuntu Mitglied. Demonstriere eine effektive und umfangreiche "
-"Beteiligung an Ubuntu über einen längeren Zeitraum. Es gibt keine "
-"vorgeschriebene Zeit, aber der Zeitraum sollte lang genug sein um dein "
+"Werden Sie Ubuntu Mitglied. Demonstrieren Sie eine effektive und "
+"umfangreiche Beteiligung an Ubuntu über einen längeren Zeitraum. Es gibt "
+"keine vorgeschriebene Zeit, aber der Zeitraum sollte lang genug sein um ihr "
 "Engagement in dem Projekt demonstrieren zu können.\r\n"
-"Ändere die Wiki Seite, die erschaffen wurde um Ubuntu Mitglied zu werden, "
-"die du normalerweise unter <tt>wiki.ubuntu.com</tt> findest, welche aktuell "
-"ist und deine Beteiligung zeigt. Füge dieser Wiki Seite deinen bisherigen "
-"Beitrag, welchen Teams du beigetreten bist und eine Zusammenfassung deiner "
-"Bemühungen hinzu.\r\n"
-"Wenn die nächste Gemeinderatwahl angekündigt wird, nominiere dich als "
+"Ändern Sie die Wiki Seite, die erschaffen wurde um Ubuntu Mitglied zu "
+"werden, die SIe normalerweise unter <tt>wiki.ubuntu.com</tt> finden, welche "
+"aktuell ist und ihre Beteiligung zeigt. Fügen Sie dieser Wiki Seite ihren "
+"bisherigen Beitrag, welchen Teams Sie beigetreten sind und eine "
+"Zusammenfassung ihrer Bemühungen hinzu.\r\n"
+"Wenn die nächste Gemeinderatwahl angekündigt wird, nominieren Sie sich als "
 "Kandidat. Mark Shuttleworth, der Gründer von Ubuntu, auch als sabdfl (\"self-"
 "appointed benevolent dictator for life\" = selbst ernannter wohlwollender "
 "Diktator fürs Leben) bekannt, wählt die Kandidaten aus der Liste der "
@@ -721,14 +780,14 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:59
 msgid "community-council-member_tips"
 msgstr ""
-"Konzentriere dich auf deine Führungsqualitäten. Der Gemeinderat ist eine "
+"Konzentrieren Sie sich auf ihre Führungsqualitäten. Der Gemeinderat ist eine "
 "wichtige Führungsposition und wir suchen starke, kompetente und "
 "selbstbewusste Anführer.\r\n"
-"Du solltest am besten schon einmal ein anderes Team angeführt haben um deine "
-"Führungsqualitäten zu entwickeln und zu demonstrieren bevor du dich um eine "
-"Position im Gemeinderat bewirbst.\r\n"
-"Bewerb dich nur im Gemeinderat, wenn du genug signifikante Erfahrung mit der "
-"Gemeinschaft hast."
+"SIe sollten am besten schon einmal ein anderes Team angeführt haben um ihre "
+"Führungsqualitäten zu entwickeln und zu demonstrieren bevor Sie sich um eine "
+"Position im Gemeinderat bewerben.\r\n"
+"Bewerben SIe sich nur im Gemeinderat, wenn Sie genug signifikante Erfahrung "
+"mit der Gemeinschaft haben."
 
 #. ACCOMPLISHMENT: Community Council Member ('pitfalls' field)
 #. .
@@ -743,11 +802,11 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:71
 msgid "community-council-member_pitfalls"
 msgstr ""
-"Bewerbe dich nicht um eine Position im Gemeinderat nur um an Macht zu "
+"Bewerben Sie sich nicht um eine Position im Gemeinderat nur um an Macht zu "
 "kommen.\r\n"
-"Versuche nicht mehr als in einem Rat zu sein (z.B. Gemeinderat, Technischer "
-"Vorstand (\"Technical Board\")) zur gleichen Zeit. Tritt einem bei und widme "
-"dich ihm ganz."
+"Versuchen Sie nicht mehr als in einem Rat zu sein (z.B. Gemeinderat, "
+"Technischer Vorstand (\"Technical Board\")) zur gleichen Zeit. Treten SIe "
+"einem bei und widmen Sie sich ihm ganz."
 
 #. ACCOMPLISHMENT: Community Council Member ('links' field)
 #. .
@@ -803,7 +862,7 @@ msgstr "Ubuntu MOTU Entwickler"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/motu.c:20
 msgid "motu_description"
-msgstr "Du bist ein Ubuntu MOTU Entwickler"
+msgstr "Sie sind ein Ubuntu MOTU Entwickler"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('summary' field)
 #. .
@@ -835,10 +894,12 @@ msgstr ""
 #: ../accomplishments/motu.c:44
 msgid "motu_steps"
 msgstr ""
-"Leiste Ubuntu einen umfrangreichen Beitrag über einen längeren Zeitraum.\r\n"
-"Reihe dich in der Ubuntu Sponsorship Warteschlange (\"Ubuntu Sponsorship "
+"Leisten Sie Ubuntu einen umfrangreichen Beitrag über einen längeren "
+"Zeitraum.\r\n"
+"Reihen Sich in in der Ubuntu Sponsorship Warteschlange (\"Ubuntu Sponsorship "
 "Queue\") ein um beizutragen.\r\n"
-"Bewerbe dich beim Ubuntu Entwickler Rat um ein MOTU Entwickler zu werden."
+"Bewerben Sie sich beim Ubuntu Entwickler Rat um ein MOTU Entwickler zu "
+"werden."
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
 #. .
@@ -895,7 +956,7 @@ msgstr "LoCo Gemeinderat Mitglied"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/loco-council-member.c:20
 msgid "loco-council-member_description"
-msgstr "Du bist Mitglied des LoCo Gemeinderates"
+msgstr "Sie sind Mitglied des LoCo Gemeinderates"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 #. .
@@ -916,7 +977,7 @@ msgstr ""
 "Das LoCo Council berät und bestimmt die LoCo Politik und den Progress. Das "
 "LoCo Council hilft darüber hinaus auch Probleme in LoCo Teams zu lösen, bei "
 "welchen eine interne Lösung nicht möglich war.\r\n"
-"Um Mitglied des LoCo Council zu werden solltest du ein starkes Engagement, "
+"Um Mitglied des LoCo Council zu werden sollten Sie ein starkes Engagement, "
 "Beteiligung in der Geschichte Ubuntus und klare Führungsfertigkeiten "
 "vorweisen, und die Zeit und Möglichkeit haben sich den Bedürfnissen des "
 "Rates zu verpflichten . Ein gutes Mitglied des LoCo Council wird die "
@@ -938,15 +999,15 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:46
 msgid "loco-council-member_steps"
 msgstr ""
-"Fange an zu deinem lokalen Community Team durch das Planen von "
-"Veranstaltungen beizutragen, und trage dann bei den LoCo Teams auf einem "
+"Fangen Sie an zu ihrem lokalen Community Team durch das Planen von "
+"Veranstaltungen beizutragen und tragen Sie dann bei den LoCo Teams auf einem "
 "globalem Maßstab bei. Die Beiträge sollten intensiv über einen längeren "
 "Zeitraum erfolgen. Es gibt keinen festgelegten Zeitraum, aber er sollte lang "
-"genug sein deinen Einsatz für Ubuntu zu erkennen.\r\n"
-"Erstelle eine Seite auf <tt>wiki.ubuntu.com</tt>, der deine Beiträge "
-"auflistet. Füge auf der Wiki-Seite deine Beiträge ein, in welchen Teams du "
-"bist und fasse deine Bemühungen zusammen.\r\n"
-"Nominiere dich für die nächste LoCo Council Wahl als Kandidat."
+"genug sein ihren Einsatz für Ubuntu zu erkennen.\r\n"
+"Erstellen Sie eine Seite auf <tt>wiki.ubuntu.com</tt>, der ihre Beiträge "
+"auflistet. Fügen Sie auf der Wiki-Seite ihre Beiträge ein, in welchen Teams "
+"sie sind und fassen Sie ihre Bemühungen zusammen.\r\n"
+"Nominieren Sie sich für die nächste LoCo Council Wahl als Kandidat."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
 #. .
@@ -962,14 +1023,14 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:59
 msgid "loco-council-member_tips"
 msgstr ""
-"Fokussiere dich auf deine Führungsfertigkeiten. Das LoCo Council ist eine "
-"wichtige Führungsposition und wir suchen nachen starken, fähigen und "
+"Fokussieren Sie sich auf ihre Führungsfertigkeiten. Das LoCo Council ist "
+"eine wichtige Führungsposition und wir suchen nachen starken, fähigen und "
 "zuversichtlichen Führungspersonen.\r\n"
-"Du solltest ein LoCo Team bereits geführt haben um deine "
-"Führungsfertigkeiten zu entwickeln und zu demonstrieren bevor du dich für "
-"das  LoCo Council bewirbst.\r\n"
-"Bewerbe dich ausschließlich beim LoCo Council, wenn du eine signifikante "
-"Menge an Erfahrung aus der LoCo Gemeinschaft mitbringst."
+"Sie sollten ein LoCo Team bereits geführt haben um ihre Führungsfertigkeiten "
+"zu entwickeln und zu demonstrieren bevor Sie sich für das  LoCo Council "
+"bewirbst.\r\n"
+"Bewerben Sie sich ausschließlich beim LoCo Council, wenn Sie eine "
+"signifikante Menge an Erfahrung aus der LoCo Gemeinschaft mitbringen."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
 #. .
@@ -984,11 +1045,11 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:71
 msgid "loco-council-member_pitfalls"
 msgstr ""
-"Bewerbe dich nicht bei dem LoCo Council ausschließlich um eine Machtposition "
-"zu ergattern.\r\n"
-"Versuche nicht bei mehr als einem Council (z.B LoCo Council, Community "
-"Council) zur selben Zeit zu sein. Trete einem bei und gib ihm deine volle "
-"Aufmerksamkeit."
+"Bewerben SIe sich nicht bei dem LoCo Council ausschließlich um eine "
+"Machtposition zu ergattern.\r\n"
+"Versuchen Sie nicht bei mehr als einem Council (z.B LoCo Council, Community "
+"Council) zur selben Zeit zu sein. Treten Sie einem bei und geben SIe ihm "
+"ihre volle Aufmerksamkeit."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
@@ -1086,18 +1147,18 @@ msgstr ""
 #: ../accomplishments/ubuntu-member.c:47
 msgid "ubuntu-member_steps"
 msgstr ""
-"Trage intensiv über einen längeren Zeitraum zu Ubuntu bei. Es gibt keinen "
-"festgelegten Zeitraum, aber er sollte lang genug sein deinen Einsatz für "
-"Ubuntu zu erkennen.\r\n"
-"Erstelle eine Seite auf <tt>wiki.ubuntu.com</tt>, der deine Beiträge "
-"auflistet. Füge auf der Wiki Seite deine , in welchen Teams du bist und "
-"fasse deine Bemühungen zusammen.\r\n"
-"Frage deine Kollegen Zeugnisse deiner Beiträge beizutragen.\r\n"
-"Plane dich sich selber für eine Überprüfung bei einem regionalen "
+"Tragen Sie intensiv über einen längeren Zeitraum zu Ubuntu bei. Es gibt "
+"keinen festgelegten Zeitraum, aber er sollte lang genug sein um ihren "
+"Einsatz für Ubuntu zu erkennen.\r\n"
+"Erstellen Sie eine Seite auf <tt>wiki.ubuntu.com</tt>, der ihre Beiträge "
+"auflistet. Fügen Sie auf der Wiki Seite ihre Beiträge ein, in welchen Teams "
+"Sie sind und fasse Sie ihre Bemühungen zusammen.\r\n"
+"Fragen Sie einen Kollegen Zeugnisse deiner Beiträge beizutragen.\r\n"
+"Plane Sie sich selber für eine Überprüfung bei einem regionalen "
 "Mitgliedschafts Vorstand (\"regional membership board\") , IRC Rat (\"IRC "
 "Council\"), Foren Rat (\"Forums Council\"), oder Entwickler Mitgliedschaft "
-"Vorstand (\"developer membership board\") Treffen ein um deine Beiträge "
-"überprüfen zu lassen. Du kannst das dir am nähsten liegende Board mittels "
+"Vorstand (\"developer membership board\") Treffen ein um ihre Beiträge "
+"überprüfen zu lassen. Sie können das ihnen am nähsten liegende Board mittels "
 "der unteren Links herausfinden."
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
@@ -1191,14 +1252,14 @@ msgstr ""
 #: ../accomplishments/technical-board-member.c:45
 msgid "technical-board-member_steps"
 msgstr ""
-"Trage intensiv für einen längeren Zeitraum zu Ubuntu bei. Es gibt keine "
-"festgelegten Zeitraum, aber er sollte lang genug sein um deinen Einsatz für "
+"Tragen Sie intensiv für einen längeren Zeitraum zu Ubuntu bei. Es gibt keine "
+"festgelegten Zeitraum, aber er sollte lang genug sein um ihren Einsatz für "
 "das Projekt zu erkennen.\r\n"
-"Erstelle eine Seite auf <tt>wiki.ubuntu.com</tt>, der deine Beiträge "
-"auflistet. Füge auf der Wiki-Seite deine Beiträge ein, beschreibe die Teams "
-"in dehnen du bist, und fasse deine Bemühungen zusammen.\r\n"
-"Schlage dich in der nächsten Auswahl des Technischen Vorstands als Kandidat "
-"vor."
+"Erstellen Sie eine Seite auf <tt>wiki.ubuntu.com</tt>, der ihre Beiträge "
+"auflistet. Fügen Sie auf der Wiki-Seite ihre Beiträge ein, in welchen Teams "
+"Sie sind und fassen Sie ihre Bemühungen zusammen.\r\n"
+"Schlagen Sie sich in der nächsten Auswahl des Technischen Vorstands als "
+"Kandidat vor."
 
 #. ACCOMPLISHMENT: Technical Board Member ('links' field)
 #. .
@@ -1254,7 +1315,7 @@ msgstr "Juju Charm Beiträger"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
 msgid "juju-charm-contributor_description"
-msgstr "Du trägst Juju Charms für Ubuntu bei."
+msgstr "Sie tragen Juju Charms für Ubuntu bei."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
 #. .
@@ -1286,9 +1347,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:44
 msgid "juju-charm-contributor_steps"
 msgstr ""
-"Trage einige Juju Charms bei.\r\n"
-"Trage regelmäßig und zu einer ausreichend hohen Qualität bei.\r\n"
-"Frage ein Mitglied des Juju Beiträger Teams, ob du beitreten darfst."
+"Tragen Sie einige Juju Charms bei.\r\n"
+"Tragen Sie regelmäßig und zu einer ausreichend hohen Qualität bei.\r\n"
+"Fragen Sie ein Mitglied des Juju Beiträger Teams, ob Sie beitreten dürfen."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
 #. .
@@ -1329,7 +1390,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/user-has-mugshot.c:11
 msgid "user-has-mugshot_title"
-msgstr "Ein (\"Mugshot\") Bild in deinem Launchpad-Profil einrichten"
+msgstr "Ein (\"Mugshot\") Bild in ihrem Launchpad-Profil einrichten"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
 #. .
@@ -1359,14 +1420,14 @@ msgstr ""
 msgid "user-has-mugshot_summary"
 msgstr ""
 "Ein Mugshot ist ein Profilbild, dass der Benutzer in seinem Launchpad Profil "
-"festlegen kann. Es ist schön, wenn dich Leute allein anhand deines "
+"festlegen kann. Es ist schön, wenn  Leute Sie allein anhand ihres "
 "Profilbildes erkennen können.\r\n"
-"Wir empfehlen ein echtes Bild von dir zu nehmen (normalerweise nur den Kopf "
-"darstellend) oder eines anderen Avatars, den du wirklich magst. Bitte "
-"versuche Bilder mit Inhalt, der andere beleidigen könnte zu vermeiden "
-"(beispielsweise Inhalt für Erwachsene).\r\n"
-"Das Bild muss genau <strong>192x192</strong> messen und nicht größer als "
-"<strong>100 Kb</strong> sein."
+"Wir empfehlen ein echtes Bild von ihnen zu nehmen (normalerweise nur den "
+"Kopf darstellend) oder eines anderen Avatars, den Sie wirklich mögen. Bitte "
+"versuchen Sie Bilder mit Inhalt, der andere beleidigen könnte, zu vermeiden "
+"(beispielsweise Inhalte für Erwachsene).\r\n"
+"Das Bild muss genau <strong>192x192</strong> messen und darf nicht größer "
+"als <strong>100 Kb</strong> sein."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
 #. .
@@ -1386,13 +1447,13 @@ msgstr ""
 msgid "user-has-mugshot_steps"
 msgstr ""
 "Es ist sehr einfach ein Mugshot aufzusetzen.\r\n"
-"Du musst auf der Launchpad.net Webseite eingeloggt sein.\r\n"
-"Dann brauchst du auf die Seite deines Profiles zu gehen, welches "
-"üblicherweise http://launchpad.net/~DEINNUTZERNAME ist.\r\n"
-"Klicke auf den Link \"Change details\".\r\n"
-"Stelle sicher ein 192x192 großes Bild zum Hochladen parat zu haben (.png "
-"oder .jpg sind ok).\r\n"
-"Wenn das Bild hochgeladen ist, wähle den Knopf \"Save changes\" am "
+"Sie müssen auf der Launchpad.net Webseite eingeloggt sein.\r\n"
+"Dann brauchen Sie auf die Seite ihre Profiles zu gehen, welches "
+"üblicherweise http://launchpad.net/~IHRNUTZERNAME ist.\r\n"
+"Klicken Sie auf den Link \"Change details\".\r\n"
+"Stellen Sie sicher ein 192x192 großes Bild zum Hochladen parat zu haben "
+"(.png oder .jpg sind ok).\r\n"
+"Wenn das Bild hochgeladen ist, wählen Sie den Knopf \"Save changes\" am "
 "Seitenende."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
@@ -1481,10 +1542,10 @@ msgstr ""
 #: ../accomplishments/registered-on-launchpad.c:45
 msgid "registered-on-launchpad_steps"
 msgstr ""
-"Öffne einen Webbrowser auf deinem Computer.\r\n"
-"Gehe in deinem Webbrowser auf <tt>http://www.launchpad.net</tt>.\r\n"
-"Klicke auf den Link <i>Register</i> in der oberen linken Ecke des "
-"Bildschirmes um dich zu registrieren."
+"Öffnen Sie einen Webbrowser auf ihrem Computer.\r\n"
+"Gehen Sie in ihrem Webbrowser auf <tt>http://www.launchpad.net</tt>.\r\n"
+"Klicken Sie auf den Link <i>Register</i> in der oberen linken Ecke des "
+"Bildschirmes um sich zu registrieren."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('links' field)
 #. .
@@ -1527,7 +1588,7 @@ msgstr "#launchpad auf Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-bug-confirmed.c:11
 msgid "first-bug-confirmed_title"
-msgstr "Melde einen Bug, der bestätigt wurde"
+msgstr "Melden Sie einen Bug, der bestätigt wurde"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
 #. .
@@ -1539,7 +1600,8 @@ msgstr "Melde einen Bug, der bestätigt wurde"
 #: ../accomplishments/first-bug-confirmed.c:20
 msgid "first-bug-confirmed_description"
 msgstr ""
-"Hat einen Bug in Ubuntu gemeldet, der von jemand anderem bestätigt wurde."
+"Sie haben einen Bug in Ubuntu gemeldet, der von jemand anderem bestätigt "
+"wurde."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('summary' field)
 #. .
@@ -1557,9 +1619,9 @@ msgstr ""
 "großartiger Weg Ubuntu zu verbessern und im Falle, dass der Bug behoben "
 "(\"gefixt\") werden soll, sollte jemand anders in der Lage sein diesen "
 "Fehler nachzuproduzieren und ihn zu bestätigen. Je präziser und detailierter "
-"dein Fehlerbericht (\"bug report\") ist, umso wahrscheinlicher ist die "
+"ihr Fehlerbericht (\"bug report\") ist, umso wahrscheinlicher ist die "
 "Chance, dass er von jemand anderem nachproduziert werden kann. Diese "
-"Errungenschaft reflektiert, dass mindestens einer deiner Fehlerberichte in "
+"Errungenschaft reflektiert das mindestens einer ihrer Fehlerberichte in "
 "einem so guten Zustand ist, dass er von jemand anderem bestätigt wurde."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
@@ -1579,25 +1641,26 @@ msgstr ""
 #: ../accomplishments/first-bug-confirmed.c:47
 msgid "first-bug-confirmed_steps"
 msgstr ""
-"Melde einen Bug, so wie du es normalerweise tun würdest (siehe die „Ersten "
-"Bug Melden“ Errungenschaft) und stell sicher, dass deine Beschreibung "
-"detailliert genug ist, damit andere es reproduzieren können. Um eine gute "
-"Bug Meldung zu schreiben, vergiss nicht folgendes mit einzubeziehen:  Eine "
-"klare, knappe und präzise Beschreibung des Problems. Vergiss nicht zu "
-"erwähnen, ob ein Bug jedes mal ausgelöst werden kann oder nur sporadisch.  "
-"Eine Liste von Schritten um das Problem zu reproduzieren. Stell sicher, dass "
-"sie detailliert sind. Z.B. wenn ein Schritt beinhaltet ein Menü Eintrag "
-"auszuwählen, dann schreibe konkret hin wie, ob mit Maus oder mit einem "
-"Tastenkürzel, da es ein Unterschied machen kann.  Eine Beschreibung was "
-"schief läuft, wenn man den Schritten folgt.  Eine Beschreibung was du "
-"stattdessen erwartet hast, wie sich das Programm sich hätte verhalten soll. "
-"Dies ist ein wichtiger Teil der Beschreibung: manchmal ist das gemeldete "
-"Verhalten des Programms so, wie sich der Entwickler es sich vorgestellt hat, "
-"eventuell weil ihm nicht bewusst war, dass es Probleme bereiten könnte. "
-"Somit ist die Beschreibung was man selber erwartet hat ein wichtiger "
-"Bestandteil der Meldung.  Jegliche zusätzliche Information, die helfen "
-"könnte das Problem zu diagnostizieren. Zum Beispiel, wenn das Programm lief, "
-"aber dann aufgehört hat zu arbeiten, schreibe wann."
+"Melden Sie einen Bug, so wie Sie es normalerweise tun würden (siehe die "
+"„Ersten Bug Melden“ Errungenschaft) und stellen Sie sicher, dass ihre "
+"Beschreibung detailliert genug ist, damit andere es reproduzieren können. Um "
+"eine gute Bug Meldung zu schreiben, vergessen Sie nicht folgendes mit "
+"einzubeziehen:  Eine klare, knappe und präzise Beschreibung des Problems. "
+"Vergessen Sie nicht zu erwähnen, ob ein Bug jedes mal ausgelöst werden kann "
+"oder nur sporadisch.  Eine Liste von Schritten um das Problem zu "
+"reproduzieren. Stellen Sie sicher, dass sie detailliert sind. Z.B. wenn ein "
+"Schritt beinhaltet ein Menü Eintrag auszuwählen, dann schreiben Sie konkret "
+"hin wie, ob mit Maus oder mit einem Tastenkürzel, da es ein Unterschied "
+"machen kann.  Eine Beschreibung was schief läuft, wenn man den Schritten "
+"folgt.  Eine Beschreibung was Sie stattdessen erwartet haben, wie sich das "
+"Programm sich hätte verhalten soll. Dies ist ein wichtiger Teil der "
+"Beschreibung: manchmal ist das gemeldete Verhalten des Programms so, wie "
+"sich der Entwickler es sich vorgestellt hat, eventuell weil ihm nicht "
+"bewusst war, dass es Probleme bereiten könnte. Somit ist die Beschreibung "
+"was man selber erwartet hat ein wichtiger Bestandteil der Meldung.  Jegliche "
+"zusätzliche Information, die helfen könnte das Problem zu diagnostizieren. "
+"Zum Beispiel, wenn das Programm lief, aber dann aufgehört hat zu arbeiten, "
+"schreiben Sie wann."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
 #. .
@@ -1657,7 +1720,7 @@ msgstr "Juju Charm Gutachter"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
 msgid "juju-charm-reviewer_description"
-msgstr "Du trägst Juju Charms zu Ubuntu bei."
+msgstr "Sie tragen Juju Charms zu Ubuntu bei."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
 #. .
@@ -1690,9 +1753,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-reviewer.c:44
 msgid "juju-charm-reviewer_steps"
 msgstr ""
-"Trage zu einer signifikanten Anzahl Juju Charms bei.\r\n"
-"Trage regelmäßig und zu einer ausreichend hohen Qualität bei.\r\n"
-"Frage ein Mitglied des Juju Beiträger Teams, ob du beitreten darfst."
+"Tragen SIe zu einer signifikanten Anzahl Juju Charms bei.\r\n"
+"Tragen Sie regelmäßig und zu einer ausreichend hohen Qualität bei.\r\n"
+"Fragen Sie ein Mitglied des Juju Beiträger Teams, ob Sie beitreten dürfen."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 #. .
@@ -1744,7 +1807,7 @@ msgstr "Ubuntu Kern-Entwickler"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/core-dev.c:20
 msgid "core-dev_description"
-msgstr "Du bist ein Ubuntu Kern-Entwickler"
+msgstr "Sie sind ein Ubuntu Kern-Entwickler"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('summary' field)
 #. .
@@ -1778,11 +1841,11 @@ msgstr ""
 #: ../accomplishments/core-dev.c:44
 msgid "core-dev_steps"
 msgstr ""
-"Trage über eine längeren Zeitraum intensiv zu Ubuntu bei.\r\n"
-"Reihe dich in der Ubuntu Sponsorship Warteschlange (\"Ubuntu Sponsorship "
-"Queue\") ein um beizutragen.\r\n"
-"Bewerbe dich beim Ubuntu Entwickler Vorstand (\"Ubuntu Developer Board\") um "
-"ein Kern-Entwickler zu werden."
+"Tragen Sie über eine längeren Zeitraum intensiv zu Ubuntu bei.\r\n"
+"Reihen Sie sich in der Ubuntu Sponsorship Warteschlange (\"Ubuntu "
+"Sponsorship Queue\") ein um beizutragen.\r\n"
+"Bewerbe Sie sich beim Ubuntu Entwickler Vorstand (\"Ubuntu Developer "
+"Board\") um ein Kern-Entwickler zu werden."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('links' field)
 #. .
