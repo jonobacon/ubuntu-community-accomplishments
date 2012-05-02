@@ -1,3 +1,6 @@
+#!/usr/bin/python
+import traceback, sys
+
 import datetime
 import urllib
 try:
