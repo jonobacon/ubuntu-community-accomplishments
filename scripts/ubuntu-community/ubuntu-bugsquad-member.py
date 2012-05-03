@@ -23,15 +23,15 @@ try:
         sys.exit(1)
     else:
         user = me.name
-        teams = [team.name for team in lp.people['forum-council'].sub_teams]
+        teams = [team.name for team in lp.people['ubuntu-bugcontrol'].sub_teams]
         if teams == []:
-            teams.append(lp.people['forum-council'].name)
+            teams.append(lp.people['ubuntu-bugcontrol'].name)
         try:
             memberships = [
                 membership for membership in
                 lp.people[user].memberships_details
                 if membership.team_link.rsplit('~', 1)[-1] in
-                    ['forum-council'] + teams]
+                    ['ubuntu-bugcontrol'] + teams]
         except KeyError:
             memberships = []
         if memberships:

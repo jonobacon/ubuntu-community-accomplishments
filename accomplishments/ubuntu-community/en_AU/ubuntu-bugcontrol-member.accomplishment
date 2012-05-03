@@ -1,0 +1,20 @@
+[accomplishment]
+title = Bug Control Member
+description = You are an expert triager and a member of Ubuntu Bug Control
+application = ubuntu-community
+category = QA
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/bugsquad-member
+summary = The Ubuntu Bug Control team (ubuntu-bugcontrol in Launchpad) is a subset of the Ubuntu Bug Squad who can change the importance of Ubuntu bug tasks, set the status of an Ubuntu bug task to "Triaged" or "Won't Fix" and nominate a bug for a release of Ubuntu. You do this when you are triaging bug reports.  Bug Control consists of <b>expert triagers</b> who are experienced triagers, and know the triage process in Ubuntu.
+steps = Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code of Conduct</a>
+	Complete all the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Generic-reqs">generic requirements</a> for joining Bug Control.
+	Improve some bug reports and keep a short list (at least 5) of your best ones.
+	Follow the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Application">instructions for applying</a> for Ubuntu Bug Control.
+tips = Be sure to <a href="http://wiki.ubuntu.com/UbuntuBugControl#Requirements_for_joining">read all the requirements for joining</a> Bug Control before applying.
+	Please <a href="http://wiki.ubuntu.com/UbuntuBugControl#Application">follow the directions for applying</a> before emailing in your application.
+pitfalls = Include your best work when applying, and make sure that all the work shows a wide range of triaging activities.
+	You should probably be a Bug Squad member for at least a few months before applying to Bug Control.
+help = #ubuntu-bugs on Freenode
+
