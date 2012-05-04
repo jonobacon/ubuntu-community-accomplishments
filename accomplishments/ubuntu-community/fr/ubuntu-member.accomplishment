@@ -6,6 +6,7 @@ category = General
 needs-signing = true
 needs-information = launchpad-email
 icon = default.png
+depends = ubuntu-community/registered-on-launchpad
 summary = An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu.
 	Each Ubuntu Member is seen as a reliable and dependable contributor to Ubuntu who has contributed to further and improve Ubuntu.
 	Importantly, Ubuntu Membership does not require any specific skill; great contributions in development, documentation, translations, advocacy, support, art, design, and many other areas are all worthy of membership.
