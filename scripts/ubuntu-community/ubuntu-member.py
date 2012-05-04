@@ -1,13 +1,9 @@
 #!/usr/bin/python
 import traceback, sys
-
 from accomplishments.daemon import dbusapi
-
+from launchpadlib.launchpad import Launchpad
 
 try:
-    import sys, os, pwd, subprocess
-    from launchpadlib.launchpad import Launchpad
-
     api = dbusapi.Accomplishments()
     f = api.get_extra_information("ubuntu-community", "launchpad-email")
     if bool(f[0]["launchpad-email"]) == False:
