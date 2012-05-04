@@ -4,6 +4,7 @@ description=You are an Approved Ubuntu Member
 application=ubuntu-community
 category=General
 needs-signing=true
+depends=ubuntu-community/registered-on-launchpad
 icon=default.png
 needs-information=launchpad-email
 summary = An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu.
