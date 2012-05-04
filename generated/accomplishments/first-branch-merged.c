@@ -22,7 +22,7 @@ _("first-branch-merged_description")
 // .
 // ENGLISH TRANSLATION:
 // A core part of Launchpad is the ability to host different branches of code (using the Bazaar version control system) and for other people to propose improvements and changes to those branches.
-// What commonly happens here is that you <i>branch</i> the code from launchpad (for example, running <tt>bzr branch lp:the-project</tt>) and this downloads the current main branch to your computer. You then work on improvements to that branch and commit your changes using <tt>bzr commit</tt>. You then uplod your changes to Launchpad using <tt>bzr push</tt> so others can see your work.
+// What commonly happens here is that you <i>branch</i> the code from launchpad (for example, running <tt>bzr branch lp:the-project</tt>) and this downloads the current main branch to your computer. You then work on improvements to that branch and commit your changes using <tt>bzr commit</tt>. You then upload your changes to Launchpad using <tt>bzr push</tt> so others can see your work.
 // You can now propose that your branch is merged into another branch. This means that the owner of the original branch that you improved will contribute your improvements to it, this merging in your work.
 // This trophy is awarded when you have successfully had one of your branches merged into another branch.
 
