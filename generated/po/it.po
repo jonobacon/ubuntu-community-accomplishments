@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 08:57-0700\n"
-"PO-Revision-Date: 2012-04-11 17:19+0000\n"
+"PO-Revision-Date: 2012-05-05 14:48+0000\n"
 "Last-Translator: Nicola Jelmorini <Unknown>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-05-06 05:12+0000\n"
 "X-Generator: Launchpad (build 15195)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -266,7 +266,7 @@ msgstr "#ubuntu-testing on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-branch-merged.c:11
 msgid "first-branch-merged_title"
-msgstr ""
+msgstr "Primo ramo di Bazaar unito"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
 #. .
@@ -277,7 +277,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-branch-merged.c:20
 msgid "first-branch-merged_description"
-msgstr ""
+msgstr "Hai contribuito con del codice ad un progetto in Launchpad"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
 #. .
@@ -341,6 +341,9 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:75
 msgid "first-branch-merged_pitfalls"
 msgstr ""
+"Se il tuo ramo non è accettato, non essere troppo frustrato. Chiedi allo "
+"sviluppatore come puoi migliorarlo; spesso le modifiche richieste sono "
+"abbastanza piccole."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('links' field)
 #. .
@@ -354,6 +357,8 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:86
 msgid "first-branch-merged_links"
 msgstr ""
+"https://help.launchpad.net/Code/Review \r\n"
+"http://wiki.bazaar.canonical.com/Tutorials"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('help' field)
 #. .
@@ -366,7 +371,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-branch-merged.c:97
 msgid "first-branch-merged_help"
-msgstr ""
+msgstr "#ubuntu-devel on Freenode"
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
@@ -480,7 +485,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/bugsquad-member.c:11
 msgid "bugsquad-member_title"
-msgstr ""
+msgstr "Membro della squadra bug"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('description' field)
 #. .
@@ -491,7 +496,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/bugsquad-member.c:20
 msgid "bugsquad-member_description"
-msgstr ""
+msgstr "Sei un membro della squadra bug di Ubuntu"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('summary' field)
 #. .
@@ -535,6 +540,8 @@ msgstr ""
 #: ../accomplishments/bugsquad-member.c:57
 msgid "bugsquad-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/BugSquad\r\n"
+"http://wiki.ubuntu.com/HelpingWithBugs"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('help' field)
 #. .
@@ -547,7 +554,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/bugsquad-member.c:68
 msgid "bugsquad-member_help"
-msgstr ""
+msgstr "#ubuntu-bugs on Freenode"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
 #. .
@@ -815,7 +822,7 @@ msgstr "#ubuntu-community-team on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-bugcontrol-member.c:11
 msgid "ubuntu-bugcontrol-member_title"
-msgstr ""
+msgstr "Membro del controllo dei bug"
 
 #. ACCOMPLISHMENT: Bug Control Member ('description' field)
 #. .
@@ -826,7 +833,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-bugcontrol-member.c:20
 msgid "ubuntu-bugcontrol-member_description"
-msgstr ""
+msgstr "Sei un triager esperto e un membro del controllo bug di Ubuntu"
 
 #. ACCOMPLISHMENT: Bug Control Member ('summary' field)
 #. .
@@ -895,7 +902,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-bugcontrol-member.c:79
 msgid "ubuntu-bugcontrol-member_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/UbuntuBugControl"
 
 #. ACCOMPLISHMENT: Bug Control Member ('help' field)
 #. .
@@ -908,7 +915,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-bugcontrol-member.c:90
 msgid "ubuntu-bugcontrol-member_help"
-msgstr ""
+msgstr "#ubuntu-bugs on Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 #. .
@@ -1259,7 +1266,7 @@ msgstr "#ubuntu-community-team on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/forum-council-member.c:11
 msgid "forum-council-member_title"
-msgstr ""
+msgstr "Membro del consiglio dei forum di Ubuntu"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('description' field)
 #. .
@@ -1270,7 +1277,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/forum-council-member.c:20
 msgid "forum-council-member_description"
-msgstr ""
+msgstr "Sei un membro del consiglio dei forum di Ubuntu"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('summary' field)
 #. .
@@ -1327,6 +1334,9 @@ msgstr ""
 #: ../accomplishments/forum-council-member.c:68
 msgid "forum-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/ForumCouncil\r\n"
+"https://wiki.ubuntu.com/ForumCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('help' field)
 #. .
@@ -1339,7 +1349,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-council-member.c:79
 msgid "forum-council-member_help"
-msgstr ""
+msgstr "#ubuntuforums on Freenode"
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
@@ -1631,7 +1641,7 @@ msgstr "#launchpad on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/imported-ssh-key.c:11
 msgid "imported-ssh-key_title"
-msgstr ""
+msgstr "Importata una chiave SSH"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('description' field)
 #. .
@@ -1642,7 +1652,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/imported-ssh-key.c:20
 msgid "imported-ssh-key_description"
-msgstr ""
+msgstr "Hai importato una chiave SSH in Launchpad"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('summary' field)
 #. .
@@ -1686,7 +1696,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/imported-ssh-key.c:58
 msgid "imported-ssh-key_links"
-msgstr ""
+msgstr "https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('help' field)
 #. .
@@ -1699,7 +1709,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/imported-ssh-key.c:69
 msgid "imported-ssh-key_help"
-msgstr ""
+msgstr "#launchpad on Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1797,7 +1807,7 @@ msgstr "#launchpad on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/attend-loco-event.c:11
 msgid "attend-loco-event_title"
-msgstr ""
+msgstr "Partecipare ad un evento di un team LoCo"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('description' field)
 #. .
@@ -1808,7 +1818,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/attend-loco-event.c:20
 msgid "attend-loco-event_description"
-msgstr ""
+msgstr "Hai partecipato ad un evento di un team di una comunità locale"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('summary' field)
 #. .
@@ -1851,7 +1861,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/attend-loco-event.c:57
 msgid "attend-loco-event_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('help' field)
 #. .
@@ -1866,6 +1876,8 @@ msgstr ""
 #: ../accomplishments/attend-loco-event.c:69
 msgid "attend-loco-event_help"
 msgstr ""
+"#ubuntu-locoteams on Freenode \r\n"
+"#ubuntu-community-team on Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .

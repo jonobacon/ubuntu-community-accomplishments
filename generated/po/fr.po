@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 08:57-0700\n"
-"PO-Revision-Date: 2012-05-04 12:09+0000\n"
+"PO-Revision-Date: 2012-05-05 10:28+0000\n"
 "Last-Translator: Rouxel Benjamin <psylox.breizh@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:48+0000\n"
+"X-Launchpad-Export-Date: 2012-05-06 05:12+0000\n"
 "X-Generator: Launchpad (build 15195)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -336,6 +336,8 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:86
 msgid "first-branch-merged_links"
 msgstr ""
+"https://help.launchpad.net/Code/Review \r\n"
+"http://wiki.bazaar.canonical.com/Tutorials"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('help' field)
 #. .
@@ -360,7 +362,7 @@ msgstr "#ubuntu-devel sur Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/fridge-editor.c:11
 msgid "fridge-editor_title"
-msgstr ""
+msgstr "Editeur de Fridge"
 
 #. ACCOMPLISHMENT: Fridge Editor ('description' field)
 #. .
@@ -386,6 +388,14 @@ msgstr "Membre de l'équipe d'éditeurs du Fridge"
 #: ../accomplishments/fridge-editor.c:32
 msgid "fridge-editor_summary"
 msgstr ""
+"Ubuntu Fridge est le site officiel d'actualités pour la Communauté Ubuntu. "
+"C'est un site communautaire d'actualités sur lequel sont postés des "
+"articles, actualités, avis/opinions ainsi que tout autre contenu venu de "
+"divers endroits de la communauté Ubuntu.\r\n"
+"L'équipe <i>Ubuntu Fridge Editors</i> produit et publie le contenu du site. "
+"Pour devenir membre de cette équipe, vous devez être capable d'écrire avec "
+"aisance, fréquemment et d'être capable de répondre rapidement à des requêtes "
+"de publication."
 
 #. ACCOMPLISHMENT: Fridge Editor ('steps' field)
 #. .
@@ -401,6 +411,20 @@ msgstr ""
 #: ../accomplishments/fridge-editor.c:45
 msgid "fridge-editor_steps"
 msgstr ""
+"Pour devenir un membre d'Ubuntu. Vous devez avoir une bonne connaissance de "
+"la communauté Ubuntu, avoir de bonnes compétences écrites en Anglais. Les "
+"personnes qui sont intéressées pour devenir membre de l'équipe "
+"<strong>Ubuntu Fridge editors</strong> doivent envoyer quelques informations "
+"sur vous pour que l'équipe de l'éditeur puisse vous connaître et vous "
+"apportez son soutien (si nécessaire). Ces informations peuvent être envoyées "
+"à l'équipe gérant les actualités par leur canal IRC (Internet Chat Relay) "
+"sur Freenode (irc.freenode.net)-#ubuntu-news-- ou vous pouvez kes envoyer à "
+": ubuntu-news-team@lists.ubuntu.com (aucune inscription requise).  Les "
+"informations complémentaires dont les éditeurs devraient avoir connaissance "
+"se trouvent sur la page wiki de Fridge dans la section Editors Guidelines.  "
+"\r\n"
+"Rédiger des brouillons pour chacune de vos idées. \r\n"
+"Soumetter votre contenu aux Editeurs de Fridge."
 
 #. ACCOMPLISHMENT: Fridge Editor ('links' field)
 #. .
