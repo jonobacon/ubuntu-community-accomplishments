@@ -1,0 +1,16 @@
+[accomplishment]
+title=Ubuntu Forums Ubuntu Member
+description=You gained Ubuntu Membership via Forums Contributions
+application=ubuntu-community
+category=General
+needs-signing=true
+icon=default.png
+needs-information=launchpad-email
+depends=ubuntu-community/ubuntu-member
+summary = Ubuntu membership generally recognizes significant and sustained contributions to Ubuntu. An active Forums contributor is held to the same standards, but the main focus of activity is in the Ubuntu Forums.
+steps: Please refer to <a href="http://ubuntuforums.org/showthread.php?t=1750642">this</a> guide for how to apply for membership.  The Forum Council meet monthly and membership applications are processed at this time. For information on when the Forum Council meet please check <a href="https://wiki.ubuntu.com/ForumCouncilAgenda">this</a> wiki page.
+tips: Focus on helping other forum members in the Absolute Beginners Talk and General Help. Reporting Spam is another good way to make a positive contribution to the forum.
+links: http://ubuntuforums.org/showthread.php?t=1750642
+     https://wiki.ubuntu.com/ForumCouncilAgenda
+     https://wiki.ubuntu.com/Forums/Membership
+help = #ubuntuforums on Freenode
