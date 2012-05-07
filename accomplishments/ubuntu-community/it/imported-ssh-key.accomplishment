@@ -1,6 +1,6 @@
 [accomplishment]
-title = Imported an SSH Key
-description = You have imported an SSH key into launchpad.
+title = Importata una chiave SSH
+description = Hai importato una chiave SSH in Launchpad
 application = ubuntu-community
 category = Launchpad
 needs-signing = true

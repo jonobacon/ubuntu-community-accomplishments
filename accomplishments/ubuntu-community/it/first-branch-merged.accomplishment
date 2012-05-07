@@ -1,6 +1,6 @@
 [accomplishment]
-title = First Bazaar Branch Merged
-description = You have contributed code to a project in Launchpad
+title = Primo ramo di Bazaar unito
+description = Hai contribuito con del codice ad un progetto in Launchpad
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
@@ -21,6 +21,6 @@ tips = Join the IRC channel best suited for the branch you are working on and ta
 	Read bazaar documentation to get acquainted with it.
 	The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
 	Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
-pitfalls = If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
+pitfalls = Se il tuo ramo non è accettato, non essere troppo frustrato. Chiedi allo sviluppatore come puoi migliorarlo; spesso le modifiche richieste sono abbastanza piccole.
 help = #ubuntu-devel on Freenode
 

@@ -1,6 +1,6 @@
 [accomplishment]
-title = Bug Control Member
-description = You are an expert triager and a member of Ubuntu Bug Control
+title = Membro del controllo dei bug
+description = Sei un triager esperto e un membro del controllo bug di Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true

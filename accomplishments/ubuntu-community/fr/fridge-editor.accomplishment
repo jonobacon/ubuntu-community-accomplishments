@@ -1,5 +1,5 @@
 [accomplishment]
-title = Fridge Editor
+title = Editeur de Fridge
 description = Membre de l'équipe d'éditeurs du Fridge
 application = ubuntu-community
 category = Documentation
@@ -7,11 +7,11 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
-summary = The Ubuntu Fridge is the official news site for the Ubuntu Community. It is a community driven news site which features articles, news, opinion, and other content from around and in the Ubuntu community.
-	The <i>Ubuntu Fridge Editors</i> are a team who produce and publish content to the site. To be a member of this team you need to be able to write well, write often, and be responsive to publishing new content and news.
-steps = Become an Ubuntu Member. Have a good knowledge of the Ubuntu Community, have good written English skills.  Individuals who are interested in becoming a member of the Ubuntu Fridge editors team should submit a few stories so the Editors Team can get to know you and offer guidance (if necessary).  Stories can be submitted to the news team through its IRC (Internet Chat Relay) Channel on Freenode (irc.freenode.net)-#ubuntu-news-- or can send an email to: ubuntu-news-team@lists.ubuntu.com (no subscription necessary). Additional information that all editors should be knowledgeable of can be found on the Fridge wiki page under Editors Guidelines.
-	Write drafts for each of your ideas.
-	Submit your content to the Fridge Editors.
+summary = Ubuntu Fridge est le site officiel d'actualités pour la Communauté Ubuntu. C'est un site communautaire d'actualités sur lequel sont postés des articles, actualités, avis/opinions ainsi que tout autre contenu venu de divers endroits de la communauté Ubuntu.
+	L'équipe <i>Ubuntu Fridge Editors</i> produit et publie le contenu du site. Pour devenir membre de cette équipe, vous devez être capable d'écrire avec aisance, fréquemment et d'être capable de répondre rapidement à des requêtes de publication.
+steps = Pour devenir un membre d'Ubuntu. Vous devez avoir une bonne connaissance de la communauté Ubuntu, avoir de bonnes compétences écrites en Anglais. Les personnes qui sont intéressées pour devenir membre de l'équipe <strong>Ubuntu Fridge editors</strong> doivent envoyer quelques informations sur vous pour que l'équipe de l'éditeur puisse vous connaître et vous apportez son soutien (si nécessaire). Ces informations peuvent être envoyées à l'équipe gérant les actualités par leur canal IRC (Internet Chat Relay) sur Freenode (irc.freenode.net)-#ubuntu-news-- ou vous pouvez kes envoyer à : ubuntu-news-team@lists.ubuntu.com (aucune inscription requise).  Les informations complémentaires dont les éditeurs devraient avoir connaissance se trouvent sur la page wiki de Fridge dans la section Editors Guidelines.  
+	Rédiger des brouillons pour chacune de vos idées. 
+	Soumetter votre contenu aux Editeurs de Fridge.
 tips = None
 pitfalls = None
 help = #ubuntu-community-team sur Freenode

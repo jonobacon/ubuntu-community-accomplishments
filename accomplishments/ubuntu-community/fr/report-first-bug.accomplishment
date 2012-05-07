@@ -14,7 +14,6 @@ steps = Open up a terminal by clicking the Ubuntu button and typing <i>terminal<
 tips = Always try to be concise and detailed in your bug reports.
 	If you know the steps involved to trigger the bug, include those steps in the bug description. This is called <i>reproducing the bug</i>.
 	Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
-pitfalls = Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
-	Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
+pitfalls = Ne signalez pas de bogue pour des fonctionnalités logiciels qui ne vous conviennent pas ; signalez seulement un bogue parce qu'il concerne un fonctionnement inattendu du logiciel. Ne répondez pas à un bogue par un "moi aussi !" ; à la place, utilisez plutôt le bouton <i>this bug affects me too</i> (ce bogue m'affecte aussi) en haut de la page du rapport de bogue (dans Launchpad).
 help = #ubuntu-testing sur Freenode
 

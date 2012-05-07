@@ -17,10 +17,10 @@ steps = You first need to perform a <i>Merge Proposal</i> to propose your branch
 	Wait for one of the target branch's reviewers to review your code, they will either (1) accept your code, and it will be merged, (2) modify your code slightly, and then merge it, or (3) ask for you to make some improvements before they merge it.
 	If they request changes to be made, make the changes requested and push them into your branch. Then comment back on your proposal to say that you have made the requested changes.
 	Now wait for the developer to review your changes. When it is merged you will get an email to inform you it was merged in.
-tips = Join the IRC channel best suited for the branch you are working on and talk to developers, they will be glad to help you.
-	Read bazaar documentation to get acquainted with it.
-	The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
-	Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
-pitfalls = If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
+tips = Rejoigner le canal IRC le plus adapté à la branche sur laquelle vous travaillez et parler aux développeurs, ils seront heureux de vous renseigner.
+	Liser la documentation de Bazaar  pour vous familiariez avec cet outils.
+	La première fois que vous soumettez une branche  pour contrôle, n'hésiter pas à poser des questions sur la façon de faire. Tout le monde commence un jour!
+	Beaucoup de projets ont des conventions de nommage ou de formattage. Assurez-vous que votre contribution soit en accord avec ces conventions.
+pitfalls = Si votre branche n'est pas acceptée, ne soyez pas frustré. Demander au développer comment améliorer vos changements; souvent les modifications nécessaires sont minimes
 help = #ubuntu-devel sur Freenode
 

@@ -1,6 +1,6 @@
 [accomplishment]
-title = Bug Squad Member
-description = You are a member of Ubuntu Bug Squad
+title = Membro della squadra bug
+description = Sei un membro della squadra bug di Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true
