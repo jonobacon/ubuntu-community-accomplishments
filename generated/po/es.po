@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 08:57-0700\n"
-"PO-Revision-Date: 2012-05-04 15:39+0000\n"
-"Last-Translator: franciscoIR <Unknown>\n"
+"PO-Revision-Date: 2012-05-08 18:18+0000\n"
+"Last-Translator: Paco Molinero <paco@byasl.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:48+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-09 05:26+0000\n"
+"X-Generator: Launchpad (build 15213)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -115,7 +115,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/report-first-bug.c:11
 msgid "report-first-bug_title"
-msgstr "Primer bug reportado"
+msgstr "Primer informe de error"
 
 #. ACCOMPLISHMENT: Report First Bug ('description' field)
 #. .
@@ -126,7 +126,7 @@ msgstr "Primer bug reportado"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
 msgid "report-first-bug_description"
-msgstr "Ha reportado su primer bug en Ubuntu"
+msgstr "Ha informado su primer error en Ubuntu"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
@@ -274,7 +274,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-branch-merged.c:11
 msgid "first-branch-merged_title"
-msgstr ""
+msgstr "Primera rama de Bazaar combinada"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
 #. .
@@ -285,7 +285,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-branch-merged.c:20
 msgid "first-branch-merged_description"
-msgstr "Has contribuido con código a un Proyecto en Launchpad"
+msgstr "Ha contribuido con código a un Proyecto en Launchpad"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
 #. .
@@ -302,6 +302,19 @@ msgstr "Has contribuido con código a un Proyecto en Launchpad"
 #: ../accomplishments/first-branch-merged.c:34
 msgid "first-branch-merged_summary"
 msgstr ""
+"Una de las partes principales de Launchpad es la habilidad de organizar "
+"diferentes ramas de código (Utilizando la versión Bazaar del Sistema de "
+"Control) y que otras personas propongan mejoras y cambios a estas ramas.Lo "
+"que comúnmente pasa aquí es que usted <i>bifurques</i> el código de "
+"Launchpad (Por ejemplo, corriendo <tt>bzr branch lp:the-project</tt>) y así "
+"descarga la presente ramificación principal a su equipo. Entonces, empieza a "
+"trabajar en mejoras a esta ramificación y registra sus cambios  usando "
+"<tt>bzr commit</tt>. Luego, carga sus cambios en Launchpad usando <tt>bzr "
+"push</tt> de manera que otras personas puedan ver su trabajo.Ahora puede "
+"proponer que su ramificación sea combinada con otra rama. Esto significa que "
+"el dueño de la ramificación original que ha mejorado va a contribuir sus "
+"mejoras a ésta, así introduciendo su trabajo.Este trofeo se gana cuando ha "
+"logrado combinar sus ramas dentro de otras ramas"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('steps' field)
 #. .
@@ -362,6 +375,8 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:86
 msgid "first-branch-merged_links"
 msgstr ""
+"https://help.launchpad.net/Code/Review \r\n"
+"http://wiki.bazaar.canonical.com/Tutorials"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('help' field)
 #. .
@@ -486,7 +501,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/bugsquad-member.c:11
 msgid "bugsquad-member_title"
-msgstr ""
+msgstr "Miembro del Escuadrón de errores"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('description' field)
 #. .
@@ -541,6 +556,8 @@ msgstr ""
 #: ../accomplishments/bugsquad-member.c:57
 msgid "bugsquad-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/BugSquad \r\n"
+"http://wiki.ubuntu.com/HelpingWithBugs"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('help' field)
 #. .
@@ -553,7 +570,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/bugsquad-member.c:68
 msgid "bugsquad-member_help"
-msgstr ""
+msgstr "#ubuntu-bugs en Freenode"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
 #. .
@@ -822,7 +839,7 @@ msgstr "#ubuntu-community-team en Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-bugcontrol-member.c:11
 msgid "ubuntu-bugcontrol-member_title"
-msgstr ""
+msgstr "Miembro del control de errores"
 
 #. ACCOMPLISHMENT: Bug Control Member ('description' field)
 #. .
@@ -902,7 +919,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-bugcontrol-member.c:79
 msgid "ubuntu-bugcontrol-member_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/UbuntuBugControl"
 
 #. ACCOMPLISHMENT: Bug Control Member ('help' field)
 #. .
@@ -915,7 +932,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-bugcontrol-member.c:90
 msgid "ubuntu-bugcontrol-member_help"
-msgstr ""
+msgstr "#ubuntu-bugs en Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 #. .
@@ -1279,7 +1296,7 @@ msgstr "#ubuntu-community-team en Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/forum-council-member.c:11
 msgid "forum-council-member_title"
-msgstr ""
+msgstr "Miembro de Consejo de Foros de Ubuntu"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('description' field)
 #. .
@@ -1347,6 +1364,9 @@ msgstr ""
 #: ../accomplishments/forum-council-member.c:68
 msgid "forum-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/ForumCouncil \r\n"
+"https://wiki.ubuntu.com/ForumCouncilAgenda \r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('help' field)
 #. .
@@ -1651,7 +1671,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/imported-ssh-key.c:11
 msgid "imported-ssh-key_title"
-msgstr ""
+msgstr "Una clave SSH importada"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('description' field)
 #. .
@@ -1706,7 +1726,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/imported-ssh-key.c:58
 msgid "imported-ssh-key_links"
-msgstr ""
+msgstr "https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('help' field)
 #. .
@@ -1719,7 +1739,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/imported-ssh-key.c:69
 msgid "imported-ssh-key_help"
-msgstr ""
+msgstr "#launchpad en Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1822,7 +1842,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/attend-loco-event.c:11
 msgid "attend-loco-event_title"
-msgstr ""
+msgstr "Atender a un evento del LoCo"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('description' field)
 #. .
@@ -1876,7 +1896,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/attend-loco-event.c:57
 msgid "attend-loco-event_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('help' field)
 #. .
@@ -1891,6 +1911,8 @@ msgstr ""
 #: ../accomplishments/attend-loco-event.c:69
 msgid "attend-loco-event_help"
 msgstr ""
+"#ubuntu-locoteams en Freenode \r\n"
+"#ubuntu-community-team n Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
