@@ -1,5 +1,5 @@
 [accomplishment]
-title = Attend LoCo Team Event
+title = Atender a un evento del LoCo
 description = You attended a Local Community Team event
 application = ubuntu-community
 category = LoCo Teams
@@ -16,6 +16,6 @@ steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team.
 	Attend the event in question and have a great time!
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams on Freenode
-	#ubuntu-community-team on Freenode
+help = #ubuntu-locoteams en Freenode 
+	#ubuntu-community-team n Freenode
 

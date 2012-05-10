@@ -1,5 +1,5 @@
 [accomplishment]
-title = Bug Squad Member
+title = Miembro del Escuadrón de errores
 description = You are a member of Ubuntu Bug Squad
 application = ubuntu-community
 category = QA
@@ -15,5 +15,5 @@ steps = Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code o
 	After completing the previous steps, <a href="https://launchpad.net/~bugsquad/+join">apply for membership here</a>
 tips = None
 pitfalls = None
-help = #ubuntu-bugs on Freenode
+help = #ubuntu-bugs en Freenode
 

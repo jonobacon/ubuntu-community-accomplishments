@@ -1,6 +1,6 @@
 [accomplishment]
-title = Primer bug reportado
-description = Ha reportado su primer bug en Ubuntu
+title = Primer informe de error
+description = Ha informado su primer error en Ubuntu
 application = ubuntu-community
 category = QA
 needs-signing = true

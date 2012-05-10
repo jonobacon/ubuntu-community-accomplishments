@@ -1,16 +1,13 @@
 [accomplishment]
-title = First Bazaar Branch Merged
-description = Has contribuido con código a un Proyecto en Launchpad
+title = Primera rama de Bazaar combinada
+description = Ha contribuido con código a un Proyecto en Launchpad
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
 needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
-summary = A core part of Launchpad is the ability to host different branches of code (using the Bazaar version control system) and for other people to propose improvements and changes to those branches.
-	What commonly happens here is that you <i>branch</i> the code from launchpad (for example, running <tt>bzr branch lp:the-project</tt>) and this downloads the current main branch to your computer. You then work on improvements to that branch and commit your changes using <tt>bzr commit</tt>. You then upload your changes to Launchpad using <tt>bzr push</tt> so others can see your work.
-	You can now propose that your branch is merged into another branch. This means that the owner of the original branch that you improved will contribute your improvements to it, this merging in your work.
-	This trophy is awarded when you have successfully had one of your branches merged into another branch.
+summary = Una de las partes principales de Launchpad es la habilidad de organizar diferentes ramas de código (Utilizando la versión Bazaar del Sistema de Control) y que otras personas propongan mejoras y cambios a estas ramas.Lo que comúnmente pasa aquí es que usted <i>bifurques</i> el código de Launchpad (Por ejemplo, corriendo <tt>bzr branch lp:the-project</tt>) y así descarga la presente ramificación principal a su equipo. Entonces, empieza a trabajar en mejoras a esta ramificación y registra sus cambios  usando <tt>bzr commit</tt>. Luego, carga sus cambios en Launchpad usando <tt>bzr push</tt> de manera que otras personas puedan ver su trabajo.Ahora puede proponer que su ramificación sea combinada con otra rama. Esto significa que el dueño de la ramificación original que ha mejorado va a contribuir sus mejoras a ésta, así introduciendo su trabajo.Este trofeo se gana cuando ha logrado combinar sus ramas dentro de otras ramas
 steps = You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a <i>Propose For Merging</i> link. Click it.
 	In the form choose the branch you want to merge into and fill a detailed description of the change, fix, or feature that you have contributed.
 	Click the <i>Propose Merge</i> button to submit your contribution.
@@ -21,6 +18,6 @@ tips = Join the IRC channel best suited for the branch you are working on and ta
 	Read bazaar documentation to get acquainted with it.
 	The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
 	Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
-pitfalls = If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
+pitfalls = Si no aceptan su rama, no pasa nada. Pregunta al desarrollador cómo mejorar, frecuentemente los cambios necesarios son muy pequeños
 help = Primera rama de Bazaar unida (campo 'Ayuda')
 
