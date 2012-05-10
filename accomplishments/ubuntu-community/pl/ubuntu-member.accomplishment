@@ -6,6 +6,7 @@ category = General
 needs-signing = true
 needs-information = launchpad-email
 icon = default.png
+depends = ubuntu-community/registered-on-launchpad
 summary = Członek Ubuntu jest to ktoś, kto wykazał <i>znaczący i długoterminowy</i> wkład w Ubuntu.
 	Każdy Członek Ubuntu jest kimś odpowiedzialnym, można na nim polegać, a jego wkład w Ubuntu czyni je jeszcze lepszym.
 	Co ważne, Członkostwo Ubuntu nie wymaga żadnych konkretnych uzdolnień; warty uznania jest wkład zarówno w programowanie, jak i przygotowywanie dokumentacji, tłumaczenie, doradztwo prawne, wsparcie dla użytkowników, projektowanie wyglądu i inne.
