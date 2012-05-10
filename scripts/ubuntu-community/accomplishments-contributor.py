@@ -6,7 +6,6 @@ from launchpadlib.launchpad import Launchpad
 
 try:
     api = dbusapi.Accomplishments()
-    print "AAAAAAAAAAAAA"
     f = api.get_extra_information("ubuntu-community", "launchpad-email")
     if bool(f[0]["launchpad-email"]) == False:
         sys.exit(4)
@@ -21,7 +20,6 @@ try:
     else:
         # Get user's launchpadID
         name = me.name
-        print name
         if name == "jonobacon":
             # A special case for someone who wrote lots of accomplishments, but
             # never have requested a MP :-) Such anomalies will never happen
