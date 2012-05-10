@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-10 20:33+0200\n"
+"POT-Creation-Date: 2012-05-10 21:06+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1099,6 +1099,100 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:69
 msgid "ubuntu-member_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Ubuntu Beginners Team Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-beginners-team-member.c:11
+msgid "ubuntu-beginners-team-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a Ubuntu Beginners Team Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-beginners-team-member.c:20
+msgid "ubuntu-beginners-team-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Ubuntu Beginners Team exists to enhance the initial experience of new Ubuntu users and to guide existing Ubuntu users to become part of the global Ubuntu community. The Beginners Team helps you get involved in the wonderful world of the Ubuntu Community.
+#. The team is open for anyone to join and get involved with the wider community.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:32
+msgid "ubuntu-beginners-team-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Read the <a href="https://wiki.ubuntu.com/BeginnersTeam">introduction</a> and <a href="https://wiki.ubuntu.com/BeginnersTeam/MissionStatement">mission statement</a> and familiarize yourself with the current focus groups.
+#. Subscribe to the <a href="http://lists.ubuntu.com/ubuntu-beginners">mailing list</a> to ensure that you remain up-to-date with what the team is doing.
+#. Create a personal wiki page. Details on how to do this can be found <a href="https://wiki.ubuntu.com/BeginnersTeam/Membership/BTWikiGuide">here</a>
+#. Add your name to the <a href="https://wiki.ubuntu.com/BeginnersTeam/Membership#Seeking%20Guide">Seeking Guide list</a>.
+#. Hang out Internet Relay Chat channel #ubuntu-beginners-team on Freenode, most members are active in the channel and it's a good way to introduce yourself and meet members quickly.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:47
+msgid "ubuntu-beginners-team-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Familiarise yourself with IRC
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:58
+msgid "ubuntu-beginners-team-member_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. None
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:69
+msgid "ubuntu-beginners-team-member_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-beginners on Freenode
+#. #ubuntu-beginners-team on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:81
+msgid "ubuntu-beginners-team-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
