@@ -38,7 +38,7 @@ _("user-has-mugshot_summary")
 // You must be logged on Launchpad.net website.
 // Then he needs to go on your profile page that usually is http://launchpad.net/~YOURUSERNAME
 // Click on the link "Change details".
-// Be sure to have a 192x192 pixel piture to upload (.png or .jpg will be ok).
+// Be sure to have a 192x192 pixel picture to upload (.png or .jpg will be ok).
 // Once the picture is uploaded, please click on "Save changes" button at the end of the page.
 
 // .

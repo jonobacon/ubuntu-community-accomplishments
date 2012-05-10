@@ -34,9 +34,9 @@ _("community-council-member_summary")
 // ACCOMPLISHMENT: Community Council Member ('steps' field)
 // .
 // ENGLISH TRANSLATION:
-// Become an Ubuntu Member. Demonstrate effective and extensive contribution  to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-// Amend the wiki page that was created for Ubuntu Membership usually found on <tt>wiki.ubuntu.com</tt> that is up todate and outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-// When the next Community Council election is announced, nominate yourself as a candidate.  Mark Shuttleworth, the Founder of Ubuntu, and also known as sabdfl (self-appointed bebevolent dictator for life) selects the canidates from the list of nominees and puts those forward to be voted on by current Ubuntu Members.
+// Become an Ubuntu Member. Demonstrate effective and extensive contribution to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+// Amend the wiki page that was created for Ubuntu Membership usually found on <tt>wiki.ubuntu.com</tt> that is up to date and outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
+// When the next Community Council election is announced, nominate yourself as a candidate. Mark Shuttleworth, the Founder of Ubuntu, and also known as sabdfl (self-appointed benevolent dictator for life) selects the candidates from the list of nominees and puts those forward to be voted on by current Ubuntu Members.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
