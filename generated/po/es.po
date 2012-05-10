@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-04 08:57-0700\n"
-"PO-Revision-Date: 2012-05-08 18:18+0000\n"
+"PO-Revision-Date: 2012-05-09 19:40+0000\n"
 "Last-Translator: Paco Molinero <paco@byasl.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-09 05:26+0000\n"
+"X-Launchpad-Export-Date: 2012-05-10 06:00+0000\n"
 "X-Generator: Launchpad (build 15213)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -362,6 +362,8 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:75
 msgid "first-branch-merged_pitfalls"
 msgstr ""
+"Si no aceptan su rama, no pasa nada. Pregunta al desarrollador cómo mejorar, "
+"frecuentemente los cambios necesarios son muy pequeños"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('links' field)
 #. .
