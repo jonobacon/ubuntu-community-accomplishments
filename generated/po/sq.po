@@ -7,93 +7,106 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-05-04 08:57-0700\n"
+"POT-Creation-Date: 2012-05-10 14:50-0700\n"
 "PO-Revision-Date: 2012-04-09 12:54+0000\n"
 "Last-Translator: Lulzim <Unknown>\n"
 "Language-Team: Albanian <sq@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-05 05:48+0000\n"
-"X-Generator: Launchpad (build 15195)\n"
+"X-Launchpad-Export-Date: 2012-05-11 06:07+0000\n"
+"X-Generator: Launchpad (build 15225)\n"
 
-#. ACCOMPLISHMENT: LoCo Team Member ('title' field)
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. LoCo Team Member
+#. Signed Ubuntu Code Of Conduct
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/member-loco-team.c:11
-msgid "member-loco-team_title"
-msgstr "Anëtar i një Ekipi LoCo"
+#: ../accomplishments/signed-code-of-conduct.c:11
+msgid "signed-code-of-conduct_title"
+msgstr "Nënshkruaj kodin e mirësjelljes të Ubuntu"
 
-#. ACCOMPLISHMENT: LoCo Team Member ('description' field)
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. You are a member of an Ubuntu LoCo Team
+#. You have signed the Ubuntu Code Of Conduct
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/member-loco-team.c:20
-msgid "member-loco-team_description"
-msgstr "Ju jeni një anëtar i një ekipi Ubuntu LoCo"
+#: ../accomplishments/signed-code-of-conduct.c:20
+msgid "signed-code-of-conduct_description"
+msgstr "Ju keni nënshkruar Kodin e mirësjelljes të Ubuntu"
 
-#. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
+#. The Ubuntu Code Of Conduct is an important document that provides a set of guidelines and expectations for good conduct in the Ubuntu Community.
+#. It includes expectations around being considerate, respectful, collaborative, how to ask for help, and how to step down when you become too busy.
+#. This trophy is awarded when you have agreed to abide by these expectations in the community and have signed the Ubuntu Code Of Conduct.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:31
-msgid "member-loco-team_summary"
+#: ../accomplishments/signed-code-of-conduct.c:33
+msgid "signed-code-of-conduct_summary"
 msgstr ""
-"Ekipet Ubuntu LoCo (Komumiteti lokal) janë grupe lokale përdoruesish më bazë "
-"të gjithë botën në të cilat njerëzit mblidhen së bashku për të diskutuar "
-"Ubuntu, ndajnë idetë, këshilla, truket, dhe njohuritë, dhe të punojnë së "
-"bashku për të përhapur fjalën Ubuntu dhe se si ajo mund të ndihmojë "
-"njerëzit.\r\n"
-"."
+"Kodi i mirësjelljes i Ubuntu është një dokument i rëndësishëm që ofron një "
+"sërë udhëzimesh për sjellje të mirë në Komunitetin Ubuntu.\r\n"
+"Ai përfshin udhezime rreth të qenit i vëmendshëm, i respektueshëm, "
+"bashkëpunuese, si për të kërkuar ndihmë, dhe pët të dhënë dorëheqjen kur ju "
+"jeni shumë i zënë.\r\n"
+"Ky trofe jepet kur ju keni rënë dakord të veproni në përputhje me këto "
+"udhëzime në komunitet dhe keni nënshkruar Kodin e mirësjelljes të Ubuntu."
 
-#. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
-#. Visit that team's Launchpad page click the Join Team link.
+#. First generate a PGP key, add it to the Ubuntu key-server, and import it into Launchpad. See <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">here</a> for how to do this.
+#. Visit the <a href="https://launchpad.net/codeofconduct">Code Of Conduct page</a>.
+#. Download the Ubuntu Code of Conduct, using the link located in the second step of the page, and open it.
+#. Sign it by opening a terminal and running <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt>.
+#. Now open the file in the Text Editor.
+#. On the Ubuntu Code of Conduct page, click <i>Sign it!</i> then paste into the textbox. Click <i>Continue</i>. Congratulations, you've signed the Ubuntu Code of Conduct!
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:43
-msgid "member-loco-team_steps"
+#: ../accomplishments/signed-code-of-conduct.c:49
+msgid "signed-code-of-conduct_steps"
 msgstr ""
-"Shko tek <tt> loco.ubuntu.com </ tt> për të gjetur ekipin tuaj më të afërt "
-"dhe ti bashkoheni atij. Ky trofe jepet nëse ju jeni një anëtar i ndonjë "
-"ekipi LoCo pavarësisht nga statusi i tij, i miratuar apo jo.\r\n"
-"Vizito faqen e Launchpad të atij ekipi dhe klikoni në linkun e tij për tiu "
-"bashkuar.\r\n"
-"."
+"Së pari gjeneroni një çelës PGP, shtoni atë në Ubuntu key-server, dhe "
+"importoni atë në Launchpad. Shiko <a "
+"href=\"https://help.launchpad.net/YourAccount/ImportingYourPGPKey\">këtu</a> "
+"për mënyrën se si ta bëni këtë.\r\n"
+"Vizito <a href=\"https://launchpad.net/codeofconduct\">faqen e Kodit të "
+"mirësjelljes</a>.\r\n"
+"Shkarko Kodin e mirësjelljes të Ubuntu, duke përdorur lidhjen e vendosur në "
+"hapin e dytë të faqes, dhe hapeni atë.\r\n"
+"Nënshkruajë atë duke hapur një terminal dhe ekzekutoni <tt>gpg --clearsign "
+"UbuntuCodeofConduct-*.txt</ tt>.\r\n"
+"Tani hapni skedarin në një editor teksti.\r\n"
+"Në faqen e kodint të mirësjelljes të Ubuntu, klikoni <i>nënshkruaj atë!</i> "
+"dhe pastaj vendoseni në kutinë e tekstit. Kliko <i>Vazhdo</ i>. Urime, ju "
+"keni nënshkruar Kodin e mirësjelljes të Ubuntu!"
 
-#. ACCOMPLISHMENT: LoCo Team Member ('links' field)
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. http://loco.ubuntu.com
+#. http://www.ubuntu.com/project/about-ubuntu/conduct
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/member-loco-team.c:53
-msgid "member-loco-team_links"
-msgstr ""
-"http://loco.ubuntu.com\r\n"
-"."
+#: ../accomplishments/signed-code-of-conduct.c:59
+msgid "signed-code-of-conduct_links"
+msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
 
-#. ACCOMPLISHMENT: LoCo Team Member ('help' field)
+#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-locoteams on Freenode
@@ -103,269 +116,81 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/member-loco-team.c:65
-msgid "member-loco-team_help"
+#: ../accomplishments/signed-code-of-conduct.c:71
+msgid "signed-code-of-conduct_help"
 msgstr ""
-"#ubuntu-locoteams on Freenode\r\n"
-"#ubuntu-community-team on Freenode\r\n"
-"."
+"#ubuntu-locoteams në Freenode\r\n"
+"#ubuntu-community-team në Freenode"
 
-#. ACCOMPLISHMENT: Report First Bug ('title' field)
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Report First Bug
+#. Ubuntu MOTU Developer
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/report-first-bug.c:11
-msgid "report-first-bug_title"
+#: ../accomplishments/motu.c:11
+msgid "motu_title"
 msgstr ""
-"Raporto defektin e parë\r\n"
-"."
 
-#. ACCOMPLISHMENT: Report First Bug ('description' field)
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. You have reported your first bug in Ubuntu
+#. You are an Ubuntu MOTU Developer
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/report-first-bug.c:20
-msgid "report-first-bug_description"
+#: ../accomplishments/motu.c:20
+msgid "motu_description"
 msgstr ""
-"Ju keni raportuar defektin tuaj të parë në Ubuntu\r\n"
-"."
 
-#. ACCOMPLISHMENT: Report First Bug ('summary' field)
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it.
-#. When you report a bug it starts a conversation with developers and other interested parties to help identify the cause of the problem to provide enough information so the developer can resolve it. This conversation can often involve the developer(s) asking you various questions to help track down the cause of the issue.
-#. This conversation takes place in a <i>bug tracker</i>; a tool that provides features for having this conversation, and setting  prioritization fields to ensure that the most disruptive bugs get resolved sooner than more more benign issues.
-#. There are a few different ways in which you can file a bug, but we recommend you use a tool called <tt>ubuntu-bug</tt> that comes pre-installed on all Ubuntu systems. This tool helps gather up neccessary information that can be useful for the developer to find the source of the bug so they can resolve it.
-#. You can file a bug in a more graphical way by using the <i>Report a Problem</i> option in the <i>Help</i> menu of an application; this simply provides a graphical way of running <tt>ubuntu-bug</tt>.
+#. An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:35
-msgid "report-first-bug_summary"
+#: ../accomplishments/motu.c:31
+msgid "motu_summary"
 msgstr ""
-"Një <i>defekt</ i> është një problem në një pjesë të softuerit. Kur ju "
-"raportoni një defekt kjo do të thotë se ju bëni me dije projektin Ubuntu "
-"rreth njërit prej këtyre defekteve kështu që ne mund ta rregullojmë atë.\r\n"
-"Kur ju raportoni një defekt fillon një bisedë mes zhvilluesit të softuerit "
-"dhe palëve të tjera të interesuara për të ndihmuar në identifikimin e "
-"shkakut të problemit dhe për të dhënë informacion të mjaftueshëm në mënyrë "
-"që zhvilluesi i softuerit mund të zgjidh atë. Kjo bisedë shpesh përfshinë "
-"zhvillues (it) duke ju kërkuar për informacione të ndryshme që mund të "
-"ndihmojnë ato në gjetjen e shkakut të problemit.\r\n"
-"Kjo bisedë zhvillohet në një <i>ndjekës defektesh</ i>, një mjet që ofron "
-"mundësinë për të pasur këtë bisedë, dhe vendos prioritetet për të siguruar "
-"që defektet me influencën më të madhe të rregullohen më shpejt se sa shumë "
-"probleme të tjera më të vogla.\r\n"
-"Ka disa mënyra të ndryshme në të cilat ju mund të depozitoni një defekt, por "
-"ne ju rekomandojmë të përdorni një mjet i quajtur <tt>ubuntu-bug</ tt> që "
-"vjen i instaluar në të gjitha sistemet Ubuntu. Ky mjet ndihmon në mbledhjen "
-"e informacionit të nevojshë që mund ti duhet zhvilluesiit të softuerit për "
-"të gjetur burimin e defektit kështu që ata mund të zgjidhin atë.\r\n"
-"Ju mund të depozitoni një defekt në një mënyrë më grafike, duke përdorur "
-"opsionin <I>raporto një problem</ i> i ndodhur ne menun <i>ndihmë</ i> të "
-"softuerit, kjo thjesht siguron një mënyrë grafike për <tt>ubuntu-bug</ tt>."
 
-#. ACCOMPLISHMENT: Report First Bug ('steps' field)
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.
-#. Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the instructions.
-#. Follow the instructions in Launchpad.
+#. Contribute extensively to Ubuntu for a sustained period of time.
+#. Make use of the Ubuntu Sponsorship Queue to make your contributions.
+#. Apply to the Ubuntu Developer Board to be a MOTU developer.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:48
-msgid "report-first-bug_steps"
+#: ../accomplishments/motu.c:44
+msgid "motu_steps"
 msgstr ""
-"Hap një terminal duke klikuar butonin Ubuntu dhe shkruani <i>terminal</ i> "
-"në dash.\r\n"
-"Shkruani <tt>ubuntu-bug</ tt> dhe pastaj emrin e paketës kundrejtë të cilës "
-"dëshironi të depozitoni një defekt (p.sh. <tt>ubuntu-bug unity</ tt> për "
-"Unity). Nëse ju nuk e dini emrin e paketës, atëhere shkruani vetëm "
-"<tt>ubuntu-bug</ tt> dhe ndiqni udhëzimet.\r\n"
-"Ndiqni udhëzimet në Launchpad."
 
-#. ACCOMPLISHMENT: Report First Bug ('tips' field)
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Always try to be concise and detailed in your bug reports.
-#. If you know the steps involved to trigger the bug, include those steps in the bug description. This is called <i>reproducing the bug</i>.
-#. Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add tips and best practise for accomplishing this trophy.
-#. NOTE: Put each tip on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:61
-msgid "report-first-bug_tips"
-msgstr ""
-"Gjithmonë përpiquni të jeni konciz dhe të detajuar në raportet tuaja të "
-"defekteve.\r\n"
-"Nëse ju i dini hapat e përfshira që shkaktojnë defektin, përfshijnë ato hapa "
-"në përshkrimin e defektit. Kjo quhet <I>riprodhim i defektit</ i>.\r\n"
-"Mos harroni, kur ju depozitoni një raport oër nje defekt ju jeni duke "
-"kërkuar një zhvillues për të marrë kohë për të zgjidhur atë. Mundohuni të "
-"jeni të dobishëm, të sjellshëm, dhe respektoni kohën e tyre."
-
-#. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
-#. Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add things the user should not do when working to accomplish this trophy.
-#. NOTE: Put each pitfall on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:73
-msgid "report-first-bug_pitfalls"
-msgstr ""
-"Mos depozitoni defekte për gjërat që ju pengojnë në një pjesë të softuerit; "
-"depozitoni defekte vetëm kur gjërat nuk punojnë ashtu siç pritet.\r\n"
-"Mos u përgjigjeni për një defekt duke thënë \"edhe mua!\"; Në vend që të "
-"përdorin lidhjen <I>Ky defekt më prek dhe mua</ i> në krye të raportit të "
-"defektit (në Launchpad)."
-
-#. ACCOMPLISHMENT: Report First Bug ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. https://help.ubuntu.com/community/ReportingBugs
-#. https://wiki.ubuntu.com/HelpingWithBugs
+#. https://wiki.ubuntu.com/MOTU
+#. https://wiki.ubuntu.com/UbuntuDevelopment
+#. https://wiki.ubuntu.com/SponsorshipProcess
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/report-first-bug.c:84
-msgid "report-first-bug_links"
+#: ../accomplishments/motu.c:56
+msgid "motu_links"
 msgstr ""
-"https://help.ubuntu.com/community/ReportingBugs\r\n"
-"https://wiki.ubuntu.com/HelpingWithBugs"
+"https://wiki.ubuntu.com/MOTU\r\n"
+"https://wiki.ubuntu.com/UbuntuDevelopment\r\n"
+"https://wiki.ubuntu.com/SponsorshipProcess"
 
-#. ACCOMPLISHMENT: Report First Bug ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntu-testing on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/report-first-bug.c:95
-msgid "report-first-bug_help"
-msgstr "#ubuntu-testing në Freenode"
-
-#. ACCOMPLISHMENT: First Bazaar Branch Merged ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. First Bazaar Branch Merged
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/first-branch-merged.c:11
-msgid "first-branch-merged_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You have contributed code to a project in Launchpad
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/first-branch-merged.c:20
-msgid "first-branch-merged_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. A core part of Launchpad is the ability to host different branches of code (using the Bazaar version control system) and for other people to propose improvements and changes to those branches.
-#. What commonly happens here is that you <i>branch</i> the code from launchpad (for example, running <tt>bzr branch lp:the-project</tt>) and this downloads the current main branch to your computer. You then work on improvements to that branch and commit your changes using <tt>bzr commit</tt>. You then upload your changes to Launchpad using <tt>bzr push</tt> so others can see your work.
-#. You can now propose that your branch is merged into another branch. This means that the owner of the original branch that you improved will contribute your improvements to it, this merging in your work.
-#. This trophy is awarded when you have successfully had one of your branches merged into another branch.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:34
-msgid "first-branch-merged_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: First Bazaar Branch Merged ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a <i>Propose For Merging</i> link. Click it.
-#. In the form choose the branch you want to merge into and fill a detailed description of the change, fix, or feature that you have contributed.
-#. Click the <i>Propose Merge</i> button to submit your contribution.
-#. Wait for one of the target branch's reviewers to review your code, they will either (1) accept your code, and it will be merged, (2) modify your code slightly, and then merge it, or (3) ask for you to make some improvements before they merge it.
-#. If they request changes to be made, make the changes requested and push them into your branch. Then comment back on your proposal to say that you have made the requested changes.
-#. Now wait for the developer to review your changes. When it is merged you will get an email to inform you it was merged in.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:50
-msgid "first-branch-merged_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: First Bazaar Branch Merged ('tips' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Join the IRC channel best suited for the branch you are working on and talk to developers, they will be glad to help you.
-#. Read bazaar documentation to get acquainted with it.
-#. The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
-#. Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add tips and best practise for accomplishing this trophy.
-#. NOTE: Put each tip on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:64
-msgid "first-branch-merged_tips"
-msgstr ""
-
-#. ACCOMPLISHMENT: First Bazaar Branch Merged ('pitfalls' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add things the user should not do when working to accomplish this trophy.
-#. NOTE: Put each pitfall on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:75
-msgid "first-branch-merged_pitfalls"
-msgstr ""
-
-#. ACCOMPLISHMENT: First Bazaar Branch Merged ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. https://help.launchpad.net/Code/Review
-#. http://wiki.bazaar.canonical.com/Tutorials
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/first-branch-merged.c:86
-msgid "first-branch-merged_links"
-msgstr ""
-
-#. ACCOMPLISHMENT: First Bazaar Branch Merged ('help' field)
+#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
 #. #ubuntu-devel on Freenode
@@ -374,8 +199,113 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/first-branch-merged.c:97
-msgid "first-branch-merged_help"
+#: ../accomplishments/motu.c:67
+msgid "motu_help"
+msgstr "#ubuntu-devel në Freenode"
+
+#. ACCOMPLISHMENT: Bug Control Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Bug Control Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-bugcontrol-member.c:11
+msgid "ubuntu-bugcontrol-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Control Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are an expert triager and a member of Ubuntu Bug Control
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-bugcontrol-member.c:20
+msgid "ubuntu-bugcontrol-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Control Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Ubuntu Bug Control team (ubuntu-bugcontrol in Launchpad) is a subset of the Ubuntu Bug Squad who can change the importance of Ubuntu bug tasks, set the status of an Ubuntu bug task to "Triaged" or "Won't Fix" and nominate a bug for a release of Ubuntu. You do this when you are triaging bug reports.  Bug Control consists of <b>expert triagers</b> who are experienced triagers, and know the triage process in Ubuntu.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-bugcontrol-member.c:31
+msgid "ubuntu-bugcontrol-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Control Member ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Be sure to <a href="http://wiki.ubuntu.com/UbuntuBugControl#Requirements_for_joining">read all the requirements for joining</a> Bug Control before applying.
+#. Please <a href="http://wiki.ubuntu.com/UbuntuBugControl#Application">follow the directions for applying</a> before emailing in your application.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-bugcontrol-member.c:43
+msgid "ubuntu-bugcontrol-member_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Control Member ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Include your best work when applying, and make sure that all the work shows a wide range of triaging activities.
+#. You should probably be a Bug Squad member for at least a few months before applying to Bug Control.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-bugcontrol-member.c:55
+msgid "ubuntu-bugcontrol-member_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Control Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code of Conduct</a>
+#. Complete all the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Generic-reqs">generic requirements</a> for joining Bug Control.
+#. Improve some bug reports and keep a short list (at least 5) of your best ones.
+#. Follow the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Application">instructions for applying</a> for Ubuntu Bug Control.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-bugcontrol-member.c:69
+msgid "ubuntu-bugcontrol-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Control Member ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. https://wiki.ubuntu.com/UbuntuBugControl
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-bugcontrol-member.c:79
+msgid "ubuntu-bugcontrol-member_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Control Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-bugs on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-bugcontrol-member.c:90
+msgid "ubuntu-bugcontrol-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
@@ -483,1109 +413,117 @@ msgstr ""
 "#ubuntu-community-team në Freenode\r\n"
 "#ubuntu-news në Freenode"
 
-#. ACCOMPLISHMENT: Bug Squad Member ('title' field)
+#. ACCOMPLISHMENT: Accomplishments Contributor ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Bug Squad Member
+#. Accomplishments Contributor
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/bugsquad-member.c:11
-msgid "bugsquad-member_title"
+#: ../accomplishments/accomplishments-contributor.c:11
+msgid "accomplishments-contributor_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Bug Squad Member ('description' field)
+#. ACCOMPLISHMENT: Accomplishments Contributor ('description' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. You are a member of Ubuntu Bug Squad
+#. You have contributed an accomplishment to the official accomplishments collection
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/bugsquad-member.c:20
-msgid "bugsquad-member_description"
+#: ../accomplishments/accomplishments-contributor.c:20
+msgid "accomplishments-contributor_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Bug Squad Member ('summary' field)
+#. ACCOMPLISHMENT: Accomplishments Contributor ('summary' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. The Bug Squad is Ubuntu's team for helping out with improving bug reports.  The Bug Squad is the first point of contact for the bugs filed about Ubuntu.  Members assign bugs to packages, ensure that bug reports are complete, find duplicate bug reports, recreate bugs, and forward bugs to their upstream authors. All of these activities help bugs get fixed and subsequently make Ubuntu even better.
-#. What the Bug Squad does is also known as Triaging, which is similar to the process of prioritizing patients in a hospital based on the severity of their condition. This allows developers to spend their time more effectively, and is a great way to learn about how Ubuntu works as an operating system and as a community. It's also not uncommon for triagers to discover new and interesting features they didn't know about.
+#. The quality of Ubuntu Accomplishments is only as good as the collection of accomplishments that is available. Still growing, accomplishments collections aim to provide user with great accomplishments, that would help him explore system and learn about the community.
+#. As creating accomplishments is very easy, we encourage developers to create their own accomplishments. Contributions of any kind are very welcome.
+#. <b>Note:</b> Accomplishments within the official collections have to meet <a href='https://wiki.ubuntu.com/Accomplishments/Creating/Guidelines'>these guidelines</a>.
+#. This accomplishment is awarded to all developers who have proposed at least one merge into Ubuntu Community Accomplishments trunk that was accepted and subsequently merged.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/bugsquad-member.c:32
-msgid "bugsquad-member_summary"
+#: ../accomplishments/accomplishments-contributor.c:34
+msgid "accomplishments-contributor_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Bug Squad Member ('steps' field)
+#. ACCOMPLISHMENT: Accomplishments Contributor ('steps' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code of Conduct</a>
-#. Read the <a href="https://wiki.ubuntu.com/Bugs/HowToTriage/">Triage Guide</a>
-#. Subscribe to the <a href="https://lists.ubuntu.com/mailman/listinfo/ubuntu-bugsquad">Bug Squad Mailing List</a>
-#. After completing the previous steps, <a href="https://launchpad.net/~bugsquad/+join">apply for membership here</a>
+#. Begin with a nice idea of a new accomplishment. Make sure it hasn't been done yet, and that if follows the guidelines. You can find example ideas <a href='https://wiki.ubuntu.com/Accomplishments/Trophies'>on this page</a>.
+#. Learn how to write an accomplishment and a script linked to it. There is <a href='https://wiki.ubuntu.com/Accomplishments/Creating/Guide'>a good guide</a> available that will help you.
+#. Using Bazaar, create a new branch of <tt>lp:ubuntu-community-accomplishments</tt> and place your accomplishment there.
+#. Test your accomplishment carefully, fix problems if you find any, adjust whatever will be needed.
+#. Commit & push your changes to your branch in Launchpad, when you will be happy with the result.
+#. Propose the branch for merging into trunk. Developers may contact you in case of problems and questions.
+#. When your MP will be accepted, you accomplishments should be available from daily builds PPA, and will be included in the next release.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/bugsquad-member.c:46
-msgid "bugsquad-member_steps"
+#: ../accomplishments/accomplishments-contributor.c:51
+msgid "accomplishments-contributor_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Bug Squad Member ('links' field)
+#. ACCOMPLISHMENT: Accomplishments Contributor ('tips' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. http://wiki.ubuntu.com/BugSquad
-#. http://wiki.ubuntu.com/HelpingWithBugs
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/bugsquad-member.c:57
-msgid "bugsquad-member_links"
-msgstr ""
-
-#. ACCOMPLISHMENT: Bug Squad Member ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntu-bugs on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/bugsquad-member.c:68
-msgid "bugsquad-member_help"
-msgstr ""
-
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Signed Ubuntu Code Of Conduct
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/signed-code-of-conduct.c:11
-msgid "signed-code-of-conduct_title"
-msgstr "Nënshkruaj kodin e mirësjelljes të Ubuntu"
-
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You have signed the Ubuntu Code Of Conduct
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/signed-code-of-conduct.c:20
-msgid "signed-code-of-conduct_description"
-msgstr "Ju keni nënshkruar Kodin e mirësjelljes të Ubuntu"
-
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. The Ubuntu Code Of Conduct is an important document that provides a set of guidelines and expectations for good conduct in the Ubuntu Community.
-#. It includes expectations around being considerate, respectful, collaborative, how to ask for help, and how to step down when you become too busy.
-#. This trophy is awarded when you have agreed to abide by these expectations in the community and have signed the Ubuntu Code Of Conduct.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:33
-msgid "signed-code-of-conduct_summary"
-msgstr ""
-"Kodi i mirësjelljes i Ubuntu është një dokument i rëndësishëm që ofron një "
-"sërë udhëzimesh për sjellje të mirë në Komunitetin Ubuntu.\r\n"
-"Ai përfshin udhezime rreth të qenit i vëmendshëm, i respektueshëm, "
-"bashkëpunuese, si për të kërkuar ndihmë, dhe pët të dhënë dorëheqjen kur ju "
-"jeni shumë i zënë.\r\n"
-"Ky trofe jepet kur ju keni rënë dakord të veproni në përputhje me këto "
-"udhëzime në komunitet dhe keni nënshkruar Kodin e mirësjelljes të Ubuntu."
-
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. First generate a PGP key, add it to the Ubuntu key-server, and import it into Launchpad. See <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">here</a> for how to do this.
-#. Visit the <a href="https://launchpad.net/codeofconduct">Code Of Conduct page</a>.
-#. Download the Ubuntu Code of Conduct, using the link located in the second step of the page, and open it.
-#. Sign it by opening a terminal and running <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt>.
-#. Now open the file in the Text Editor.
-#. On the Ubuntu Code of Conduct page, click <i>Sign it!</i> then paste into the textbox. Click <i>Continue</i>. Congratulations, you've signed the Ubuntu Code of Conduct!
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:49
-msgid "signed-code-of-conduct_steps"
-msgstr ""
-"Së pari gjeneroni një çelës PGP, shtoni atë në Ubuntu key-server, dhe "
-"importoni atë në Launchpad. Shiko <a "
-"href=\"https://help.launchpad.net/YourAccount/ImportingYourPGPKey\">këtu</a> "
-"për mënyrën se si ta bëni këtë.\r\n"
-"Vizito <a href=\"https://launchpad.net/codeofconduct\">faqen e Kodit të "
-"mirësjelljes</a>.\r\n"
-"Shkarko Kodin e mirësjelljes të Ubuntu, duke përdorur lidhjen e vendosur në "
-"hapin e dytë të faqes, dhe hapeni atë.\r\n"
-"Nënshkruajë atë duke hapur një terminal dhe ekzekutoni <tt>gpg --clearsign "
-"UbuntuCodeofConduct-*.txt</ tt>.\r\n"
-"Tani hapni skedarin në një editor teksti.\r\n"
-"Në faqen e kodint të mirësjelljes të Ubuntu, klikoni <i>nënshkruaj atë!</i> "
-"dhe pastaj vendoseni në kutinë e tekstit. Kliko <i>Vazhdo</ i>. Urime, ju "
-"keni nënshkruar Kodin e mirësjelljes të Ubuntu!"
-
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. http://www.ubuntu.com/project/about-ubuntu/conduct
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/signed-code-of-conduct.c:59
-msgid "signed-code-of-conduct_links"
-msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
-
-#. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntu-locoteams on Freenode
-#. #ubuntu-community-team on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/signed-code-of-conduct.c:71
-msgid "signed-code-of-conduct_help"
-msgstr ""
-"#ubuntu-locoteams në Freenode\r\n"
-"#ubuntu-community-team në Freenode"
-
-#. ACCOMPLISHMENT: Community Council Member ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Community Council Member
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/community-council-member.c:11
-msgid "community-council-member_title"
-msgstr "Anëtar i Këshillit të Komunitetit"
-
-#. ACCOMPLISHMENT: Community Council Member ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You are a member of the Community Council
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/community-council-member.c:20
-msgid "community-council-member_description"
-msgstr "Ju jeni një anëtar i Këshillit të Komunitetit"
-
-#. ACCOMPLISHMENT: Community Council Member ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. The Ubuntu Community Council is the primary community (i.e. non-technical) governance body for the Ubuntu Project and as such has an important role and responsibility to the Ubuntu community.
-#. The Community Council advises and decides on community policy and process. It is also an escalation body for incidents that occur elsewhere in the Ubuntu community.
-#. Members of the Community Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:33
-msgid "community-council-member_summary"
-msgstr ""
-"Këshilli i Komunitetit të Ubuntu është organi kryesor (dmth jo-teknikë)  "
-"qeverisës i projektit Ubuntu dhe si i tillë ka një rol të rëndësishëm dhe "
-"përgjegjësi ndaj komunitetit të Ubuntu.\r\n"
-"Këshilli i Komunitetit këshillon dhe vendos për politikat dhe proceset "
-"komunitare. Ai është gjithashtu një organ përshkallëzim për incidentet që "
-"ndodhin kudo në komunitetin Ubuntu.\r\n"
-"Anëtarët e Këshillit të Komunitetit kanë demonstruar një angazhim të fortë "
-"në historinë e pjesëmarrjes në Ubuntu, aftësitë të qarta drejtuese, dhe kanë "
-"kohën dhe disponueshmërinë e duhur për të kryer nevojat e këshillit."
-
-#. ACCOMPLISHMENT: Community Council Member ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Become an Ubuntu Member. Demonstrate effective and extensive contribution  to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-#. Amend the wiki page that was created for Ubuntu Membership usually found on <tt>wiki.ubuntu.com</tt> that is up todate and outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-#. When the next Community Council election is announced, nominate yourself as a candidate.  Mark Shuttleworth, the Founder of Ubuntu, and also known as sabdfl (self-appointed bebevolent dictator for life) selects the canidates from the list of nominees and puts those forward to be voted on by current Ubuntu Members.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:46
-msgid "community-council-member_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Community Council Member ('tips' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Focus on your leadership abilities. The Community Council is an important leadership position and we look for strong, capable, confident leaders.
-#. You should probably have led another team to develop and demonstrate your leadership capabilities before applying to be on the Community Council.
-#. Only apply to the Community Council when you have had a significant amount of experience in the community.
+#. Hang around on #ubuntu-accomplishments if you need help. There are many experienced accomplishments creators, who will be glad to help you!
+#. Pay attention to test your accomplishment in details - it will not make it into the official collection in case something is wrong.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:59
-msgid "community-council-member_tips"
+#: ../accomplishments/accomplishments-contributor.c:63
+msgid "accomplishments-contributor_tips"
 msgstr ""
 
-#. ACCOMPLISHMENT: Community Council Member ('pitfalls' field)
+#. ACCOMPLISHMENT: Accomplishments Contributor ('pitfalls' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. Don't apply to the Community Council just to be in a position of power.
-#. Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
+#. Follow the guidelines. If you won't, all your work will get rejected.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:71
-msgid "community-council-member_pitfalls"
+#: ../accomplishments/accomplishments-contributor.c:74
+msgid "accomplishments-contributor_pitfalls"
 msgstr ""
-"Mos aplikoni në Këshillin e Komunitetit vetëm që të jeni në një pozitë të "
-"pushtetshme.\r\n"
-"Mundohuni të mos jeni në më shumë se një këshill (p.sh. Komuniteti i "
-"Këshillit të bordit Teknik) në të njëjtën kohë. bashkohuni në një, dhe jepni "
-"vëmendjen tuaj të plotë."
 
-#. ACCOMPLISHMENT: Community Council Member ('links' field)
+#. ACCOMPLISHMENT: Accomplishments Contributor ('links' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. https://wiki.ubuntu.com/CommunityCouncil
-#. https://wiki.ubuntu.com/CommunityCouncilAgenda
-#. http://www.ubuntu.com/project/about-ubuntu/governance
+#. https://wiki.ubuntu.com/community/Accomplishments
+#. https://wiki.ubuntu.com/Accomplishments/Creating
+#. https://wiki.ubuntu.com/Accomplishments/Trophies
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/community-council-member.c:83
-msgid "community-council-member_links"
+#: ../accomplishments/accomplishments-contributor.c:86
+msgid "accomplishments-contributor_links"
 msgstr ""
-"https://wiki.ubuntu.com/CommunityCouncil\r\n"
-"https://wiki.ubuntu.com/CommunityCouncilAgenda\r\n"
-"http://www.ubuntu.com/project/about-ubuntu/governance"
 
-#. ACCOMPLISHMENT: Community Council Member ('help' field)
+#. ACCOMPLISHMENT: Accomplishments Contributor ('help' field)
 #. .
 #. ENGLISH TRANSLATION:
-#. #ubuntu-community-team on Freenode
+#. #ubuntu-accomplishments on Freenode
+#. <a href='https://launchpad.net/~ubuntu-accomplishments-contributors' style='color:white'><b>~ubuntu-accomplishments-contributors</b></a> mailing list
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/community-council-member.c:94
-msgid "community-council-member_help"
-msgstr "#ubuntu-community-team në Freenode"
-
-#. ACCOMPLISHMENT: Bug Control Member ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Bug Control Member
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-bugcontrol-member.c:11
-msgid "ubuntu-bugcontrol-member_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Bug Control Member ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You are an expert triager and a member of Ubuntu Bug Control
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-bugcontrol-member.c:20
-msgid "ubuntu-bugcontrol-member_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Bug Control Member ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. The Ubuntu Bug Control team (ubuntu-bugcontrol in Launchpad) is a subset of the Ubuntu Bug Squad who can change the importance of Ubuntu bug tasks, set the status of an Ubuntu bug task to "Triaged" or "Won't Fix" and nominate a bug for a release of Ubuntu. You do this when you are triaging bug reports.  Bug Control consists of <b>expert triagers</b> who are experienced triagers, and know the triage process in Ubuntu.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-bugcontrol-member.c:31
-msgid "ubuntu-bugcontrol-member_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Bug Control Member ('tips' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Be sure to <a href="http://wiki.ubuntu.com/UbuntuBugControl#Requirements_for_joining">read all the requirements for joining</a> Bug Control before applying.
-#. Please <a href="http://wiki.ubuntu.com/UbuntuBugControl#Application">follow the directions for applying</a> before emailing in your application.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add tips and best practise for accomplishing this trophy.
-#. NOTE: Put each tip on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-bugcontrol-member.c:43
-msgid "ubuntu-bugcontrol-member_tips"
-msgstr ""
-
-#. ACCOMPLISHMENT: Bug Control Member ('pitfalls' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Include your best work when applying, and make sure that all the work shows a wide range of triaging activities.
-#. You should probably be a Bug Squad member for at least a few months before applying to Bug Control.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add things the user should not do when working to accomplish this trophy.
-#. NOTE: Put each pitfall on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-bugcontrol-member.c:55
-msgid "ubuntu-bugcontrol-member_pitfalls"
-msgstr ""
-
-#. ACCOMPLISHMENT: Bug Control Member ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code of Conduct</a>
-#. Complete all the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Generic-reqs">generic requirements</a> for joining Bug Control.
-#. Improve some bug reports and keep a short list (at least 5) of your best ones.
-#. Follow the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Application">instructions for applying</a> for Ubuntu Bug Control.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-bugcontrol-member.c:69
-msgid "ubuntu-bugcontrol-member_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Bug Control Member ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. https://wiki.ubuntu.com/UbuntuBugControl
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-bugcontrol-member.c:79
-msgid "ubuntu-bugcontrol-member_links"
-msgstr ""
-
-#. ACCOMPLISHMENT: Bug Control Member ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntu-bugs on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-bugcontrol-member.c:90
-msgid "ubuntu-bugcontrol-member_help"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Ubuntu MOTU Developer
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/motu.c:11
-msgid "motu_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You are an Ubuntu MOTU Developer
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/motu.c:20
-msgid "motu_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:31
-msgid "motu_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Contribute extensively to Ubuntu for a sustained period of time.
-#. Make use of the Ubuntu Sponsorship Queue to make your contributions.
-#. Apply to the Ubuntu Developer Board to be a MOTU developer.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:44
-msgid "motu_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. https://wiki.ubuntu.com/MOTU
-#. https://wiki.ubuntu.com/UbuntuDevelopment
-#. https://wiki.ubuntu.com/SponsorshipProcess
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/motu.c:56
-msgid "motu_links"
-msgstr ""
-"https://wiki.ubuntu.com/MOTU\r\n"
-"https://wiki.ubuntu.com/UbuntuDevelopment\r\n"
-"https://wiki.ubuntu.com/SponsorshipProcess"
-
-#. ACCOMPLISHMENT: Ubuntu MOTU Developer ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntu-devel on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/motu.c:67
-msgid "motu_help"
-msgstr "#ubuntu-devel në Freenode"
-
-#. ACCOMPLISHMENT: LoCo Council Member ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. LoCo Council Member
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/loco-council-member.c:11
-msgid "loco-council-member_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: LoCo Council Member ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You are a member of the LoCo Council
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/loco-council-member.c:20
-msgid "loco-council-member_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
-#. The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally.
-#. To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:33
-msgid "loco-council-member_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-#. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-#. In the next LoCo Council election propose yourself as a candidate.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:46
-msgid "loco-council-member_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
-#. You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
-#. Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add tips and best practise for accomplishing this trophy.
-#. NOTE: Put each tip on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:59
-msgid "loco-council-member_tips"
-msgstr ""
-
-#. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Don't apply to the LoCo Council just to be in a position of power.
-#. Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add things the user should not do when working to accomplish this trophy.
-#. NOTE: Put each pitfall on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:71
-msgid "loco-council-member_pitfalls"
-msgstr ""
-
-#. ACCOMPLISHMENT: LoCo Council Member ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. https://wiki.ubuntu.com/LoCoCouncil
-#. https://wiki.ubuntu.com/LoCoCouncilAgenda
-#. http://www.ubuntu.com/project/about-ubuntu/governance
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/loco-council-member.c:83
-msgid "loco-council-member_links"
-msgstr ""
-"https://wiki.ubuntu.com/LoCoCouncil\r\n"
-"https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
-"http://www.ubuntu.com/project/about-ubuntu/governance"
-
-#. ACCOMPLISHMENT: LoCo Council Member ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntu-community-team on Freenode
-#. #ubuntu-locoteams on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/loco-council-member.c:95
-msgid "loco-council-member_help"
-msgstr ""
-"#ubuntu-community-team në Freenode\r\n"
-"#ubuntu-locoteams në Freenode"
-
-#. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Approved Ubuntu Member
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-member.c:11
-msgid "ubuntu-member_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You are an Approved Ubuntu Member
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-member.c:20
-msgid "ubuntu-member_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu.
-#. Each Ubuntu Member is seen as a reliable and dependable contributor to Ubuntu who has contributed to further and improve Ubuntu.
-#. Importantly, Ubuntu Membership does not require any specific skill; great contributions in development, documentation, translations, advocacy, support, art, design, and many other areas are all worthy of membership.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:33
-msgid "ubuntu-member_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-#. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-#. Ask your fellow community members to contribute testimonials of your contributions.
-#. Schedule yourself for review at a regional membership board, IRC council, Forums council, or developer membership board meeting to review your contributions. You can find the nearest board using the links below.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:47
-msgid "ubuntu-member_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. http://wiki.ubuntu.com/Membership
-#. https://wiki.ubuntu.com/Membership/RegionalBoards
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-member.c:58
-msgid "ubuntu-member_links"
-msgstr ""
-"http://wiki.ubuntu.com/Membership\r\n"
-"https://wiki.ubuntu.com/Membership/RegionalBoards"
-
-#. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntu-community-team on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-member.c:69
-msgid "ubuntu-member_help"
-msgstr "#ubuntu-community-team në Freenode"
-
-#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Ubuntu Forums Council Member
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/forum-council-member.c:11
-msgid "forum-council-member_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You are a member of the Ubuntu Forum Council
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/forum-council-member.c:20
-msgid "forum-council-member_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. The Ubuntu Forums Council is the primary governance body for the Ubuntu Forums and as such has an important role and responsibility to the Ubuntu community.  The Forum Council advises and decides on forum policy and process, as well as respond to incidents that occur on the forums.
-#. Members of the Forum Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council. Members are also expected to have good people skills and have the ability to empathise with others.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/forum-council-member.c:32
-msgid "forum-council-member_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Become an Ubuntu Forums Member. Demonstrate effective and extensive contribution to the Ubuntu Forums for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-#. Become a member of the forum staff. This can be achieved by being nominated by the current staff and then being successfully elected by the forums community.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/forum-council-member.c:44
-msgid "forum-council-member_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('tips' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Focus on your leadership abilities. The Forums Council is an important leadership position and we look for strong, capable, confident leaders.
-#. Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add tips and best practise for accomplishing this trophy.
-#. NOTE: Put each tip on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/forum-council-member.c:56
-msgid "forum-council-member_tips"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. https://wiki.ubuntu.com/ForumCouncil
-#. https://wiki.ubuntu.com/ForumCouncilAgenda
-#. http://www.ubuntu.com/project/about-ubuntu/governance
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/forum-council-member.c:68
-msgid "forum-council-member_links"
-msgstr ""
-
-#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntuforums on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/forum-council-member.c:79
-msgid "forum-council-member_help"
-msgstr ""
-
-#. ACCOMPLISHMENT: Technical Board Member ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Technical Board Member
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/technical-board-member.c:11
-msgid "technical-board-member_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Technical Board Member ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You are a member of the Ubuntu Technical Board
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/technical-board-member.c:20
-msgid "technical-board-member_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Technical Board Member ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. The Ubuntu Technical Board is one of the most important governing boards in the Ubuntu community. The Technical Board advises and decides on technical policy and process as well as acting as an escalation body for incidents that occur elsewhere in the community.
-#. To be a member of the Technical Board you need to have demonstrated a strong commitment and participation history in Ubuntu, strong technical skills and knowledge of the archive, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the board.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:32
-msgid "technical-board-member_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Technical Board Member ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-#. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-#. In the next Technical Board election propose yourself as a candidate.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:45
-msgid "technical-board-member_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Technical Board Member ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. https://wiki.ubuntu.com/TechnicalBoard
-#. http://www.ubuntu.com/project/about-ubuntu/governance
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/technical-board-member.c:56
-msgid "technical-board-member_links"
-msgstr ""
-"https://wiki.ubuntu.com/TechnicalBoard\r\n"
-"http://www.ubuntu.com/project/about-ubuntu/governance"
-
-#. ACCOMPLISHMENT: Technical Board Member ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #ubuntu-devel-team on Freenode
-#. #ubuntu-community-team on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/technical-board-member.c:68
-msgid "technical-board-member_help"
-msgstr ""
-"#ubuntu-devel-team në Freenode\r\n"
-"#ubuntu-community-team në Freenode"
-
-#. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Juju Charm Contributor
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/juju-charm-contributor.c:11
-msgid "juju-charm-contributor_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You contribute Juju charms to Ubuntu.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/juju-charm-contributor.c:20
-msgid "juju-charm-contributor_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:31
-msgid "juju-charm-contributor_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Juju Charm Contributor ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Contribute a number of Juju charms.
-#. Contribute regularly and to a high enough quality.
-#. Ask a member of the Juju Contributors team if you can join.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:44
-msgid "juju-charm-contributor_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. http://juju.ubuntu.com
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/juju-charm-contributor.c:54
-msgid "juju-charm-contributor_links"
-msgstr "http://juju.ubuntu.com"
-
-#. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #juju on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/juju-charm-contributor.c:65
-msgid "juju-charm-contributor_help"
-msgstr "#juju në Freenode"
-
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Setting a mugshot in Launchpad profile
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/user-has-mugshot.c:11
-msgid "user-has-mugshot_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. User has set a mugshot in his own Launchpad profile
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/user-has-mugshot.c:20
-msgid "user-has-mugshot_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. A mugshot is an avatar image that the user can set in his Launchpad profile. It is nice when people can identify you just watching a picture of you.
-#. We advise you to choose a real picture of you (usually displaying only the face) or another avatar you really like. Please try to avoid picture with content that could offend someone else (e.g. adult content).
-#. The picture must be exactly <strong>192x192</strong> and big no more than <strong>100 Kb</strong>.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:33
-msgid "user-has-mugshot_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Setting a mugshot is very simple.
-#. You must be logged on Launchpad.net website.
-#. Then he needs to go on your profile page that usually is http://launchpad.net/~YOURUSERNAME
-#. Click on the link "Change details".
-#. Be sure to have a 192x192 pixel piture to upload (.png or .jpg will be ok).
-#. Once the picture is uploaded, please click on "Save changes" button at the end of the page.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:49
-msgid "user-has-mugshot_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. http://www.launchpad.net
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/user-has-mugshot.c:59
-msgid "user-has-mugshot_links"
-msgstr "http://www.launchpad.net"
-
-#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #launchpad on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/user-has-mugshot.c:70
-msgid "user-has-mugshot_help"
-msgstr "#launchpad në Freenode"
-
-#. ACCOMPLISHMENT: Imported an SSH Key ('title' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Imported an SSH Key
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/imported-ssh-key.c:11
-msgid "imported-ssh-key_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Imported an SSH Key ('description' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. You have imported an SSH key into launchpad.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/imported-ssh-key.c:20
-msgid "imported-ssh-key_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Imported an SSH Key ('summary' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. An SSH key secures the connection between your computer and Launchpad while you're pushing Bazaar branches up to Launchpad. To push code branches to Launchpad you first need to generate your SSH key. The key is made up of two parts: a private key that stays on your computer and a public key that you register with Launchpad.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/imported-ssh-key.c:31
-msgid "imported-ssh-key_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Imported an SSH Key ('steps' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. Install OpenSSH. You can install OpenSSH by opening your terminal and typing: <tt>sudo apt-get install openssh-client</tt>.
-#. Once OpenSSH is installed, stay in the terminal and type: <tt>ssh-keygen -t rsa</tt>.
-#. When prompted, press Enter to accept the default file name for your key.
-#. Next, enter then confirm a password to protect your SSH key. Your key pair is stored in <tt>~/.ssh/</tt> as <tt>id_rsa.pub</tt> (public key) and id_rsa (private key).
-#. Open your public key in a text editor and copy its contents to your clipboard. The public key file has the extension <tt>.pub</tt>. For example: <tt>id_rsa.pub</tt>.
-#. Visit your Launchpad SSH keys page.
-#. Paste your public key into the text box and then click the <b>Import public key</b> button to continue.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/imported-ssh-key.c:48
-msgid "imported-ssh-key_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Imported an SSH Key ('links' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/imported-ssh-key.c:58
-msgid "imported-ssh-key_links"
-msgstr ""
-
-#. ACCOMPLISHMENT: Imported an SSH Key ('help' field)
-#. .
-#. ENGLISH TRANSLATION:
-#. #launchpad on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/imported-ssh-key.c:69
-msgid "imported-ssh-key_help"
+#: ../accomplishments/accomplishments-contributor.c:98
+msgid "accomplishments-contributor_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
@@ -1829,6 +767,1255 @@ msgstr ""
 msgid "first-bug-confirmed_help"
 msgstr "#ubuntu-testing në Freenode"
 
+#. ACCOMPLISHMENT: Report First Bug ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Report First Bug
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/report-first-bug.c:11
+msgid "report-first-bug_title"
+msgstr ""
+"Raporto defektin e parë\r\n"
+"."
+
+#. ACCOMPLISHMENT: Report First Bug ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You have reported your first bug in Ubuntu
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/report-first-bug.c:20
+msgid "report-first-bug_description"
+msgstr ""
+"Ju keni raportuar defektin tuaj të parë në Ubuntu\r\n"
+"."
+
+#. ACCOMPLISHMENT: Report First Bug ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it.
+#. When you report a bug it starts a conversation with developers and other interested parties to help identify the cause of the problem to provide enough information so the developer can resolve it. This conversation can often involve the developer(s) asking you various questions to help track down the cause of the issue.
+#. This conversation takes place in a <i>bug tracker</i>; a tool that provides features for having this conversation, and setting  prioritization fields to ensure that the most disruptive bugs get resolved sooner than more more benign issues.
+#. There are a few different ways in which you can file a bug, but we recommend you use a tool called <tt>ubuntu-bug</tt> that comes pre-installed on all Ubuntu systems. This tool helps gather up neccessary information that can be useful for the developer to find the source of the bug so they can resolve it.
+#. You can file a bug in a more graphical way by using the <i>Report a Problem</i> option in the <i>Help</i> menu of an application; this simply provides a graphical way of running <tt>ubuntu-bug</tt>.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/report-first-bug.c:35
+msgid "report-first-bug_summary"
+msgstr ""
+"Një <i>defekt</ i> është një problem në një pjesë të softuerit. Kur ju "
+"raportoni një defekt kjo do të thotë se ju bëni me dije projektin Ubuntu "
+"rreth njërit prej këtyre defekteve kështu që ne mund ta rregullojmë atë.\r\n"
+"Kur ju raportoni një defekt fillon një bisedë mes zhvilluesit të softuerit "
+"dhe palëve të tjera të interesuara për të ndihmuar në identifikimin e "
+"shkakut të problemit dhe për të dhënë informacion të mjaftueshëm në mënyrë "
+"që zhvilluesi i softuerit mund të zgjidh atë. Kjo bisedë shpesh përfshinë "
+"zhvillues (it) duke ju kërkuar për informacione të ndryshme që mund të "
+"ndihmojnë ato në gjetjen e shkakut të problemit.\r\n"
+"Kjo bisedë zhvillohet në një <i>ndjekës defektesh</ i>, një mjet që ofron "
+"mundësinë për të pasur këtë bisedë, dhe vendos prioritetet për të siguruar "
+"që defektet me influencën më të madhe të rregullohen më shpejt se sa shumë "
+"probleme të tjera më të vogla.\r\n"
+"Ka disa mënyra të ndryshme në të cilat ju mund të depozitoni një defekt, por "
+"ne ju rekomandojmë të përdorni një mjet i quajtur <tt>ubuntu-bug</ tt> që "
+"vjen i instaluar në të gjitha sistemet Ubuntu. Ky mjet ndihmon në mbledhjen "
+"e informacionit të nevojshë që mund ti duhet zhvilluesiit të softuerit për "
+"të gjetur burimin e defektit kështu që ata mund të zgjidhin atë.\r\n"
+"Ju mund të depozitoni një defekt në një mënyrë më grafike, duke përdorur "
+"opsionin <I>raporto një problem</ i> i ndodhur ne menun <i>ndihmë</ i> të "
+"softuerit, kjo thjesht siguron një mënyrë grafike për <tt>ubuntu-bug</ tt>."
+
+#. ACCOMPLISHMENT: Report First Bug ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.
+#. Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the instructions.
+#. Follow the instructions in Launchpad.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/report-first-bug.c:48
+msgid "report-first-bug_steps"
+msgstr ""
+"Hap një terminal duke klikuar butonin Ubuntu dhe shkruani <i>terminal</ i> "
+"në dash.\r\n"
+"Shkruani <tt>ubuntu-bug</ tt> dhe pastaj emrin e paketës kundrejtë të cilës "
+"dëshironi të depozitoni një defekt (p.sh. <tt>ubuntu-bug unity</ tt> për "
+"Unity). Nëse ju nuk e dini emrin e paketës, atëhere shkruani vetëm "
+"<tt>ubuntu-bug</ tt> dhe ndiqni udhëzimet.\r\n"
+"Ndiqni udhëzimet në Launchpad."
+
+#. ACCOMPLISHMENT: Report First Bug ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Always try to be concise and detailed in your bug reports.
+#. If you know the steps involved to trigger the bug, include those steps in the bug description. This is called <i>reproducing the bug</i>.
+#. Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/report-first-bug.c:61
+msgid "report-first-bug_tips"
+msgstr ""
+"Gjithmonë përpiquni të jeni konciz dhe të detajuar në raportet tuaja të "
+"defekteve.\r\n"
+"Nëse ju i dini hapat e përfshira që shkaktojnë defektin, përfshijnë ato hapa "
+"në përshkrimin e defektit. Kjo quhet <I>riprodhim i defektit</ i>.\r\n"
+"Mos harroni, kur ju depozitoni një raport oër nje defekt ju jeni duke "
+"kërkuar një zhvillues për të marrë kohë për të zgjidhur atë. Mundohuni të "
+"jeni të dobishëm, të sjellshëm, dhe respektoni kohën e tyre."
+
+#. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
+#. Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/report-first-bug.c:73
+msgid "report-first-bug_pitfalls"
+msgstr ""
+"Mos depozitoni defekte për gjërat që ju pengojnë në një pjesë të softuerit; "
+"depozitoni defekte vetëm kur gjërat nuk punojnë ashtu siç pritet.\r\n"
+"Mos u përgjigjeni për një defekt duke thënë \"edhe mua!\"; Në vend që të "
+"përdorin lidhjen <I>Ky defekt më prek dhe mua</ i> në krye të raportit të "
+"defektit (në Launchpad)."
+
+#. ACCOMPLISHMENT: Report First Bug ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. https://help.ubuntu.com/community/ReportingBugs
+#. https://wiki.ubuntu.com/HelpingWithBugs
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/report-first-bug.c:84
+msgid "report-first-bug_links"
+msgstr ""
+"https://help.ubuntu.com/community/ReportingBugs\r\n"
+"https://wiki.ubuntu.com/HelpingWithBugs"
+
+#. ACCOMPLISHMENT: Report First Bug ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-testing on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/report-first-bug.c:95
+msgid "report-first-bug_help"
+msgstr "#ubuntu-testing në Freenode"
+
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Setting a mugshot in Launchpad profile
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/user-has-mugshot.c:11
+msgid "user-has-mugshot_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. User has set a mugshot in his own Launchpad profile
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/user-has-mugshot.c:20
+msgid "user-has-mugshot_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. A mugshot is an avatar image that the user can set in his Launchpad profile. It is nice when people can identify you just watching a picture of you.
+#. We advise you to choose a real picture of you (usually displaying only the face) or another avatar you really like. Please try to avoid picture with content that could offend someone else (e.g. adult content).
+#. The picture must be exactly <strong>192x192</strong> and big no more than <strong>100 Kb</strong>.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/user-has-mugshot.c:33
+msgid "user-has-mugshot_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Setting a mugshot is very simple.
+#. You must be logged on Launchpad.net website.
+#. Then he needs to go on your profile page that usually is http://launchpad.net/~YOURUSERNAME
+#. Click on the link "Change details".
+#. Be sure to have a 192x192 pixel picture to upload (.png or .jpg will be ok).
+#. Once the picture is uploaded, please click on "Save changes" button at the end of the page.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/user-has-mugshot.c:49
+msgid "user-has-mugshot_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. http://www.launchpad.net
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/user-has-mugshot.c:59
+msgid "user-has-mugshot_links"
+msgstr "http://www.launchpad.net"
+
+#. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #launchpad on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/user-has-mugshot.c:70
+msgid "user-has-mugshot_help"
+msgstr "#launchpad në Freenode"
+
+#. ACCOMPLISHMENT: Bug Squad Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Bug Squad Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/bugsquad-member.c:11
+msgid "bugsquad-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Squad Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a member of Ubuntu Bug Squad
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/bugsquad-member.c:20
+msgid "bugsquad-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Squad Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Bug Squad is Ubuntu's team for helping out with improving bug reports.  The Bug Squad is the first point of contact for the bugs filed about Ubuntu.  Members assign bugs to packages, ensure that bug reports are complete, find duplicate bug reports, recreate bugs, and forward bugs to their upstream authors. All of these activities help bugs get fixed and subsequently make Ubuntu even better.
+#. What the Bug Squad does is also known as Triaging, which is similar to the process of prioritizing patients in a hospital based on the severity of their condition. This allows developers to spend their time more effectively, and is a great way to learn about how Ubuntu works as an operating system and as a community. It's also not uncommon for triagers to discover new and interesting features they didn't know about.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/bugsquad-member.c:32
+msgid "bugsquad-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Squad Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code of Conduct</a>
+#. Read the <a href="https://wiki.ubuntu.com/Bugs/HowToTriage/">Triage Guide</a>
+#. Subscribe to the <a href="https://lists.ubuntu.com/mailman/listinfo/ubuntu-bugsquad">Bug Squad Mailing List</a>
+#. After completing the previous steps, <a href="https://launchpad.net/~bugsquad/+join">apply for membership here</a>
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/bugsquad-member.c:46
+msgid "bugsquad-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Squad Member ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. http://wiki.ubuntu.com/BugSquad
+#. http://wiki.ubuntu.com/HelpingWithBugs
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/bugsquad-member.c:57
+msgid "bugsquad-member_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Bug Squad Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-bugs on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/bugsquad-member.c:68
+msgid "bugsquad-member_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Imported an SSH Key ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Imported an SSH Key
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/imported-ssh-key.c:11
+msgid "imported-ssh-key_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Imported an SSH Key ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You have imported an SSH key into launchpad.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/imported-ssh-key.c:20
+msgid "imported-ssh-key_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Imported an SSH Key ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. An SSH key secures the connection between your computer and Launchpad while you're pushing Bazaar branches up to Launchpad. To push code branches to Launchpad you first need to generate your SSH key. The key is made up of two parts: a private key that stays on your computer and a public key that you register with Launchpad.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/imported-ssh-key.c:31
+msgid "imported-ssh-key_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Imported an SSH Key ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Install OpenSSH. You can install OpenSSH by opening your terminal and typing: <tt>sudo apt-get install openssh-client</tt>.
+#. Once OpenSSH is installed, stay in the terminal and type: <tt>ssh-keygen -t rsa</tt>.
+#. When prompted, press Enter to accept the default file name for your key.
+#. Next, enter then confirm a password to protect your SSH key. Your key pair is stored in <tt>~/.ssh/</tt> as <tt>id_rsa.pub</tt> (public key) and id_rsa (private key).
+#. Open your public key in a text editor and copy its contents to your clipboard. The public key file has the extension <tt>.pub</tt>. For example: <tt>id_rsa.pub</tt>.
+#. Visit your Launchpad SSH keys page.
+#. Paste your public key into the text box and then click the <b>Import public key</b> button to continue.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/imported-ssh-key.c:48
+msgid "imported-ssh-key_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Imported an SSH Key ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/imported-ssh-key.c:58
+msgid "imported-ssh-key_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Imported an SSH Key ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #launchpad on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/imported-ssh-key.c:69
+msgid "imported-ssh-key_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Ubuntu Forums Council Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/forum-council-member.c:11
+msgid "forum-council-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a member of the Ubuntu Forum Council
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/forum-council-member.c:20
+msgid "forum-council-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Ubuntu Forums Council is the primary governance body for the Ubuntu Forums and as such has an important role and responsibility to the Ubuntu community.  The Forum Council advises and decides on forum policy and process, as well as respond to incidents that occur on the forums.
+#. Members of the Forum Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council. Members are also expected to have good people skills and have the ability to empathise with others.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-council-member.c:32
+msgid "forum-council-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Become an Ubuntu Forums Member. Demonstrate effective and extensive contribution to the Ubuntu Forums for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+#. Become a member of the forum staff. This can be achieved by being nominated by the current staff and then being successfully elected by the forums community.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-council-member.c:44
+msgid "forum-council-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Focus on your leadership abilities. The Forums Council is an important leadership position and we look for strong, capable, confident leaders.
+#. Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-council-member.c:56
+msgid "forum-council-member_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. https://wiki.ubuntu.com/ForumCouncil
+#. https://wiki.ubuntu.com/ForumCouncilAgenda
+#. http://www.ubuntu.com/project/about-ubuntu/governance
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/forum-council-member.c:68
+msgid "forum-council-member_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Council Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntuforums on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-council-member.c:79
+msgid "forum-council-member_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Team Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. LoCo Team Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/member-loco-team.c:11
+msgid "member-loco-team_title"
+msgstr "Anëtar i një Ekipi LoCo"
+
+#. ACCOMPLISHMENT: LoCo Team Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a member of an Ubuntu LoCo Team
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/member-loco-team.c:20
+msgid "member-loco-team_description"
+msgstr "Ju jeni një anëtar i një ekipi Ubuntu LoCo"
+
+#. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Ubuntu LoCo (Local Community) Teams are local user groups based all around the world in which people get together to discuss Ubuntu, share ideas, tips, tricks, and knowledge, and work together to spread the word of Ubuntu and how it can help people.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/member-loco-team.c:31
+msgid "member-loco-team_summary"
+msgstr ""
+"Ekipet Ubuntu LoCo (Komumiteti lokal) janë grupe lokale përdoruesish më bazë "
+"të gjithë botën në të cilat njerëzit mblidhen së bashku për të diskutuar "
+"Ubuntu, ndajnë idetë, këshilla, truket, dhe njohuritë, dhe të punojnë së "
+"bashku për të përhapur fjalën Ubuntu dhe se si ajo mund të ndihmojë "
+"njerëzit.\r\n"
+"."
+
+#. ACCOMPLISHMENT: LoCo Team Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
+#. Visit that team's Launchpad page click the Join Team link.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/member-loco-team.c:43
+msgid "member-loco-team_steps"
+msgstr ""
+"Shko tek <tt> loco.ubuntu.com </ tt> për të gjetur ekipin tuaj më të afërt "
+"dhe ti bashkoheni atij. Ky trofe jepet nëse ju jeni një anëtar i ndonjë "
+"ekipi LoCo pavarësisht nga statusi i tij, i miratuar apo jo.\r\n"
+"Vizito faqen e Launchpad të atij ekipi dhe klikoni në linkun e tij për tiu "
+"bashkuar.\r\n"
+"."
+
+#. ACCOMPLISHMENT: LoCo Team Member ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. http://loco.ubuntu.com
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/member-loco-team.c:53
+msgid "member-loco-team_links"
+msgstr ""
+"http://loco.ubuntu.com\r\n"
+"."
+
+#. ACCOMPLISHMENT: LoCo Team Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-locoteams on Freenode
+#. #ubuntu-community-team on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/member-loco-team.c:65
+msgid "member-loco-team_help"
+msgstr ""
+"#ubuntu-locoteams on Freenode\r\n"
+"#ubuntu-community-team on Freenode\r\n"
+"."
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Ubuntu Beginners Team Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-beginners-team-member.c:11
+msgid "ubuntu-beginners-team-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a Ubuntu Beginners Team Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-beginners-team-member.c:20
+msgid "ubuntu-beginners-team-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Ubuntu Beginners Team exists to enhance the initial experience of new Ubuntu users and to guide existing Ubuntu users to become part of the global Ubuntu community. The Beginners Team helps you get involved in the wonderful world of the Ubuntu Community.
+#. The team is open for anyone to join and get involved with the wider community.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:32
+msgid "ubuntu-beginners-team-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Read the <a href="https://wiki.ubuntu.com/BeginnersTeam">introduction</a> and <a href="https://wiki.ubuntu.com/BeginnersTeam/MissionStatement">mission statement</a> and familiarize yourself with the current focus groups.
+#. Subscribe to the <a href="http://lists.ubuntu.com/ubuntu-beginners">mailing list</a> to ensure that you remain up-to-date with what the team is doing.
+#. Create a personal wiki page. Details on how to do this can be found <a href="https://wiki.ubuntu.com/BeginnersTeam/Membership/BTWikiGuide">here</a>
+#. Add your name to the <a href="https://wiki.ubuntu.com/BeginnersTeam/Membership#Seeking%20Guide">Seeking Guide list</a>.
+#. Hang out Internet Relay Chat channel #ubuntu-beginners-team on Freenode, most members are active in the channel and it's a good way to introduce yourself and meet members quickly.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:47
+msgid "ubuntu-beginners-team-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Familiarise yourself with IRC
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:58
+msgid "ubuntu-beginners-team-member_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. None
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:69
+msgid "ubuntu-beginners-team-member_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-beginners on Freenode
+#. #ubuntu-beginners-team on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-beginners-team-member.c:81
+msgid "ubuntu-beginners-team-member_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Community Council Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Community Council Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/community-council-member.c:11
+msgid "community-council-member_title"
+msgstr "Anëtar i Këshillit të Komunitetit"
+
+#. ACCOMPLISHMENT: Community Council Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a member of the Community Council
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/community-council-member.c:20
+msgid "community-council-member_description"
+msgstr "Ju jeni një anëtar i Këshillit të Komunitetit"
+
+#. ACCOMPLISHMENT: Community Council Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Ubuntu Community Council is the primary community (i.e. non-technical) governance body for the Ubuntu Project and as such has an important role and responsibility to the Ubuntu community.
+#. The Community Council advises and decides on community policy and process. It is also an escalation body for incidents that occur elsewhere in the Ubuntu community.
+#. Members of the Community Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/community-council-member.c:33
+msgid "community-council-member_summary"
+msgstr ""
+"Këshilli i Komunitetit të Ubuntu është organi kryesor (dmth jo-teknikë)  "
+"qeverisës i projektit Ubuntu dhe si i tillë ka një rol të rëndësishëm dhe "
+"përgjegjësi ndaj komunitetit të Ubuntu.\r\n"
+"Këshilli i Komunitetit këshillon dhe vendos për politikat dhe proceset "
+"komunitare. Ai është gjithashtu një organ përshkallëzim për incidentet që "
+"ndodhin kudo në komunitetin Ubuntu.\r\n"
+"Anëtarët e Këshillit të Komunitetit kanë demonstruar një angazhim të fortë "
+"në historinë e pjesëmarrjes në Ubuntu, aftësitë të qarta drejtuese, dhe kanë "
+"kohën dhe disponueshmërinë e duhur për të kryer nevojat e këshillit."
+
+#. ACCOMPLISHMENT: Community Council Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Become an Ubuntu Member. Demonstrate effective and extensive contribution to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+#. Amend the wiki page that was created for Ubuntu Membership usually found on <tt>wiki.ubuntu.com</tt> that is up to date and outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
+#. When the next Community Council election is announced, nominate yourself as a candidate. Mark Shuttleworth, the Founder of Ubuntu, and also known as sabdfl (self-appointed benevolent dictator for life) selects the candidates from the list of nominees and puts those forward to be voted on by current Ubuntu Members.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/community-council-member.c:46
+msgid "community-council-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Community Council Member ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Focus on your leadership abilities. The Community Council is an important leadership position and we look for strong, capable, confident leaders.
+#. You should probably have led another team to develop and demonstrate your leadership capabilities before applying to be on the Community Council.
+#. Only apply to the Community Council when you have had a significant amount of experience in the community.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/community-council-member.c:59
+msgid "community-council-member_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Community Council Member ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Don't apply to the Community Council just to be in a position of power.
+#. Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/community-council-member.c:71
+msgid "community-council-member_pitfalls"
+msgstr ""
+"Mos aplikoni në Këshillin e Komunitetit vetëm që të jeni në një pozitë të "
+"pushtetshme.\r\n"
+"Mundohuni të mos jeni në më shumë se një këshill (p.sh. Komuniteti i "
+"Këshillit të bordit Teknik) në të njëjtën kohë. bashkohuni në një, dhe jepni "
+"vëmendjen tuaj të plotë."
+
+#. ACCOMPLISHMENT: Community Council Member ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. https://wiki.ubuntu.com/CommunityCouncil
+#. https://wiki.ubuntu.com/CommunityCouncilAgenda
+#. http://www.ubuntu.com/project/about-ubuntu/governance
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/community-council-member.c:83
+msgid "community-council-member_links"
+msgstr ""
+"https://wiki.ubuntu.com/CommunityCouncil\r\n"
+"https://wiki.ubuntu.com/CommunityCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
+
+#. ACCOMPLISHMENT: Community Council Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-community-team on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/community-council-member.c:94
+msgid "community-council-member_help"
+msgstr "#ubuntu-community-team në Freenode"
+
+#. ACCOMPLISHMENT: Technical Board Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Technical Board Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/technical-board-member.c:11
+msgid "technical-board-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Technical Board Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a member of the Ubuntu Technical Board
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/technical-board-member.c:20
+msgid "technical-board-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Technical Board Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Ubuntu Technical Board is one of the most important governing boards in the Ubuntu community. The Technical Board advises and decides on technical policy and process as well as acting as an escalation body for incidents that occur elsewhere in the community.
+#. To be a member of the Technical Board you need to have demonstrated a strong commitment and participation history in Ubuntu, strong technical skills and knowledge of the archive, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the board.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/technical-board-member.c:32
+msgid "technical-board-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Technical Board Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+#. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
+#. In the next Technical Board election propose yourself as a candidate.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/technical-board-member.c:45
+msgid "technical-board-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Technical Board Member ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. https://wiki.ubuntu.com/TechnicalBoard
+#. http://www.ubuntu.com/project/about-ubuntu/governance
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/technical-board-member.c:56
+msgid "technical-board-member_links"
+msgstr ""
+"https://wiki.ubuntu.com/TechnicalBoard\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
+
+#. ACCOMPLISHMENT: Technical Board Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-devel-team on Freenode
+#. #ubuntu-community-team on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/technical-board-member.c:68
+msgid "technical-board-member_help"
+msgstr ""
+"#ubuntu-devel-team në Freenode\r\n"
+"#ubuntu-community-team në Freenode"
+
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Approved Ubuntu Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-member.c:11
+msgid "ubuntu-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are an Approved Ubuntu Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-member.c:20
+msgid "ubuntu-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. An Ubuntu Member is someone who has demonstrated a <i>significant and sustained</i> contribution to Ubuntu.
+#. Each Ubuntu Member is seen as a reliable and dependable contributor to Ubuntu who has contributed to further and improve Ubuntu.
+#. Importantly, Ubuntu Membership does not require any specific skill; great contributions in development, documentation, translations, advocacy, support, art, design, and many other areas are all worthy of membership.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-member.c:33
+msgid "ubuntu-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Contribute extensively to Ubuntu for a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+#. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
+#. Ask your fellow community members to contribute testimonials of your contributions.
+#. Schedule yourself for review at a regional membership board, IRC council, Forums council, or developer membership board meeting to review your contributions. You can find the nearest board using the links below.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-member.c:47
+msgid "ubuntu-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. http://wiki.ubuntu.com/Membership
+#. https://wiki.ubuntu.com/Membership/RegionalBoards
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-member.c:58
+msgid "ubuntu-member_links"
+msgstr ""
+"http://wiki.ubuntu.com/Membership\r\n"
+"https://wiki.ubuntu.com/Membership/RegionalBoards"
+
+#. ACCOMPLISHMENT: Approved Ubuntu Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-community-team on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-member.c:69
+msgid "ubuntu-member_help"
+msgstr "#ubuntu-community-team në Freenode"
+
+#. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Juju Charm Contributor
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/juju-charm-contributor.c:11
+msgid "juju-charm-contributor_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You contribute Juju charms to Ubuntu.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/juju-charm-contributor.c:20
+msgid "juju-charm-contributor_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/juju-charm-contributor.c:31
+msgid "juju-charm-contributor_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Juju Charm Contributor ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Contribute a number of Juju charms.
+#. Contribute regularly and to a high enough quality.
+#. Ask a member of the Juju Contributors team if you can join.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/juju-charm-contributor.c:44
+msgid "juju-charm-contributor_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. http://juju.ubuntu.com
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/juju-charm-contributor.c:54
+msgid "juju-charm-contributor_links"
+msgstr "http://juju.ubuntu.com"
+
+#. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #juju on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/juju-charm-contributor.c:65
+msgid "juju-charm-contributor_help"
+msgstr "#juju në Freenode"
+
+#. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Ubuntu Forums Staff Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/forum-staff-member.c:11
+msgid "forum-staff-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a member of the Ubuntu Forums Staff
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/forum-staff-member.c:20
+msgid "forum-staff-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Ubuntu Forums Staff are the moderation team behind the Ubuntu Forums.  The Ubuntu Forums staff tackle day to day running of the forum and gives feedback to the Forum Council when requested.
+#. Members of the Forum Staff have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the forums. Members are also expected to have good people skills and have the ability to empathise with others.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-staff-member.c:32
+msgid "forum-staff-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Become an Ubuntu Forums Member.
+#. Wait for elections to be held on new staff. The Forum Council will make a shortlist of candidates, if you are included in the shortlist you will be contacted inviting you to stand for election.
+#. If you agree to stand the Ubuntu Forums Members will have the opportunity to vote for you.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-staff-member.c:45
+msgid "forum-staff-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Focus on your soft skills, having good people skills is very important.
+#. Be active in the support areas of the forum, but also be seen in the Community Cafe
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-staff-member.c:57
+msgid "forum-staff-member_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Please do not ask to become Forums Staff
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-staff-member.c:68
+msgid "forum-staff-member_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntuforums on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/forum-staff-member.c:79
+msgid "forum-staff-member_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Council Member ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. LoCo Council Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/loco-council-member.c:11
+msgid "loco-council-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Council Member ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You are a member of the LoCo Council
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/loco-council-member.c:20
+msgid "loco-council-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
+#. The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally.
+#. To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/loco-council-member.c:33
+msgid "loco-council-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+#. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
+#. In the next LoCo Council election propose yourself as a candidate.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/loco-council-member.c:46
+msgid "loco-council-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
+#. You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
+#. Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/loco-council-member.c:59
+msgid "loco-council-member_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Don't apply to the LoCo Council just to be in a position of power.
+#. Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/loco-council-member.c:71
+msgid "loco-council-member_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: LoCo Council Member ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. https://wiki.ubuntu.com/LoCoCouncil
+#. https://wiki.ubuntu.com/LoCoCouncilAgenda
+#. http://www.ubuntu.com/project/about-ubuntu/governance
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/loco-council-member.c:83
+msgid "loco-council-member_links"
+msgstr ""
+"https://wiki.ubuntu.com/LoCoCouncil\r\n"
+"https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
+
+#. ACCOMPLISHMENT: LoCo Council Member ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-community-team on Freenode
+#. #ubuntu-locoteams on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/loco-council-member.c:95
+msgid "loco-council-member_help"
+msgstr ""
+"#ubuntu-community-team në Freenode\r\n"
+"#ubuntu-locoteams në Freenode"
+
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
 #. ENGLISH TRANSLATION:
@@ -1980,3 +2167,115 @@ msgstr "https://wiki.ubuntu.com/SponsorshipProcess"
 #: ../accomplishments/core-dev.c:65
 msgid "core-dev_help"
 msgstr "#ubuntu-devel në Freenode"
+
+#. ACCOMPLISHMENT: First Bazaar Branch Merged ('title' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. First Bazaar Branch Merged
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/first-branch-merged.c:11
+msgid "first-branch-merged_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You have contributed code to a project in Launchpad
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/first-branch-merged.c:20
+msgid "first-branch-merged_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. A core part of Launchpad is the ability to host different branches of code (using the Bazaar version control system) and for other people to propose improvements and changes to those branches.
+#. What commonly happens here is that you <i>branch</i> the code from launchpad (for example, running <tt>bzr branch lp:the-project</tt>) and this downloads the current main branch to your computer. You then work on improvements to that branch and commit your changes using <tt>bzr commit</tt>. You then upload your changes to Launchpad using <tt>bzr push</tt> so others can see your work.
+#. You can now propose that your branch is merged into another branch. This means that the owner of the original branch that you improved will contribute your improvements to it, this merging in your work.
+#. This trophy is awarded when you have successfully had one of your branches merged into another branch.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/first-branch-merged.c:34
+msgid "first-branch-merged_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: First Bazaar Branch Merged ('steps' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a <i>Propose For Merging</i> link. Click it.
+#. In the form choose the branch you want to merge into and fill a detailed description of the change, fix, or feature that you have contributed.
+#. Click the <i>Propose Merge</i> button to submit your contribution.
+#. Wait for one of the target branch's reviewers to review your code, they will either (1) accept your code, and it will be merged, (2) modify your code slightly, and then merge it, or (3) ask for you to make some improvements before they merge it.
+#. If they request changes to be made, make the changes requested and push them into your branch. Then comment back on your proposal to say that you have made the requested changes.
+#. Now wait for the developer to review your changes. When it is merged you will get an email to inform you it was merged in.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/first-branch-merged.c:50
+msgid "first-branch-merged_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: First Bazaar Branch Merged ('tips' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. Join the IRC channel best suited for the branch you are working on and talk to developers, they will be glad to help you.
+#. Read bazaar documentation to get acquainted with it.
+#. The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
+#. Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/first-branch-merged.c:64
+msgid "first-branch-merged_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: First Bazaar Branch Merged ('pitfalls' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/first-branch-merged.c:75
+msgid "first-branch-merged_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: First Bazaar Branch Merged ('links' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. https://help.launchpad.net/Code/Review
+#. http://wiki.bazaar.canonical.com/Tutorials
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/first-branch-merged.c:86
+msgid "first-branch-merged_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: First Bazaar Branch Merged ('help' field)
+#. .
+#. ENGLISH TRANSLATION:
+#. #ubuntu-devel on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/first-branch-merged.c:97
+msgid "first-branch-merged_help"
+msgstr ""
