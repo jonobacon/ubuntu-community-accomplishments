@@ -1,0 +1,5 @@
+[success]
+launchpad-email = cjwatson@ubuntu.com 
+
+[failure]
+launchpad-email = jono@ubuntu.com
