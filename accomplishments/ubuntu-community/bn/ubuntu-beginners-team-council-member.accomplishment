@@ -1,0 +1,21 @@
+[accomplishment]
+title = উবুন্টু শিক্ষানবিশ দল পরিষদের সদস্য
+description = আপনি একজন উবুন্টু শিক্ষানবিশ দল পরিষদের সদস্য
+application = ubuntu-community
+category = Governance
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+summary = The Ubuntu Beginners Team Council is the primary governance body for the Ubuntu Beginners Team. The Beginners Team Council advises Focus Group leaders when they require assistance.
+	Members of the Beginners Team Council have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the council. Members are also expected to have good people skills and have the ability to empathise with others.
+steps = Become a member of the Beginners Team
+	Become an Ubuntu Member
+	Wait for an election, if you feel you can fulfill the role then send an email to the mailing list and await further instructions.
+tips = Focus on your leadership abilities. The Beginners Team Council is an important leadership position and we look for strong, capable, confident leaders.
+	Get involved with as many Focus Groups as possible before seeking to join the council.
+	Socialise with Ubuntu Community Members outside of the Beginners Team. Building good contacts is essential.
+	Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
+pitfalls = None
+help = #ubuntu-beginners-council on Freenode
+

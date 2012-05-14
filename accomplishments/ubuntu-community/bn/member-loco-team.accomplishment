@@ -1,0 +1,17 @@
+[accomplishment]
+title = লোকো দলের সদস্য
+description = আপনি একজন লোকো দলের সদস্য
+application = ubuntu-community
+category = LoCo Teams
+needs-signing = true
+needs-information = launchpad-email
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+summary = সমস্ত বিশ্বে উবুন্টু লোকো (স্থানীয় সম্প্রদায়) স্থানীয় ব্যবহারকারী গোষ্ঠীভিত্তিক দলসমূহ যেখানে মানুষ একত্রিত হয় উবান্তু আলোচনা, মত, পরামর্শ, কৌশল, আর জ্ঞান বিনিময় করতে তার সাথে উবুন্টু বাণী ছড়িয়ে দেয়া এবং কিভাবে এটা মানুষকে সহায়তা করতে পারে তার জন্য সম্মিলিতভাবে কাজ করে.
+steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
+	Visit that team's Launchpad page click the Join Team link.
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams on Freenode
+	#ubuntu-community-team on Freenode
+
