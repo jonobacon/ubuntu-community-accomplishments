@@ -1,3 +1,10 @@
+ubuntu-community-accomplishments (0.1.1) precise; urgency=low
+
+  * New release with new set of accomplishments.
+  * Added tests.
+
+ -- Jono Bacon <jono@ubuntu.com>  Mon, 14 May 2012 11:53:31 -0700
+
 ubuntu-community-accomplishments (0.1) precise; urgency=low
 
   * Initial Release.
