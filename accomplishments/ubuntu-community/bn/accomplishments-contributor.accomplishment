@@ -1,6 +1,6 @@
 [accomplishment]
-title = Accomplishments Contributor
-description = You have contributed an accomplishment to the official accomplishments collection
+title = অভিষ্টলাভগুলিতে অবদানকারি.
+description = আপনি অফিসিয়াল নিষ্পাদন সমূহ সংগ্রহে একটি নিষ্পাদন অবদান রেখেছেন
 application = ubuntu-community
 category = Development
 needs-signing = true
@@ -20,7 +20,7 @@ steps = Begin with a nice idea of a new accomplishment. Make sure it hasn't been
 	When your MP will be accepted, you accomplishments should be available from daily builds PPA, and will be included in the next release.
 tips = Hang around on #ubuntu-accomplishments if you need help. There are many experienced accomplishments creators, who will be glad to help you!
 	Pay attention to test your accomplishment in details - it will not make it into the official collection in case something is wrong.
-pitfalls = Follow the guidelines. If you won't, all your work will get rejected.
+pitfalls = নির্দেশাবলী অনুসরণ করুন. যদি আপনি না পারেন, আপনার সকল কাজ প্রত্যাখ্যান করা হবে.
 help = #ubuntu-accomplishments on Freenode
 	<a href='https://launchpad.net/~ubuntu-accomplishments-contributors' style='color:white'><b>~ubuntu-accomplishments-contributors</b></a> mailing list
 

@@ -1,6 +1,6 @@
 [accomplishment]
-title = Community Council Member
-description = You are a member of the Community Council
+title = সম্প্রদায় পরিষদের সদস্য.
+description = আপনি একজন সম্প্রদায় পরিষদের সদস্য.
 application = ubuntu-community
 category = Governance
 needs-signing = true
@@ -18,5 +18,5 @@ tips = Focus on your leadership abilities. The Community Council is an important
 	Only apply to the Community Council when you have had a significant amount of experience in the community.
 pitfalls = Don't apply to the Community Council just to be in a position of power.
 	Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
-help = #ubuntu-community-team on Freenode
+help = ফ্রিনোড এ #ubuntu-community-team .
 

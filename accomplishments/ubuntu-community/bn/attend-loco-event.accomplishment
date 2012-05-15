@@ -1,6 +1,6 @@
 [accomplishment]
-title = Attend LoCo Team Event
-description = You attended a Local Community Team event
+title = লোকো দলের অনুষ্ঠানে আসুন
+description = আপনি একটি স্থানীয় সম্প্রদায় দলের অনুষ্ঠানে এসেছিলেন.
 application = ubuntu-community
 category = LoCo Teams
 needs-signing = true
@@ -16,6 +16,5 @@ steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team.
 	Attend the event in question and have a great time!
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams on Freenode
-	#ubuntu-community-team on Freenode
+help = ফ্রিনোড এ #ubuntu-locoteams ফ্রিনোড এ #ubuntu-community-team
 

@@ -1,6 +1,6 @@
 [accomplishment]
-title = LoCo Council Member
-description = You are a member of the LoCo Council
+title = লোকো পরিষদের সদস্য.
+description = আপনি একজন লোকো পরিষদের সদস্য.
 application = ubuntu-community
 category = Governance
 needs-signing = true

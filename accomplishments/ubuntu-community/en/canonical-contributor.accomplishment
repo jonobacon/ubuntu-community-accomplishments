@@ -1,0 +1,21 @@
+[accomplishment]
+title=Signed the Canonical Contributors Agreement
+description=you have signed the Canonical Contributors agreement and can have branches merged.
+application=ubuntu-community
+category=Development
+icon=devel.png
+depends=ubuntu-community/registered-on-launchpad
+needs-signing=true
+needs-information=launchpad-email
+summary = For certain free software projects managed by Canonical, Canonical asks contributors to send contributor licence agreement form. This agreement establishes a relationship between Canonical and the contributor, gives details on what it means when the contributor grants permission for their work to be included in a project, and enables Canonical to be better stewards of these projects.
+steps: The <b>Canonical Copyright Licence Agreement</b> should be signed online; please fill in your name and contact information on the agreement form.
+       Open your browser and visit <a href="http://www.canonical.com/contributors">http://www.canonical.com/contributors</a>.
+       Choose from the list the contact member best suited for project you are working on.
+       Now point your browser to <a href="https://forms.canonical.com/contributor">https://forms.canonical.com/contributor</a>.
+       Complete the requested fields.
+       Complete the <tt>"Please add the Canonical Project Manager or contact"</tt> field with contact member details you have previously choosen.
+       Click on tje <tt>I agree</tt> button.
+       You will now be added to a queue to be approved. Congratulations! Please wait a few days to see your mebership in Launchpad.
+links: http://www.canonical.com/contributors
+       https://forms.canonical.com/contributor
+help = #ubuntu-devel on Freenode

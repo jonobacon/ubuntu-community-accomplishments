@@ -1,6 +1,6 @@
 [accomplishment]
-title = Imported an SSH Key
-description = You have imported an SSH key into launchpad.
+title = একটি SSH-চাবি আনায়ন হয়েছে.
+description = আপনি লন্চপ্যাড এ একটি SSH-চাবি এনেছেন
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
@@ -17,5 +17,5 @@ steps = Install OpenSSH. You can install OpenSSH by opening your terminal and ty
 	Paste your public key into the text box and then click the <b>Import public key</b> button to continue.
 tips = None
 pitfalls = None
-help = #launchpad on Freenode
+help = ফ্রিনোড এ #launchpad .
 

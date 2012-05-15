@@ -1,6 +1,6 @@
 [accomplishment]
-title = Ubuntu Forums Council Member
-description = You are a member of the Ubuntu Forum Council
+title = উবুন্টু ফোরাম পরিষদের সদস্য.
+description = আপনি একজন উবুন্টু ফোরাম পরিষদের সদস্য.
 application = ubuntu-community
 category = Governance
 needs-signing = true
@@ -14,5 +14,5 @@ steps = Become an Ubuntu Forums Member. Demonstrate effective and extensive cont
 tips = Focus on your leadership abilities. The Forums Council is an important leadership position and we look for strong, capable, confident leaders.
 	Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
 pitfalls = None
-help = #ubuntuforums on Freenode
+help = ফ্রিনোড্ এ #ubuntuforums .
 

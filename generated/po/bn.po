@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-12 17:37+0200\n"
-"PO-Revision-Date: 2012-05-13 23:31+0000\n"
+"PO-Revision-Date: 2012-05-15 01:04+0000\n"
 "Last-Translator: Kazi Shahnoor Ashraf <kazidxb@gmail.com>\n"
 "Language-Team: Bengali <bn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-14 05:24+0000\n"
+"X-Launchpad-Export-Date: 2012-05-15 05:25+0000\n"
 "X-Generator: Launchpad (build 15238)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -70,6 +70,10 @@ msgstr ""
 #: ../accomplishments/member-loco-team.c:43
 msgid "member-loco-team_steps"
 msgstr ""
+"<tt>loco.ubuntu.com</tt> তে যান এবং আপনার যোগদানের জন্য নিকটতম দল খুঁজে বার "
+"করুন.    আপনি কোনো লোকো দলের সদস্য হলে এর অনুমোদন অবস্থা নির্বিশেষে আপনাকে "
+"এই ট্রফিতে ভূষিত করা হবে.  ওই দলের লন্চপ্যাড পৃষ্ঠায় যান এবং \"Join Team\" "
+"এই লিংকে ক্লিক করুন."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('links' field)
 #. .
@@ -81,7 +85,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/member-loco-team.c:53
 msgid "member-loco-team_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('help' field)
 #. .
@@ -95,7 +99,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/member-loco-team.c:65
 msgid "member-loco-team_help"
-msgstr ""
+msgstr "#ubuntu-locoteams ফ্রিনোড এ #ubuntu-community-team ফ্রিনোড এ"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
@@ -107,7 +111,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/user-has-mugshot.c:11
 msgid "user-has-mugshot_title"
-msgstr ""
+msgstr "লন্চপ্যাড প্রোফাইলের মধ্যে একটি মুখমণ্ডলের ছবি স্থাপন."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
 #. .
@@ -119,6 +123,7 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:20
 msgid "user-has-mugshot_description"
 msgstr ""
+"ব্যবহারকারী তার নিজের লন্চপ্যাড প্রোফাইলে একটি মুখমণ্ডলের ছবি স্থাপন করেছে."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
 #. .
@@ -346,7 +351,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:70
 msgid "ubuntu-beginners-team-council-member_pitfalls"
-msgstr ""
+msgstr "নাই"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('help' field)
 #. .
@@ -359,7 +364,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:81
 msgid "ubuntu-beginners-team-council-member_help"
-msgstr ""
+msgstr "#ubuntu-beginners-council ফ্রিনোড এ"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('links' field)
 #. .
@@ -371,7 +376,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:91
 msgid "ubuntu-beginners-team-council-member_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/BeginnersTeam/Structure#Council"
 
 #. ACCOMPLISHMENT: Bug Control Member ('title' field)
 #. .
@@ -383,7 +388,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-bugcontrol-member.c:11
 msgid "ubuntu-bugcontrol-member_title"
-msgstr ""
+msgstr "ত্রুটি নিয়ন্ত্রন সদস্য."
 
 #. ACCOMPLISHMENT: Bug Control Member ('description' field)
 #. .
@@ -395,6 +400,7 @@ msgstr ""
 #: ../accomplishments/ubuntu-bugcontrol-member.c:20
 msgid "ubuntu-bugcontrol-member_description"
 msgstr ""
+"আপনি একজন গুরুত্ব মূল্যায়ণকারী বিশেষজ্ঞ এবং উবুন্টু ত্রুটি নিয়ন্ত্রন সদস্য"
 
 #. ACCOMPLISHMENT: Bug Control Member ('summary' field)
 #. .
@@ -408,6 +414,13 @@ msgstr ""
 #: ../accomplishments/ubuntu-bugcontrol-member.c:31
 msgid "ubuntu-bugcontrol-member_summary"
 msgstr ""
+"উবুন্টু ত্রুটি নিয়ন্ত্রণ দল (লন্চপ্যাড এ ubuntu-bugcontrol) হচ্ছে উবুন্টু "
+"ত্রুটি স্কোয়াডের একটি উপবিভাগ যারা ​​উবুন্টু ত্রুটি কর্মের গুরুত্ব পরিবর্তন "
+"করতে পারেন, \"গুরুত্ব মূল্যায়ণ\" অথবা \"ত্রুটিমুক্ত হবে না\" এমন একটি "
+"উবুন্টু ত্রুটি কার্যনির্বাহ অবস্থা নির্ধারণ এবং উবুন্টুর একটি প্রকাশের জন্য "
+"একটি ত্রুটি মনোনয়ন করেন. ত্রুটি নিয়ন্ত্রণ দল হচ্ছে <b>গুরুত্ব "
+"মূল্যায়ণকারী বিশেষজ্ঞ</b> বৃন্দের সমষ্টি যারা অভিজ্ঞ গুরুত্ব মূল্যায়ণকারী, "
+"এবং উবুন্টুতে গুরুত্ব মূল্যায়ণ কার্যনির্বাহ জানেন."
 
 #. ACCOMPLISHMENT: Bug Control Member ('tips' field)
 #. .
@@ -463,7 +476,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-bugcontrol-member.c:79
 msgid "ubuntu-bugcontrol-member_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/UbuntuBugControl"
 
 #. ACCOMPLISHMENT: Bug Control Member ('help' field)
 #. .
@@ -476,7 +489,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-bugcontrol-member.c:90
 msgid "ubuntu-bugcontrol-member_help"
-msgstr ""
+msgstr "ফ্রিনোড এ #ubuntu-bugs"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('title' field)
 #. .
@@ -488,7 +501,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/loco-council-member.c:11
 msgid "loco-council-member_title"
-msgstr ""
+msgstr "লোকো পরিষদের সদস্য."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('description' field)
 #. .
@@ -499,7 +512,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/loco-council-member.c:20
 msgid "loco-council-member_description"
-msgstr ""
+msgstr "আপনি একজন লোকো পরিষদের সদস্য."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 #. .
@@ -598,7 +611,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/forum-council-member.c:11
 msgid "forum-council-member_title"
-msgstr ""
+msgstr "উবুন্টু ফোরাম পরিষদের সদস্য."
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('description' field)
 #. .
@@ -609,7 +622,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/forum-council-member.c:20
 msgid "forum-council-member_description"
-msgstr ""
+msgstr "আপনি একজন উবুন্টু ফোরাম পরিষদের সদস্য."
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('summary' field)
 #. .
@@ -666,6 +679,9 @@ msgstr ""
 #: ../accomplishments/forum-council-member.c:68
 msgid "forum-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/ForumCouncil "
+"https://wiki.ubuntu.com/ForumCouncilAgenda "
+"http://www.ubuntu.com/project/about-ubuntu/governance ."
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('help' field)
 #. .
@@ -678,7 +694,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-council-member.c:79
 msgid "forum-council-member_help"
-msgstr ""
+msgstr "ফ্রিনোড্ এ #ubuntuforums ."
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('title' field)
 #. .
@@ -690,7 +706,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/attend-loco-event.c:11
 msgid "attend-loco-event_title"
-msgstr ""
+msgstr "লোকো দলের অনুষ্ঠানে আসুন"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('description' field)
 #. .
@@ -701,7 +717,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/attend-loco-event.c:20
 msgid "attend-loco-event_description"
-msgstr ""
+msgstr "আপনি একটি স্থানীয় সম্প্রদায় দলের অনুষ্ঠানে এসেছিলেন."
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('summary' field)
 #. .
@@ -744,7 +760,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/attend-loco-event.c:57
 msgid "attend-loco-event_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com ."
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('help' field)
 #. .
@@ -758,7 +774,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/attend-loco-event.c:69
 msgid "attend-loco-event_help"
-msgstr ""
+msgstr "ফ্রিনোড এ #ubuntu-locoteams ফ্রিনোড এ #ubuntu-community-team"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('title' field)
 #. .
@@ -770,7 +786,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/imported-ssh-key.c:11
 msgid "imported-ssh-key_title"
-msgstr ""
+msgstr "একটি SSH-চাবি আনায়ন হয়েছে."
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('description' field)
 #. .
@@ -781,7 +797,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/imported-ssh-key.c:20
 msgid "imported-ssh-key_description"
-msgstr ""
+msgstr "আপনি লন্চপ্যাড এ একটি SSH-চাবি এনেছেন"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('summary' field)
 #. .
@@ -825,7 +841,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/imported-ssh-key.c:58
 msgid "imported-ssh-key_links"
-msgstr ""
+msgstr "https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair ."
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('help' field)
 #. .
@@ -838,7 +854,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/imported-ssh-key.c:69
 msgid "imported-ssh-key_help"
-msgstr ""
+msgstr "ফ্রিনোড এ #launchpad ."
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('title' field)
 #. .
@@ -850,7 +866,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/accomplishments-contributor.c:11
 msgid "accomplishments-contributor_title"
-msgstr ""
+msgstr "অভিষ্টলাভগুলিতে অবদানকারি."
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('description' field)
 #. .
@@ -861,7 +877,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/accomplishments-contributor.c:20
 msgid "accomplishments-contributor_description"
-msgstr ""
+msgstr "আপনি অফিসিয়াল নিষ্পাদন সমূহ সংগ্রহে একটি নিষ্পাদন অবদান রেখেছেন"
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('summary' field)
 #. .
@@ -924,6 +940,8 @@ msgstr ""
 #: ../accomplishments/accomplishments-contributor.c:74
 msgid "accomplishments-contributor_pitfalls"
 msgstr ""
+"নির্দেশাবলী অনুসরণ করুন. যদি আপনি না পারেন, আপনার সকল কাজ প্রত্যাখ্যান করা "
+"হবে."
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('links' field)
 #. .
@@ -938,6 +956,9 @@ msgstr ""
 #: ../accomplishments/accomplishments-contributor.c:86
 msgid "accomplishments-contributor_links"
 msgstr ""
+"https://wiki.ubuntu.com/community/Accomplishments "
+"https://wiki.ubuntu.com/Accomplishments/Creating "
+"https://wiki.ubuntu.com/Accomplishments/Trophies"
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('help' field)
 #. .
@@ -963,7 +984,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/community-council-member.c:11
 msgid "community-council-member_title"
-msgstr ""
+msgstr "সম্প্রদায় পরিষদের সদস্য."
 
 #. ACCOMPLISHMENT: Community Council Member ('description' field)
 #. .
@@ -974,7 +995,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/community-council-member.c:20
 msgid "community-council-member_description"
-msgstr ""
+msgstr "আপনি একজন সম্প্রদায় পরিষদের সদস্য."
 
 #. ACCOMPLISHMENT: Community Council Member ('summary' field)
 #. .
@@ -1048,6 +1069,9 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:83
 msgid "community-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/CommunityCouncil "
+"https://wiki.ubuntu.com/CommunityCouncilAgenda "
+"http://www.ubuntu.com/project/about-ubuntu/governance ."
 
 #. ACCOMPLISHMENT: Community Council Member ('help' field)
 #. .
@@ -1060,7 +1084,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:94
 msgid "community-council-member_help"
-msgstr ""
+msgstr "ফ্রিনোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Bug Squad Member ('title' field)
 #. .
@@ -1072,7 +1096,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/bugsquad-member.c:11
 msgid "bugsquad-member_title"
-msgstr ""
+msgstr "ত্রুটি স্কোয়াড সদস্য"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('description' field)
 #. .
@@ -1083,7 +1107,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/bugsquad-member.c:20
 msgid "bugsquad-member_description"
-msgstr ""
+msgstr "আপনি একজন উবুন্টু ত্রুটি স্কোয়াড সদস্য"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('summary' field)
 #. .
@@ -1127,6 +1151,7 @@ msgstr ""
 #: ../accomplishments/bugsquad-member.c:57
 msgid "bugsquad-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/BugSquad http://wiki.ubuntu.com/HelpingWithBugs ."
 
 #. ACCOMPLISHMENT: Bug Squad Member ('help' field)
 #. .
