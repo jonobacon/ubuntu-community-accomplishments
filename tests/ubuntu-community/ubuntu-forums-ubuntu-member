@@ -1,0 +1,5 @@
+[success]
+launchpad-email = Effenberg0x0@Ubuntu.com
+
+[failure]
+launchpad-email = fail@fail.com
