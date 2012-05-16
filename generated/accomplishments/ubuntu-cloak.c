@@ -23,7 +23,7 @@ _("ubuntu-cloak_description")
 // ENGLISH TRANSLATION:
 // Ubuntu Members can get an Ubuntu Member cloak in freenode. A cloak is a piece of information that replaces your IP address when connecting to an IRC network. An example could be <tt>ubuntu/member/bobsmith</tt>
 // The cloak can be used to distinguish someone from a project, association, or organization, or just for privacy reasons, as your IP will not be displayed as your host anymore.
-// There are three Ubuntu Member cloaks you can get: <tt>@ubuntu/member/<yourusername></tt>, <tt>@ubuntu/member/other.cloak.<yourusername></tt> and <tt>@other/cloak/ubuntu.member.<yourusername></tt>. You can choose the second or the third cloak as long as both projects agree to it.
+// There are three Ubuntu Member cloaks you can get: <tt>@ubuntu/member/&#60yourusername&#62</tt>, <tt>@ubuntu/member/other.cloak.&#60yourusername&#62</tt> and <tt>@other/cloak/ubuntu.member.&#60yourusername&#62</tt>. You can choose the second or the third cloak as long as both projects agree to it.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
