@@ -1,6 +1,6 @@
 [accomplishment]
-title = Accomplishments Contributor
-description = You have contributed an accomplishment to the official accomplishments collection
+title = Accomplishments 贡献人员
+description = 您已经为官方成就合集贡献了一个成就
 application = ubuntu-community
 category = Development
 needs-signing = true

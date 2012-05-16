@@ -1,6 +1,6 @@
 [accomplishment]
-title = First Bazaar Branch Merged
-description = You have contributed code to a project in Launchpad
+title = প্রথম বাজার শাখা মেশানো হয়েছে
+description = আপনি লন্চপ্যাডের একটি প্রকল্পে কোড দিয়ে অবদান রেখেছেন
 application = ubuntu-community
 category = Launchpad
 needs-signing = true
@@ -22,5 +22,5 @@ tips = Join the IRC channel best suited for the branch you are working on and ta
 	The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
 	Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
 pitfalls = If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
-help = #ubuntu-devel on Freenode
+help = ফ্রিনোড এ #ubuntu-devel .
 

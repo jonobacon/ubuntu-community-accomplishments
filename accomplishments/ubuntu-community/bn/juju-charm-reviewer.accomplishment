@@ -1,6 +1,6 @@
 [accomplishment]
-title = Juju Charm Reviewer
-description = You contribute Juju charms to Ubuntu.
+title = যুযু চার্ম পর্যালোচনাকারী
+description = আপনি উবুন্টুতে যুযু চার্ম দিয়ে অবদান রেখেছেন
 application = ubuntu-community
 category = Juju
 needs-signing = true
@@ -13,5 +13,5 @@ steps = Contribute a significant number of Juju charms.
 	Ask a member of the Juju Reviews team if you can join.
 tips = None
 pitfalls = None
-help = #juju on Freenode
+help = ফ্রিনোড এ #juju .
 
