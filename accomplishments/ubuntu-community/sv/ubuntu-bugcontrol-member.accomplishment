@@ -1,5 +1,5 @@
 [accomplishment]
-title = Bug Control Member
+title = 问题控制成员
 description = You are an expert triager and a member of Ubuntu Bug Control
 application = ubuntu-community
 category = QA
@@ -16,5 +16,5 @@ tips = Be sure to <a href="http://wiki.ubuntu.com/UbuntuBugControl#Requirements_
 	Please <a href="http://wiki.ubuntu.com/UbuntuBugControl#Application">follow the directions for applying</a> before emailing in your application.
 pitfalls = Include your best work when applying, and make sure that all the work shows a wide range of triaging activities.
 	You should probably be a Bug Squad member for at least a few months before applying to Bug Control.
-help = #ubuntu-bugs on Freenode
+help = Freenode 频道 #ubuntu-bugs
 

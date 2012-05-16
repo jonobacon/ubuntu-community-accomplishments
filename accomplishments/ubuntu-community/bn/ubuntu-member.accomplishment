@@ -1,6 +1,6 @@
 [accomplishment]
-title = Approved Ubuntu Member
-description = You are an Approved Ubuntu Member
+title = অনুমোদিত উবুন্টু সদস্য.
+description = আপনি একজন একজন অনুমোদিত উবুন্টু সদস্য.
 application = ubuntu-community
 category = General
 needs-signing = true
@@ -16,5 +16,5 @@ steps = Contribute extensively to Ubuntu for a sustained period of time. There i
 	Schedule yourself for review at a regional membership board, IRC council, Forums council, or developer membership board meeting to review your contributions. You can find the nearest board using the links below.
 tips = None
 pitfalls = None
-help = #ubuntu-community-team on Freenode
+help = ফ্রিনোড এ #ubuntu-community-team.
 

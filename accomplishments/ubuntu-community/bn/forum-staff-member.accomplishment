@@ -1,6 +1,6 @@
 [accomplishment]
-title = Ubuntu Forums Staff Member
-description = You are a member of the Ubuntu Forums Staff
+title = উবুন্টু ফোরামের কর্মী সদস্য
+description = আপনি একজন উবুন্টু ফোরামের কর্মী সদস্য.
 application = ubuntu-community
 category = Governance
 needs-signing = true
@@ -14,6 +14,6 @@ steps = Become an Ubuntu Forums Member.
 	If you agree to stand the Ubuntu Forums Members will have the opportunity to vote for you.
 tips = Focus on your soft skills, having good people skills is very important.
 	Be active in the support areas of the forum, but also be seen in the Community Cafe
-pitfalls = Please do not ask to become Forums Staff
-help = #ubuntuforums on Freenode
+pitfalls = অনুগ্রহ করে ফোরামের কর্মী হতে বলবেন না
+help = ফ্রিনোড এ #ubuntuforums
 

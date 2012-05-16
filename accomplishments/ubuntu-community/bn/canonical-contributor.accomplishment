@@ -1,6 +1,6 @@
 [accomplishment]
-title = Signed the Canonical Contributors Agreement
-description = you have signed the Canonical Contributors agreement and can have branches merged.
+title = ক্যাননিকাল অবদানকারী চুক্তি স্বাক্ষর করেন
+description = আপনি ক্যাননিকাল অবদানকারী চুক্তি স্বাক্ষর করেছেন এবং শাখাসমূহ মেশাতে পারেন.
 application = ubuntu-community
 category = Development
 needs-signing = true
@@ -18,5 +18,5 @@ steps = The <b>Canonical Copyright Licence Agreement</b> should be signed online
 	You will now be added to a queue to be approved. Congratulations! Please wait a few days to see your mebership in Launchpad.
 tips = None
 pitfalls = None
-help = #ubuntu-devel on Freenode
+help = ফ্রিনোড এ #ubuntu-devel
 

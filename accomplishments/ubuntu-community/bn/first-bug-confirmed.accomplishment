@@ -1,6 +1,6 @@
 [accomplishment]
-title = Filed Bug that was Confirmed
-description = Filed a bug in Ubuntu that was confirmed by someone else
+title = ত্রুটি ফাইল করা হয়েছে যা নিশ্চিত করা ছিল
+description = উবুন্টুতে একটি ত্রুটি ফাইল করা হয়েছে যা অন্য কারো মাধ্যমে নিশ্চিত করা হয়েছিল
 application = ubuntu-community
 category = QA
 needs-signing = true
@@ -16,5 +16,5 @@ steps = File a bug as you would normally (see the Filed First Bug accomplishment
 	Any additional information you think can help diagnose the problem. For instance, if the application used to work and suddenly stopped working, specify when it started mis-behaving.
 tips = None
 pitfalls = None
-help = #ubuntu-testing on Freenode
+help = ফ্রিনোড এ #ubuntu-testing
 

@@ -1,6 +1,6 @@
 [accomplishment]
-title = Ubuntu Core Developer
-description = You are an Ubuntu Core Developer
+title = উবুন্টুর মূল ডেভেলপার
+description = আপনি একজন উবুন্টুর মূল ডেভেলপার
 application = ubuntu-community
 category = Development
 needs-signing = true
@@ -13,5 +13,5 @@ steps = Contribute extensively to Ubuntu for a sustained period of time.
 	Apply to the Ubuntu Developer Board to be a core developer.
 tips = None
 pitfalls = None
-help = #ubuntu-devel on Freenode
+help = ফ্রিনোড এ #ubuntu-devel
 
