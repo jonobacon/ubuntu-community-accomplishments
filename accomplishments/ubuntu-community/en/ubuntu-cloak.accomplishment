@@ -1,0 +1,17 @@
+[accomplishment]
+title=Getting an Ubuntu Member Cloak
+description=You are a member of the Community Council
+application=ubuntu-community
+category=General
+icon=default.png
+depends=ubuntu-community/ubuntu-member
+needs-signing=true
+needs-information=launchpad-email
+summary = Ubuntu Members can get an Ubuntu Member cloak in freenode.
+steps: Become an Ubuntu Member.
+	Go to the IRC Council and ask for a cloak, specifying which one would you like.
+	Wait a few minutes, and you'll get cloaked! 
+tips: Be patient! The IRC Council is not always available.
+pitfalls: Don't apply if you're not an Ubuntu Member.
+links: https://wiki.ubuntu.com/IRC/Cloaks
+help = #ubuntu-irc-council on Freenode
