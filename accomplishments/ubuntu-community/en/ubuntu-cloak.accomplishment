@@ -7,10 +7,10 @@ icon=default.png
 depends=ubuntu-community/ubuntu-member
 needs-signing=true
 needs-information=launchpad-email
-summary = Ubuntu Members can get an Ubuntu Member cloak in freenode.
-steps: Become an Ubuntu Member.
-	Go to the IRC Council and ask for a cloak, specifying which one would you like.
-	Wait a few minutes, and you'll get cloaked! 
+summary = Ubuntu Members can get an Ubuntu Member cloak in freenode. A cloak is a piece of information that replaces your IP, when connecting to an IRC network. It may be used to distinguish someone from a project, association, or organization, or just for privacy reasons, as your IP will not be displayed as your host anymore. There are three Ubuntu Member cloaks you can get: @ubuntu/member/<yourusername>, @ubuntu/member/other.cloak.<yourusername> and @other/cloak/ubuntu.member.<yourusername>. You can choose the second cloak as long as both projects agree to it.
+steps: Become an Ubuntu Member (Check "Approved Ubuntu Member" trophy).
+	Go to the IRC Council and ask for a cloak. You should join #ubuntu-irc-council in freenode, and ask one of the members, who is idling there. Don't forget to specify which cloak would you like!
+	Wait a few minutes, so they can process the request, and for the Council member to ask someone of the freenode staff to set it up for you. After that you're cloaked! 
 tips: Be patient! The IRC Council is not always available.
 pitfalls: Don't apply if you're not an Ubuntu Member.
 links: https://wiki.ubuntu.com/IRC/Cloaks
