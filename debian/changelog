@@ -1,3 +1,11 @@
+ubuntu-community-accomplishments (0.1.2) precise; urgency=low
+
+  * Added missing tests for ubuntu-beginners-team-council-member and ubuntu-forums-ubuntu-member.
+  * New: Signed the Canonical Contributors Agreement (Angelo Compagnucci)
+  * New: On Planet Ubuntu (Jono Bacon)
+
+ -- Jono Bacon <jono@ubuntu.com>  Tue, 15 May 2012 19:04:11 -0700
+
 ubuntu-community-accomplishments (0.1.1) precise; urgency=low
 
   * New release with new set of accomplishments.
