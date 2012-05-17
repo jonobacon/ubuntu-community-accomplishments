@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Der Ubuntu-Gemeinderat ("Community-Council") ist der primäre regierende Teil des Ubuntu Projektes und hat als dieser eine wichtige Rolle und hohe Verantwortung gegenüber der Ubuntu Community zu tragen.
 	Das Community-Council berät und entscheidet über die Gemeinschaftspolitik und Vorgänge. Es ist auch eine Eskalationskörper für Vorfälle, die anderswo in der Ubuntu-Gemeinschaft auftreten.
 	Mitglieder des Community-Council weisen ein starkes Engagement, Beteiligung in der Geschichte Ubuntus, und klare Führungsfertigkeiten vor, und haben die Zeit und die Möglichkeit sich den Bedürfnissen des Rates zu verpflichten.

@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = forums.png
 depends = ubuntu-community/ubuntu-member
+author = Silver Fox <silver-fox@ubuntu.com>
 summary = The Ubuntu Forums Staff are the moderation team behind the Ubuntu Forums.  The Ubuntu Forums staff tackle day to day running of the forum and gives feedback to the Forum Council when requested.
 	Members of the Forum Staff have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the forums. Members are also expected to have good people skills and have the ability to empathise with others.
 steps = Become an Ubuntu Forums Member.

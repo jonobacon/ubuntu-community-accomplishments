@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/report-first-bug
+author = Bruno Girin <brunogirin@gmail.com>
 summary = Un bug è un difetto in un software. Aprire bug è un ottima maniera per aiutare a migliorare Ubuntu e per fare in modo che il bug venga risolto, qualcun altro deve essere in grado di riprodurlo e confermarlo. Con più è dettagliata e precisa la vostra segnalazione del bug, più è probabile che questo possa essere riprodotto da qualcun altro. Questo risultato riflette il fatto che almeno una delle vostre segnalazioni di bug era di buona qualità ed è stata confermata da qualcun altro.
 steps = Aprite un bug come lo fareste normalmente (vedere l'adempimento "Segnalare il primo bug" per maggiori dettagli) e assicurarsi che la descrizione sia sufficientemente dettagliata per consentire agli altri di riprodurlo. Per scrivere una buona segnalazione di bug, includere quanto segue:
 	Una chiara e concisa descrizione del problema. Non scordare di menzionare se il bug può essere scatenato ogni volta o se è intermittente.

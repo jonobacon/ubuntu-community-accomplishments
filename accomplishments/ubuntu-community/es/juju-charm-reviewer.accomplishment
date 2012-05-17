@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/juju-charm-contributor
+author = Jono Bacon <jono@ubuntu.com>
 summary = Juju es una tecnología impulsada por la calidad de las recetas o "encantos" disponibles. Este trofeo es para aquellos miembros de confianza de la comunidad que evalúan y aprueban los "encantos" desarrollados por la comunidad para su inclusión en la tienda de encantos de Juju.
 steps = Para obtener este trofeo, puede intentar la siguiente ruta:
 	Crear y compartir un número significativo de recetas para Juju

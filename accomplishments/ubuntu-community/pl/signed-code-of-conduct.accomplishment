@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Kodeks Postępowania Ubuntu jest ważnym dokumentem, który zawiera zbiór wytycznych i zasad dobrego postępowania w społeczności Ubuntu.
 	Obejmuje on oczekiwania dotyczące rozwagi, szacunku, współpracy, oraz wskazuje, jak prosić o pomoc i jak ustąpić, gdy stajesz się zbyt zajęty i brakuje Ci czasu dla wkładu w Ubuntu.
 	Otrzymasz to trofeum zgodziwszy się przestrzegać tych zasad społeczności i podpiszesz Kodeks Postępowania Ubuntu.

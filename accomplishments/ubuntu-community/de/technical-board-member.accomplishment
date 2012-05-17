@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Der Ubuntu Technische Vorstand ("Technical Board") ist einer der wichtigsten agierenden Vorstände in der Ubuntu Gemeinschaft. Der Technische Vorstand berät und entschließt Vorgehensweisen bezüglich technischen Themen. Er ist auch ein Eskalationskörper für Vorfälle, die anderswo in der Ubuntu-Gemeinschaft auftreten. 
 	Um Mitglied des Technischen Vorstands zu werden muss man ein starkes Engagement, Beteiligung in der Geschichte Ubuntus und klare Führungsfertigkeiten vorgewiesen haben und die Zeit und die Möglichkeit sich den Bedürfnissen des Rates zu verpflichten haben.
 steps = Tragen Sie intensiv für einen längeren Zeitraum zu Ubuntu bei. Es gibt keine festgelegten Zeitraum, aber er sollte lang genug sein um ihren Einsatz für das Projekt zu erkennen.

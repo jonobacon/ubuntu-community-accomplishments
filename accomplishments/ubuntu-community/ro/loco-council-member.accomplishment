@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Consiliul LoCo Ubuntu este o comisie ce supervizează echipele de comunități locale din lume.
 	Consiliul LoCo recomandă și determină politica și procesul comunităților locale. Consiliul LoCo ajută de asemenea la rezolvarea problemelor ce nu au putut fi rezolvate intern de către echipele LoCo. 
 	Pentru a fi membru al consiliului LoCo, trebuie să fi demonstrat un angajament puternic și o durată mare de participare în Echipele Ubuntu LoCo, capacități clare de lider, și să ai timpul și disponibilitatea necesară de a răspunde nevoilor consiliului. Un bun membru al Consiliului LoCo va arăta că este capabil să asculte și să înțeleagă nevoile diverselor culturi și comunități. Membrii Consiliului LoCo trebuie să fie capabili să inspire și să ghideze conducerile echipelor LoCo.

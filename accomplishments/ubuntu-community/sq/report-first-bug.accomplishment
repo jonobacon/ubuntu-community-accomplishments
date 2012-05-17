@@ -9,6 +9,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Një <i>defekt</ i> është një problem në një pjesë të softuerit. Kur ju raportoni një defekt kjo do të thotë se ju bëni me dije projektin Ubuntu rreth njërit prej këtyre defekteve kështu që ne mund ta rregullojmë atë.
 	Kur ju raportoni një defekt fillon një bisedë mes zhvilluesit të softuerit dhe palëve të tjera të interesuara për të ndihmuar në identifikimin e shkakut të problemit dhe për të dhënë informacion të mjaftueshëm në mënyrë që zhvilluesi i softuerit mund të zgjidh atë. Kjo bisedë shpesh përfshinë zhvillues (it) duke ju kërkuar për informacione të ndryshme që mund të ndihmojnë ato në gjetjen e shkakut të problemit.
 	Kjo bisedë zhvillohet në një <i>ndjekës defektesh</ i>, një mjet që ofron mundësinë për të pasur këtë bisedë, dhe vendos prioritetet për të siguruar që defektet me influencën më të madhe të rregullohen më shpejt se sa shumë probleme të tjera më të vogla.

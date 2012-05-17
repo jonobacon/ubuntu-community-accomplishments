@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Les équipe locales de la communauté Ubuntu sont des groupes d'utilisateurs basés partout dans le monde au sein desquels des membres se retrouvent pour discuter d'Ubuntu, partagent des idées, trucs et astuces ainsi que des connaissances et travaillent ensemble promouvoir Ubuntu comment il peut aider les gens.
 steps = Consultez la page <tt>loco.ubuntu.com</tt> et trouvez l'équipe locale la plus proche. Ce trophée est discerné si vous êtes un membre d'une équipe locale, qu'elle soit approuvée ou non.
 	Visitez la page de l'équipe sur <i>Launchpad</i> et cliquez sur le lien <i>Join Team (Rejoindre à l'équipe)</i>.

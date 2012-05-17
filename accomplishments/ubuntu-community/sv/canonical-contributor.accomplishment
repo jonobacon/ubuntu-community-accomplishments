@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>
 summary = For certain free software projects managed by Canonical, Canonical asks contributors to send contributor licence agreement form. This agreement establishes a relationship between Canonical and the contributor, gives details on what it means when the contributor grants permission for their work to be included in a project, and enables Canonical to be better stewards of these projects.
 steps = The <b>Canonical Copyright Licence Agreement</b> should be signed online; please fill in your name and contact information on the agreement form.
 	Open your browser and visit <a href="http://www.canonical.com/contributors">http://www.canonical.com/contributors</a>.

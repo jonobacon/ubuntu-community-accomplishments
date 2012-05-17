@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = <i>Błąd</i> występuje w części oprogramowania. Kiedy zgłaszasz błąd oznacza to, że informujesz o nim projekt Ubuntu, dzięki czemu możemy go rozwiązać.
 	W momencie zgłoszenia błędu rozpoczyna się dyskusja z twórcami Ubuntu oraz innymi zainteresowanymi tym błędem, mająca na celu zgromadzenie odpowiedniej ilości informacji, które są potrzebne do ustalenia źródła problemu, aby mógł zostać on szybko usunięty. Do dyskusji tej z reguły angażują się deweloperzy, zadając Ci różne pytania, które pomogą im na szybsze zlokalizowanie problemu.
 	Ta dyskusja ma miejsce w tzw. <i>bug tracker</i>; jest to narzędzie które pozwala na prowadzenie tej dyskusji, oraz ustawanie priorytetu błędu, aby mieć pewność, że ważne błędy zostaną rozwiązane wcześniej.

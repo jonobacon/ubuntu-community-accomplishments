@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Un desarrollador del núcleo de Ubuntu es responsable de empaquetar y resolver problemas de los programas que sean parte del repositorio <tt>main</tt> . Este repositorio incluye algunas de las aplicaciones más importantes de la distribución y todas las que son parte integral de una instalación de Ubuntu por defecto. La posición que ocupa un desarrollador del núcleo de Ubuntu es considerada una de las más importantes de toda la comunidad, al menos en el aspecto técnico, por delante aún de los desarrolladores MOTU.
 steps = Para obtener este trofeo, se sugiere que:
 	Envíe correcciones en forma de parches o ramas de bazaar a Ubuntu por un periodo considerable de tiempo

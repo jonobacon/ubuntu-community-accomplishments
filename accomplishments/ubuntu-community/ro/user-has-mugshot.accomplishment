@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
+author = Andrea Grandi <a.grandi@gmail.com>
 summary = O poză este o imagine avatar pe care utilizatorul o poate seta în profilul său Launchpad. Este bine când oamenii te pot identifica doar privind o fotografie de-a ta.
 	Îți recomandăm să alegi o poză reala de a ta (de obicei doar la nivelul feței) sau un alt avatar care îți place cu adevărat. Te rugăm să încerci să eviți imagini cu conținut potențial ofensator la adresa altor persoane (ex.: conținut exclusiv pentru adulți).
 	Această imagine trebuie să aibă exact dimensiunile <strong>192x192</strong> și șă nu fie mai mare de <strong>100 Kb</strong>.

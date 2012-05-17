@@ -7,13 +7,13 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/bugsquad-member
+author = Matt Fischer <matthew.fischer@canonical.com>
 summary = উবুন্টু ত্রুটি নিয়ন্ত্রণ দল (লন্চপ্যাড এ ubuntu-bugcontrol) হচ্ছে উবুন্টু ত্রুটি স্কোয়াডের একটি উপবিভাগ যারা ​​উবুন্টু ত্রুটি কর্মের গুরুত্ব পরিবর্তন করতে পারেন, "গুরুত্ব মূল্যায়ণ" অথবা "ত্রুটিমুক্ত হবে না" এমন একটি উবুন্টু ত্রুটি কার্যনির্বাহ অবস্থা নির্ধারণ এবং উবুন্টুর একটি প্রকাশের জন্য একটি ত্রুটি মনোনয়ন করেন. ত্রুটি নিয়ন্ত্রণ দল হচ্ছে <b>গুরুত্ব মূল্যায়ণকারী বিশেষজ্ঞ</b> বৃন্দের সমষ্টি যারা অভিজ্ঞ গুরুত্ব মূল্যায়ণকারী, এবং উবুন্টুতে গুরুত্ব মূল্যায়ণ কার্যনির্বাহ জানেন.
 steps = Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code of Conduct</a>
 	Complete all the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Generic-reqs">generic requirements</a> for joining Bug Control.
 	Improve some bug reports and keep a short list (at least 5) of your best ones.
 	Follow the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Application">instructions for applying</a> for Ubuntu Bug Control.
-tips = Be sure to <a href="http://wiki.ubuntu.com/UbuntuBugControl#Requirements_for_joining">read all the requirements for joining</a> Bug Control before applying.
-	Please <a href="http://wiki.ubuntu.com/UbuntuBugControl#Application">follow the directions for applying</a> before emailing in your application.
+tips = ত্রুটি নিয়ন্ত্রণ বা বাগ কন্ট্রোল এ যোগদানের পূর্বে <a href="http://wiki.ubuntu.com/UbuntuBugControl#Requirements_for_joining"> আবশ্যিক শর্তগুলি পড়তে ভুলবেন না</a> .  আপনার আবেদন ইমেইল করার পূর্বে <a href="http://wiki.ubuntu.com/UbuntuBugControl#Application"> অনুগ্রহপূর্বক আবেদনের নির্দেশাবলী অনুসরণ করুন</a> .
 pitfalls = Include your best work when applying, and make sure that all the work shows a wide range of triaging activities.
 	You should probably be a Bug Squad member for at least a few months before applying to Bug Control.
 help = ফ্রিনোড এ #ubuntu-bugs

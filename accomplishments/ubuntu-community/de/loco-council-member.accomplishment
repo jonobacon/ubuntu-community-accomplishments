@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Der Ubuntu LoCo Gemeinderat ("LoCo Council") ist ein Verwaltungsrat, der die globalen Ubuntu LoCo Teams beaufsichtigt.
 	Das LoCo Council berät und bestimmt die LoCo Politik und den Progress. Das LoCo Council hilft darüber hinaus auch Probleme in LoCo Teams zu lösen, bei welchen eine interne Lösung nicht möglich war.
 	Um Mitglied des LoCo Council zu werden sollten Sie ein starkes Engagement, Beteiligung in der Geschichte Ubuntus und klare Führungsfertigkeiten vorweisen, und die Zeit und Möglichkeit haben sich den Bedürfnissen des Rates zu verpflichten . Ein gutes Mitglied des LoCo Council wird die Fertigkeit zeigen diverse Nöte in verschiedenen Kulturen und Gemeinschaften zu erkennen und  zu verstehen. LoCo Council Mitglieder sollten in der Lage sein zu inspirieren und Führungsrollen in LoCo Teams zu übernehmen.

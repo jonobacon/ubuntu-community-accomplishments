@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Rada Wspólnoty Ubuntu jest podstawową społecznością organu nadzorczego dla projektu Ubuntu i odgrywa ważną i odpowiedzialną rolę wobec społeczności Ubuntu.
 	Rada Wspólnoty doradza i decyduje o polityce społecznej i procesu. Jest zatem narzędziem do eskalacji zdarzeń, które występują gdzie indziej w społeczności Ubuntu.
 	Członkowie Rady Wspólnoty powinni wykazywać silne zaangażowanie i udział w tworzeniu historii Ubuntu, posiadać wyraźne zdolności przywódcze, oraz mieć czas i dostępności do angażowania się na potrzeby Rady.

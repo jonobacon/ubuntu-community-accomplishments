@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Ubuntu Code Of Conduct är ett viktigt dokument som innehåller en uppsättning riktlinjer och förväntningar på gott uppförande i Ubuntugemenskapen.
 	Det innehåller förväntningar gällande omtänksamhet, respekt, samarbetsvilja, förmåga att be om hjälp samt hur man stiger åt sidan när man blir för upptagen.
 	Denna trofé tilldelas dig när du har gått med på att respektera dessa förväntningar i gemenskapen och har undertecknat Ubuntu Code Of Conduct.

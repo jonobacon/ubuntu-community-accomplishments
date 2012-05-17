@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = فرق أوبونتو المحلية هي مجموعات من المستخدمين موجودة في كل انحاء العالم.
 	هدفها تجمع المستخدمين للمناقشة حول أوبونتو , تبادل الأفكار والخبرات , والتعاون لنشر ثقافة أوبونتو و كيف يمكن للناس الاستفادة منه.
 steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.

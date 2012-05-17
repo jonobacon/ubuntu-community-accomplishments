@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/report-first-bug
+author = Bruno Girin <brunogirin@gmail.com>
 summary = En bug är ett fel som uppstått i mjukvara. Att rapportera buggar är ett jättebra sätt att hjälpa till med att göra Ubuntu bättre. För att buggen skall kunna åtgärdas, måste någon annan först kunna återskapa och bekräfta den. Så ju mer detaljerad och exakt din buggrapport är, desto troligare är det att någon annan kan återskapa problemet. Denna prestationen visar att en av dina buggrapporter hade tillräckligt hög kvalitet och kunde bekräftas av någon annan.
 steps = Skicka in en felanmälan i vanlig ordning (se prestationen Skicka in första felanmälan för fler detaljer) och se till att beskrivningen är nog detaljerad för att göra det möjligt för andra att upprepa tillståndet. För att skriva en bra felrapport, inkludera följande:
 	En klar och tydlig beskrivning av problemet. Glöm inte att skriva om felet inträffar varje gång, eller bara då och då.

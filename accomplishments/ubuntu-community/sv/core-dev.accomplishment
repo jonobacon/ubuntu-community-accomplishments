@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = En Ubuntu-centralutvecklare ansvarar för paketering och att lösa problem i arkivet <tt>main</tt>. Detta inkluderar bland den mest kritiska mjukvaran i ett Ubuntu-system, och delarna som skickas med en standardinstallation av Ubuntu.
 steps = Contribute extensively to Ubuntu for a sustained period of time.
 	Make use of the Ubuntu Sponsorship Queue to make your contributions.

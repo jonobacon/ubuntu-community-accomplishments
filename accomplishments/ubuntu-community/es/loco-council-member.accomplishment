@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = El consejo de los equipos LoCo es la mesa directiva que dicta las obligaciones y derechos sobre los equipos LoCo.
 	Este equipo da sugerencias y determina los procesos que seguirán los equipos LoCo. También se encarga de resolver los problemas que no hayan podido resolverse al interior del equipo LoCo.
 	Para ser miembro del consejo LoCo debe demostrar un fuerte compromiso y participación en los asuntos que se atañen a los equipos LoCo, además debe poseer buenas habilidades de liderazgo y tener el tiempo para hacerse caso de los compromisos que conlleven el puesto. 

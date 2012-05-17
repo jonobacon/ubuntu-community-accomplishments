@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Il consiglio delle LoCo di Ubuntu è un comitato direttivo che sovrintende i LoCo team globali.
 	Il consiglio delle LoCo consiglia e determina la politica e i processi delle LoCo. Il consiglio delle LoCo aiuta anche a risolvere i problemi che i LoCo team non sono stati in grado di risolvere internamente.
 	Per essere membro del consiglio delle LoCo devi aver dimostrato un forte impegno e una lunga partecipazione negli Ubuntu LoCo team, dimostrato chiare capacità di leadership, e avere il tempo e la disponibilità per rispondere alle esigenze del consiglio. Un buon membro del consiglio delle LoCo mostrerà la capacità di ascoltare e capire le diverse esigenze delle varie culture e comunità. I membri del consiglio delle LoCo dovrebbero essere in grado di ispirare e guidare la leadership dei LoCo team.

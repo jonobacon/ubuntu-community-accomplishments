@@ -6,6 +6,7 @@ category = General
 needs-signing = true
 needs-information = launchpad-email
 icon = default.png
+author = Jono Bacon <jono@ubuntu.com>
 summary = Launchpad to portal internetowy, gdzie wykonujemy sporą część naszej pracy nad Ubuntu. Tam budowane są pakiety, wypełniane i naprawiane błędy, dokonywane są tłumaczenia, zarządzany jest kod źródłowy, i wiele innych.
 	Musisz być zarejestrowany na Launchpadzie, aby móc dołączyć do znacznej części społeczności Ubuntu. Na szczęście jest to proste, bezpieczne i darmowe.
 steps = Otwórz przeglądarkę internetową.

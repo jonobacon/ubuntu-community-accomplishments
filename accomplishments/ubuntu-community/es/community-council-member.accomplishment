@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = El consejo de la comunidad de Ubuntu es el principal instrumento de gobierno (no técnico) que sigue Ubuntu, y como tal tiene un importante papel con la comunidad. El consejo sugiere y decide las reglas y los procedimientos que deberá seguir la comunidad. También es un organismo al que se le delegan los incidentes que ocurran en otras partes del proyecto. Los miembros del comité, son personas que han demostrado una fuerte partición y compromiso con Ubuntu, poseen claras habilidades de liderazgo y tienen el tiempo y la disponibilidad suficientes para atender los asuntos del consejo.
 steps = Ser miembro del consejo de la comunidad de Ubuntu es un cargo muy importante, para llevarlo a cabo, tendrá que cumplir varios requisitos:
 	Ser miembro oficial de Ubuntu

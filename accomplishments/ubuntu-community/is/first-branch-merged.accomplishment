@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>
 summary = Kjarninn í Launchpad er sá möguleiki að geta hýst mismunandi hluta af kóða (með Bazaar útgáfu kerfinu) og að aðrir get lagt til breytingar og viðbætur í þessa hluta.
 	Algengt er að það feli í sér að þú notir <i>branch</i> til að sækja kóðann frá Launchpad (til dæmis með: <tt>bzr branch lp:heiti_verkefnis</tt> og þannig færðu eintak af aðal kóðanum á þína tölvu. Því næst getur þú bætt við kóðann og sett inn breytingarnar með <tt>bzr commit</tt>. Því næst hleður þú breytingarnar inn á Launchpad með <tt>bzr push</tt> svo aðrir geti séð framlag þitt.
 steps = Fyrst þarf að gera <i>Merge Proposal</i> til að mæla með að þinn hluti verði sameinaður þeim sem fyrir er. Farðu síðuna fyrir verkefnið á Launchpad sem þó hlóðst inn og þar ættir þú að sjá <i>Propose For Merging</i> tengil, ýttu á hann.

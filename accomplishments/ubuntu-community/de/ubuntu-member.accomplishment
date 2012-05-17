@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Ein Ubuntu Mitglied ("Ubuntu Member") ist jemand, der signifikante und nachhaltige Beiträge zu Ubuntu demonstriert hat.
 	Jedes Ubuntu Mitglied wird als zuverlässiger und berechenbarer Faktor zu Ubuntu angesehen um Ubuntu zu fördern und zu verbessern.
 	Wichtig ist, dass die Ubuntu Mitgliedschaft keine speziellen Kenntnise erfodert; großartige Beiträge in Entwicklung, Dokumentation, Übersetzungen, Unterstützung, Kunst, Design und vielen anderen Bereichen sind alle einer Mitgliedschaft würdig.

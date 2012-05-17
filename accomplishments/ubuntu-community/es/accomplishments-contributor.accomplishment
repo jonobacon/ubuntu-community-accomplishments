@@ -1,6 +1,6 @@
 [accomplishment]
-title = Accomplishments Contributor
-description = You have contributed an accomplishment to the official accomplishments collection
+title = Contribuidor de Logros
+description = Ha contribuido con un logro a la colección oficial de logros
 application = ubuntu-community
 category = Development
 needs-signing = true
@@ -22,5 +22,5 @@ tips = Hang around on #ubuntu-accomplishments if you need help. There are many e
 	Pay attention to test your accomplishment in details - it will not make it into the official collection in case something is wrong.
 pitfalls = Follow the guidelines. If you won't, all your work will get rejected.
 help = #ubuntu-accomplishments on Freenode
-	<a href='https://launchpad.net/~ubuntu-accomplishments-contributors' style='color:white'><b>~ubuntu-accomplishments-contributors</b></a> mailing list
+	<a href='https://launchpad.net/~ubuntu-accomplishments-contributors' style='color:white'><b>~ubuntu-accomplishments-contributors</b></a> lista de correo
 

@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = forums.png
 depends = ubuntu-community/ubuntu-member
+author = Silver Fox <silver-fox@ubuntu.com>
 summary = Ubuntu membership generally recognizes significant and sustained contributions to Ubuntu. An active Forums contributor is held to the same standards, but the main focus of activity is in the Ubuntu Forums.
 steps = Create a <a href="https://wiki.ubuntu.com/username">wiki page</a>.
 	Create a <a href="https://launchpad.net">Launchpad</a> page. Although not mandatory, many people use the same identity/nick on Launchpad and on the forums.

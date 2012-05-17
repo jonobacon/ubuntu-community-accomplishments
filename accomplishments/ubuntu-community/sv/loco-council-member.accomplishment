@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Ubuntu LoCo Council är en styrelse som övervakar de globala Ubuntu LoCo grupperna.
 	LoCo Council råder och bestämmer när det gäller LoCos principer och procedurer. LoCo Council hjälper också till att lösa frågor som LoCo grupperna inte lyckats lösa internt.
 	För att vara medlem i LoCo Council krävs att du historiskt har visat ett stort engagemang och deltagande i Ubuntu LoCo grupper, visat prov på tydliga ledaregenskaper och har tid och möjlighet att engagera sig i rådets behov. En bra LoCo Council medlem har god förmåga lyssna på och förstå olika kulturers och samfunds skiftande behov. LoCo Council medlemmar ska kunna inspirera och vägleda LoCo gruppens ledarskap.

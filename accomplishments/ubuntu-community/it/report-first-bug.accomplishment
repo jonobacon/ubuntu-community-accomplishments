@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Un <i>bug</i> (problema) è un difetto in un programma software. Quando segnali un bug, significa che fai conoscere al progetto Ubuntu uno di questi difetti in modo che noi possiamo risolverlo.
 	Quando segnali un bug ha inizio una conversazione con gli sviluppatori e altre parti interessate nell'aiutare ad identificare la causa del problema e a fornire sufficienti informazioni in modo che lo sviluppatore possa risolverlo. Questa conversazione può sovente coinvolgere lo sviluppatore(i) che ti pone varie domande allo scopo di aiutarlo nel definire in dettaglio la causa del problema. 
 	Questa conversazione ha luogo in un <i>bug tracker</i>; uno strumento che fornisce le funzionalità necessarie ad avere questa conversazione, e ad impostare i campi con la corretta priorità in modo da assicurare che i bug più dirompenti vengano risolti prima di altri problemi molto più benigni.

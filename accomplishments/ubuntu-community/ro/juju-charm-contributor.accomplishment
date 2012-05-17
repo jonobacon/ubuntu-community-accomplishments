@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Juju este o tehnologie propulsată de calitatea talismanelor disponibile. Această realizare este pentru acei membri comunitari care au contribuit talismane pentru comunitatea Juju.
 steps = Contribuie un număr de talismane Juju.
 	Contribuie în mod regulat, dar la standarde suficient de înalte.

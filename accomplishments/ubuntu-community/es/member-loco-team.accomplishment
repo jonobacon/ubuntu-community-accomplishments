@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Los equipos LoCo (Local Community) son grupos locales de usuarios que se reunen para discutir temas sobre Ubuntu, compartir ideas, consejos, trucos, mejorar la distribución y ayudar a difundir el uso de Ubuntu
 steps = Visite <tt>loco.ubuntu.com</tt> (puede cambiar el idioma en la pestaña inferior izquierda). Encuentre el equipo más cercano para unirse. Visite la página en Launchpad de ese equipo. Pulse en el enlace «Join Team». Este trofeo se le otorgará si es miembro de cualquier equipo LoCo, sin importar su estado de aprobación.
 tips = None

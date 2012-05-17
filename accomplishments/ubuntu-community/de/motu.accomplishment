@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Ein Ubuntu MOTU Entwickler ist verantwortlich Pakete zu erstellen und Probleme im <tt>universe</tt> Archiv zu beheben. Das beinhaltet eine große Anzahl und Vielfalt von Programmen in Ubuntu, die von Debian kommen.
 steps = Leisten Sie Ubuntu einen umfrangreichen Beitrag über einen längeren Zeitraum.
 	Reihen Sich in in der Ubuntu Sponsorship Warteschlange ("Ubuntu Sponsorship Queue") ein um beizutragen.

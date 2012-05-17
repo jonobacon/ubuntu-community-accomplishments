@@ -1,5 +1,5 @@
 [accomplishment]
-title = Ubuntu Forums Staff Member
+title = Miembro del staff de Ubuntu Forums
 description = You are a member of the Ubuntu Forums Staff
 application = ubuntu-community
 category = Governance
@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = forums.png
 depends = ubuntu-community/ubuntu-member
+author = Silver Fox <silver-fox@ubuntu.com>
 summary = The Ubuntu Forums Staff are the moderation team behind the Ubuntu Forums.  The Ubuntu Forums staff tackle day to day running of the forum and gives feedback to the Forum Council when requested.
 	Members of the Forum Staff have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the forums. Members are also expected to have good people skills and have the ability to empathise with others.
 steps = Become an Ubuntu Forums Member.
@@ -15,5 +16,5 @@ steps = Become an Ubuntu Forums Member.
 tips = Focus on your soft skills, having good people skills is very important.
 	Be active in the support areas of the forum, but also be seen in the Community Cafe
 pitfalls = Please do not ask to become Forums Staff
-help = #ubuntuforums on Freenode
+help = #ubuntuforums en Freenode
 

@@ -6,6 +6,7 @@ category = General
 needs-signing = true
 needs-information = launchpad-email
 icon = default.png
+author = Jono Bacon <jono@ubuntu.com>
 summary = Launchpad este un site web în care se realizează mare parte din munca noastră pentru Ubuntu. Acolo creăm pachete, înregistrăm și reparăm erori, efectuăm traduceri, administrăm cod, și alte activități.
 	Va trebui să înregistrezi un cont pe Launchpad pentru a participa în multe domenii din cadrul comunității Ubuntu. Din fericire, procesul de înregistrare este simplu, sigur și gratuit.
 steps = Deschide un navigator web pe calculatorul tău.

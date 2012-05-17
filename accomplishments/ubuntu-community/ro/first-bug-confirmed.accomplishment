@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/report-first-bug
+author = Bruno Girin <brunogirin@gmail.com>
 summary = O eroare este un defect dintr-o aplicație software. Înregistrarea de erori este o metodă grozavă de a ajuta la îmbunătățirea Ubuntu, iar pentru ca eroarea să fie rezolvată, altcineva trebuie să reușească să o reproducă și să o confirme. Cu cât un raport de eroare este mai detaliat și mai precis, cu atât el va fi mai ușor de confirmat de către altcineva. Această reușită atestă faptul că cel puțin unul din rapoartele tale a fost de bună calitate și a fost confirmat de altcineva.
 steps = Înregistrează o eroare în mod normal (vezi reușita Înregistrat Prima Eroare pentru mai multe detalii) și asigură-te că descrierea este destul de detaliată pentru a permite altora să o reproducă. Ca să realizezi un raport de eroare bun, include următoarele:
 	O descriere clară și concisă a problemei. Nu uita să menționezi daca eroarea poate fi declanșată de fiecare data sau este intermitentă.
