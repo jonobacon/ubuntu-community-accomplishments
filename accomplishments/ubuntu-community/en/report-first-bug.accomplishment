@@ -23,3 +23,4 @@ pitfalls: Don't file bugs for things that frustrate you in a piece of software; 
 links: https://help.ubuntu.com/community/ReportingBugs
     https://wiki.ubuntu.com/HelpingWithBugs
 help = #ubuntu-testing on Freenode
+author = Jono Bacon <jono@ubuntu.com>

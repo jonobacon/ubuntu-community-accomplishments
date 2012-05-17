@@ -13,3 +13,4 @@ steps: Contribute a significant number of Juju charms.
     Ask a member of the Juju Reviews team if you can join.
 links: http://juju.ubuntu.com
 help = #juju on Freenode
+author = Jono Bacon <jono@ubuntu.com>

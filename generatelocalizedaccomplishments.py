@@ -71,6 +71,9 @@ class GenerateTranslations():
                 help = self.process_field(accomname, "help")
                 self.outputconfig.set("accomplishment", "help", help)
 
+                author = self.process_field(accomname, "author")
+                self.outputconfig.set("accomplishment", "author", author)
+
                 path = os.path.join(os.path.join(os.path.join("accomplishments", self.accomset), langcode), accomname + ".accomplishment")
 
                 outfile = open(path, "w")

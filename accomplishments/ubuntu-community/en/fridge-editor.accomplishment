@@ -17,5 +17,4 @@ links: http://fridge.ubuntu.com
     https://launchpad.net/~ubuntu-fridge
 help = #ubuntu-community-team on Freenode
     #ubuntu-news on Freenode
-
-
+author = Jono Bacon <jono@ubuntu.com>

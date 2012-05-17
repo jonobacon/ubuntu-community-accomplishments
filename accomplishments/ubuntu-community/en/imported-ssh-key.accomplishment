@@ -17,3 +17,4 @@ steps: Install OpenSSH. You can install OpenSSH by opening your terminal and typ
   Paste your public key into the text box and then click the <b>Import public key</b> button to continue.
 links: https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair
 help = #launchpad on Freenode
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>

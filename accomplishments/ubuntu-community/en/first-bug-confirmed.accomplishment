@@ -18,3 +18,4 @@ links: http://www.ubuntu.com
 	https://help.ubuntu.com/community/ReportingBugs
 	http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
 help = #ubuntu-testing on Freenode
+author = Bruno Girin <brunogirin@gmail.com>

@@ -19,4 +19,4 @@ steps: First generate a PGP key, add it to the Ubuntu key-server, and import it 
 links: http://www.ubuntu.com/project/about-ubuntu/conduct
 help = #ubuntu-locoteams on Freenode
     #ubuntu-community-team on Freenode
-
+author = Jono Bacon <jono@ubuntu.com>

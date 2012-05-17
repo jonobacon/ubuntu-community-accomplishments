@@ -18,3 +18,4 @@ steps: Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code of
     Follow the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Application">instructions for applying</a> for Ubuntu Bug Control.
 links: https://wiki.ubuntu.com/UbuntuBugControl
 help = #ubuntu-bugs on Freenode
+author = Matt Fischer <matthew.fischer@canonical.com>
