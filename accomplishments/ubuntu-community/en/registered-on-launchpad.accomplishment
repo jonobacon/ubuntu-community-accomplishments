@@ -13,6 +13,6 @@ steps = Load a web browser on your computer.
     Click the <i>Register</i> link in the corner of the screen to register.
 links: http://www.launchpad.net
 help = #launchpad on Freenode
-
+author = Jono Bacon <jono@ubuntu.com>
 
 
