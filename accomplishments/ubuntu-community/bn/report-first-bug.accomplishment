@@ -19,7 +19,6 @@ steps = Open up a terminal by clicking the Ubuntu button and typing <i>terminal<
 tips = Always try to be concise and detailed in your bug reports.
 	If you know the steps involved to trigger the bug, include those steps in the bug description. This is called <i>reproducing the bug</i>.
 	Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
-pitfalls = Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
-	Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
+pitfalls = সেইসব বাগ বা ত্রুটি ফাইল করবেন না যা সফ্টওয়্যারের একটি মাত্র টুকরার মধ্যে আপনাকে ব্যাহত করে; শুধুমাত্র সেইসব ত্রুটি ফাইল করুন যখন প্রত্যাশিত কাজ না করে. "me too! আমাকেও!" বলে কোন বাগ উত্তর করবেন না; পরিবর্তে <i>this bug affects me (এই ত্রুটি আমাকে প্রভাবিত করে)</ i> (লন্চপ্যাডের মধ্যে) উপরের বাগ রিপোর্ট  লিংকটি ব্যবহার করুন.
 help = ফ্রিনোড এ #ubuntu-testing .
 

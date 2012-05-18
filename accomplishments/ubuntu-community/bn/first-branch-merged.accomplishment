@@ -22,6 +22,6 @@ tips = Join the IRC channel best suited for the branch you are working on and ta
 	Read bazaar documentation to get acquainted with it.
 	The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
 	Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
-pitfalls = If your branch is not accepted, don't be too frustrated. Ask the developer how you can improve it; often the changes required are fairly small.
+pitfalls = যদি আপনার শাখা গৃহীত না হয়, খুব হতাশ হবেন না. ডেভেলপারকে জিজ্ঞাসা করুন কিভাবে আপনি আরও উন্নত পারেন; প্রায়ই মোটামুটি ছোট পরিবর্তনের প্রয়োজন হয়.
 help = ফ্রিনোড এ #ubuntu-devel .
 
