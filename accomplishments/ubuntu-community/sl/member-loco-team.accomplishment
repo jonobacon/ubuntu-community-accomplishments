@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Ekipe Ubuntu Loco so uporabniške skupine po vsem svetu kjer se ljudje dobivajo za razpravljanje o Ubuntuju, deljenje idej, trikov in nasvetov in skupaj širijo besedo o Ubuntuju in kako lahko pomaga ljudem.
 steps = Pojdite na <tt>loco.ubuntu.com</tt> in najdite ekipo, ki se ji želite pridružiti. Trofejo dobite ne glede na to ali ej ekipa LoCo uradno priznana ali ne.
 tips = None

@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Juju är en teknologi som lever på kvaliteten i den tillgängliga charmen. Denna prestation är för de medlemmar i gemenskapen som har bidragit med charm till Juju-gemenskapen.
 steps = Bidra med en viss mängd Juju-charm.
 	Bidra regelbunder och till en tillräckligt hög kvalitet.

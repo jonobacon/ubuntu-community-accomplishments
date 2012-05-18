@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Il consiglio della comunità di Ubuntu è l'organo di governo primario della comunità (ossia non tecnico) per il progetto Ubuntu, e in quanto tale ha un importante ruolo e responsabilità verso la comunità di Ubuntu.
 	Il consiglio della comunità consiglia e decide sulle politiche e i processi della comunità. E 'anche un organo di escalation per gli incidenti che si verificano altrove nella comunità Ubuntu.
 	I membri del consiglio della comunità hanno dimostrato un forte impegno e partecipazione storica in Ubuntu, chiare capacità di leadership, e hanno il tempo e la disponibilità di adempiere ai bisogni del consiglio.

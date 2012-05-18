@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Ubuntu Fridge jest oficjalna stroną społeczności Ubuntu. Jest to strona prowadzona przez społeczność Ubuntu, na której znajdziesz  nowinki, opinie oraz inne ciekawe informacje na temat Ubuntu.
 	<i>Ubuntu Fridge Editors</i> to zespół, który tworzy i publikuje zawartość strony <i>http://fridge.ubuntu.com/</i>. Aby zostać członkiem tego zespołu musisz pisać ciekawie, często oraz odpowiadać na komentarze do publikowanych nowości i artykułów.
 steps = Zostań członkiem Ubuntu. Posiądź dobrą wiedzę o społeczności Ubuntu, zdobądź dobre zdolności pisania w języku angielskim. Jeżeli jesteś zainteresowany członkostwem w zespole <i>Ubuntu Fridge Editors</i>, powinieneś przesłać do nich kilka swoich artykułów, by zespół mógł się z Tobą zapoznać.  Artykuły możesz wysłać do "news team" przez IRC (Internet Chat Relay) na kanale #ubuntu-news (irc.freenode.net) albo możesz wysłać maila na: ubuntu-news-team@lists.ubuntu.com (temat wiadomości dowolny). Dodatkowe informacje, jakie członek tego zespołu powinien posiadać, możesz znaleźć na <i>https://wiki.ubuntu.com/Fridge/EditorGuidelines</i>.

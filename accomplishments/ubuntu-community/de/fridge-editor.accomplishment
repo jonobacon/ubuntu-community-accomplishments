@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Die Ubuntu Fridge ist die offizielle Nachrichtenseite für die Ubuntu Gemeinschaft. Es ist ein gemeinschaftlich geschriebenes Nachrichtenportal, das Artikel, Nachrichten, Meinungen und andere Inhalte von überall aus der Welt und aus der Ubuntu Gemeinschaft bereit stellt.
 steps = Werde Sie ein Ubuntu Mitglied. Haben Sie eine gute Kenntnis über die Ubuntu Gemeinschaft und gute englische schriftliche Fähigkeiten. Jeder, der ein Mitglied des Ubuntu Fridge Redaktion Teams ("Editors Team") sein will, sollte einige Artikel an die Redaktion schicken, damit sie einen kennen lernen und beraten können (wenn nötig). Artikel können an das Nachrichtenteam durch IRC (Internet Chat Relay) auf Freenode (irc.freenode.net)-#ubuntu-news-- oder an folgende E-Mail geschickt werden: ubuntu-news-team@lists.ubuntu.com (keine Anmeldung nötig).  Weitere Informationen können Sie auf der Fridge Wiki Seite bekommen unter "Editors Guidelines".
 	Schreiben Sie Entwürfe für jede Ihrer Ideen.

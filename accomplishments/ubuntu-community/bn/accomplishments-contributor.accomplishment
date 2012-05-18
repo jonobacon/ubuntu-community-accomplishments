@@ -21,6 +21,5 @@ steps = Begin with a nice idea of a new accomplishment. Make sure it hasn't been
 tips = Hang around on #ubuntu-accomplishments if you need help. There are many experienced accomplishments creators, who will be glad to help you!
 	Pay attention to test your accomplishment in details - it will not make it into the official collection in case something is wrong.
 pitfalls = নির্দেশাবলী অনুসরণ করুন. যদি আপনি না পারেন, আপনার সকল কাজ প্রত্যাখ্যান করা হবে.
-help = #ubuntu-accomplishments on Freenode
-	<a href='https://launchpad.net/~ubuntu-accomplishments-contributors' style='color:white'><b>~ubuntu-accomplishments-contributors</b></a> mailing list
+help = ফ্রিনোড এ #ubuntu-accomplishments  <a href='https://launchpad.net/~ubuntu-accomplishments-contributors' style='color:white'><b>~ubuntu-accomplishments-contributors</b></a> mailing list .
 

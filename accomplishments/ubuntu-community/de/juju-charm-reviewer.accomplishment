@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/juju-charm-contributor
+author = Jono Bacon <jono@ubuntu.com>
 summary = Juju ist eine Technologie, die durch die Qualität verschiedener Charms bereitgestellt wird. Diese Errungenschaft ist für die vertrauensvollen Mitglieder der Gemeinde, welche Charms aus der Gemeinde begutachten und für die Aufnahme in den Juju Store genehmigen.
 steps = Tragen SIe zu einer signifikanten Anzahl Juju Charms bei.
 	Tragen Sie regelmäßig und zu einer ausreichend hohen Qualität bei.

@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Comisia Tehnică Ubuntu este una din cele mai importante organisme decizionale în cadrul comunității Ubuntu. Comisia Tehnică  recomandă și decide politica și procesul tehnice, dar funcționează și ca organism de escaladare a incidentelor ce au loc în comunitate.
 	Pentru a fi membru al Comisiei Tehnice, trebuie să fi demonstrat un angajament puternic și o durată mare de participare în Ubuntu, capacități clare de lider, capacități tehnice importante, o cunoaștere a arhivei și să ai timpul și disponibilitatea necesară de a răspunde nevoilor comisiei.
 steps = Contribuie pe o perioadă îndelungată la Ubuntu. Nu există o durată fixă, dar trebuie să fie suficient de lungă încât să demonstreze angajamentul tău față de proiect. 

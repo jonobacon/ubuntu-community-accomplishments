@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>
 summary = An SSH key secures the connection between your computer and Launchpad while you're pushing Bazaar branches up to Launchpad. To push code branches to Launchpad you first need to generate your SSH key. The key is made up of two parts: a private key that stays on your computer and a public key that you register with Launchpad.
 steps = Install OpenSSH. You can install OpenSSH by opening your terminal and typing: <tt>sudo apt-get install openssh-client</tt>.
 	Once OpenSSH is installed, stay in the terminal and type: <tt>ssh-keygen -t rsa</tt>.

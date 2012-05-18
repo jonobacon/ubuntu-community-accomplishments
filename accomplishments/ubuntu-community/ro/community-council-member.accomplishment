@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
 summary = Consiliul Comunitar Ubuntu este principalul organism de guvernare a comunității pentru Proiectul Ubuntu, având astfel un rol și o responsabilitate importante în comunitatea Ubuntu.
 	Consiliul Comunitar sfătuiește și decide asupra procesului și politicei comunitare. Este de asemenea un organism de escaladare a incidentelor ce apar în comunitatea Ubuntu.
 	Membrii Consiliului Comunitar au demonstrat un puternic angajament și implicare în Ubuntu, abilități clare de conducere, și au timpul și disponibilitatea de a-și oferi serviciile, în funcție de nevoile consiliului.

@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = juju.png
 depends = ubuntu-community/juju-charm-contributor
+author = Jono Bacon <jono@ubuntu.com>
 summary = Juju è una tecnologia alimentata dalla qualità dei charm disponibili. Questo adempimento è per quei membri fidati della comunità che revisionano i charm della comunità e li approvano per l'inclusione nel negozio di Juju.
 steps = Contribuite con un numero significativo di charm Juju.
 	Contribuite regolarmente e con una sufficiente qualità.

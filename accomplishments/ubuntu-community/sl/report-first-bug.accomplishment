@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it.
 	When you report a bug it starts a conversation with developers and other interested parties to help identify the cause of the problem to provide enough information so the developer can resolve it. This conversation can often involve the developer(s) asking you various questions to help track down the cause of the issue.
 	This conversation takes place in a <i>bug tracker</i>; a tool that provides features for having this conversation, and setting  prioritization fields to ensure that the most disruptive bugs get resolved sooner than more more benign issues.

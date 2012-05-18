@@ -22,3 +22,4 @@ links: https://wiki.ubuntu.com/CommunityCouncil
     https://wiki.ubuntu.com/CommunityCouncilAgenda
     http://www.ubuntu.com/project/about-ubuntu/governance
 help = #ubuntu-community-team on Freenode
+author = Jono Bacon <jono@ubuntu.com>

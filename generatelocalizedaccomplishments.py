@@ -55,6 +55,11 @@ class GenerateTranslations():
                 
                 if self.masterconfig.has_option("accomplishment", "depends"):
                     self.outputconfig.set("accomplishment", "depends", self.masterconfig.get("accomplishment", "depends"))                
+
+                if self.masterconfig.has_option("accomplishment", "author"):
+                    self.outputconfig.set("accomplishment", "author", self.masterconfig.get("accomplishment", "author"))                
+
+                # things that can be translated
                 
                 summary = self.process_field(accomname, "summary")
                 self.outputconfig.set("accomplishment", "summary", summary)                

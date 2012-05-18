@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Un <i>bug (eroare)</i> este un defect dintr-un program informatic. Când raportezi o eroare, informezi Ubuntu despre existența acesteia pentru ca noi să o putem elimina.  
 	Când raportezi o eroare, pornește automat o conversație pe marginea acestuia cu programatorii și alte persoane interesate în a descoperi cauza problemei, pentru a oferi informații suficiente programatorului care se va ocupa de eliminarea acesteia. De multe ori, programatorul îți va pune diverse întrebări pentru a putea descoperi exact cauza problemei raportate de tine.
 	Această conversație va fi purtată într-o <i>platformă de urmărire a erorilor</i>; aceasta este o unealtă ce oferă instrumentele necesare purtării acestei conversații si permite setarea de câmpuri de prioritizare, pentru a asigura o rezolvare mai rapidă a erorilor grave.  

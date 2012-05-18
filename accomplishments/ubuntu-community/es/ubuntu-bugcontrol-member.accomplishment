@@ -1,12 +1,13 @@
 [accomplishment]
 title = Miembro del control de errores
-description = You are an expert triager and a member of Ubuntu Bug Control
+description = Es un experto en triaje y miembro de Ubuntu Bug Control
 application = ubuntu-community
 category = QA
 needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/bugsquad-member
+author = Matt Fischer <matthew.fischer@canonical.com>
 summary = The Ubuntu Bug Control team (ubuntu-bugcontrol in Launchpad) is a subset of the Ubuntu Bug Squad who can change the importance of Ubuntu bug tasks, set the status of an Ubuntu bug task to "Triaged" or "Won't Fix" and nominate a bug for a release of Ubuntu. You do this when you are triaging bug reports.  Bug Control consists of <b>expert triagers</b> who are experienced triagers, and know the triage process in Ubuntu.
 steps = Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code of Conduct</a>
 	Complete all the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Generic-reqs">generic requirements</a> for joining Bug Control.

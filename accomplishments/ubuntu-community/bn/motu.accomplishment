@@ -7,10 +7,9 @@ needs-signing = true
 needs-information = launchpad-email
 icon = devel.png
 depends = ubuntu-community/registered-on-launchpad
-summary = An Ubuntu MOTU Developer is responsible for packaging and resolving issues in the <tt>universe</tt> archive. This includes a wide variety of applications that are brought into Ubuntu from Debian.
-steps = Contribute extensively to Ubuntu for a sustained period of time.
-	Make use of the Ubuntu Sponsorship Queue to make your contributions.
-	Apply to the Ubuntu Developer Board to be a MOTU developer.
+author = Jono Bacon <jono@ubuntu.com>
+summary = <tt> ইউনিভার্স</ tt> আর্কাইভে একজন উবুন্টু এম ও টি ইউ (MOTU) ডেভেলপার প্যাকেজিং এবং সমস্যা সমাধানের জন্য দায়িত্বপ্রাপ্ত. এর মদ্ধে রয়েছে এক ব্যাপক বৈচিত্রপূর্ণ অ্যাপ্লিকেশনসমূহের সম্ভার যা ডেবিয়ান থেকে উবুন্টুর মধ্যে আনা হয়.
+steps = একটি স্থায়িত্ত্বকালের জন্য উবুন্টুতে ব্যাপক অবদান রাখুন. উবুন্টু বিজ্ঞাপনী সারি ব্যবহার করে আপনি আপনার অবদান রাখুন. একজন MOTU ডেভেলপার হতে উবুন্টু ডেভেলপার বোর্ড এ আবেদন করুন.
 tips = None
 pitfalls = None
 help = ফ্রিনোড এ #ubuntu-devel

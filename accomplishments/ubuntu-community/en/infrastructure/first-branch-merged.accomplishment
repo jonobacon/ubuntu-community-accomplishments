@@ -25,3 +25,4 @@ pitfalls: If your branch is not accepted, don't be too frustrated. Ask the devel
 links: https://help.launchpad.net/Code/Review
        http://wiki.bazaar.canonical.com/Tutorials
 help = #ubuntu-devel on Freenode
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>

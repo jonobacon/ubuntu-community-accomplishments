@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>
 summary = Eine Kernfähigkeit von Launchpad ist die Möglicht verschiedene Zweige von Code bereit zu stellen (durch die Bazaar Versionskontrolle) und es anderen möglich zu machen Verbesserungen und Änderungen zu diesen Zweigen vorzustellen.
 	Was normalerweise hier passiert ist, dass Sie den Code von Launchpad abzweigen (z.B. in dem <tt>bzr branch lp:the-project</tt> aufgeruft wird), was dann den aktuellen Hauptzweig auf ihren Computer lädt. Sie arbeiten dann an Verbesserungen an diesem Zweig und  verpflichten dann ihre Änderungen in dem Sie <tt>bzr commit</tt> aufrufen. Sie laden dann ihre Änderungen zu Launchpad hoch mit <tt>bzr push</tt>, so dass anderen ihre Arbeit sehen können.
 	Sie können dann vorschlagen, dass ihr Zweig mit einem anderen zusammengeführt werden soll. Das heißt, dass der Besitzer des ursprünglichen Zweiges ihre Verbesserungen in den ursprünglichen Zweig einfließen lässt und somit die Zweige zusammenführt.

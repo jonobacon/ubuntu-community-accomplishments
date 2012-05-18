@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Un <i>bogue</i> est un défaut dans un logiciel. Quand vous signalez un bogue, cela signifie que vous informer le projet Ubuntu de la présence d'un des ces défauts, de telle sorte que nous puissions le résoudre.
 steps = Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.
 	Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the instructions.

@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Kodi i mirësjelljes i Ubuntu është një dokument i rëndësishëm që ofron një sërë udhëzimesh për sjellje të mirë në Komunitetin Ubuntu.
 	Ai përfshin udhezime rreth të qenit i vëmendshëm, i respektueshëm, bashkëpunuese, si për të kërkuar ndihmë, dhe pët të dhënë dorëheqjen kur ju jeni shumë i zënë.
 	Ky trofe jepet kur ju keni rënë dakord të veproni në përputhje me këto udhëzime në komunitet dhe keni nënshkruar Kodin e mirësjelljes të Ubuntu.

@@ -32,3 +32,4 @@ pitfalls: Don't let a difference of style or opinion spiral into a conflict whic
 links: http://planet.ubuntu.com
     https://wiki.ubuntu.com/PlanetUbuntu
 help = #ubuntu-community-team on Freenode
+author = Jono Bacon <jono@ubuntu.com>

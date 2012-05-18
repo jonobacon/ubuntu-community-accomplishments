@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = launchpad.png
 depends = ubuntu-community/registered-on-launchpad
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>
 summary = Una de las partes principales de Launchpad es la habilidad de organizar diferentes ramas de código (Utilizando la versión Bazaar del Sistema de Control) y que otras personas propongan mejoras y cambios a estas ramas.Lo que comúnmente pasa aquí es que usted <i>bifurques</i> el código de Launchpad (Por ejemplo, corriendo <tt>bzr branch lp:the-project</tt>) y así descarga la presente ramificación principal a su equipo. Entonces, empieza a trabajar en mejoras a esta ramificación y registra sus cambios  usando <tt>bzr commit</tt>. Luego, carga sus cambios en Launchpad usando <tt>bzr push</tt> de manera que otras personas puedan ver su trabajo.Ahora puede proponer que su ramificación sea combinada con otra rama. Esto significa que el dueño de la ramificación original que ha mejorado va a contribuir sus mejoras a ésta, así introduciendo su trabajo.Este trofeo se gana cuando ha logrado combinar sus ramas dentro de otras ramas
 steps = You first need to perform a <i>Merge Proposal</i> to propose your branch is merged into another one. Go to the Launchpad page for the branch that you uploaded and you should see a <i>Propose For Merging</i> link. Click it.
 	In the form choose the branch you want to merge into and fill a detailed description of the change, fix, or feature that you have contributed.

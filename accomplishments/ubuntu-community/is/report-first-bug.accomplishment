@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = <i>Villa</i> er galli í forriti. Þegar þú tilkynnir villu ertu að láta Ubuntu vita um villuna svo hægt sé að laga hana.
 	Þegar þú tilkynnir villu hefst umræða við hönnuði og aðra áhugasama til að hjálpa við að finna hver sé orsök vandans og til þess að afla nægra upplýsinga til að leysa vandann. Umræðan getur falið í sér að hönnuðir forritsins spyrja þig spurninga til að reka orsökina.
 	Umræðan fer fram í <i>villu kerfi</i>, forrit til að halda utan um villu tilkynningar og umræður um þær, einnig er hægt að stilla mikilvægi þannig að þær villur sem skipta mestu máli hljóta mestan forgang.

@@ -16,3 +16,4 @@ links: https://wiki.ubuntu.com/TechnicalBoard
     http://www.ubuntu.com/project/about-ubuntu/governance
 help = #ubuntu-devel-team on Freenode
     #ubuntu-community-team on Freenode
+author = Jono Bacon <jono@ubuntu.com>

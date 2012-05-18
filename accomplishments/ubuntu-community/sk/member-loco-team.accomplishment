@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = loco.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = Ubuntu LoCo tímy (LoCo = lokálna komunita) sú lokálne skupiny používateľov situované po celom svete. Členovia diskutujú o Ubuntu, zdieľajú nápady, tipy, triky a vedomosti a spolupracujú na šírení povedomia o Ubuntu a jeho využiteľnosti.
 steps = Choď na <tt>loco.ubuntu.com</tt> a nájdi svoj najbližší tím. Táto trofej sa udeľuje členom ľuboľného LoCo tímu, bez ohľadu na to či bolo členstvo schválené.
 	Na stránke vybraného LoCo tímu klikni na "Join This Team!" a zaregistruj sa ako člen tímu na Launchpade.

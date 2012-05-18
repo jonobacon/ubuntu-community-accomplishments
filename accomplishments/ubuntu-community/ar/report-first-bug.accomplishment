@@ -7,6 +7,7 @@ needs-signing = true
 needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
 summary = الـ<i>bug</i> هي عيب في برنامج معين. فعندما تبلغ عن هذه العيوب فإنك تساعد مشروع أوبونتو في إيجاد هذا العيب ليتم حله.
 	عندما تبلغ عن bug فإنك تبدأ مناقشة بين المطورين و المهتمين الآخرين بالموضوع لإيجاد سبب المشكلة و تقديم المعلومات الكافية ليتم حلها بواسطة المطورين.
 	هذه المناقشة غالباً ما يسألك المطورون فيها العديد من الأسئلة لتساعدهم في الوصول لسبب المشكلة.

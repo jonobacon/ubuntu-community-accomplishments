@@ -6,6 +6,7 @@ category = General
 needs-signing = true
 needs-information = launchpad-email
 icon = default.png
+author = Jono Bacon <jono@ubuntu.com>
 summary = Launchpad es un sitio donde la mayor cantidad de trabajo que se hace para Ubuntu es desarrollado. Se crean paquetes, se reportan y corrigen errores, se agregan traducciones, se guarda y edita el código de programas, entre otras cosas. Requerirá una cuenta en launchpad para participar en varias actividades de la comunidad. Afortunadamente el registro es simple, seguro y gratuito.
 steps = Para crear una cuenta en Launchpad siga los siguientes pasos:
 	Arranque un navegador

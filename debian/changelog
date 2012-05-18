@@ -3,6 +3,7 @@ ubuntu-community-accomplishments (0.1.2) precise; urgency=low
   * New: Blog on Planet Ubuntu (Jono Bacon)
   * New: Ubuntu Cloak (José Antonio Rey)
   * New: Signed Canonical Contributor Agreement (Angelo Compagnucci)
+  * New: Uploaded First Branch To Launchpad (Jono Bacon)
   * Added remaining tests.
 
  -- Jono Bacon <jono@ubuntu.com>  Wed, 16 May 2012 01:13:09 -0700
