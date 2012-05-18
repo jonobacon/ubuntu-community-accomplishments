@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-16 10:55+0200\n"
-"PO-Revision-Date: 2012-05-16 14:24+0000\n"
+"PO-Revision-Date: 2012-05-17 16:21+0000\n"
 "Last-Translator: Kazi Shahnoor Ashraf <kazidxb@gmail.com>\n"
 "Language-Team: Bengali <bn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-17 05:17+0000\n"
+"X-Launchpad-Export-Date: 2012-05-18 05:07+0000\n"
 "X-Generator: Launchpad (build 15259)\n"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
@@ -139,6 +139,13 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:33
 msgid "user-has-mugshot_summary"
 msgstr ""
+"মুখমন্ডলের চিত্র একটি অবতার চিত্র যা একজন ব্যবহারকারী তার লন্চপ্যাড প্রোফাইল "
+"সেট করতে পারেন. এটা চমৎকার যখন মনুষ আপনাকে শুধুমাত্র আপনার ছবি দেখে সনাক্ত "
+"করতে পারে.  আপনার জন্য আমাদের পরামর্শ হচ্ছে আপনার একটি সত্যিকারের ছবি "
+"নির্বাচন করুন (সাধারণত শুধুমাত্র মুখমন্ডল প্রদর্শন করে) অথবা অন্য অবতার যা "
+"সত্যিই আপনি. আপনার ছবিতে অভদ্র কিছু ব্যবহার করবেননা যা অন্যকে ক্ষুব্ধ করে "
+"(যেমন প্রাপ্তবয়স্ক বিষয়বস্তু).  ছবি ঠিক <strong> 192x192 </ strong> এবং "
+"বড় বেশি <strong> 100 KB </ strong> হবে."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('steps' field)
 #. .
@@ -157,6 +164,12 @@ msgstr ""
 #: ../accomplishments/user-has-mugshot.c:49
 msgid "user-has-mugshot_steps"
 msgstr ""
+"একটি মুখের ফটো নির্ধারণ খুবই সহজ. আপনাকে Launchpad.net ওয়েবসাইটে আবশ্যই লগ "
+"থাকতে হবে. তারপর আপনাকে আপনার প্রোফাইল পৃষ্ঠায় যেতে হবে যা সাধারণত "
+"http://launchpad.net/ ~ YOURUSERNAME \"Change details\" লিংক এ ক্লিক করুন. "
+"আপলোড করতে আপনার কাছে 192x192 পিক্সেলের একটি ছবি আছে তা নিশ্চিত হয়ে নিন "
+"(.png বা .jpg হলেই চলবে). একবার ছবি আপলোড হয়ে গেলে, পৃষ্ঠার শেষে \"Save "
+"changes\" বাটনের উপর ক্লিক করুন."
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('links' field)
 #. .
@@ -580,6 +593,9 @@ msgstr ""
 #: ../accomplishments/loco-council-member.c:71
 msgid "loco-council-member_pitfalls"
 msgstr ""
+"শুধুমাত্র একটা পদমর্যাদার ক্ষমতার জন্য লোকো পরিষদে আবেদন করবেন না. একই সময়ে "
+"একের অধিক পরিষদে না থাকবার চেষ্টা করবেন (যেমন লোকো পরিষদ, কমিউনিটি পরিষদ). "
+"যেকোন একটাতে যোগ দিন, এবং তাতে পুরোপুরি মনোযোগ দিন."
 
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
@@ -1069,6 +1085,9 @@ msgstr ""
 #: ../accomplishments/community-council-member.c:71
 msgid "community-council-member_pitfalls"
 msgstr ""
+"শুধুমাত্র একটা পদমর্যাদার ক্ষমতার জন্য কমিউনিটি পরিষদে আবেদন করবেন না. একই "
+"সময়ে একের অধিক পরিষদে না থাকবার চেষ্টা করবেন (যেমন কমিউনিটি পরিষদ, কারিগরী "
+"বোর্ড). যেকোন একটাতে যোগ দিন, এবং তাতে পুরোপুরি মনোযোগ দিন."
 
 #. ACCOMPLISHMENT: Community Council Member ('links' field)
 #. .
@@ -1263,6 +1282,11 @@ msgstr ""
 #: ../accomplishments/report-first-bug.c:73
 msgid "report-first-bug_pitfalls"
 msgstr ""
+"সেইসব বাগ বা ত্রুটি ফাইল করবেন না যা সফ্টওয়্যারের একটি মাত্র টুকরার মধ্যে "
+"আপনাকে ব্যাহত করে; শুধুমাত্র সেইসব ত্রুটি ফাইল করুন যখন প্রত্যাশিত কাজ না "
+"করে. \"me too! আমাকেও!\" বলে কোন বাগ উত্তর করবেন না; পরিবর্তে <i>this bug "
+"affects me (এই ত্রুটি আমাকে প্রভাবিত করে)</ i> (লন্চপ্যাডের মধ্যে) উপরের বাগ "
+"রিপোর্ট  লিংকটি ব্যবহার করুন."
 
 #. ACCOMPLISHMENT: Report First Bug ('links' field)
 #. .
@@ -1548,7 +1572,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-cloak.c:57
 msgid "ubuntu-cloak_tips"
-msgstr ""
+msgstr "ধৈর্য্য ধরুন! IRC কাউন্সিল সব সময়ই পাওয়া যায় না."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('pitfalls' field)
 #. .
@@ -1561,7 +1585,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-cloak.c:68
 msgid "ubuntu-cloak_pitfalls"
-msgstr ""
+msgstr "আপনি একজন উবুন্টু সদস্য না হয়ে থাকলে আবেদন করবেন না."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('links' field)
 #. .
@@ -1573,7 +1597,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-cloak.c:78
 msgid "ubuntu-cloak_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/IRC/Cloaks ."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('help' field)
 #. .
@@ -1586,7 +1610,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-cloak.c:89
 msgid "ubuntu-cloak_help"
-msgstr ""
+msgstr "ফ্রিনোড এ #ubuntu-irc-council"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('title' field)
 #. .
@@ -1813,6 +1837,9 @@ msgstr ""
 #: ../accomplishments/juju-charm-contributor.c:44
 msgid "juju-charm-contributor_steps"
 msgstr ""
+"একটি নির্দিষ্ট সংখ্যক যুযু চার্ম অবদান রাখুন. নিয়মিত অবদান রাখুন এবং একটি "
+"যথেষ্ট উচ্চ গুণমানের. যুযূ অবদানকারী দলের কোনো সদস্যকে জিজ্ঞাসা করে দেখুন "
+"যদি আপনি যোগ দিতে পারেন."
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('links' field)
 #. .
@@ -2043,6 +2070,8 @@ msgstr ""
 #: ../accomplishments/first-branch-merged.c:75
 msgid "first-branch-merged_pitfalls"
 msgstr ""
+"যদি আপনার শাখা গৃহীত না হয়, খুব হতাশ হবেন না. ডেভেলপারকে জিজ্ঞাসা করুন "
+"কিভাবে আপনি আরও উন্নত পারেন; প্রায়ই মোটামুটি ছোট পরিবর্তনের প্রয়োজন হয়."
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('links' field)
 #. .
