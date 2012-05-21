@@ -2,7 +2,7 @@
 title=Ubuntu MOTU Developer
 description=You are an Ubuntu MOTU Developer
 application=ubuntu-community
-category=Development
+category=Development:Packaging
 icon=devel.png
 depends=ubuntu-community/registered-on-launchpad
 needs-signing=true
