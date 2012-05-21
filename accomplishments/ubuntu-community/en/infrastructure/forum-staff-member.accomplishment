@@ -2,7 +2,7 @@
 title = Ubuntu Forums Staff Member
 description = You are a member of the Ubuntu Forums Staff
 application = ubuntu-community
-category = Governance
+category = Forums, Governance
 needs-signing = true
 needs-information = launchpad-email
 icon = forums.png

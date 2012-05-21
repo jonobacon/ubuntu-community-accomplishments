@@ -2,7 +2,7 @@
 title=Uploaded First Branch To Launchpad
 description=You have uploaded your first branch to Launchpad
 application=ubuntu-community
-category=Launchpad
+category=Launchpad:Code Hosting
 icon=launchpad.png
 depends=ubuntu-community/registered-on-launchpad
 needs-signing=true

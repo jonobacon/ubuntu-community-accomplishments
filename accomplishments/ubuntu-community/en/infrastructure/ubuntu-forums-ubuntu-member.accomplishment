@@ -2,7 +2,7 @@
 title=Ubuntu Forums Ubuntu Member
 description=You gained Ubuntu Membership via Forums Contributions
 application=ubuntu-community
-category=General
+category=Forums
 needs-signing=true
 icon=forums.png
 needs-information=launchpad-email

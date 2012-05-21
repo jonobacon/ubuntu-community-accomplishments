@@ -2,7 +2,7 @@
 title=Registered on Launchpad
 description=Registered a Launchpad account
 application=ubuntu-community
-category=General
+category=Launchpad
 icon=default.png
 needs-signing=true
 needs-information=launchpad-email
