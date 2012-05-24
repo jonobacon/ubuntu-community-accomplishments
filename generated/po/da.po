@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the ubuntu-community-accomplishments package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
 #
-msgid "ubuntu-community/"
+msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"

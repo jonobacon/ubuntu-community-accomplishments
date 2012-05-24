@@ -4,7 +4,7 @@
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
 # Kenneth Frantzen <kenneth@frantzen.se>, 2012.
-msgid "ubuntu-community/"
+msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
