@@ -1,7 +1,7 @@
 [accomplishment]
 title=Ubuntu Core Developer
 description=You are an Ubuntu Core Developer
-application=ubuntu-community
+collection=ubuntu-community
 category=Development:Packaging
 icon=devel.png
 depends=ubuntu-community/registered-on-launchpad

@@ -1,7 +1,7 @@
 [accomplishment]
 title=Technical Board Member
 description=You are a member of the Ubuntu Technical Board
-application=ubuntu-community
+collection=ubuntu-community
 category=Governance
 needs-signing=true
 icon=devel.png

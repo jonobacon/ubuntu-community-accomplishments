@@ -1,7 +1,7 @@
 [accomplishment]
 title=Imported an SSH Key
 description=You have imported an SSH key into launchpad.
-application=ubuntu-community
+collection=ubuntu-community
 category=Launchpad:Your Profile
 icon=launchpad.png
 depends=ubuntu-community/registered-on-launchpad

@@ -1,0 +1,18 @@
+[accomplishment]
+title = Revisor de Juju Charm
+description = Você contribui com Juju charms para o Ubuntu.
+collection = ubuntu-community
+category = Juju
+needs-signing = true
+needs-information = launchpad-email
+icon = juju.png
+depends = ubuntu-community/juju-charm-contributor
+author = Jono Bacon <jono@ubuntu.com>
+summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
+steps = Contribute a significant number of Juju charms.
+	Contribute regularly and to a high enough quality.
+	Ask a member of the Juju Reviews team if you can join.
+tips = None
+pitfalls = None
+help = #juju na Freenode
+

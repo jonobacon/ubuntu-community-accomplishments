@@ -1,0 +1,27 @@
+[accomplishment]
+title = Raporto defektin e parë
+	.
+description = Ju keni raportuar defektin tuaj të parë në Ubuntu
+	.
+collection = ubuntu-community
+category = QA
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Një <i>defekt</ i> është një problem në një pjesë të softuerit. Kur ju raportoni një defekt kjo do të thotë se ju bëni me dije projektin Ubuntu rreth njërit prej këtyre defekteve kështu që ne mund ta rregullojmë atë.
+	Kur ju raportoni një defekt fillon një bisedë mes zhvilluesit të softuerit dhe palëve të tjera të interesuara për të ndihmuar në identifikimin e shkakut të problemit dhe për të dhënë informacion të mjaftueshëm në mënyrë që zhvilluesi i softuerit mund të zgjidh atë. Kjo bisedë shpesh përfshinë zhvillues (it) duke ju kërkuar për informacione të ndryshme që mund të ndihmojnë ato në gjetjen e shkakut të problemit.
+	Kjo bisedë zhvillohet në një <i>ndjekës defektesh</ i>, një mjet që ofron mundësinë për të pasur këtë bisedë, dhe vendos prioritetet për të siguruar që defektet me influencën më të madhe të rregullohen më shpejt se sa shumë probleme të tjera më të vogla.
+	Ka disa mënyra të ndryshme në të cilat ju mund të depozitoni një defekt, por ne ju rekomandojmë të përdorni një mjet i quajtur <tt>ubuntu-bug</ tt> që vjen i instaluar në të gjitha sistemet Ubuntu. Ky mjet ndihmon në mbledhjen e informacionit të nevojshë që mund ti duhet zhvilluesiit të softuerit për të gjetur burimin e defektit kështu që ata mund të zgjidhin atë.
+	Ju mund të depozitoni një defekt në një mënyrë më grafike, duke përdorur opsionin <I>raporto një problem</ i> i ndodhur ne menun <i>ndihmë</ i> të softuerit, kjo thjesht siguron një mënyrë grafike për <tt>ubuntu-bug</ tt>.
+steps = Hap një terminal duke klikuar butonin Ubuntu dhe shkruani <i>terminal</ i> në dash.
+	Shkruani <tt>ubuntu-bug</ tt> dhe pastaj emrin e paketës kundrejtë të cilës dëshironi të depozitoni një defekt (p.sh. <tt>ubuntu-bug unity</ tt> për Unity). Nëse ju nuk e dini emrin e paketës, atëhere shkruani vetëm <tt>ubuntu-bug</ tt> dhe ndiqni udhëzimet.
+	Ndiqni udhëzimet në Launchpad.
+tips = Gjithmonë përpiquni të jeni konciz dhe të detajuar në raportet tuaja të defekteve.
+	Nëse ju i dini hapat e përfshira që shkaktojnë defektin, përfshijnë ato hapa në përshkrimin e defektit. Kjo quhet <I>riprodhim i defektit</ i>.
+	Mos harroni, kur ju depozitoni një raport oër nje defekt ju jeni duke kërkuar një zhvillues për të marrë kohë për të zgjidhur atë. Mundohuni të jeni të dobishëm, të sjellshëm, dhe respektoni kohën e tyre.
+pitfalls = Mos depozitoni defekte për gjërat që ju pengojnë në një pjesë të softuerit; depozitoni defekte vetëm kur gjërat nuk punojnë ashtu siç pritet.
+	Mos u përgjigjeni për një defekt duke thënë "edhe mua!"; Në vend që të përdorin lidhjen <I>Ky defekt më prek dhe mua</ i> në krye të raportit të defektit (në Launchpad).
+help = #ubuntu-testing në Freenode
+

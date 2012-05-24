@@ -1,7 +1,7 @@
 [accomplishment]
 title=Bug Squad Member
 description=You are a member of Ubuntu Bug Squad
-application=ubuntu-community
+collection=ubuntu-community
 category=QA
 needs-signing=true
 icon=default.png

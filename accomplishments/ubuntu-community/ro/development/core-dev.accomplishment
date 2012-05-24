@@ -1,0 +1,18 @@
+[accomplishment]
+title = Dezvoltator de Bază Ubuntu
+description = Ești un Dezvoltator de Bază Ubuntu
+collection = ubuntu-community
+category = Development:Packaging
+needs-signing = true
+needs-information = launchpad-email
+icon = devel.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Un Dezvoltator de Bază Ubuntu este responsabil de crearea de pachete și rezolvarea problemelor din arhiva <tt>main</tt>. Aceasta include unele din soft-urile critice care fac parte din sistemul Ubuntu, și piesele care sunt integrate într-o instalare standard Ubuntu.
+steps = Contribuie la Ubuntu pentru o perioadă susținută de timp.
+	Folosește-te de Programul de Sponsorizare Ubuntu pentru a realiza contribuțiile tale.
+	Aplică la Comisia de Dezvoltare Ubuntu pentru poziția de programator de bază.
+tips = None
+pitfalls = None
+help = #ubuntu-devel pe Freenode
+

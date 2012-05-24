@@ -1,7 +1,7 @@
 [accomplishment]
 title=Gain an Ubuntu Member Cloak
 description=You have an Ubuntu Member IRC cloak.
-application=ubuntu-community
+collection=ubuntu-community
 category=IRC
 icon=default.png
 depends=ubuntu-community/ubuntu-member

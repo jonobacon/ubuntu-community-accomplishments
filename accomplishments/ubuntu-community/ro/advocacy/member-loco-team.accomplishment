@@ -1,0 +1,17 @@
+[accomplishment]
+title = Membru al unei Comunități Locale
+description = Ești membru al unei Comunități Locale
+collection = ubuntu-community
+category = LoCo Teams
+needs-signing = true
+needs-information = launchpad-email
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Comunitățile locale Ubuntu sunt răspândite în toată lumea și sunt formate din utilizatori
+steps = Mergi la <tt>loco.ubuntu.com</tt> și găsește comunitatea locală cea mai apropiată. Acest trofeu este acordat dacă ești membru al oricărei comunități locale, indiferent dacă aceasta este aprobată sau nu. 
+	Vizitează pagina Launchpad a acelei comunități locale și apasă pe link-ul Join Team.
+tips = None
+pitfalls = None
+help = #ubuntu-ro pe Freenote
+

@@ -1,0 +1,16 @@
+[accomplishment]
+title = Lagt till profilbild på Launchpad.
+description = Användaren har lagt till en profilbild i sin Launchpad profil.
+collection = ubuntu-community
+category = Launchpad:Your Profile
+needs-signing = true
+needs-information = launchpad-email
+icon = launchpad.png
+depends = ubuntu-community/registered-on-launchpad
+author = Andrea Grandi <a.grandi@gmail.com>
+summary = En profilbild är en bild av dig själv som du kan knyta till din Launchpad-profil. Det är trevligt när andra kan se en bild på dig och känna igen. Vi råder dig att välja ett riktigt foto av dig själv (oftast med bara ansiktet synligt), eller en annan bild som du verkligen gillar och identifieras med. Var snäll och undvik bilder med innehåll som skulle kunna uppröra någon annan (t.ex. pronografiska motiv). Bilden måste vara <i>exakt</i> <strong>192x192</strong> pixlar stor och inte mer än <strong>100 Kb</strong> tung.
+steps = Att ladda upp en profilbild är väldigt enkelt. Först måste du logga in på Launchpad.net. Gå sedan till din profilsida, vilken oftast finns på http://launchpad.net/~DITT_ANVÄNDARNAMN  Klicka på länken "Change details" ("Redigera"). Se till att bilden du laddar upp är 192x192 pixlar stor (.png eller .jpg går bra). Så snart bilden är uppladdad, klicka på "Save changes"-knappen ("Spara") längst ned på sidan.
+tips = None
+pitfalls = None
+help = #launchpad på Freenode
+

@@ -1,0 +1,22 @@
+[accomplishment]
+title = Miembro de Ubuntu aprobado
+description = Es un miembro de Ubuntu aprobado
+collection = ubuntu-community
+category = General
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Un miembro de Ubuntu es alguien que ha demostrado una <i>constante y significante</i> colaboración con Ubuntu.
+	Cada miembro es visto como una persona confiable y capaz de mejorar el desarrollo de Ubuntu.
+	Un aspecto importante, es que no se requieren aspectos puramente técnicos para ser un miembro de Ubuntu, se consideran igualmente de importantes otras areas  como la creación de documentación, traducción, organización de eventos, ayuda en linea, diseño de arte, entre otras actividades.
+steps = Para ser miembro de Ubuntu debera contar con algunos requisitos como:
+	Haber contribuido de forma constante y durante un periodo de tiempo no menor a seis meses, en algún aspecto de la comunidad de Ubuntu.
+	Crear una página wiki en <tt>wiki.ubuntu.com</tt> que contenga un resumen de las actividades realizadas.
+	Tener comentarios de otros usuarios de Ubuntu que avalen su desempeño, será mejor si son miembros reconocidos de la comunidad, pero también cuentan los comentarios de usuarios locales.
+	Agregar su candidatura al consejo  de aprobación regional, al consejo del IRC, al consejo de los foros, o al consejo de desarrolladores dependiendo el tipo de contribución que hayas realizado. También hay equipos para Kubuntu y Edubuntu.
+tips = None
+pitfalls = None
+help = #ubuntu-community-team en Freenode
+

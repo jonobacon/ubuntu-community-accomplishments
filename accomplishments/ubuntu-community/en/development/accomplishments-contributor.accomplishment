@@ -1,7 +1,7 @@
 [accomplishment]
 title=Accomplishments Contributor
 description=You have contributed an accomplishment to the official accomplishments collection
-application=ubuntu-community
+collection=ubuntu-community
 category=Development:Ubuntu Accomplishments
 icon=devel.png
 depends=ubuntu-community/imported-ssh-key

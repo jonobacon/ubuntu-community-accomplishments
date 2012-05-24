@@ -1,7 +1,7 @@
 [accomplishment]
 title=Ubuntu Forums Council Member
 description=You are a member of the Ubuntu Forum Council
-application=ubuntu-community
+collection=ubuntu-community
 category=Governance
 needs-signing=true
 icon=forums.png

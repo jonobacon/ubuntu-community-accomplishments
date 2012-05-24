@@ -1,0 +1,23 @@
+[accomplishment]
+title = Setarea unei poze în profilul Launchpad
+description = Utilizatorul a setat o poză în profilul propriu Launchpad
+collection = ubuntu-community
+category = Launchpad:Your Profile
+needs-signing = true
+needs-information = launchpad-email
+icon = launchpad.png
+depends = ubuntu-community/registered-on-launchpad
+author = Andrea Grandi <a.grandi@gmail.com>
+summary = O poză este o imagine avatar pe care utilizatorul o poate seta în profilul său Launchpad. Este bine când oamenii te pot identifica doar privind o fotografie de-a ta.
+	Îți recomandăm să alegi o poză reala de a ta (de obicei doar la nivelul feței) sau un alt avatar care îți place cu adevărat. Te rugăm să încerci să eviți imagini cu conținut potențial ofensator la adresa altor persoane (ex.: conținut exclusiv pentru adulți).
+	Această imagine trebuie să aibă exact dimensiunile <strong>192x192</strong> și șă nu fie mai mare de <strong>100 Kb</strong>.
+steps = Setarea unei poze este foarte simplă.
+	Trebuie să fii autentificat pe site-ul web Launchpad.net.
+	Apoi trebuie să mergi la pagina ta de profil care se găsește de obicei la http://launchpad.net/~NUMELETĂUDEUTILIZATOR
+	Dă click pe link-ul "Change details".
+	Asigură-te că ai o imagine de 192x192 pixeli pregătită pentru încărcare (.png sau .jpg sunt în regulă).
+	Odată ce imaginea a fost încărcată, dați click pe butonul "Save changes" aflat la sfârșitul paginii.
+tips = None
+pitfalls = None
+help = #launchpad pe Freenode
+

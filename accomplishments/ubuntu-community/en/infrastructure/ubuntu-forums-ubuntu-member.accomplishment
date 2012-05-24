@@ -1,7 +1,7 @@
 [accomplishment]
 title=Ubuntu Forums Ubuntu Member
 description=You gained Ubuntu Membership via Forums Contributions
-application=ubuntu-community
+collection=ubuntu-community
 category=Forums
 needs-signing=true
 icon=forums.png

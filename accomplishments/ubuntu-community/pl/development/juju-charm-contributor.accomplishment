@@ -1,0 +1,18 @@
+[accomplishment]
+title = Kontrybutor Juju Charms
+description = Dokonujesz kontrybucji do projektu Juju Charms
+collection = ubuntu-community
+category = Juju
+needs-signing = true
+needs-information = launchpad-email
+icon = juju.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Technologia Juju opiera się na jakości dostępnych Breloków. To osiągnięcie należy się tym członkom społeczności, którzy dopracowują Breloki dla twórców Juju.
+steps = Dostarczaj pewną ilość Breloków Juju.
+	Udoskonalaj je regularnie, zapewniając wystarczająco wysoką jakość.
+	Poproś członka zespołu Juju Contributors, aby doń dołączyć.
+tips = None
+pitfalls = None
+help = #juju on Freenode
+

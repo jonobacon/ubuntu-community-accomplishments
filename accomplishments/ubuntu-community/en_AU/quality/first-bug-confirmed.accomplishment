@@ -1,0 +1,21 @@
+[accomplishment]
+title = Filed Bug that was Confirmed
+description = Filed a bug in Ubuntu that was confirmed by someone else
+collection = ubuntu-community
+category = QA
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/report-first-bug
+author = Bruno Girin <brunogirin@gmail.com>
+summary = A bug is a defect in a piece of software. Filing bugs is a great way to help improve Ubuntu and in order for the bug to be fixed, someone else needs to be able to reproduce and confirm it. The more detailed and precise your bug report is, the most likely it is that it can be reproduced by someone else. This achievement reflects that at least one of your bug reports was of good quality and was confirmed by someone else.
+steps = File a bug as you would normally (see the Filed First Bug accomplishments for more details) and ensure that the description is detailed enough to enable others to reproduce it. To write a good bug report, include the following:
+	A clear and concise description of the problem. Don't forget to mention whether the bug can be triggered every time or whether it is intermittent.
+	A set of steps to reproduce the problem. Make sure that they are explicit. For instance, if a step involves selecting a menu item, specify whether selecting it using the mouse or keyboard shortcuts makes a difference.
+	A description of the failure when following those steps.
+	A description of what you expected the application to do instead. This is an important piece of information: sometimes, what the application does is what the developers expected it to do and they didn't realise it would cause you problems so describing what you expect is helpful to understand the defect.
+	Any additional information you think can help diagnose the problem. For instance, if the application used to work and suddenly stopped working, specify when it started misbehaving.
+tips = None
+pitfalls = None
+help = #ubuntu-testing on Freenode
+

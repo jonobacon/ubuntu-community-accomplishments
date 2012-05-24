@@ -1,0 +1,22 @@
+[accomplishment]
+title = Configurada imagen de perfil en Launchpad
+description = El usuario tienen configurada una imagen de perfil en Launchpad
+collection = ubuntu-community
+category = Launchpad:Your Profile
+needs-signing = true
+needs-information = launchpad-email
+icon = launchpad.png
+depends = ubuntu-community/registered-on-launchpad
+author = Andrea Grandi <a.grandi@gmail.com>
+summary = Es útil configurar una imagen de avatar para que otros miembros de la comunidad puedan reconocerte. Sugerimos que se utilice una imagen real (preferiblemente del cuello hacia arriba) o alguna imagen que sienta que lo identifica. Evite las imágenes que puedan ofender a otros usuarios (por ejemplo, contenido para adultos). La imagen debe ser exactamente de <strong>192x192</strong> y no debe pesar mas de <strong>100 Kb</strong>.
+steps = Para configurar su avatar necesita seguir los siguientes pasos:
+	Abrir una sesión en http://launchpad.net
+	Ir a su página de perfil, es del tipo http://launchpad.net/~su_nick
+	Presionar el link «Change details»
+	Subir una imagen de exactamente 192x192 pixeles (.png o .jpg)
+	Hacer click en «Save changes» al final de la página
+tips = None
+pitfalls = None
+help = #ubuntu-es en Freenode
+	#launchpad en Freenode
+

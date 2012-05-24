@@ -1,7 +1,7 @@
 [accomplishment]
 title=Attend LoCo Team Event
 description=You attended a Local Community Team event
-application=ubuntu-community
+collection=ubuntu-community
 category=LoCo Teams
 needs-signing=true
 icon=loco.png

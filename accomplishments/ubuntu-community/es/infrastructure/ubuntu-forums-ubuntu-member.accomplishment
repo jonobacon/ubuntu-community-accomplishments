@@ -1,0 +1,21 @@
+[accomplishment]
+title = Miembro de Ubuntu a través de los foros
+description = Ha conseguido ser miembro de Ubuntu vía contribuciones a los foros
+collection = ubuntu-community
+category = Forums
+needs-signing = true
+needs-information = launchpad-email
+icon = forums.png
+depends = ubuntu-community/ubuntu-member
+author = Silver Fox <silver-fox@ubuntu.com>
+summary = Ubuntu membership generally recognizes significant and sustained contributions to Ubuntu. An active Forums contributor is held to the same standards, but the main focus of activity is in the Ubuntu Forums.
+steps = Create a <a href="https://wiki.ubuntu.com/username">wiki page</a>.
+	Create a <a href="https://launchpad.net">Launchpad</a> page. Although not mandatory, many people use the same identity/nick on Launchpad and on the forums.
+	Sign the Ubuntu code of conduct. This has traditionally been one of the more difficult steps. FYI: A bug has been opened on Launchpad to make the process easier.
+	Create a thread in the <a href="http://ubuntuforums.org/forumdisplay.php?f=404">Ubuntu Membership Applications section</a> requesting a review of your application. Be sure to include a link to your wiki and launchpad pages.
+	We would strongly advise you read through <a href="http://ubuntuforums.org/showthread.php?t=1750642">this</a> thread before applying for membership.
+	The Forum Council meets monthly and membership applications are processed at this time. For information on when the Forum Council meet please check <a href="https://wiki.ubuntu.com/ForumCouncilAgenda">this</a> wiki page.
+tips = Focus on helping other forum members in the Absolute Beginners Talk and General Help. Reporting Spam is another good way to make a positive contribution to the forum.
+pitfalls = No aplica sin al menos 6 meses de contribuciones. Lo ideal son 12
+help = #ubuntuforums en Freenode
+

@@ -1,7 +1,7 @@
 [accomplishment]
 title=Approved Ubuntu Member
 description=You are an Approved Ubuntu Member
-application=ubuntu-community
+collection=ubuntu-community
 category=General
 needs-signing=true
 depends=ubuntu-community/registered-on-launchpad

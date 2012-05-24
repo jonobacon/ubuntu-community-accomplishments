@@ -1,0 +1,22 @@
+[accomplishment]
+title = Signed Ubuntu Code Of Conduct
+description = Vous avez signé le code de conduite Ubuntu
+collection = ubuntu-community
+category = General
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Le Code de Conduite Ubuntu est un document important qui fournit un ensemble de directives et d’exigences dans le but d’assurer une bonne conduite au sein de la communauté Ubuntu. Il inclut des exigences en matière de considération, de respect, de collaboration et explique comment demander de l’aide ou se retirer en cas d’indisponibilité. Ce trophée est décerné lorsque vous avez accepté de respecter ces exigences dans la communauté et avez signé le Code de Conduite Ubuntu.
+steps = First generate a PGP key, add it to the Ubuntu key-server, and import it into Launchpad. See <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">here</a> for how to do this.
+	Visit the <a href="https://launchpad.net/codeofconduct">Code Of Conduct page</a>.
+	Download the Ubuntu Code of Conduct, using the link located in the second step of the page, and open it.
+	Sign it by opening a terminal and running <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt>.
+	Now open the file in the Text Editor.
+	On the Ubuntu Code of Conduct page, click <i>Sign it!</i> then paste into the textbox. Click <i>Continue</i>. Congratulations, you've signed the Ubuntu Code of Conduct!
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams sur Freenode
+	#ubuntu-community-team sur Freenode
+

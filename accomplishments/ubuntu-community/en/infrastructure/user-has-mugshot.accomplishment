@@ -1,7 +1,7 @@
 [accomplishment]
 title=Setting a mugshot in Launchpad profile
 description=User has set a mugshot in his own Launchpad profile
-application=ubuntu-community
+collection=ubuntu-community
 category=Launchpad:Your Profile
 icon=launchpad.png
 depends=ubuntu-community/registered-on-launchpad

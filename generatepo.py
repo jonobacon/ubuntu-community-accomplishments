@@ -4,8 +4,6 @@ from random import randint
 import ConfigParser
 import subprocess
 
-files = glob.glob("accomplishments/*/en/*")
-
 translatedsections = [
     { "title" :
         "A short description of the accomplishment.\n \
@@ -47,12 +45,43 @@ if not os.path.exists(podir):
     
 potfilesin = open(os.path.join(podir, "POTFILES.in"), "w")
 
+print "Scanning for files:"
+
+files = {}
+
+collslist = os.listdir("accomplishments")
+for collection in collslist:
+    colldir = os.path.join("accomplishments",collection)
+    cfg = ConfigParser.RawConfigParser()
+    cfg.read(os.path.join(colldir,"ABOUT"))
+    deflang = cfg.get("general","langdefault")
+    deflangdir = os.path.join(colldir,deflang)
+    deflangdirlist = os.listdir(deflangdir)
+    for item in deflangdirlist:
+        itempath = os.path.join(deflangdir,item)
+        if os.path.isdir(itempath):
+            dislist = os.listdir(itempath)
+            for accom in dislist:
+                accompath = os.path.join(itempath,accom)
+                accID = collection + "/" + accom[:-15]
+                print " " + accID
+                files[accompath] = accID
+        else:
+            accID = collection + "/" + item[:-15]
+            print " " + accID
+            files[itempath] = accID
+
 print "Processing files:"
 
 for f in files:
-    print "..." + str(f)
-    accomplishmentname = os.path.split(f)[1].split(".")[0]
-    tempfile = open(os.path.join(generatedaccomplishmentsdir, accomplishmentname + ".c"), "w")
+    accomID = files[f]
+    print " ..." + accomID + " (" + str(f) + ")"
+    accomID_splitted = accomID.split("/")
+    if len(accomID_splitted) == 2:
+        # requires a directory
+        if not os.path.exists(os.path.join(generatedaccomplishmentsdir,accomID_splitted[0])):
+            os.makedirs(os.path.join(generatedaccomplishmentsdir,accomID_splitted[0]))
+    tempfile = open(os.path.join(generatedaccomplishmentsdir,accomID + ".c"),"w")
     config = ConfigParser.RawConfigParser()
     config.read(f)
     title = config.get("accomplishment", "title")
@@ -68,18 +97,18 @@ for f in files:
                 for l in origitemlines:
                     origitem = origitem + ("// " + l + "\n")
 
-                output = output + ("// ENGLISH TRANSLATION:\n")
+                output = output + ("// ORIGINAL TRANSLATION:\n")
                 output = output + (origitem + "\n")
                 output = output + "// .\n"
                 output = output + "// ----- TRANSLATION INSTRUCTIONS ----- \n"
                 for c in sec.values()[0].split("\n"):
                     output = output + ("// " + c + "\n")
-                output = output + ("_(\"" + accomplishmentname + "_" + i[0] + "\")\n")
+                output = output + ("_(\"" + accomID + "_" + i[0] + "\")\n")
                 tempfile.write(output)
     tempfile.close()
 
     # write POTFILES.in
-    potfilesin.write(os.path.join("accomplishments", accomplishmentname + ".c\n"))
+    potfilesin.write(os.path.join("accomplishments", accomID + ".c\n"))
 
 potfilesin.close()
 

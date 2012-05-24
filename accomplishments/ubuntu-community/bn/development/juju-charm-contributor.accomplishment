@@ -1,0 +1,16 @@
+[accomplishment]
+title = যুযু চার্ম এর অবদানকারি
+description = আপনি উবুন্টুতে যুযু চার্মসমূহ অবদান করেন
+collection = ubuntu-community
+category = Juju
+needs-signing = true
+needs-information = launchpad-email
+icon = juju.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
+steps = একটি নির্দিষ্ট সংখ্যক যুযু চার্ম অবদান রাখুন. নিয়মিত অবদান রাখুন এবং একটি যথেষ্ট উচ্চ গুণমানের. যুযূ অবদানকারী দলের কোনো সদস্যকে জিজ্ঞাসা করে দেখুন যদি আপনি যোগ দিতে পারেন.
+tips = None
+pitfalls = None
+help = ফ্রিনোড এ #juju .
+

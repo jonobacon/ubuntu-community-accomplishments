@@ -1,0 +1,18 @@
+[accomplishment]
+title = Juju Charm Contributor
+description = You contribute Juju charms to Ubuntu.
+collection = ubuntu-community
+category = Juju
+needs-signing = true
+needs-information = launchpad-email
+icon = juju.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
+steps = Contribute a number of Juju charms.
+	Contribute regularly and to a high enough quality.
+	Ask a member of the Juju Contributors team if you can join.
+tips = None
+pitfalls = None
+help = #juju on Freenode
+

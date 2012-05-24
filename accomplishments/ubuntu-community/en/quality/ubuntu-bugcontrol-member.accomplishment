@@ -1,7 +1,7 @@
 [accomplishment]
 title=Bug Control Member
 description=You are an expert triager and a member of Ubuntu Bug Control
-application=ubuntu-community
+collection=ubuntu-community
 category=QA
 needs-signing=true
 icon=default.png

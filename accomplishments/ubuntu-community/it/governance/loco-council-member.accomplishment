@@ -1,0 +1,23 @@
+[accomplishment]
+title = Membro del consiglio delle LoCo
+description = Sei un membro del consiglio delle LoCo
+collection = ubuntu-community
+category = Governance
+needs-signing = true
+needs-information = launchpad-email
+icon = loco.png
+depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
+summary = Il consiglio delle LoCo di Ubuntu è un comitato direttivo che sovrintende i LoCo team globali.
+	Il consiglio delle LoCo consiglia e determina la politica e i processi delle LoCo. Il consiglio delle LoCo aiuta anche a risolvere i problemi che i LoCo team non sono stati in grado di risolvere internamente.
+	Per essere membro del consiglio delle LoCo devi aver dimostrato un forte impegno e una lunga partecipazione negli Ubuntu LoCo team, dimostrato chiare capacità di leadership, e avere il tempo e la disponibilità per rispondere alle esigenze del consiglio. Un buon membro del consiglio delle LoCo mostrerà la capacità di ascoltare e capire le diverse esigenze delle varie culture e comunità. I membri del consiglio delle LoCo dovrebbero essere in grado di ispirare e guidare la leadership dei LoCo team.
+steps = Iniziate contribuendo alla vostra comunità locale organizzando eventi e poi contribuendo ai LoCo team delle comunità su scala globale. I contributi dovrebbero essere estesi su un lungo periodo di tempo. Non c'è un periodo prefissato di tempo, ma questo dovrebbe essere lungo a sufficienza da dimostrare il vostro impegno verso il progetto.
+	Create una pagina su <tt>wiki.ubuntu.com</tt> che delinei i vostri contributi. Nella pagina wiki includete i vostri contributi, descrivete in quali team vi trovate, e riassumete i vostri sforzi.
+tips = Focalizzatevi sulle vostre capacità di leadership. Il consiglio delle LoCo è un'importante posizione di leadership e noi cerchiamo forti, capaci, fiduciosi leader.
+	Dovreste probabilmente aver diretto un LoCo team per sviluppare e dimostrare le vostre capacità di leadership prima di impegnarvi ad essere nel consiglio delle LoCo.
+	Indirizzatevi verso il consiglio delle LoCo solo quando avete avuto una significativa esperienza nella comunità LoCo.
+pitfalls = Non indirizzatevi verso il consiglio delle LoCo solo per essere in una posizione di potere.
+	Cercate di non essere in più di un consiglio (per es. consiglio delle LoCo, Consiglio della comunità) contemporaneamente. Partecipate ad uno, e dategli tutta la vostra attenzione.
+help = #ubuntu-community-team on Freenode
+	#ubuntu-locoteams on Freenode
+

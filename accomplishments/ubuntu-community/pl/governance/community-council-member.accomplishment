@@ -1,0 +1,23 @@
+[accomplishment]
+title = Członek Rady Wspólnoty
+description = Jesteś członkiem Rady Wspólnoty
+collection = ubuntu-community
+category = Governance
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
+summary = Rada Wspólnoty Ubuntu jest podstawową społecznością organu nadzorczego dla projektu Ubuntu i odgrywa ważną i odpowiedzialną rolę wobec społeczności Ubuntu.
+	Rada Wspólnoty doradza i decyduje o polityce społecznej i procesu. Jest zatem narzędziem do eskalacji zdarzeń, które występują gdzie indziej w społeczności Ubuntu.
+	Członkowie Rady Wspólnoty powinni wykazywać silne zaangażowanie i udział w tworzeniu historii Ubuntu, posiadać wyraźne zdolności przywódcze, oraz mieć czas i dostępności do angażowania się na potrzeby Rady.
+steps = Zostań członkiem Ubuntu. Wykaż efektywny i szeroki wkład do projektu Ubuntu przez dłuższy okres czasu. Nie ma z góry określonego czasu, ale powinien być tak długi aby wykazać swoje zaangażowanie w projekt.
+	Zmień stronę wiki, która została utworzona dla Członków Ubuntu,  <tt> wiki.ubuntu.com </tt>, tak żeby była zaktualizowana i przedstawiała Twój wkład. Na stronie wiki zawrzyj swój wkład, opisz jakie w jakich zespołach jesteś, i podsumuj swoje wysiłki.
+	Kiedy następne wybory Radnego Wspólnoty zostaną ogłoszone, wyznacz siebie jako kandydata. Mark Shuttleworth, założyciel Ubuntu, a także znany jako sabdfl (samozwańczy dyktator życzliwy dla życia) (ang. self-appointed benevolent dictator for life) wybiera kandydata z listy nominowanych i umieszcza te przekazuje pod głosowanie przez obecnych członków Ubuntu.
+tips = Skup się na swoich umiejętności przywódczych. Pozycja Radnego Wspólnoty jest ważna pozycją dlatego szukamy silnych, zdolnych, pewny siebie liderów.
+	Żeby starać się o stanowisko Radnego Wspólnoty powinieneś raczej przewodniczyć już jakimś zespołem i wykazać w nim swoje zdolności przywódcze.
+	Ubiegaj się o stanowisko Radnego Wspólnoty tylko wtedy gdy masz znaczną ilość doświadczenia w społeczności Ubuntu.
+pitfalls = Nie staraj się o pozycje Radnego Wspólnoty tylko żeby być w posiadaniu władzy.
+	Staraj się nie być Radnym w więcej niż jednej Radzie (np. Rada Wspólnoty, Rada Techniczna) w tym samym czasie. Dołącz do jednej, i poświęć jej całą swoją uwagę.
+help = #ubuntu-community-team na Freenode
+

@@ -1,0 +1,20 @@
+[accomplishment]
+title = উবুন্টু ফোরামের কর্মী সদস্য
+description = আপনি একজন উবুন্টু ফোরামের কর্মী সদস্য.
+collection = ubuntu-community
+category = Forums, Governance
+needs-signing = true
+needs-information = launchpad-email
+icon = forums.png
+depends = ubuntu-community/ubuntu-member
+author = Silver Fox <silver-fox@ubuntu.com>
+summary = The Ubuntu Forums Staff are the moderation team behind the Ubuntu Forums.  The Ubuntu Forums staff tackle day to day running of the forum and gives feedback to the Forum Council when requested.
+	Members of the Forum Staff have demonstrated a strong commitment and participation history in Ubuntu, clear leadership skills, and have the time and availability to commit to the needs of the forums. Members are also expected to have good people skills and have the ability to empathise with others.
+steps = Become an Ubuntu Forums Member.
+	Wait for elections to be held on new staff. The Forum Council will make a shortlist of candidates, if you are included in the shortlist you will be contacted inviting you to stand for election.
+	If you agree to stand the Ubuntu Forums Members will have the opportunity to vote for you.
+tips = Focus on your soft skills, having good people skills is very important.
+	Be active in the support areas of the forum, but also be seen in the Community Cafe
+pitfalls = অনুগ্রহ করে ফোরামের কর্মী হতে বলবেন না
+help = ফ্রিনোড এ #ubuntuforums
+

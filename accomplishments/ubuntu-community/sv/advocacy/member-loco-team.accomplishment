@@ -1,0 +1,18 @@
+[accomplishment]
+title = LoCo gruppmedlem
+description = Du är medlem i en Ubuntu LoCo grupp
+collection = ubuntu-community
+category = LoCo Teams
+needs-signing = true
+needs-information = launchpad-email
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Ubuntu LoCo (Local Community) grupper är lokala användargrupper lokaliserade överallt i världen. I dessa grupper träffas man för att diskutera Ubuntu, dela med sig av idéer, tips, trick och kunskap. Man arbetar tillsammans för att sprida information om Ubuntu och hur det kan hjälpa människor.
+steps = Gå till <tt>loco.ubuntu.com</tt> och leta upp din närmaste användargrupp. Denna trofé tilldelas dig om du är medlem i vilken LoCo grupp som helst, oavsett dess godkännande status.
+	Besök den gruppens Launchpad sida och klicka på Join Team länken.
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams på Freenode
+	#ubuntu-community-team på Freenode
+

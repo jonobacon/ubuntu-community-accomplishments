@@ -1,7 +1,7 @@
 [accomplishment]
 title = Ubuntu Forums Staff Member
 description = You are a member of the Ubuntu Forums Staff
-application = ubuntu-community
+collection = ubuntu-community
 category = Forums, Governance
 needs-signing = true
 needs-information = launchpad-email

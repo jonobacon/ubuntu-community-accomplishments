@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the ubuntu-community-accomplishments package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
 #
-msgid ""
+msgid "ubuntu-community/"
 msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
@@ -26,7 +26,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/member-loco-team.c:11
-msgid "member-loco-team_title"
+msgid "ubuntu-community/member-loco-team_title"
 msgstr "Członek zespołu LoCo"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('description' field)
@@ -37,7 +37,7 @@ msgstr "Członek zespołu LoCo"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/member-loco-team.c:20
-msgid "member-loco-team_description"
+msgid "ubuntu-community/member-loco-team_description"
 msgstr "Jesteś członkiem zespołu Ubuntu LoCo"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
@@ -50,7 +50,7 @@ msgstr "Jesteś członkiem zespołu Ubuntu LoCo"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/member-loco-team.c:31
-msgid "member-loco-team_summary"
+msgid "ubuntu-community/member-loco-team_summary"
 msgstr ""
 "Ubuntu LoCo ( Lokalna spoleczność, ang. Local Community ) to regionalne "
 "grupy ludzi z całego świata, które omawiają pomysły, wskazówki, triki i "
@@ -68,7 +68,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/member-loco-team.c:43
-msgid "member-loco-team_steps"
+msgid "ubuntu-community/member-loco-team_steps"
 msgstr ""
 "Idź do <tt>loco.ubuntu.com</tt> i odszukaj swoją najbliższy zespół. Trofeum "
 "jest przyznawane, jeżeli jesteś członkiem jakiegokolwiek LoCo zespołu, "
@@ -83,7 +83,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/member-loco-team.c:53
-msgid "member-loco-team_links"
+msgid "ubuntu-community/member-loco-team_links"
 msgstr "http://loco.ubuntu.com/"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('help' field)
@@ -97,7 +97,7 @@ msgstr "http://loco.ubuntu.com/"
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/member-loco-team.c:65
-msgid "member-loco-team_help"
+msgid "ubuntu-community/member-loco-team_help"
 msgstr ""
 "Kanał IRC #ubuntu-locoteams na irc.freenode.net:8001\r\n"
 "Kanał IRC #ubuntu-community-team na irc.freenode.net:8001\r\n"
@@ -112,7 +112,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/user-has-mugshot.c:11
-msgid "user-has-mugshot_title"
+msgid "ubuntu-community/user-has-mugshot_title"
 msgstr "Ustawiono mugshot w profilu Lauchpad"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('description' field)
@@ -123,7 +123,7 @@ msgstr "Ustawiono mugshot w profilu Lauchpad"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/user-has-mugshot.c:20
-msgid "user-has-mugshot_description"
+msgid "ubuntu-community/user-has-mugshot_description"
 msgstr "Użytkownik wstawił zdjęcie dołączone do profilu Launchpad"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('summary' field)
@@ -138,7 +138,7 @@ msgstr "Użytkownik wstawił zdjęcie dołączone do profilu Launchpad"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/user-has-mugshot.c:33
-msgid "user-has-mugshot_summary"
+msgid "ubuntu-community/user-has-mugshot_summary"
 msgstr ""
 "\"Mugshot\" jest obrazkiem który ustawia się w profilu użytkownika na "
 "Launchpadzie. Identyfikowanie ludzi po ich twarzach jest całkiem fajne.\r\n"
@@ -163,7 +163,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/user-has-mugshot.c:49
-msgid "user-has-mugshot_steps"
+msgid "ubuntu-community/user-has-mugshot_steps"
 msgstr ""
 "Ustawienie obrazka jest bardzo proste.\r\n"
 "Najpierw zaloguj się na stronie launchpad.net.\r\n"
@@ -183,7 +183,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/user-has-mugshot.c:59
-msgid "user-has-mugshot_links"
+msgid "ubuntu-community/user-has-mugshot_links"
 msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('help' field)
@@ -196,7 +196,7 @@ msgstr "http://www.launchpad.net"
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/user-has-mugshot.c:70
-msgid "user-has-mugshot_help"
+msgid "ubuntu-community/user-has-mugshot_help"
 msgstr "#launchpad on Freenode"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
@@ -208,7 +208,7 @@ msgstr "#launchpad on Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/signed-code-of-conduct.c:11
-msgid "signed-code-of-conduct_title"
+msgid "ubuntu-community/signed-code-of-conduct_title"
 msgstr "Podpisałeś Kodeks Postępowania Ubuntu"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('description' field)
@@ -219,7 +219,7 @@ msgstr "Podpisałeś Kodeks Postępowania Ubuntu"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/signed-code-of-conduct.c:20
-msgid "signed-code-of-conduct_description"
+msgid "ubuntu-community/signed-code-of-conduct_description"
 msgstr "Złożyłeś swój podpis pod Kodeksem Postępowania Ubuntu."
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('summary' field)
@@ -234,7 +234,7 @@ msgstr "Złożyłeś swój podpis pod Kodeksem Postępowania Ubuntu."
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/signed-code-of-conduct.c:33
-msgid "signed-code-of-conduct_summary"
+msgid "ubuntu-community/signed-code-of-conduct_summary"
 msgstr ""
 "Kodeks Postępowania Ubuntu jest ważnym dokumentem, który zawiera zbiór "
 "wytycznych i zasad dobrego postępowania w społeczności Ubuntu.\r\n"
@@ -259,7 +259,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/signed-code-of-conduct.c:49
-msgid "signed-code-of-conduct_steps"
+msgid "ubuntu-community/signed-code-of-conduct_steps"
 msgstr ""
 "Najpierw wygeneruj klucz elektronicznego podpisu PGP (o ile go jeszcze nie "
 "posiadasz), wyślij go na serwer kluczy Ubuntu i zaimportuj je do portalu "
@@ -286,7 +286,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/signed-code-of-conduct.c:59
-msgid "signed-code-of-conduct_links"
+msgid "ubuntu-community/signed-code-of-conduct_links"
 msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('help' field)
@@ -300,7 +300,7 @@ msgstr "http://www.ubuntu.com/project/about-ubuntu/conduct"
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/signed-code-of-conduct.c:71
-msgid "signed-code-of-conduct_help"
+msgid "ubuntu-community/signed-code-of-conduct_help"
 msgstr ""
 "#ubuntu-locoteams na Freenode\r\n"
 "#ubuntu-community-team na Freenode\r\n"
@@ -315,7 +315,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:11
-msgid "ubuntu-beginners-team-council-member_title"
+msgid "ubuntu-community/ubuntu-beginners-team-council-member_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('description' field)
@@ -326,7 +326,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:20
-msgid "ubuntu-beginners-team-council-member_description"
+msgid "ubuntu-community/ubuntu-beginners-team-council-member_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('summary' field)
@@ -340,7 +340,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:32
-msgid "ubuntu-beginners-team-council-member_summary"
+msgid "ubuntu-community/ubuntu-beginners-team-council-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('steps' field)
@@ -355,7 +355,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:45
-msgid "ubuntu-beginners-team-council-member_steps"
+msgid "ubuntu-community/ubuntu-beginners-team-council-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('tips' field)
@@ -371,7 +371,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:59
-msgid "ubuntu-beginners-team-council-member_tips"
+msgid "ubuntu-community/ubuntu-beginners-team-council-member_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('pitfalls' field)
@@ -384,7 +384,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:70
-msgid "ubuntu-beginners-team-council-member_pitfalls"
+msgid "ubuntu-community/ubuntu-beginners-team-council-member_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('help' field)
@@ -397,7 +397,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:81
-msgid "ubuntu-beginners-team-council-member_help"
+msgid "ubuntu-community/ubuntu-beginners-team-council-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('links' field)
@@ -409,7 +409,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-beginners-team-council-member.c:91
-msgid "ubuntu-beginners-team-council-member_links"
+msgid "ubuntu-community/ubuntu-beginners-team-council-member_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Control Member ('title' field)
@@ -421,7 +421,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-bugcontrol-member.c:11
-msgid "ubuntu-bugcontrol-member_title"
+msgid "ubuntu-community/ubuntu-bugcontrol-member_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Control Member ('description' field)
@@ -432,7 +432,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-bugcontrol-member.c:20
-msgid "ubuntu-bugcontrol-member_description"
+msgid "ubuntu-community/ubuntu-bugcontrol-member_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Control Member ('summary' field)
@@ -445,7 +445,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-bugcontrol-member.c:31
-msgid "ubuntu-bugcontrol-member_summary"
+msgid "ubuntu-community/ubuntu-bugcontrol-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Control Member ('tips' field)
@@ -459,7 +459,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-bugcontrol-member.c:43
-msgid "ubuntu-bugcontrol-member_tips"
+msgid "ubuntu-community/ubuntu-bugcontrol-member_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Control Member ('pitfalls' field)
@@ -473,7 +473,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-bugcontrol-member.c:55
-msgid "ubuntu-bugcontrol-member_pitfalls"
+msgid "ubuntu-community/ubuntu-bugcontrol-member_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Control Member ('steps' field)
@@ -489,7 +489,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-bugcontrol-member.c:69
-msgid "ubuntu-bugcontrol-member_steps"
+msgid "ubuntu-community/ubuntu-bugcontrol-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Control Member ('links' field)
@@ -501,7 +501,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-bugcontrol-member.c:79
-msgid "ubuntu-bugcontrol-member_links"
+msgid "ubuntu-community/ubuntu-bugcontrol-member_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Control Member ('help' field)
@@ -514,7 +514,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-bugcontrol-member.c:90
-msgid "ubuntu-bugcontrol-member_help"
+msgid "ubuntu-community/ubuntu-bugcontrol-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: LoCo Council Member ('title' field)
@@ -526,7 +526,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/loco-council-member.c:11
-msgid "loco-council-member_title"
+msgid "ubuntu-community/loco-council-member_title"
 msgstr "Członek Rady LoCo"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('description' field)
@@ -537,7 +537,7 @@ msgstr "Członek Rady LoCo"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/loco-council-member.c:20
-msgid "loco-council-member_description"
+msgid "ubuntu-community/loco-council-member_description"
 msgstr "Jesteś członkiem Rady LoCo"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
@@ -552,7 +552,7 @@ msgstr "Jesteś członkiem Rady LoCo"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/loco-council-member.c:33
-msgid "loco-council-member_summary"
+msgid "ubuntu-community/loco-council-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
@@ -567,7 +567,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/loco-council-member.c:46
-msgid "loco-council-member_steps"
+msgid "ubuntu-community/loco-council-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
@@ -582,7 +582,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/loco-council-member.c:59
-msgid "loco-council-member_tips"
+msgid "ubuntu-community/loco-council-member_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
@@ -596,7 +596,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/loco-council-member.c:71
-msgid "loco-council-member_pitfalls"
+msgid "ubuntu-community/loco-council-member_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: LoCo Council Member ('links' field)
@@ -610,7 +610,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/loco-council-member.c:83
-msgid "loco-council-member_links"
+msgid "ubuntu-community/loco-council-member_links"
 msgstr ""
 "https://wiki.ubuntu.com/LoCoCouncil\r\n"
 "https://wiki.ubuntu.com/LoCoCouncilAgenda\r\n"
@@ -627,7 +627,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/loco-council-member.c:95
-msgid "loco-council-member_help"
+msgid "ubuntu-community/loco-council-member_help"
 msgstr ""
 "#ubuntu-pl na Freenode\r\n"
 "#ubuntu-community-team na Freenode\r\n"
@@ -642,7 +642,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/forum-council-member.c:11
-msgid "forum-council-member_title"
+msgid "ubuntu-community/forum-council-member_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('description' field)
@@ -653,7 +653,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/forum-council-member.c:20
-msgid "forum-council-member_description"
+msgid "ubuntu-community/forum-council-member_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('summary' field)
@@ -667,7 +667,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-council-member.c:32
-msgid "forum-council-member_summary"
+msgid "ubuntu-community/forum-council-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('steps' field)
@@ -681,7 +681,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-council-member.c:44
-msgid "forum-council-member_steps"
+msgid "ubuntu-community/forum-council-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('tips' field)
@@ -695,7 +695,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-council-member.c:56
-msgid "forum-council-member_tips"
+msgid "ubuntu-community/forum-council-member_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('links' field)
@@ -709,7 +709,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/forum-council-member.c:68
-msgid "forum-council-member_links"
+msgid "ubuntu-community/forum-council-member_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('help' field)
@@ -722,7 +722,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-council-member.c:79
-msgid "forum-council-member_help"
+msgid "ubuntu-community/forum-council-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('title' field)
@@ -734,7 +734,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/attend-loco-event.c:11
-msgid "attend-loco-event_title"
+msgid "ubuntu-community/attend-loco-event_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('description' field)
@@ -745,7 +745,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/attend-loco-event.c:20
-msgid "attend-loco-event_description"
+msgid "ubuntu-community/attend-loco-event_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('summary' field)
@@ -759,7 +759,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/attend-loco-event.c:32
-msgid "attend-loco-event_summary"
+msgid "ubuntu-community/attend-loco-event_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('steps' field)
@@ -776,7 +776,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/attend-loco-event.c:47
-msgid "attend-loco-event_steps"
+msgid "ubuntu-community/attend-loco-event_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('links' field)
@@ -788,7 +788,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/attend-loco-event.c:57
-msgid "attend-loco-event_links"
+msgid "ubuntu-community/attend-loco-event_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('help' field)
@@ -802,7 +802,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/attend-loco-event.c:69
-msgid "attend-loco-event_help"
+msgid "ubuntu-community/attend-loco-event_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('title' field)
@@ -814,7 +814,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/imported-ssh-key.c:11
-msgid "imported-ssh-key_title"
+msgid "ubuntu-community/imported-ssh-key_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('description' field)
@@ -825,7 +825,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/imported-ssh-key.c:20
-msgid "imported-ssh-key_description"
+msgid "ubuntu-community/imported-ssh-key_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('summary' field)
@@ -838,7 +838,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/imported-ssh-key.c:31
-msgid "imported-ssh-key_summary"
+msgid "ubuntu-community/imported-ssh-key_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('steps' field)
@@ -857,7 +857,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/imported-ssh-key.c:48
-msgid "imported-ssh-key_steps"
+msgid "ubuntu-community/imported-ssh-key_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('links' field)
@@ -869,7 +869,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/imported-ssh-key.c:58
-msgid "imported-ssh-key_links"
+msgid "ubuntu-community/imported-ssh-key_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('help' field)
@@ -882,7 +882,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/imported-ssh-key.c:69
-msgid "imported-ssh-key_help"
+msgid "ubuntu-community/imported-ssh-key_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('title' field)
@@ -894,7 +894,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/accomplishments-contributor.c:11
-msgid "accomplishments-contributor_title"
+msgid "ubuntu-community/accomplishments-contributor_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('description' field)
@@ -905,7 +905,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/accomplishments-contributor.c:20
-msgid "accomplishments-contributor_description"
+msgid "ubuntu-community/accomplishments-contributor_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('summary' field)
@@ -921,7 +921,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/accomplishments-contributor.c:34
-msgid "accomplishments-contributor_summary"
+msgid "ubuntu-community/accomplishments-contributor_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('steps' field)
@@ -940,7 +940,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/accomplishments-contributor.c:51
-msgid "accomplishments-contributor_steps"
+msgid "ubuntu-community/accomplishments-contributor_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('tips' field)
@@ -954,7 +954,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/accomplishments-contributor.c:63
-msgid "accomplishments-contributor_tips"
+msgid "ubuntu-community/accomplishments-contributor_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('pitfalls' field)
@@ -967,7 +967,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/accomplishments-contributor.c:74
-msgid "accomplishments-contributor_pitfalls"
+msgid "ubuntu-community/accomplishments-contributor_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('links' field)
@@ -981,7 +981,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/accomplishments-contributor.c:86
-msgid "accomplishments-contributor_links"
+msgid "ubuntu-community/accomplishments-contributor_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('help' field)
@@ -995,7 +995,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/accomplishments-contributor.c:98
-msgid "accomplishments-contributor_help"
+msgid "ubuntu-community/accomplishments-contributor_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Community Council Member ('title' field)
@@ -1007,7 +1007,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/community-council-member.c:11
-msgid "community-council-member_title"
+msgid "ubuntu-community/community-council-member_title"
 msgstr "Członek Rady Wspólnoty"
 
 #. ACCOMPLISHMENT: Community Council Member ('description' field)
@@ -1018,7 +1018,7 @@ msgstr "Członek Rady Wspólnoty"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/community-council-member.c:20
-msgid "community-council-member_description"
+msgid "ubuntu-community/community-council-member_description"
 msgstr "Jesteś członkiem Rady Wspólnoty"
 
 #. ACCOMPLISHMENT: Community Council Member ('summary' field)
@@ -1033,7 +1033,7 @@ msgstr "Jesteś członkiem Rady Wspólnoty"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:33
-msgid "community-council-member_summary"
+msgid "ubuntu-community/community-council-member_summary"
 msgstr ""
 "Rada Wspólnoty Ubuntu jest podstawową społecznością organu nadzorczego dla "
 "projektu Ubuntu i odgrywa ważną i odpowiedzialną rolę wobec społeczności "
@@ -1057,7 +1057,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:46
-msgid "community-council-member_steps"
+msgid "ubuntu-community/community-council-member_steps"
 msgstr ""
 "Zostań członkiem Ubuntu. Wykaż efektywny i szeroki wkład do projektu Ubuntu "
 "przez dłuższy okres czasu. Nie ma z góry określonego czasu, ale powinien być "
@@ -1084,7 +1084,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:59
-msgid "community-council-member_tips"
+msgid "ubuntu-community/community-council-member_tips"
 msgstr ""
 "Skup się na swoich umiejętności przywódczych. Pozycja Radnego Wspólnoty jest "
 "ważna pozycją dlatego szukamy silnych, zdolnych, pewny siebie liderów.\r\n"
@@ -1105,7 +1105,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:71
-msgid "community-council-member_pitfalls"
+msgid "ubuntu-community/community-council-member_pitfalls"
 msgstr ""
 "Nie staraj się o pozycje Radnego Wspólnoty tylko żeby być w posiadaniu "
 "władzy.\r\n"
@@ -1124,7 +1124,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/community-council-member.c:83
-msgid "community-council-member_links"
+msgid "ubuntu-community/community-council-member_links"
 msgstr ""
 "https://wiki.ubuntu.com/CommunityCouncil\r\n"
 "https://wiki.ubuntu.com/CommunityCouncilAgenda\r\n"
@@ -1140,7 +1140,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/community-council-member.c:94
-msgid "community-council-member_help"
+msgid "ubuntu-community/community-council-member_help"
 msgstr "#ubuntu-community-team na Freenode"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('title' field)
@@ -1152,7 +1152,7 @@ msgstr "#ubuntu-community-team na Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/bugsquad-member.c:11
-msgid "bugsquad-member_title"
+msgid "ubuntu-community/bugsquad-member_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Squad Member ('description' field)
@@ -1163,7 +1163,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/bugsquad-member.c:20
-msgid "bugsquad-member_description"
+msgid "ubuntu-community/bugsquad-member_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Squad Member ('summary' field)
@@ -1177,7 +1177,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/bugsquad-member.c:32
-msgid "bugsquad-member_summary"
+msgid "ubuntu-community/bugsquad-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Squad Member ('steps' field)
@@ -1193,7 +1193,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/bugsquad-member.c:46
-msgid "bugsquad-member_steps"
+msgid "ubuntu-community/bugsquad-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Squad Member ('links' field)
@@ -1206,7 +1206,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/bugsquad-member.c:57
-msgid "bugsquad-member_links"
+msgid "ubuntu-community/bugsquad-member_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Bug Squad Member ('help' field)
@@ -1219,7 +1219,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/bugsquad-member.c:68
-msgid "bugsquad-member_help"
+msgid "ubuntu-community/bugsquad-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Report First Bug ('title' field)
@@ -1231,7 +1231,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/report-first-bug.c:11
-msgid "report-first-bug_title"
+msgid "ubuntu-community/report-first-bug_title"
 msgstr "Zgłoś swój pierwszy błąd"
 
 #. ACCOMPLISHMENT: Report First Bug ('description' field)
@@ -1242,7 +1242,7 @@ msgstr "Zgłoś swój pierwszy błąd"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/report-first-bug.c:20
-msgid "report-first-bug_description"
+msgid "ubuntu-community/report-first-bug_description"
 msgstr "Zgłośiłeś swój pierwszy błąd w Ubuntu"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
@@ -1259,7 +1259,7 @@ msgstr "Zgłośiłeś swój pierwszy błąd w Ubuntu"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/report-first-bug.c:35
-msgid "report-first-bug_summary"
+msgid "ubuntu-community/report-first-bug_summary"
 msgstr ""
 "<i>Błąd</i> występuje w części oprogramowania. Kiedy zgłaszasz błąd oznacza "
 "to, że informujesz o nim projekt Ubuntu, dzięki czemu możemy go "
@@ -1294,7 +1294,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/report-first-bug.c:48
-msgid "report-first-bug_steps"
+msgid "ubuntu-community/report-first-bug_steps"
 msgstr ""
 "Otworz terminal - aby to zrobić wciśnij klawisz Super ( jest to klawisz z "
 "logo Windows) i wpisz w polu wyszukiwania <i>terminal</i>.\r\n"
@@ -1316,7 +1316,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/report-first-bug.c:61
-msgid "report-first-bug_tips"
+msgid "ubuntu-community/report-first-bug_tips"
 msgstr ""
 "Zawsze staraj się być zwięzły i zarazem szczegółowy podczas zgłaszania "
 "błędu.\r\n"
@@ -1336,7 +1336,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/report-first-bug.c:73
-msgid "report-first-bug_pitfalls"
+msgid "ubuntu-community/report-first-bug_pitfalls"
 msgstr ""
 "Nie zgłaszaj błędu, jeżeli sposób w jaki działa dany program irytuje Cię; "
 "rób to wyłącznie gdy program działa niepoprawnie.\r\n"
@@ -1354,7 +1354,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/report-first-bug.c:84
-msgid "report-first-bug_links"
+msgid "ubuntu-community/report-first-bug_links"
 msgstr ""
 "https://help.ubuntu.com/community/ReportingBugs\r\n"
 "https://wiki.ubuntu.com/HelpingWithBugs"
@@ -1369,7 +1369,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/report-first-bug.c:95
-msgid "report-first-bug_help"
+msgid "ubuntu-community/report-first-bug_help"
 msgstr "#ubuntu-testing on Freenode"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
@@ -1381,7 +1381,7 @@ msgstr "#ubuntu-testing on Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-member.c:11
-msgid "ubuntu-member_title"
+msgid "ubuntu-community/ubuntu-member_title"
 msgstr "Zatwierdzony użytkownik Ubuntu"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('description' field)
@@ -1392,7 +1392,7 @@ msgstr "Zatwierdzony użytkownik Ubuntu"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-member.c:20
-msgid "ubuntu-member_description"
+msgid "ubuntu-community/ubuntu-member_description"
 msgstr "Jesteś zatwierdzonym użytkownikiem Ubuntu"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('summary' field)
@@ -1407,7 +1407,7 @@ msgstr "Jesteś zatwierdzonym użytkownikiem Ubuntu"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:33
-msgid "ubuntu-member_summary"
+msgid "ubuntu-community/ubuntu-member_summary"
 msgstr ""
 "Członek Ubuntu jest to ktoś, kto wykazał <i>znaczący i długoterminowy</i> "
 "wkład w Ubuntu.\r\n"
@@ -1431,7 +1431,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:47
-msgid "ubuntu-member_steps"
+msgid "ubuntu-community/ubuntu-member_steps"
 msgstr ""
 "Udzielaj się dla Ubuntu w szerokim tego słowa znaczeniu, przez znaczący "
 "okres czasu. Nie ma określonego wymaganego czasu, ale powinno być to na tyle "
@@ -1454,7 +1454,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-member.c:58
-msgid "ubuntu-member_links"
+msgid "ubuntu-community/ubuntu-member_links"
 msgstr ""
 "http://wiki.ubuntu.com/Membership\r\n"
 "https://wiki.ubuntu.com/Membership/RegionalBoards"
@@ -1469,7 +1469,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-member.c:69
-msgid "ubuntu-member_help"
+msgid "ubuntu-community/ubuntu-member_help"
 msgstr "#ubuntu-community-team on Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('title' field)
@@ -1481,7 +1481,7 @@ msgstr "#ubuntu-community-team on Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-forums-ubuntu-member.c:11
-msgid "ubuntu-forums-ubuntu-member_title"
+msgid "ubuntu-community/ubuntu-forums-ubuntu-member_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('description' field)
@@ -1492,7 +1492,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-forums-ubuntu-member.c:20
-msgid "ubuntu-forums-ubuntu-member_description"
+msgid "ubuntu-community/ubuntu-forums-ubuntu-member_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('summary' field)
@@ -1505,7 +1505,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-forums-ubuntu-member.c:31
-msgid "ubuntu-forums-ubuntu-member_summary"
+msgid "ubuntu-community/ubuntu-forums-ubuntu-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('steps' field)
@@ -1523,7 +1523,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-forums-ubuntu-member.c:47
-msgid "ubuntu-forums-ubuntu-member_steps"
+msgid "ubuntu-community/ubuntu-forums-ubuntu-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('tips' field)
@@ -1536,7 +1536,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-forums-ubuntu-member.c:58
-msgid "ubuntu-forums-ubuntu-member_tips"
+msgid "ubuntu-community/ubuntu-forums-ubuntu-member_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('pitfalls' field)
@@ -1549,7 +1549,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-forums-ubuntu-member.c:69
-msgid "ubuntu-forums-ubuntu-member_pitfalls"
+msgid "ubuntu-community/ubuntu-forums-ubuntu-member_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('links' field)
@@ -1563,7 +1563,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-forums-ubuntu-member.c:81
-msgid "ubuntu-forums-ubuntu-member_links"
+msgid "ubuntu-community/ubuntu-forums-ubuntu-member_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('help' field)
@@ -1576,7 +1576,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-forums-ubuntu-member.c:92
-msgid "ubuntu-forums-ubuntu-member_help"
+msgid "ubuntu-community/ubuntu-forums-ubuntu-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
@@ -1588,7 +1588,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-cloak.c:11
-msgid "ubuntu-cloak_title"
+msgid "ubuntu-community/ubuntu-cloak_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('description' field)
@@ -1599,7 +1599,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-cloak.c:20
-msgid "ubuntu-cloak_description"
+msgid "ubuntu-community/ubuntu-cloak_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('summary' field)
@@ -1614,7 +1614,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-cloak.c:33
-msgid "ubuntu-cloak_summary"
+msgid "ubuntu-community/ubuntu-cloak_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('steps' field)
@@ -1629,7 +1629,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-cloak.c:46
-msgid "ubuntu-cloak_steps"
+msgid "ubuntu-community/ubuntu-cloak_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('tips' field)
@@ -1642,7 +1642,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-cloak.c:57
-msgid "ubuntu-cloak_tips"
+msgid "ubuntu-community/ubuntu-cloak_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('pitfalls' field)
@@ -1655,7 +1655,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-cloak.c:68
-msgid "ubuntu-cloak_pitfalls"
+msgid "ubuntu-community/ubuntu-cloak_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('links' field)
@@ -1667,7 +1667,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-cloak.c:78
-msgid "ubuntu-cloak_links"
+msgid "ubuntu-community/ubuntu-cloak_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('help' field)
@@ -1680,7 +1680,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-cloak.c:89
-msgid "ubuntu-cloak_help"
+msgid "ubuntu-community/ubuntu-cloak_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('title' field)
@@ -1692,7 +1692,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-beginners-team-member.c:11
-msgid "ubuntu-beginners-team-member_title"
+msgid "ubuntu-community/ubuntu-beginners-team-member_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('description' field)
@@ -1703,7 +1703,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-beginners-team-member.c:20
-msgid "ubuntu-beginners-team-member_description"
+msgid "ubuntu-community/ubuntu-beginners-team-member_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('summary' field)
@@ -1717,7 +1717,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-member.c:32
-msgid "ubuntu-beginners-team-member_summary"
+msgid "ubuntu-community/ubuntu-beginners-team-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('steps' field)
@@ -1734,7 +1734,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-member.c:47
-msgid "ubuntu-beginners-team-member_steps"
+msgid "ubuntu-community/ubuntu-beginners-team-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('tips' field)
@@ -1747,7 +1747,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-member.c:58
-msgid "ubuntu-beginners-team-member_tips"
+msgid "ubuntu-community/ubuntu-beginners-team-member_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('pitfalls' field)
@@ -1760,7 +1760,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-member.c:69
-msgid "ubuntu-beginners-team-member_pitfalls"
+msgid "ubuntu-community/ubuntu-beginners-team-member_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('help' field)
@@ -1774,7 +1774,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-beginners-team-member.c:81
-msgid "ubuntu-beginners-team-member_help"
+msgid "ubuntu-community/ubuntu-beginners-team-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
@@ -1786,7 +1786,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/technical-board-member.c:11
-msgid "technical-board-member_title"
+msgid "ubuntu-community/technical-board-member_title"
 msgstr "Zostań członkiem Rady Technicznej"
 
 #. ACCOMPLISHMENT: Technical Board Member ('description' field)
@@ -1797,7 +1797,7 @@ msgstr "Zostań członkiem Rady Technicznej"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/technical-board-member.c:20
-msgid "technical-board-member_description"
+msgid "ubuntu-community/technical-board-member_description"
 msgstr "Należysz do zespołu Rady Technicznej Ubuntu"
 
 #. ACCOMPLISHMENT: Technical Board Member ('summary' field)
@@ -1811,7 +1811,7 @@ msgstr "Należysz do zespołu Rady Technicznej Ubuntu"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/technical-board-member.c:32
-msgid "technical-board-member_summary"
+msgid "ubuntu-community/technical-board-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Technical Board Member ('steps' field)
@@ -1826,7 +1826,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/technical-board-member.c:45
-msgid "technical-board-member_steps"
+msgid "ubuntu-community/technical-board-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Technical Board Member ('links' field)
@@ -1839,7 +1839,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/technical-board-member.c:56
-msgid "technical-board-member_links"
+msgid "ubuntu-community/technical-board-member_links"
 msgstr ""
 "https://wiki.ubuntu.com/TechnicalBoard\r\n"
 "http://www.ubuntu.com/project/about-ubuntu/governance"
@@ -1855,7 +1855,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/technical-board-member.c:68
-msgid "technical-board-member_help"
+msgid "ubuntu-community/technical-board-member_help"
 msgstr ""
 "#ubuntu-devel-team on Freenode\r\n"
 "#ubuntu-community-team on Freenode"
@@ -1869,7 +1869,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-contributor.c:11
-msgid "juju-charm-contributor_title"
+msgid "ubuntu-community/juju-charm-contributor_title"
 msgstr "Kontrybutor Juju Charms"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('description' field)
@@ -1880,7 +1880,7 @@ msgstr "Kontrybutor Juju Charms"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-contributor.c:20
-msgid "juju-charm-contributor_description"
+msgid "ubuntu-community/juju-charm-contributor_description"
 msgstr "Dokonujesz kontrybucji do projektu Juju Charms"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('summary' field)
@@ -1893,7 +1893,7 @@ msgstr "Dokonujesz kontrybucji do projektu Juju Charms"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:31
-msgid "juju-charm-contributor_summary"
+msgid "ubuntu-community/juju-charm-contributor_summary"
 msgstr ""
 "Technologia Juju opiera się na jakości dostępnych Breloków. To osiągnięcie "
 "należy się tym członkom społeczności, którzy dopracowują Breloki dla twórców "
@@ -1911,7 +1911,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:44
-msgid "juju-charm-contributor_steps"
+msgid "ubuntu-community/juju-charm-contributor_steps"
 msgstr ""
 "Dostarczaj pewną ilość Breloków Juju.\r\n"
 "Udoskonalaj je regularnie, zapewniając wystarczająco wysoką jakość.\r\n"
@@ -1926,7 +1926,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-contributor.c:54
-msgid "juju-charm-contributor_links"
+msgid "ubuntu-community/juju-charm-contributor_links"
 msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
@@ -1939,7 +1939,7 @@ msgstr "http://juju.ubuntu.com"
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-contributor.c:65
-msgid "juju-charm-contributor_help"
+msgid "ubuntu-community/juju-charm-contributor_help"
 msgstr "#juju on Freenode"
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('title' field)
@@ -1951,7 +1951,7 @@ msgstr "#juju on Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/blog-on-planet-ubuntu.c:11
-msgid "blog-on-planet-ubuntu_title"
+msgid "ubuntu-community/blog-on-planet-ubuntu_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('description' field)
@@ -1962,7 +1962,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/blog-on-planet-ubuntu.c:20
-msgid "blog-on-planet-ubuntu_description"
+msgid "ubuntu-community/blog-on-planet-ubuntu_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('summary' field)
@@ -1978,7 +1978,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/blog-on-planet-ubuntu.c:34
-msgid "blog-on-planet-ubuntu_summary"
+msgid "ubuntu-community/blog-on-planet-ubuntu_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('steps' field)
@@ -2003,7 +2003,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/blog-on-planet-ubuntu.c:57
-msgid "blog-on-planet-ubuntu_steps"
+msgid "ubuntu-community/blog-on-planet-ubuntu_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('tips' field)
@@ -2019,7 +2019,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/blog-on-planet-ubuntu.c:71
-msgid "blog-on-planet-ubuntu_tips"
+msgid "ubuntu-community/blog-on-planet-ubuntu_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('pitfalls' field)
@@ -2032,7 +2032,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/blog-on-planet-ubuntu.c:82
-msgid "blog-on-planet-ubuntu_pitfalls"
+msgid "ubuntu-community/blog-on-planet-ubuntu_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('links' field)
@@ -2045,7 +2045,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/blog-on-planet-ubuntu.c:93
-msgid "blog-on-planet-ubuntu_links"
+msgid "ubuntu-community/blog-on-planet-ubuntu_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('help' field)
@@ -2058,7 +2058,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/blog-on-planet-ubuntu.c:104
-msgid "blog-on-planet-ubuntu_help"
+msgid "ubuntu-community/blog-on-planet-ubuntu_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('title' field)
@@ -2070,7 +2070,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-branch-merged.c:11
-msgid "first-branch-merged_title"
+msgid "ubuntu-community/first-branch-merged_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
@@ -2081,7 +2081,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-branch-merged.c:20
-msgid "first-branch-merged_description"
+msgid "ubuntu-community/first-branch-merged_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
@@ -2097,7 +2097,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-branch-merged.c:34
-msgid "first-branch-merged_summary"
+msgid "ubuntu-community/first-branch-merged_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('steps' field)
@@ -2115,7 +2115,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-branch-merged.c:50
-msgid "first-branch-merged_steps"
+msgid "ubuntu-community/first-branch-merged_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('tips' field)
@@ -2131,7 +2131,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-branch-merged.c:64
-msgid "first-branch-merged_tips"
+msgid "ubuntu-community/first-branch-merged_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('pitfalls' field)
@@ -2144,7 +2144,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-branch-merged.c:75
-msgid "first-branch-merged_pitfalls"
+msgid "ubuntu-community/first-branch-merged_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('links' field)
@@ -2157,7 +2157,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/first-branch-merged.c:86
-msgid "first-branch-merged_links"
+msgid "ubuntu-community/first-branch-merged_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('help' field)
@@ -2170,7 +2170,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-branch-merged.c:97
-msgid "first-branch-merged_help"
+msgid "ubuntu-community/first-branch-merged_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Signed the Canonical Contributors Agreement ('title' field)
@@ -2182,7 +2182,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/canonical-contributor.c:11
-msgid "canonical-contributor_title"
+msgid "ubuntu-community/canonical-contributor_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Signed the Canonical Contributors Agreement ('description' field)
@@ -2193,7 +2193,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/canonical-contributor.c:20
-msgid "canonical-contributor_description"
+msgid "ubuntu-community/canonical-contributor_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Signed the Canonical Contributors Agreement ('summary' field)
@@ -2206,7 +2206,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/canonical-contributor.c:31
-msgid "canonical-contributor_summary"
+msgid "ubuntu-community/canonical-contributor_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Signed the Canonical Contributors Agreement ('steps' field)
@@ -2226,7 +2226,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/canonical-contributor.c:49
-msgid "canonical-contributor_steps"
+msgid "ubuntu-community/canonical-contributor_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Signed the Canonical Contributors Agreement ('links' field)
@@ -2239,7 +2239,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/canonical-contributor.c:60
-msgid "canonical-contributor_links"
+msgid "ubuntu-community/canonical-contributor_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Signed the Canonical Contributors Agreement ('help' field)
@@ -2252,7 +2252,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/canonical-contributor.c:71
-msgid "canonical-contributor_help"
+msgid "ubuntu-community/canonical-contributor_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
@@ -2264,7 +2264,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/juju-charm-reviewer.c:11
-msgid "juju-charm-reviewer_title"
+msgid "ubuntu-community/juju-charm-reviewer_title"
 msgstr "Redaktor Breloków Juju"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('description' field)
@@ -2275,7 +2275,7 @@ msgstr "Redaktor Breloków Juju"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/juju-charm-reviewer.c:20
-msgid "juju-charm-reviewer_description"
+msgid "ubuntu-community/juju-charm-reviewer_description"
 msgstr "Dostarczasz Breloki Juju do Ubuntu."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('summary' field)
@@ -2288,7 +2288,7 @@ msgstr "Dostarczasz Breloki Juju do Ubuntu."
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:31
-msgid "juju-charm-reviewer_summary"
+msgid "ubuntu-community/juju-charm-reviewer_summary"
 msgstr ""
 "Technologia Juju oparta jest na jakości dostępnych Breloków. To osiągnięcie "
 "należy się zaufanym członkom społeczności, którzy przeglądają nowe Breloki i "
@@ -2306,7 +2306,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:44
-msgid "juju-charm-reviewer_steps"
+msgid "ubuntu-community/juju-charm-reviewer_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
@@ -2318,7 +2318,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/juju-charm-reviewer.c:54
-msgid "juju-charm-reviewer_links"
+msgid "ubuntu-community/juju-charm-reviewer_links"
 msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('help' field)
@@ -2331,7 +2331,7 @@ msgstr "http://juju.ubuntu.com"
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/juju-charm-reviewer.c:65
-msgid "juju-charm-reviewer_help"
+msgid "ubuntu-community/juju-charm-reviewer_help"
 msgstr "#juju on Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('title' field)
@@ -2343,7 +2343,7 @@ msgstr "#juju on Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/forum-staff-member.c:11
-msgid "forum-staff-member_title"
+msgid "ubuntu-community/forum-staff-member_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('description' field)
@@ -2354,7 +2354,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/forum-staff-member.c:20
-msgid "forum-staff-member_description"
+msgid "ubuntu-community/forum-staff-member_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('summary' field)
@@ -2368,7 +2368,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-staff-member.c:32
-msgid "forum-staff-member_summary"
+msgid "ubuntu-community/forum-staff-member_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('steps' field)
@@ -2383,7 +2383,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-staff-member.c:45
-msgid "forum-staff-member_steps"
+msgid "ubuntu-community/forum-staff-member_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('tips' field)
@@ -2397,7 +2397,7 @@ msgstr ""
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-staff-member.c:57
-msgid "forum-staff-member_tips"
+msgid "ubuntu-community/forum-staff-member_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('pitfalls' field)
@@ -2410,7 +2410,7 @@ msgstr ""
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-staff-member.c:68
-msgid "forum-staff-member_pitfalls"
+msgid "ubuntu-community/forum-staff-member_pitfalls"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('help' field)
@@ -2423,7 +2423,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/forum-staff-member.c:79
-msgid "forum-staff-member_help"
+msgid "ubuntu-community/forum-staff-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('title' field)
@@ -2435,7 +2435,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/motu.c:11
-msgid "motu_title"
+msgid "ubuntu-community/motu_title"
 msgstr "Ubuntu MOTU Deweloper"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('description' field)
@@ -2446,7 +2446,7 @@ msgstr "Ubuntu MOTU Deweloper"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/motu.c:20
-msgid "motu_description"
+msgid "ubuntu-community/motu_description"
 msgstr "Jesteś Ubuntu MOTU Deweloper"
 
 #. ACCOMPLISHMENT: Ubuntu MOTU Developer ('summary' field)
@@ -2459,7 +2459,7 @@ msgstr "Jesteś Ubuntu MOTU Deweloper"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/motu.c:31
-msgid "motu_summary"
+msgid "ubuntu-community/motu_summary"
 msgstr ""
 "Ubuntu MOTU Deweloper (Masters Of The Universe, ang. Władcy Wszechświata) "
 "jest odpowiedzialny za pakowanie i rozwiązywania problemów w archiwum "
@@ -2478,7 +2478,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/motu.c:44
-msgid "motu_steps"
+msgid "ubuntu-community/motu_steps"
 msgstr ""
 "Przyczynić się w znacznym stopniu do projektu Ubuntu na dłuższy okres "
 "czasu.\r\n"
@@ -2497,7 +2497,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/motu.c:56
-msgid "motu_links"
+msgid "ubuntu-community/motu_links"
 msgstr ""
 "https://wiki.ubuntu.com/MOTU\r\n"
 "https://wiki.ubuntu.com/UbuntuDevelopment\r\n"
@@ -2513,7 +2513,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/motu.c:67
-msgid "motu_help"
+msgid "ubuntu-community/motu_help"
 msgstr "#ubuntu-devel na Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
@@ -2525,7 +2525,7 @@ msgstr "#ubuntu-devel na Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/first-bug-confirmed.c:11
-msgid "first-bug-confirmed_title"
+msgid "ubuntu-community/first-bug-confirmed_title"
 msgstr "Zgłoś błąd, który zostanie uznany za Potwierdzony"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('description' field)
@@ -2536,7 +2536,7 @@ msgstr "Zgłoś błąd, który zostanie uznany za Potwierdzony"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/first-bug-confirmed.c:20
-msgid "first-bug-confirmed_description"
+msgid "ubuntu-community/first-bug-confirmed_description"
 msgstr ""
 "Wypełniono raport błędu, który został potwierdzony przez kogoś innego"
 
@@ -2550,7 +2550,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:31
-msgid "first-bug-confirmed_summary"
+msgid "ubuntu-community/first-bug-confirmed_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('steps' field)
@@ -2568,7 +2568,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:47
-msgid "first-bug-confirmed_steps"
+msgid "ubuntu-community/first-bug-confirmed_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('links' field)
@@ -2582,7 +2582,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/first-bug-confirmed.c:59
-msgid "first-bug-confirmed_links"
+msgid "ubuntu-community/first-bug-confirmed_links"
 msgstr ""
 "http://www.ubuntu.com\r\n"
 "https://help.ubuntu.com/community/ReportingBugs\r\n"
@@ -2598,7 +2598,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/first-bug-confirmed.c:70
-msgid "first-bug-confirmed_help"
+msgid "ubuntu-community/first-bug-confirmed_help"
 msgstr "#ubuntu-testing on Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
@@ -2610,7 +2610,7 @@ msgstr "#ubuntu-testing on Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/core-dev.c:11
-msgid "core-dev_title"
+msgid "ubuntu-community/core-dev_title"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('description' field)
@@ -2621,7 +2621,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/core-dev.c:20
-msgid "core-dev_description"
+msgid "ubuntu-community/core-dev_description"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('summary' field)
@@ -2634,7 +2634,7 @@ msgstr ""
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:31
-msgid "core-dev_summary"
+msgid "ubuntu-community/core-dev_summary"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('steps' field)
@@ -2649,7 +2649,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:44
-msgid "core-dev_steps"
+msgid "ubuntu-community/core-dev_steps"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('links' field)
@@ -2661,7 +2661,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/core-dev.c:54
-msgid "core-dev_links"
+msgid "ubuntu-community/core-dev_links"
 msgstr ""
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('help' field)
@@ -2674,7 +2674,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/core-dev.c:65
-msgid "core-dev_help"
+msgid "ubuntu-community/core-dev_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
@@ -2686,7 +2686,7 @@ msgstr ""
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/registered-on-launchpad.c:11
-msgid "registered-on-launchpad_title"
+msgid "ubuntu-community/registered-on-launchpad_title"
 msgstr "Zarejestrowano się na Launchpadzie"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('description' field)
@@ -2697,7 +2697,7 @@ msgstr "Zarejestrowano się na Launchpadzie"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/registered-on-launchpad.c:20
-msgid "registered-on-launchpad_description"
+msgid "ubuntu-community/registered-on-launchpad_description"
 msgstr "Zarejestruj się na Launchpadzie"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('summary' field)
@@ -2711,7 +2711,7 @@ msgstr "Zarejestruj się na Launchpadzie"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/registered-on-launchpad.c:32
-msgid "registered-on-launchpad_summary"
+msgid "ubuntu-community/registered-on-launchpad_summary"
 msgstr ""
 "Launchpad to portal internetowy, gdzie wykonujemy sporą część naszej pracy "
 "nad Ubuntu. Tam budowane są pakiety, wypełniane i naprawiane błędy, "
@@ -2732,7 +2732,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/registered-on-launchpad.c:45
-msgid "registered-on-launchpad_steps"
+msgid "ubuntu-community/registered-on-launchpad_steps"
 msgstr ""
 "Otwórz przeglądarkę internetową.\r\n"
 "Wejdź na stronę <tt>http://www.launchpad.net</tt>\r\n"
@@ -2748,7 +2748,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/registered-on-launchpad.c:55
-msgid "registered-on-launchpad_links"
+msgid "ubuntu-community/registered-on-launchpad_links"
 msgstr "http://www.launchpad.net"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('help' field)
@@ -2761,7 +2761,7 @@ msgstr "http://www.launchpad.net"
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/registered-on-launchpad.c:66
-msgid "registered-on-launchpad_help"
+msgid "ubuntu-community/registered-on-launchpad_help"
 msgstr "#launchpad on Freenode"
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
@@ -2773,7 +2773,7 @@ msgstr "#launchpad on Freenode"
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/fridge-editor.c:11
-msgid "fridge-editor_title"
+msgid "ubuntu-community/fridge-editor_title"
 msgstr "Redaktor Fridge"
 
 #. ACCOMPLISHMENT: Fridge Editor ('description' field)
@@ -2784,7 +2784,7 @@ msgstr "Redaktor Fridge"
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/fridge-editor.c:20
-msgid "fridge-editor_description"
+msgid "ubuntu-community/fridge-editor_description"
 msgstr "Członek zespołu redaktorów Fridge"
 
 #. ACCOMPLISHMENT: Fridge Editor ('summary' field)
@@ -2798,7 +2798,7 @@ msgstr "Członek zespołu redaktorów Fridge"
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/fridge-editor.c:32
-msgid "fridge-editor_summary"
+msgid "ubuntu-community/fridge-editor_summary"
 msgstr ""
 "Ubuntu Fridge jest oficjalna stroną społeczności Ubuntu. Jest to strona "
 "prowadzona przez społeczność Ubuntu, na której znajdziesz  nowinki, opinie "
@@ -2820,7 +2820,7 @@ msgstr ""
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/fridge-editor.c:45
-msgid "fridge-editor_steps"
+msgid "ubuntu-community/fridge-editor_steps"
 msgstr ""
 "Zostań członkiem Ubuntu. Posiądź dobrą wiedzę o społeczności Ubuntu, zdobądź "
 "dobre zdolności pisania w języku angielskim. Jeżeli jesteś zainteresowany "
@@ -2845,7 +2845,7 @@ msgstr ""
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/fridge-editor.c:57
-msgid "fridge-editor_links"
+msgid "ubuntu-community/fridge-editor_links"
 msgstr ""
 "http://fridge.ubuntu.com\r\n"
 "https//wiki.ubuntu.com/Fridge\r\n"
@@ -2862,7 +2862,7 @@ msgstr ""
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/fridge-editor.c:69
-msgid "fridge-editor_help"
+msgid "ubuntu-community/fridge-editor_help"
 msgstr ""
 "#ubuntu-community-team on Freenode\r\n"
 "#ubuntu-news on Freenode"

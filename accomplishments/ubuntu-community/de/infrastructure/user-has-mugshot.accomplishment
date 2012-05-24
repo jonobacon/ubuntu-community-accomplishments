@@ -1,0 +1,24 @@
+[accomplishment]
+title = Ein ("Mugshot") Bild in ihrem Launchpad-Profil einrichten
+description = Der Nutzer hat ein ("Mugshot") Bild in seinem eigenem Launchpad Profil eingerichtet
+collection = ubuntu-community
+category = Launchpad:Your Profile
+needs-signing = true
+needs-information = launchpad-email
+icon = launchpad.png
+depends = ubuntu-community/registered-on-launchpad
+author = Andrea Grandi <a.grandi@gmail.com>
+summary = Ein Mugshot ist ein Profilbild, dass der Benutzer in seinem Launchpad Profil festlegen kann. Es ist schön, wenn  Leute Sie allein anhand ihres Profilbildes erkennen können.
+	Wir empfehlen ein echtes Bild von ihnen zu nehmen (normalerweise nur den Kopf darstellend) oder eines anderen Avatars, den Sie wirklich mögen. Bitte versuchen Sie Bilder mit Inhalt, der andere beleidigen könnte, zu vermeiden (beispielsweise Inhalte für Erwachsene).
+	Das Bild muss genau <strong>192x192</strong> messen und darf nicht größer als <strong>100 Kb</strong> sein.
+steps = Es ist sehr einfach ein Mugshot aufzusetzen.
+	Sie müssen auf der Launchpad.net Webseite eingeloggt sein.
+	Dann brauchen Sie auf die Seite ihre Profiles zu gehen, welches üblicherweise http://launchpad.net/~IHRNUTZERNAME ist.
+	Klicken Sie auf den Link "Change details".
+	Stellen Sie sicher ein 192x192 großes Bild zum Hochladen parat zu haben (.png oder .jpg sind ok).
+	Wenn das Bild hochgeladen ist, wählen Sie den Knopf "Save changes" am Seitenende.
+tips = None
+pitfalls = None
+help = International:
+	#launchpad auf Freenode
+

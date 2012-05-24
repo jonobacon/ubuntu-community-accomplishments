@@ -1,7 +1,7 @@
 [accomplishment]
 title=On Planet Ubuntu
 description=You have a blog on Planet Ubuntu
-application=ubuntu-community
+collection=ubuntu-community
 category=General
 icon=default.png
 depends=ubuntu-community/ubuntu-member ubuntu-community/imported-ssh-key

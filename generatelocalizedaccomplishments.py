@@ -6,40 +6,65 @@ import ConfigParser
 
 class GenerateTranslations():
     def __init__(self):
-        self.accoms = glob.glob("accomplishments/*/en/*")
-        self.files = glob.glob("generated/po/*.po")
+    
+        print "Scanning for accomplishments:"
+        accoms = {}
+        collslist = os.listdir("accomplishments")
+        for collection in collslist:
+            colldir = os.path.join("accomplishments",collection)
+            cfg = ConfigParser.RawConfigParser()
+            cfg.read(os.path.join(colldir,"ABOUT"))
+            deflang = cfg.get("general","langdefault")
+            deflangdir = os.path.join(colldir,deflang)
+            deflangdirlist = os.listdir(deflangdir)
+            for item in deflangdirlist:
+                itempath = os.path.join(deflangdir,item)
+                if os.path.isdir(itempath):
+                    dislist = os.listdir(itempath)
+                    for accom in dislist:
+                        accompath = os.path.join(itempath,accom)
+                        accID = collection + "/" + accom[:-15]
+                        print " " + accID
+                        accoms[accID] = {'origfile' : accompath, 'inlangfile' : os.path.join(item,accom), 'coll' : collection}
+                else:
+                    accID = collection + "/" + item[:-15]
+                    print " " + accID
+                    accoms[accID] = {'origfile' : itempath,'inlangfile' : item, 'coll' : collection}
+    
+        self.pofiles = glob.glob("generated/po/*.po")
 
-        self.accomset = self.accoms[0].split("/")[1]
-
-        for f in self.files:
+        for f in self.pofiles:
             langcode = os.path.split(f)[1].split(".")[0]
-            langdir = os.path.join(os.path.join("accomplishments/", self.accomset), langcode)
             popath = "generated/po/" + langcode + ".po"
             
             print "Opening: " + langcode + " at " + popath
             
             self.currentpo = polib.pofile(popath)
-
-            if not os.path.exists(langdir):
-                os.makedirs(langdir)
-
-            for a in self.accoms:
-                accomname = os.path.split(a)[1].split(".")[0]
-                print "...processing: " + accomname
+                
+            for accomID in accoms:
+                collection = accoms[accomID]['coll']
+                origfile = accoms[accomID]['origfile']
+                inlangfile = accoms[accomID]['inlangfile']
+                langdir = os.path.join(os.path.join("accomplishments/", collection), langcode)
+                if not os.path.exists(langdir):
+                    os.makedirs(langdir)
+                    
+                print "...processing: " + accomID
                 self.masterconfig = ConfigParser.ConfigParser()
-                self.masterconfig.read(a)
+                self.masterconfig.read(origfile)
                 #title = self.masterconfig.get("accomplishment", "title")
                 self.outputconfig = ConfigParser.ConfigParser()
                 self.outputconfig.add_section("accomplishment")
 
-                title = self.process_field(accomname, "title")
+                title = self.process_field(accomID, "title")
                 self.outputconfig.set("accomplishment", "title", title)
                 
-                description = self.process_field(accomname, "description")
+                description = self.process_field(accomID, "description")
                 self.outputconfig.set("accomplishment", "description", description)
                 
-                if self.masterconfig.has_option("accomplishment", "application"):
-                    self.outputconfig.set("accomplishment", "application", self.masterconfig.get("accomplishment", "application"))
+                if self.masterconfig.has_option("accomplishment", "collection"):
+                    print self.masterconfig.get("accomplishment", "collection")                    
+                    self.outputconfig.set("accomplishment", "collection", self.masterconfig.get("accomplishment", "collection"))
                 
                 if self.masterconfig.has_option("accomplishment", "category"):
                     self.outputconfig.set("accomplishment", "category", self.masterconfig.get("accomplishment", "category"))                
@@ -61,35 +86,39 @@ class GenerateTranslations():
 
                 # things that can be translated
                 
-                summary = self.process_field(accomname, "summary")
+                summary = self.process_field(accomID, "summary")
                 self.outputconfig.set("accomplishment", "summary", summary)                
 
-                steps = self.process_field(accomname, "steps")
+                steps = self.process_field(accomID, "steps")
                 self.outputconfig.set("accomplishment", "steps", steps)
 
-                tips = self.process_field(accomname, "tips")
+                tips = self.process_field(accomID, "tips")
                 self.outputconfig.set("accomplishment", "tips", tips)
                 
-                pitfalls = self.process_field(accomname, "pitfalls")
+                pitfalls = self.process_field(accomID, "pitfalls")
                 self.outputconfig.set("accomplishment", "pitfalls", pitfalls)
                 
-                help = self.process_field(accomname, "help")
+                help = self.process_field(accomID, "help")
                 self.outputconfig.set("accomplishment", "help", help)
 
-                path = os.path.join(os.path.join(os.path.join("accomplishments", self.accomset), langcode), accomname + ".accomplishment")
+                inlangfile_splitted = inlangfile.split("/")
+                if len(inlangfile_splitted) == 2:
+                    if not os.path.exists(os.path.join(langdir, inlangfile_splitted[0])):
+                        os.makedirs(os.path.join(langdir, inlangfile_splitted[0]))
+                path = os.path.join(langdir, inlangfile)
 
                 outfile = open(path, "w")
                 self.outputconfig.write(outfile)
                 outfile.close()
+                
         print "Done."
 
-    def process_field(self, accomname, field):
+    def process_field(self, accomID, field):
         print field
         try:
             val = None
             final = None
-            
-            val = self.currentpo.find(accomname + "_" + field).msgstr.split("\r\n")
+            val = self.currentpo.find(accomID + "_" + field).msgstr.split("\r\n")
             
             while True:
                 try:
@@ -108,9 +137,8 @@ class GenerateTranslations():
                 final = self.masterconfig.get("accomplishment", field)
             return final.encode("utf-8")
         except:
-            print "......not found: " + field
             if self.masterconfig.has_option("accomplishment", field):
-                print ".........using English translation."
+                print "......" + field + " not found,using original translation."
                 content = self.masterconfig.get("accomplishment", field)
                 return content.rstrip().encode("utf-8")
 

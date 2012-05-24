@@ -1,0 +1,20 @@
+[accomplishment]
+title = Medlem i Technical Board
+description = Du är medlem i Ubuntu Technical Board
+collection = ubuntu-community
+category = Governance
+needs-signing = true
+needs-information = launchpad-email
+icon = devel.png
+depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
+summary = Ubuntus tekniska styrelse är en av de viktigaste styrelserna i Ubuntus gemenskap. Den tekniska styrelsen ger råd och beslutar om teknisk policy och processer, så väl som att utgöra en eskalering för incidenter som uppstår någon annanstans i gemenskapen.
+	För att bli medlem i den tekniska styrelsen behöver du ha visat ett starkt engagemang och deltagande i Ubuntu, stora tekniska färdigheter och kännedom av arkivet, visat tydliga ledartalanger, och ha den lediga tid för att kunna se till styrelsens behov.
+steps = Gör omfattande bidrag till Ubuntu under en lång tid. Det finns ingen bestämd tidsgräns, men det bör vara länge nog för att bevisa ditt engagemang för projektet.
+	Skapa en sida på <tt>wiki.ubuntu.com</tt> som beskriver dina bidrag. Inkludera dina bidrag, beskriv vilka grupper du är med i, och sammanfatta ditt arbete på wiki-sidan.
+	Föreslå dig själv som kandidat vid nästa val till den tekniska styrelsen.
+tips = None
+pitfalls = None
+help = #ubuntu-devel-team på Freenode
+	#ubuntu-community-team på Freenode
+

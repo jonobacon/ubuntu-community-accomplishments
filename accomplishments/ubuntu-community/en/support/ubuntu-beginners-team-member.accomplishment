@@ -1,7 +1,7 @@
 [accomplishment]
 title = Ubuntu Beginners Team Member
 description = You are a Ubuntu Beginners Team Member
-application = ubuntu-community
+collection = ubuntu-community
 category = General
 needs-signing = true
 needs-information = launchpad-email

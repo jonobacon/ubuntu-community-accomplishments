@@ -1,0 +1,23 @@
+[accomplishment]
+title = ক্যাননিকাল অবদানকারী চুক্তি স্বাক্ষর করেন
+description = আপনি ক্যাননিকাল অবদানকারী চুক্তি স্বাক্ষর করেছেন এবং শাখাসমূহ মেশাতে পারেন.
+collection = ubuntu-community
+category = Development
+needs-signing = true
+needs-information = launchpad-email
+icon = devel.png
+depends = ubuntu-community/registered-on-launchpad
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>
+summary = For certain free software projects managed by Canonical, Canonical asks contributors to send contributor licence agreement form. This agreement establishes a relationship between Canonical and the contributor, gives details on what it means when the contributor grants permission for their work to be included in a project, and enables Canonical to be better stewards of these projects.
+steps = The <b>Canonical Copyright Licence Agreement</b> should be signed online; please fill in your name and contact information on the agreement form.
+	Open your browser and visit <a href="http://www.canonical.com/contributors">http://www.canonical.com/contributors</a>.
+	Choose from the list the contact member best suited for project you are working on.
+	Now point your browser to <a href="https://forms.canonical.com/contributor">https://forms.canonical.com/contributor</a>.
+	Complete the requested fields.
+	Complete the <tt>"Please add the Canonical Project Manager or contact"</tt> field with contact member details you have previously choosen.
+	Click on tje <tt>I agree</tt> button.
+	You will now be added to a queue to be approved. Congratulations! Please wait a few days to see your mebership in Launchpad.
+tips = None
+pitfalls = None
+help = ফ্রিনোড এ #ubuntu-devel
+

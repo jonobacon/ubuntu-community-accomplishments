@@ -1,0 +1,21 @@
+[accomplishment]
+title = Confirmarea unei erori înregistrate
+description = S-a înregistrat o eroare care a fost confirmată de altcineva
+collection = ubuntu-community
+category = QA
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/report-first-bug
+author = Bruno Girin <brunogirin@gmail.com>
+summary = O eroare este un defect dintr-o aplicație software. Înregistrarea de erori este o metodă grozavă de a ajuta la îmbunătățirea Ubuntu, iar pentru ca eroarea să fie rezolvată, altcineva trebuie să reușească să o reproducă și să o confirme. Cu cât un raport de eroare este mai detaliat și mai precis, cu atât el va fi mai ușor de confirmat de către altcineva. Această reușită atestă faptul că cel puțin unul din rapoartele tale a fost de bună calitate și a fost confirmat de altcineva.
+steps = Înregistrează o eroare în mod normal (vezi reușita Înregistrat Prima Eroare pentru mai multe detalii) și asigură-te că descrierea este destul de detaliată pentru a permite altora să o reproducă. Ca să realizezi un raport de eroare bun, include următoarele:
+	O descriere clară și concisă a problemei. Nu uita să menționezi daca eroarea poate fi declanșată de fiecare data sau este intermitentă.
+	Un set de pași necesari pentru a reproduce problema. Asigură-te că sunt expliciți. De exemplu, dacă un pas presupune selectarea unui element din meniu, specifică daca selectarea sa cu mouse-ul diferă de selectarea sa cu ajutorul scurtăturilor de la tastatură.
+	O descriere a defecțiunii când se parcurg acei pași.
+	O descriere a felului în care te-ai fi așteptat să se comporte aplicația. Aceasta este o informație importantă: uneori, ceea ce face aplicația este ceea ce dezvoltatorii au dorit și nu au realizat faptul că ar putea să-ți cauzeze probleme, așa că descrierea așteptărilor tale este de ajutor în înțelegerea defectului.
+	Orice informație adițională care crezi că ar putea ajuta la diagnosticarea problemei. De exemplu, dacă aplicația a funcționat corect și deodată a încetat să mai funcționeze, specifică momentul la care a început să se comporte anormal.
+tips = None
+pitfalls = None
+help = #ubuntu-testing pe Freenode
+

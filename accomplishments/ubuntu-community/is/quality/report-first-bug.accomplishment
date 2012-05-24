@@ -1,0 +1,25 @@
+[accomplishment]
+title = Tilkynnt fyrstu villuna
+description = Þú hefur tilkynnt fyrstu villuna þína í Ubuntu
+collection = ubuntu-community
+category = QA
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = <i>Villa</i> er galli í forriti. Þegar þú tilkynnir villu ertu að láta Ubuntu vita um villuna svo hægt sé að laga hana.
+	Þegar þú tilkynnir villu hefst umræða við hönnuði og aðra áhugasama til að hjálpa við að finna hver sé orsök vandans og til þess að afla nægra upplýsinga til að leysa vandann. Umræðan getur falið í sér að hönnuðir forritsins spyrja þig spurninga til að reka orsökina.
+	Umræðan fer fram í <i>villu kerfi</i>, forrit til að halda utan um villu tilkynningar og umræður um þær, einnig er hægt að stilla mikilvægi þannig að þær villur sem skipta mestu máli hljóta mestan forgang.
+	Það eru nokkrar leiðir til að tilkynna villur, en við mælum með forriti sem heitir <tt>ubuntu-bug</tt> sem kemur uppsett með Ubuntu. Þetta forrit safnar nauðsynlegum upplýsingum sem geta komið að gagni til að finna hver ástæða villurnar gæti verið.
+	Einnig er hægt að tilkynna um villur með því að nota <i>Tilkynna villu</i> sem er að finna í <i>Hjálp</i> valmyndinni á forritum. Þessi aðferð gefur grafískt viðmót á <tt>ubuntu-bug</tt>.
+steps = Opnaðu útstöð með því að ýta á Ubuntu takkann og skrifa <i>terminal</i>. Í útstöðina skrifar þú svo <tt>ubuntu-bug</tt> og lætur svo nafn pakkans fylgja (dæmi: <tt>ubuntu-bug unity</tt> fyrir Unity). Ef þú veist ekki hvað pakkinn heitir, skrifaðu þá bara <tt>ubuntu-bug</tt> og fylgdu leiðbeiningunum sem fylgja.
+	Fylgdu leiðbeiningunum í Launchpad.
+tips = Reynið að lýsa villunni vel og hnitmiðað.
+	Ef þú veist hvað þarf að gera til að fá fram villuna, vinsamlegast láttu það fylgja. Það er það sem við köllum að <i>framkalla villuna</i>.
+	Hafðu í huga að þegar þú tilkynnir villur ertu að biðja hönnuð forritsins að taka frá tíma til að laga villuna, því biðjum við þig að vera hjálpsama(n) og kurteisa(n) og taka tillit til þess tíma sem það gæti tekið að laga villuna.
+pitfalls = Ekki tilkynna villur ef það er eitthvað í forritinu sem fer í taugarnar á þér, tilkynnið ef það er eitthvað sem virkar ekki eins og það ætti að virka.
+	Ekki skrifa í umræður um villur: „mig líka“, notaðu frekar <i>this bug affects me</i> (isl. þessi villa er líka hjá mér) tengilinn sem er efst í villu tilkynningunni (í Launchpad).
+help = #ubuntu-testing á Freenode
+	#ubuntu.is á Freenode
+

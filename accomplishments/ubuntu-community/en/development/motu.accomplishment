@@ -1,7 +1,7 @@
 [accomplishment]
 title=Ubuntu MOTU Developer
 description=You are an Ubuntu MOTU Developer
-application=ubuntu-community
+collection=ubuntu-community
 category=Development:Packaging
 icon=devel.png
 depends=ubuntu-community/registered-on-launchpad

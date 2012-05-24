@@ -1,0 +1,23 @@
+[accomplishment]
+title = Membro del consiglio della comunità
+description = Sei un membro del consiglio della comunità
+collection = ubuntu-community
+category = Governance
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
+summary = Il consiglio della comunità di Ubuntu è l'organo di governo primario della comunità (ossia non tecnico) per il progetto Ubuntu, e in quanto tale ha un importante ruolo e responsabilità verso la comunità di Ubuntu.
+	Il consiglio della comunità consiglia e decide sulle politiche e i processi della comunità. E 'anche un organo di escalation per gli incidenti che si verificano altrove nella comunità Ubuntu.
+	I membri del consiglio della comunità hanno dimostrato un forte impegno e partecipazione storica in Ubuntu, chiare capacità di leadership, e hanno il tempo e la disponibilità di adempiere ai bisogni del consiglio.
+steps = Diventare un membro di Ubuntu. Dimostrare contributi effettivi ed estesi ad Ubuntu per un prolungato periodo di tempo. Non esiste un periodo prefissato di tempo, ma questo deve essere lungo a sufficienza per dimostrare il proprio impegno verso il progetto.
+	Aggiornare la pagina wiki che è stata creata per i membri di Ubuntu e che si trova solitamente su <tt>wiki.ubuntu.com</tt> in modo che sia aggiornata mostrando i propri contributi. Nella pagina wiki includere i propri contributi, descrivere a quali team si partecipa, e riassumere i propri sforzi.
+	Quando le prossime elezioni del consiglio della comunità sono annunciate, nominare se stessi come candidato. Mark Shuttleworth, il fondatore di Ubuntu, e anche conosciuto come sabdfl  (self-appointed bebevolent dictator for life) seleziona i candidati dalla lista delle nomine e li porta avanti per essere votati dagli attuali membri di Ubuntu.
+tips = Concentratevi sulle vostre capacità di leadership. Il consiglio della comunità è un'importante posizione di leadership e noi cerchiamo forti, capaci, fiduciosi leader.
+	Dovreste probabilmente avere guidato un altro team per sviluppare e dimostrare le vostre capacità di leadership prima di applicarle  per essere nel consiglio della comunità.
+	Indirizzatevi verso il consiglio della comunità solo quando avete avuto una significativa esperienza nella comunità.
+pitfalls = Non indirizzatevi verso il consiglio della comunità solo per essere in una posizione di potere.
+	Cercate di non essere in più di un consiglio (per es. consiglio della comunità, commissione tecnica) nello stesso tempo. Fate parte di uno, e date a questo tutta la vostra attenzione.
+help = #ubuntu-community-team on Freenode
+

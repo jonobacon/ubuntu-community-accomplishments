@@ -1,7 +1,7 @@
 [accomplishment]
 title=Filed Bug that was Confirmed
 description=Filed a bug in Ubuntu that was confirmed by someone else
-application=ubuntu-community
+collection=ubuntu-community
 category=QA
 icon=default.png
 depends=ubuntu-community/report-first-bug

@@ -1,0 +1,17 @@
+[accomplishment]
+title = Melden Sie einen Bug, der bestätigt wurde
+description = Sie haben einen Bug in Ubuntu gemeldet, der von jemand anderem bestätigt wurde.
+collection = ubuntu-community
+category = QA
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/report-first-bug
+author = Bruno Girin <brunogirin@gmail.com>
+summary = Ein Bug ist ein Defekt in einem Teil von Software. Bugs zu melden ist ein großartiger Weg Ubuntu zu verbessern und im Falle, dass der Bug behoben ("gefixt") werden soll, sollte jemand anders in der Lage sein diesen Fehler nachzuproduzieren und ihn zu bestätigen. Je präziser und detailierter ihr Fehlerbericht ("bug report") ist, umso wahrscheinlicher ist die Chance, dass er von jemand anderem nachproduziert werden kann. Diese Errungenschaft reflektiert das mindestens einer ihrer Fehlerberichte in einem so guten Zustand ist, dass er von jemand anderem bestätigt wurde.
+steps = Melden Sie einen Bug, so wie Sie es normalerweise tun würden (siehe die „Ersten Bug Melden“ Errungenschaft) und stellen Sie sicher, dass ihre Beschreibung detailliert genug ist, damit andere es reproduzieren können. Um eine gute Bug Meldung zu schreiben, vergessen Sie nicht folgendes mit einzubeziehen:  Eine klare, knappe und präzise Beschreibung des Problems. Vergessen Sie nicht zu erwähnen, ob ein Bug jedes mal ausgelöst werden kann oder nur sporadisch.  Eine Liste von Schritten um das Problem zu reproduzieren. Stellen Sie sicher, dass sie detailliert sind. Z.B. wenn ein Schritt beinhaltet ein Menü Eintrag auszuwählen, dann schreiben Sie konkret hin wie, ob mit Maus oder mit einem Tastenkürzel, da es ein Unterschied machen kann.  Eine Beschreibung was schief läuft, wenn man den Schritten folgt.  Eine Beschreibung was Sie stattdessen erwartet haben, wie sich das Programm sich hätte verhalten soll. Dies ist ein wichtiger Teil der Beschreibung: manchmal ist das gemeldete Verhalten des Programms so, wie sich der Entwickler es sich vorgestellt hat, eventuell weil ihm nicht bewusst war, dass es Probleme bereiten könnte. Somit ist die Beschreibung was man selber erwartet hat ein wichtiger Bestandteil der Meldung.  Jegliche zusätzliche Information, die helfen könnte das Problem zu diagnostizieren. Zum Beispiel, wenn das Programm lief, aber dann aufgehört hat zu arbeiten, schreiben Sie wann.
+tips = None
+pitfalls = None
+help = International:
+	#ubuntu-testing auf Freenode
+

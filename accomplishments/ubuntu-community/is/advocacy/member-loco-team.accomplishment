@@ -1,0 +1,19 @@
+[accomplishment]
+title = Meðlimur í LoCo
+description = Þú ert meðlimur í Ubuntu LoCo
+collection = ubuntu-community
+category = LoCo Teams
+needs-signing = true
+needs-information = launchpad-email
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Ubuntu LoCo eru samfélagshópar þar sem fólk getur hist og rætt saman um Ubuntu, deilt hugmyndum, þekkingu og gefið ráð og unnið að því að breiða út Ubuntu.
+steps = Farðu á <tt>loco.ubuntu.com</tt> til að finna hóp nálægt þér. Þessi bikar er veittur ef þú ert meðlimur í LoCo hóp, hvort sem hópurinn er samþykktur eða ekki.
+	Farðu svo á Launchpad síðuna og ýttu á tengil þar til að bæta þér í hópinn.
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams á Freenode
+	#ubuntu-community-team á Freenode
+	#ubuntu.is á Freenode
+

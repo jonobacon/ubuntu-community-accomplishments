@@ -1,7 +1,7 @@
 [accomplishment]
 title=Signed the Canonical Contributors Agreement
 description=you have signed the Canonical Contributors agreement and can have branches merged.
-application=ubuntu-community
+collection=ubuntu-community
 category=Development
 icon=devel.png
 depends=ubuntu-community/registered-on-launchpad

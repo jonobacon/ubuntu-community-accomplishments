@@ -1,7 +1,7 @@
 [accomplishment]
 title = Ubuntu Beginners Team Council Member
 description = You are a member of the Ubuntu Beginners Team Council
-application = ubuntu-community
+collection = ubuntu-community
 category = Governance
 needs-signing = true
 needs-information = launchpad-email

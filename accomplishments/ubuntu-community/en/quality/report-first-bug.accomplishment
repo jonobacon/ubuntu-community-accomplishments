@@ -1,7 +1,7 @@
 [accomplishment]
 title=Report First Bug
 description=You have reported your first bug in Ubuntu
-application=ubuntu-community
+collection=ubuntu-community
 category=QA
 icon=default.png
 depends=ubuntu-community/registered-on-launchpad

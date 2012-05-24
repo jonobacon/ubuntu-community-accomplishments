@@ -1,0 +1,28 @@
+[accomplishment]
+title = Ersten Bazaar Zweig zusammengeführt
+description = Sie haben Code zu einem Launchpad-Projekt beigetragen
+collection = ubuntu-community
+category = Launchpad:Code Hosting
+needs-signing = true
+needs-information = launchpad-email
+icon = launchpad.png
+depends = ubuntu-community/registered-on-launchpad
+author = Angelo Compagnucci <angelo.compagnucci@gmail.com>
+summary = Eine Kernfähigkeit von Launchpad ist die Möglicht verschiedene Zweige von Code bereit zu stellen (durch die Bazaar Versionskontrolle) und es anderen möglich zu machen Verbesserungen und Änderungen zu diesen Zweigen vorzustellen.
+	Was normalerweise hier passiert ist, dass Sie den Code von Launchpad abzweigen (z.B. in dem <tt>bzr branch lp:the-project</tt> aufgeruft wird), was dann den aktuellen Hauptzweig auf ihren Computer lädt. Sie arbeiten dann an Verbesserungen an diesem Zweig und  verpflichten dann ihre Änderungen in dem Sie <tt>bzr commit</tt> aufrufen. Sie laden dann ihre Änderungen zu Launchpad hoch mit <tt>bzr push</tt>, so dass anderen ihre Arbeit sehen können.
+	Sie können dann vorschlagen, dass ihr Zweig mit einem anderen zusammengeführt werden soll. Das heißt, dass der Besitzer des ursprünglichen Zweiges ihre Verbesserungen in den ursprünglichen Zweig einfließen lässt und somit die Zweige zusammenführt.
+	Diese Trophäe wird verliehen wenn Sie erfolgreich eines ihrer Zweige mit einem anderen zusammengeführt haben.
+steps = Sie müssen erst einen <i>Merge Proposal</i> durchführen um vorzuschlagen, dass ein Zweig in einen anderen zusammengeführt werden soll.. Gehen Sie zu der Launchpad Seite für den Zweig, den sie hochgeladen haben und Sie sollten den <i>Merge Proposal</i> Link sehen. Drücken sie auf ihn.
+	Geben sie in dem Formular an welchen Zweig Sie zusammenführen wollen und schreiben Sie eine detaillierte Beschreibung über die Änderungen, Lösungen und Neuerungen, die sie geschrieben haben.
+	Drücken Sie auf den <i>Propose Merge</i> Knopf um ihre Verbesserungen einzureichen. 
+	Warten Sie bis ein Gutachter des Zielzweiges ihren Code überprüft hat, sie werden entweder (1) ihren Code akzeptieren und zusammenführen, (2) ihren Code etwas modifizieren und dann zusammenführen oder Sie bitten einige Verbessrungen zu machen bevor sie ihn zusammenführen.
+	Wenn sie Änderungen vorschlagen, verbessern Sie ihren Code und fügen Sie in ihren Zweig ein. Dann kommentieren Sie auf ihren Vorschlag, dass sie die Veränderungen um die sie gebetet wurden durchgeführt haben.
+	Warten Sie jetzt bis ein Entwickler ihre Veränderungen überprüft hat. Wenn er zusammengeführt wurde, dann bekommen Sie eine email, dass er zusammengeführt wurde.
+tips = Treten Sie einem IRC Kanal bei, der am besten für ihren Zweig an dem Sie arbeiten geeignet ist und reden Sie mit den Entwickler, sie helfen ihnen gerne weiter.
+	Lesen Sie die Bazaar Dokumentation, damit sie damit vertraut werden.
+	Scheuen Sie sich nicht davor Fragen zu stellen, wie alles funktioniert, wenn sie das erste mal einen Zweig zur Überprüfung stellen, jeder muss mal irgendwo anfangen!
+	Viele Projekte haben Stilrichtlinien, die beschreiben, wie der Code geschrieben und formatiert werden soll. Versuche diesen Richtlinien zu folgen.
+pitfalls = Falls ihr Entwicklungszweig nicht akzeptiert wird, seien sie nicht zu frustriert. Fragen sie den Entwickler wie sie ihn verbessern können, oftmals sind die nötigen Änderungen nur geringfügig.
+help = International:
+	#ubuntu-devel on Freenode
+

@@ -1,0 +1,21 @@
+[accomplishment]
+title = Zatwierdzony użytkownik Ubuntu
+description = Jesteś zatwierdzonym użytkownikiem Ubuntu
+collection = ubuntu-community
+category = General
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Członek Ubuntu jest to ktoś, kto wykazał <i>znaczący i długoterminowy</i> wkład w Ubuntu.
+	Każdy Członek Ubuntu jest kimś odpowiedzialnym, można na nim polegać, a jego wkład w Ubuntu czyni je jeszcze lepszym.
+	Co ważne, Członkostwo Ubuntu nie wymaga żadnych konkretnych uzdolnień; warty uznania jest wkład zarówno w programowanie, jak i przygotowywanie dokumentacji, tłumaczenie, doradztwo prawne, wsparcie dla użytkowników, projektowanie wyglądu i inne.
+steps = Udzielaj się dla Ubuntu w szerokim tego słowa znaczeniu, przez znaczący okres czasu. Nie ma określonego wymaganego czasu, ale powinno być to na tyle długo, byś udowodnił swoje poświęcenie dla projektu.
+	Utwórz stronę na <tt>wiki.ubuntu.com</tt>, na której uwidocznisz swój wkład. Opisz na niej co zrobiłeś, wyjaśnij do jakich zespołów należysz, i podsumuj swoje starania.
+	Poproś kolegów należących do społeczności o napisanie Ci testymonii oceniających Twój wkład.
+	Zgłoś się do regionalnych zespołów członkostwa by przejrzano Twoje kontrybucje. Możesz znaleść kontakt do nich używając linków poniżej.
+tips = None
+pitfalls = None
+help = #ubuntu-community-team on Freenode
+

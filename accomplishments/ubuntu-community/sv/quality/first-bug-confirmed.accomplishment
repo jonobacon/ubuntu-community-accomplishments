@@ -1,0 +1,21 @@
+[accomplishment]
+title = Rapporterade en Bug som var konstaterad
+description = Raporterade en bug i Ubuntu som redan var konstaterad av någon annan
+collection = ubuntu-community
+category = QA
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/report-first-bug
+author = Bruno Girin <brunogirin@gmail.com>
+summary = En bug är ett fel som uppstått i mjukvara. Att rapportera buggar är ett jättebra sätt att hjälpa till med att göra Ubuntu bättre. För att buggen skall kunna åtgärdas, måste någon annan först kunna återskapa och bekräfta den. Så ju mer detaljerad och exakt din buggrapport är, desto troligare är det att någon annan kan återskapa problemet. Denna prestationen visar att en av dina buggrapporter hade tillräckligt hög kvalitet och kunde bekräftas av någon annan.
+steps = Skicka in en felanmälan i vanlig ordning (se prestationen Skicka in första felanmälan för fler detaljer) och se till att beskrivningen är nog detaljerad för att göra det möjligt för andra att upprepa tillståndet. För att skriva en bra felrapport, inkludera följande:
+	En klar och tydlig beskrivning av problemet. Glöm inte att skriva om felet inträffar varje gång, eller bara då och då.
+	En serie steg för att upprepa problemet. Se till att de är uttryckliga och tydliga. Om ett steg t.ex. inbegriper att välja ett menyobjekt, ange om du väljer det med musen eller tangentbordsgenvägar - det har betydelse.
+	En beskrivning av misslyckandet när dessa steg följs.
+	En beskrivning av hur du förväntade dig att programmet skulle bete sig istället. Detta är viktig information: ibland gör inte programmet vad utvecklaren förväntade sig och insåg inte att det skulle leda till problem för dig, så denna beskrivning hjälper folk att förstå vad som blev fel.
+	All övrig information du kan tänka på som kan hjälpa till att diagnosticera problemet. Om programmet t.ex. brukade fungera och plötsligt började krascha, ange när problemen började uppstå.
+tips = None
+pitfalls = None
+help = #ubuntu-testing på Freenode
+

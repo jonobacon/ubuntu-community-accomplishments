@@ -1,0 +1,21 @@
+[accomplishment]
+title = أصبحت عضواً في فريق أوبونتو المحلي
+description = أنت عضو في واحد من فرق أوبونتو المحلية.
+collection = ubuntu-community
+category = LoCo Teams
+needs-signing = true
+needs-information = launchpad-email
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = فرق أوبونتو المحلية هي مجموعات من المستخدمين موجودة في كل انحاء العالم.
+	هدفها تجمع المستخدمين للمناقشة حول أوبونتو , تبادل الأفكار والخبرات , والتعاون لنشر ثقافة أوبونتو و كيف يمكن للناس الاستفادة منه.
+steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team to join. This trophy is awarded if you are a member of any LoCo team regardless of its approval status.
+	Visit that team's Launchpad page click the Join Team link.
+tips = None
+pitfalls = None
+help = https://lists.ubuntu.com/mailman/listinfo/ubuntu-eg
+	http://ubuntuforums.org/forumdisplay.php?f=258
+	https://wiki.ubuntu.com/EgyptTeam
+	#ubuntu-eg على Freenode
+

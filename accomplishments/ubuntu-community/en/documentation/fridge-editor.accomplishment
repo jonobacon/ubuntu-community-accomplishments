@@ -1,7 +1,7 @@
 [accomplishment]
 title=Fridge Editor
 description=A member of the Fridge Editors team
-application=ubuntu-community
+collection=ubuntu-community
 category=Documentation
 icon=default.png
 needs-signing=true

@@ -1,7 +1,7 @@
 [accomplishment]
 title=LoCo Team Member
 description=You are a member of an Ubuntu LoCo Team
-application=ubuntu-community
+collection=ubuntu-community
 category=LoCo Teams
 needs-signing=true
 icon=loco.png

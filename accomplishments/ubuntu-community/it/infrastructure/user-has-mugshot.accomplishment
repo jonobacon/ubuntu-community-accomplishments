@@ -1,0 +1,23 @@
+[accomplishment]
+title = Impostazione di una foto segnaletica nel profilo Launchpad
+description = L'utente ha impostato una foto segnaletica nel suo proprio profilo Launchpad
+collection = ubuntu-community
+category = Launchpad:Your Profile
+needs-signing = true
+needs-information = launchpad-email
+icon = launchpad.png
+depends = ubuntu-community/registered-on-launchpad
+author = Andrea Grandi <a.grandi@gmail.com>
+summary = Una foto segnaletica è un'immagine avatar che l'utente può impostare nel suo profilo Launchpad. È bello quando la gente può riconoscervi solo guardando una vostra foto.
+	Noi vi consigliamo di scegliere una vera foto di voi (solitamente mostrando solo la faccia) oppure un altro avatar che vi piaccia veramente. Per favore cercate di evitare foto contenuto che potrebbe offendere qualcun altro (per es. contenuto per adulti).
+	La foto deve essere esattamente <strong>192x192</strong> e non più grossa di <strong>100 Kb</strong>.
+steps = Impostare una foto segnaletica è molto semplice.
+	Dovete accedere al sito web Launchpad.net.
+	Poi si deve andare sulla vostra pagina del profilo che solitamente è https://launchpad.net/~VOSTRONOMEUSER
+	Fare clic sul link "Change details".
+	Assicurarsi di avere una foto di 192x192 pixel da caricare (.png o .jpg andrà bene).
+	Una volta che la foto è caricata, cliccate sul pulsante "Save changes" alla fine della pagina.
+tips = None
+pitfalls = None
+help = #launchpad on Freenode
+

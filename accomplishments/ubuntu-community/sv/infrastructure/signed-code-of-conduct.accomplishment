@@ -1,0 +1,24 @@
+[accomplishment]
+title = Undertecknat Ubuntu Code Of Conduct
+description = Du har undertecknat Ubuntu Code Of Conduct
+collection = ubuntu-community
+category = General
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Ubuntu Code Of Conduct är ett viktigt dokument som innehåller en uppsättning riktlinjer och förväntningar på gott uppförande i Ubuntugemenskapen.
+	Det innehåller förväntningar gällande omtänksamhet, respekt, samarbetsvilja, förmåga att be om hjälp samt hur man stiger åt sidan när man blir för upptagen.
+	Denna trofé tilldelas dig när du har gått med på att respektera dessa förväntningar i gemenskapen och har undertecknat Ubuntu Code Of Conduct.
+steps = Först ska du generera en PGP nyckel, publicera den på Ubuntus nyckelserver och importera den till Launchpad. <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">Här</a> finns mer information om hur det går till.
+	Besök <a href="https://launchpad.net/codeofconduct">Code Of Conduct sidan</a>.
+	Hämta Ubuntu Code Of Conduct med hjälp av länken i sidans andra avdelning, och öppna den.
+	Underteckna genom att öppna ett terminalfönster och kör <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt>.
+	Öppna nu filen i en texteditor.
+	På Ubuntu Code Of Conduct sidan klickar du på <i>Sign it!</i> och därefter klistrar du in textfilens innehåll i textrutan. Klicka på <i>Continue</i>.
+	Grattis, nu har du undertecknat Ubuntu Code Of Conduct!
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams på Freenode #ubuntu-community-team på Freenode
+

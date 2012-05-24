@@ -1,0 +1,24 @@
+[accomplishment]
+title = Semnat Codul de Conduită Ubuntu
+description = Ai semnat Codul de Conduită Ubuntu
+collection = ubuntu-community
+category = General
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/registered-on-launchpad
+author = Jono Bacon <jono@ubuntu.com>
+summary = Codul de Conduită Ubuntu este un document important ce stabilește un set de reguli și așteptări pentru o bună conduită în cadrul Comunității Ubuntu.
+	Include așteptări ce au legătură cu o atitudine respectuoasă, de colaborare și  oferă informații despre cum să ceri ajutor și cum să te retragi când devii prea ocupat.
+	Acest trofeu este acordat când accepți să te aliniezi acestor așteptări în cadrul comunității, și semnezi Codul de Conduită Ubuntu.
+steps = Mai întâi, generează o cheie PGP, adaug-o în server-ul de chei Ubuntu și importă în Launchpad. Vezi <a href="https://help.launchpad.net/YourAccount/ImportingYourPGPKey">aici</a> cum să faci asta.
+	Vizitează <a href="https://launchpad.net/codeofconduct">Codul de Conduită</a>.
+	Descarcă Codul de Conduită prin link-ul afișat la pasul al doilea din pagină și deschide-l. 
+	Semnează-l prin deschiderea unui terminal și rularea comenzii <tt>gpg --clearsign UbuntuCodeofConduct-*.txt</tt>.
+	Acum deschide fișierul în Text Editor.
+	Pe pagina Codului de Conduită Ubuntu, dă click pe <i>Sign it!</i> și apoi lipește în căsuța de text. Dă click pe <i>Continue</i>. Felicitări, ai semnat Codul de Conduită Ubuntu!
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams pe Freenode 
+	#ubuntu-community-team pe Freenode
+

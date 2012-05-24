@@ -1,0 +1,21 @@
+[accomplishment]
+title = Editor del Fridge de Ubuntu (portal de noticias)
+description = Un miembro del equipo de editores de Fridge
+collection = ubuntu-community
+category = Documentation
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+author = Jono Bacon <jono@ubuntu.com>
+summary = El sitio Fridge de Ubuntu es el portal oficial de noticias de Ubuntu. Es un sitio dirigido por su comunidad, que pública artículos sobre las opiniones de sus usuarios y el desarrollo de nuevas características. También se utilizar para hacer consensos y llamados de auxilio para finalizar o ayudar a un proyecto. Los <i>editores del sitio</i> son un equipo que produce y publica estos artículos. Para ser un miembro del equipo deberá ser capaz de escribir correctamente y de forma continua en Inglés.
+steps = Ser un miembro oficial de Ubuntu
+	Tener contacto y conocer a fondo la comunidad de Ubuntu
+	Saber escribir de manera correcta en Inglés
+	Enviar los escritos  al equipo de noticias, ya sea a través del IRC, #ubuntu-news o a través de la lista de correo: ubuntu-news-team@lists.ubuntu.com (no es necesario suscribirse)
+	Esperar aprobación del grupo de editores
+tips = None
+pitfalls = None
+help = #ubuntu-community-team en Freenode
+	#ubuntu-news en Freenode
+

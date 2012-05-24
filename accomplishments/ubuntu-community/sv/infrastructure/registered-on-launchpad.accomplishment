@@ -1,0 +1,15 @@
+[accomplishment]
+title = Registrerad på Launchpad.
+description = Skapat ett konto på Launchpad.
+collection = ubuntu-community
+category = Launchpad
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+author = Jono Bacon <jono@ubuntu.com>
+summary = Mycket av arbetet med Ubuntu sker på webbsidan Launchpad. Det är där vi bygger paket, rapporterar och lagar buggar, översätter, hanterar kod och andra aktiviteter. Du kommer att behöva registrera ett konto på Launchpad för att kunna delta i mycket av det som sker i Ubuntus gemenskap. Det är tur att det både är lätt, säkert och gratis att registrera ett konto.
+steps = Starta en webbläsare i din dator.  I webbläsaren, gå till adressen <tt>http://www.launchpad.net</tt>.  På ena sidan av skärmen finner du länken <i>Register</i>, klicka på den för att registrera ett nytt konto.
+tips = None
+pitfalls = None
+help = #launchpad på Freenode
+

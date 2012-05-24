@@ -1,7 +1,7 @@
 [accomplishment]
 title=Signed Ubuntu Code Of Conduct
 description=You have signed the Ubuntu Code Of Conduct
-application=ubuntu-community
+collection=ubuntu-community
 category=General
 needs-signing=true
 icon=default.png

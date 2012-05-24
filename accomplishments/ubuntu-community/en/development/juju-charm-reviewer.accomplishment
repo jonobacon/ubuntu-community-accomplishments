@@ -1,7 +1,7 @@
 [accomplishment]
 title=Juju Charm Reviewer
 description=You contribute Juju charms to Ubuntu.
-application=ubuntu-community
+collection=ubuntu-community
 category=Juju
 icon=juju.png
 depends=ubuntu-community/juju-charm-contributor
