@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-24 18:29+0200\n"
-"PO-Revision-Date: 2012-05-24 23:33+0000\n"
-"Last-Translator: Joel Pickett <jlkpcktt@gmail.com>\n"
+"PO-Revision-Date: 2012-05-25 09:52+0000\n"
+"Last-Translator: Jared Norris <jrnorris@gmail.com>\n"
 "Language-Team: English (Australia) <en_AU@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-25 05:15+0000\n"
+"X-Launchpad-Export-Date: 2012-05-26 05:54+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:11
 msgid "ubuntu-community/ubuntu-cloak_title"
-msgstr ""
+msgstr "ubuntu-community/ubuntu-cloak_title"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('description' field)
 #. .
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:20
 msgid "ubuntu-community/ubuntu-cloak_description"
-msgstr ""
+msgstr "ubuntu-community/ubuntu-cloak_description"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('summary' field)
 #. .
@@ -53,7 +53,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:33
 msgid "ubuntu-community/ubuntu-cloak_summary"
-msgstr ""
+msgstr "ubuntu-community/ubuntu-cloak_summary"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('steps' field)
 #. .
@@ -68,7 +68,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:46
 msgid "ubuntu-community/ubuntu-cloak_steps"
-msgstr ""
+msgstr "ubuntu-community/ubuntu-cloak_steps"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('tips' field)
 #. .
@@ -81,7 +81,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:57
 msgid "ubuntu-community/ubuntu-cloak_tips"
-msgstr ""
+msgstr "ubuntu-community/ubuntu-cloak_tips"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('pitfalls' field)
 #. .
@@ -94,7 +94,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:68
 msgid "ubuntu-community/ubuntu-cloak_pitfalls"
-msgstr ""
+msgstr "ubuntu-community/ubuntu-cloak_pitfalls"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('links' field)
 #. .
@@ -106,7 +106,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:78
 msgid "ubuntu-community/ubuntu-cloak_links"
-msgstr ""
+msgstr "ubuntu-community/ubuntu-cloak_links"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('help' field)
 #. .
@@ -119,7 +119,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:89
 msgid "ubuntu-community/ubuntu-cloak_help"
-msgstr ""
+msgstr "ubuntu-community/ubuntu-cloak_help"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('title' field)
 #. .
@@ -131,7 +131,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/first-branch-merged.c:11
 msgid "ubuntu-community/first-branch-merged_title"
-msgstr ""
+msgstr "ubuntu-community/first-branch-merged_title"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
 #. .
@@ -142,7 +142,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/first-branch-merged.c:20
 msgid "ubuntu-community/first-branch-merged_description"
-msgstr ""
+msgstr "ubuntu-community/first-branch-merged_description"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
 #. .

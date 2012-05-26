@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-24 18:29+0200\n"
-"PO-Revision-Date: 2012-05-24 23:33+0000\n"
-"Last-Translator: Paco Molinero <paco@byasl.com>\n"
+"PO-Revision-Date: 2012-05-25 07:39+0000\n"
+"Last-Translator: Rafal Cieślak <rafalcieslak256@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-25 05:15+0000\n"
+"X-Launchpad-Export-Date: 2012-05-26 05:54+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:20
 msgid "ubuntu-community/ubuntu-cloak_description"
-msgstr ""
+msgstr "Es miembro de Ubuntu IRC cloak"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('summary' field)
 #. .
@@ -81,7 +81,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:57
 msgid "ubuntu-community/ubuntu-cloak_tips"
-msgstr ""
+msgstr "Sea paciente el Consejo de IRC no siempre está disponible"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('pitfalls' field)
 #. .
@@ -94,7 +94,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:68
 msgid "ubuntu-community/ubuntu-cloak_pitfalls"
-msgstr ""
+msgstr "No aplica si no es Ubuntu Member"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('links' field)
 #. .
@@ -119,7 +119,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:89
 msgid "ubuntu-community/ubuntu-cloak_help"
-msgstr ""
+msgstr "#ubuntu-irc-council en Freenode"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('title' field)
 #. .
@@ -248,7 +248,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/first-branch-merged.c:97
 msgid "ubuntu-community/first-branch-merged_help"
-msgstr "Primera rama de Bazaar unida (campo 'Ayuda')"
+msgstr "#ubuntu-devel en Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('title' field)
 #. .
@@ -653,7 +653,7 @@ msgstr "#ubuntu-devel en Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/canonical-contributor.c:11
 msgid "ubuntu-community/canonical-contributor_title"
-msgstr ""
+msgstr "Firma del Canonical Contributors Agreement"
 
 #. ACCOMPLISHMENT: Signed the Canonical Contributors Agreement ('description' field)
 #. .
@@ -1548,7 +1548,7 @@ msgstr "#ubuntuforums en Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:11
 msgid "ubuntu-community/launchpad-uploaded-a-branch_title"
-msgstr ""
+msgstr "Primera rama subida a Launchpad"
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('description' field)
 #. .
@@ -1559,7 +1559,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:20
 msgid "ubuntu-community/launchpad-uploaded-a-branch_description"
-msgstr ""
+msgstr "Ha subido su primera rama a Launchpad"
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('summary' field)
 #. .
@@ -1634,6 +1634,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:84
 msgid "ubuntu-community/launchpad-uploaded-a-branch_links"
 msgstr ""
+"https://help.launchpad.net/Code/Review\r\n"
+"http://wiki.bazaar.canonical.com/Tutorials\r\n"
+"http://doc.bazaar.canonical.com"
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('help' field)
 #. .
@@ -1646,7 +1649,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:95
 msgid "ubuntu-community/launchpad-uploaded-a-branch_help"
-msgstr ""
+msgstr "#ubuntu-devel en Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -2519,7 +2522,7 @@ msgstr "Miembro del staff de Ubuntu Forums"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/forum-staff-member.c:20
 msgid "ubuntu-community/forum-staff-member_description"
-msgstr ""
+msgstr "Es miembro del Ubuntu Forums Staff"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Staff Member ('summary' field)
 #. .
@@ -2750,7 +2753,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-council-member.c:11
 msgid "ubuntu-community/ubuntu-beginners-team-council-member_title"
-msgstr ""
+msgstr "Miembro del Ubuntu Beginners Team Council"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('description' field)
 #. .
@@ -2761,7 +2764,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-council-member.c:20
 msgid "ubuntu-community/ubuntu-beginners-team-council-member_description"
-msgstr ""
+msgstr "Es miembro del Ubuntu Beginners Team Council"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('summary' field)
 #. .

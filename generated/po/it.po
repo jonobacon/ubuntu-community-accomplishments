@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-24 18:29+0200\n"
-"PO-Revision-Date: 2012-05-24 23:34+0000\n"
-"Last-Translator: Jono Bacon <jono@ubuntu.com>\n"
+"PO-Revision-Date: 2012-05-25 14:59+0000\n"
+"Last-Translator: leonardo corato <leocor@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-25 05:15+0000\n"
+"X-Launchpad-Export-Date: 2012-05-26 05:54+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:11
 msgid "ubuntu-community/ubuntu-cloak_title"
-msgstr ""
+msgstr "Guadagni un Ubuntu Member cloak"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('description' field)
 #. .
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:20
 msgid "ubuntu-community/ubuntu-cloak_description"
-msgstr ""
+msgstr "Hai ottenuto un Ubuntu Member IRC cloak"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('summary' field)
 #. .
@@ -54,6 +54,19 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:33
 msgid "ubuntu-community/ubuntu-cloak_summary"
 msgstr ""
+"Gli Ubuntu Members possono ottenere un Ubuntu member cloak in freenode. Un "
+"cloak è una porzione di informazioni che sostituisce il tuo indirizzo IP "
+"quando ti connetti alla rete IRC. Un esempio potrebbe essere "
+"<tt>ubuntu/member/mariorossi</tt>\r\n"
+"Il cloak può essere usato per distinguere qualcuno da un progetto, "
+"un'associazione o un organizzazione oppure anche solo per ragioni di "
+"riservatezza, poiché il tuo IP non sarà più visualizzato per indicare "
+"l'host.\r\n"
+"Ci sono tre Ubuntu Member cloak che puoi ottenere: "
+"<tt>@ubuntu/member/&#60tuonomeutente&#62</tt>,<tt>@ubuntu/member/other.cloak."
+"&#60tuonomeutente&#62</tt> and "
+"<tt>@other/cloak/ubuntu.member.&#60tuonomeutente&#62</tt>. Puoi scegliere il "
+"secondo o il terzo cloak a patto che entrambi i progetti lo permettano."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('steps' field)
 #. .
@@ -69,6 +82,15 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:46
 msgid "ubuntu-community/ubuntu-cloak_steps"
 msgstr ""
+"Diventa un Ubuntu Member (vedi  l'opportunità <i>Ubuntu Member "
+"approvato</i>).\r\n"
+"Vai al Consiglio IRC e chiedi per un cloak. Dovresti entrare in  <tt>#ubuntu-"
+"irc-council</tt> in freenode e chiedere a uno dei membri tra quelli presenti "
+"nel canale. Non scordare di specificare quale cloak vorresti (tra le opzioni "
+"elencate sopra).\r\n"
+"Attendi un paio di minuti, così che la richiesta possa essere processata e "
+"che il membro del consiglio possa chiedere a qualcuno dello staff di "
+"freenode di settare il cloak. Dopodichè sei cloak-ato!"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('tips' field)
 #. .
@@ -81,7 +103,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:57
 msgid "ubuntu-community/ubuntu-cloak_tips"
-msgstr ""
+msgstr "Sii paziente! Il Consiglio IRC non è sempre disponibile."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('pitfalls' field)
 #. .
@@ -94,7 +116,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:68
 msgid "ubuntu-community/ubuntu-cloak_pitfalls"
-msgstr ""
+msgstr "Non fare richiesta se non sei un Ubutnu Member."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('links' field)
 #. .
@@ -106,7 +128,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:78
 msgid "ubuntu-community/ubuntu-cloak_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/IRC/Cloaks"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('help' field)
 #. .
@@ -119,7 +141,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:89
 msgid "ubuntu-community/ubuntu-cloak_help"
-msgstr ""
+msgstr "#ubuntu-irc-council su Freenode"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('title' field)
 #. .
@@ -131,7 +153,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/first-branch-merged.c:11
 msgid "ubuntu-community/first-branch-merged_title"
-msgstr "Primo ramo di Bazaar unito"
+msgstr "Merge del primo ramo di Bazaar"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('description' field)
 #. .
@@ -142,7 +164,7 @@ msgstr "Primo ramo di Bazaar unito"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/first-branch-merged.c:20
 msgid "ubuntu-community/first-branch-merged_description"
-msgstr "Hai contribuito con del codice ad un progetto in Launchpad"
+msgstr "Hai contribuito con del codice a un progetto in lauchpad"
 
 #. ACCOMPLISHMENT: First Bazaar Branch Merged ('summary' field)
 #. .
