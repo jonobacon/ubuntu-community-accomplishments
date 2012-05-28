@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-24 18:29+0200\n"
-"PO-Revision-Date: 2012-05-24 23:33+0000\n"
+"PO-Revision-Date: 2012-05-27 13:08+0000\n"
 "Last-Translator: Kazi Shahnoor Ashraf <kazidxb@gmail.com>\n"
 "Language-Team: Bengali <bn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-26 05:53+0000\n"
+"X-Launchpad-Export-Date: 2012-05-28 05:55+0000\n"
 "X-Generator: Launchpad (build 15288)\n"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:11
 msgid "ubuntu-community/ubuntu-cloak_title"
-msgstr ""
+msgstr "একটি উবুন্টু সদস্য পোষাক অর্জন করুন."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('description' field)
 #. .
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:20
 msgid "ubuntu-community/ubuntu-cloak_description"
-msgstr ""
+msgstr "আপনার একটি উবুন্টু সদস্য IRC পোষাক আছে."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('summary' field)
 #. .
@@ -316,6 +316,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-forums-ubuntu-member.c:69
 msgid "ubuntu-community/ubuntu-forums-ubuntu-member_pitfalls"
 msgstr ""
+"কমপক্ষে ৬ মাস পর্যন্ত ফোরামে টেকসই অবদান না থাকলে আবেদন প্রযোজ্য নয়. মূলত: "
+"আপনার ১২ মাস থাকতে হবে."
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('links' field)
 #. .
@@ -562,6 +564,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/core-dev.c:44
 msgid "ubuntu-community/core-dev_steps"
 msgstr ""
+"একটা টেকসই সময়ের জন্য উবুন্টুতে ব্যাপক অবদান রাখুন. উবুন্টুতে আপনার অবদান "
+"রাখবার জন্য বিজ্ঞাপনী সারি ব্যবহার করুন. একজন মূল ডেভেলপার হতে উবুন্টু "
+"ডেভেলপার বোর্ডে আবেদন করুন."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('links' field)
 #. .
@@ -723,6 +728,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/juju-charm-reviewer.c:44
 msgid "ubuntu-community/juju-charm-reviewer_steps"
 msgstr ""
+"একটি উল্লেখযোগ্য সংখ্যায় যুযু চার্মস্ অবদান রাখুন. নিয়মিত একটি যথেষ্ট উচ্চ "
+"গুণমানসম্পন্ন অবদান রাখুন. যোগ দিতে যুযু পর্যালোচনা দলের কোনো সদস্যকে "
+"জিজ্ঞাসা করুন."
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('links' field)
 #. .
@@ -1000,6 +1008,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-bugcontrol-member.c:55
 msgid "ubuntu-community/ubuntu-bugcontrol-member_pitfalls"
 msgstr ""
+"প্রয়োগের সময় আপনার সবচাইতে ভাল কাজ অন্তর্ভুক্ত করুন, এবং নিশ্চিত করুন যে "
+"সব কাজ একটি বিস্তৃত গুরুত্বমুল্যায়ন কার্যক্রম প্রদর্শন করে. আপনাকে সম্ভবত "
+"অন্তত কয়েক মাসের জন্য বাগ স্কোয়াড সদস্য হতে হবে বাগ কন্ট্রোলে আবেদনের আগে."
 
 #. ACCOMPLISHMENT: Bug Control Member ('steps' field)
 #. .
@@ -1440,7 +1451,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:20
 msgid "ubuntu-community/launchpad-uploaded-a-branch_description"
-msgstr ""
+msgstr "আপনি লন্চপ্যাডে আপনার প্রথম শাখা আপলোড করেছেন"
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('summary' field)
 #. .
@@ -1501,6 +1512,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:72
 msgid "ubuntu-community/launchpad-uploaded-a-branch_pitfalls"
 msgstr ""
+"যে কোড আপনার নিজের নয় বা বেআইনী বিষয়বস্তু তা কখনই লন্চপ্যাডে আপলোড করবেন "
+"না."
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('links' field)
 #. .
@@ -1515,6 +1528,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:84
 msgid "ubuntu-community/launchpad-uploaded-a-branch_links"
 msgstr ""
+"https://help.launchpad.net/Code/Review "
+"http://wiki.bazaar.canonical.com/Tutorials http://doc.bazaar.canonical.com"
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('help' field)
 #. .
@@ -1527,7 +1542,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:95
 msgid "ubuntu-community/launchpad-uploaded-a-branch_help"
-msgstr ""
+msgstr "ফ্রি নোডে #ubuntu-devel ."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
