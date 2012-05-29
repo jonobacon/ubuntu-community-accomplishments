@@ -1,0 +1,14 @@
+[accomplishment]
+title=Altruist on AskUbuntu
+description=First bounty you manually awarded on another person's question
+collection=ubuntu-community
+category=AskUbuntu
+icon=askubuntu.png
+needs-signing=true
+needs-information=askubuntu-username
+summary = Explain here in detail what this badge is, and what is involved is accomplishing it.
+steps: Provide step by step instructions for to accomplish this.
+    Each step should be on a new line with a tab at the beginning, like this.
+links: http://www.askubuntu.com
+help = #ubuntu-community-team on Freenode
+author = Jorge Castro <jorge@ubuntu.com>
