@@ -1,12 +1,12 @@
 [accomplishment]
-title=Outspoken on Ask Ubuntu
-description=Posted 10 messages in <a href="$ChatUrl">chat</a> that were starred by 10 different users
+title=Necromancer on Ask Ubuntu
+description=Answered a question more than 60 days later with score of 5 or more
 collection=ubuntu-community
 category=AskUbuntu
 icon=askubuntu.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Posted 10 messages in <a href="$ChatUrl">chat</a> that were starred by 10 different users
+summary = Answered a question more than 60 days later with score of 5 or more
 steps: Provide step by step instructions for to accomplish this.
     Each step should be on a new line with a tab at the beginning, like this.
 pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).

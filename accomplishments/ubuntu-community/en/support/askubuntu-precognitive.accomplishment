@@ -1,14 +1,15 @@
 [accomplishment]
-title=Altruist on AskUbuntu
-description=First bounty you manually awarded on another person's question
+title=Precognitive on Ask Ubuntu
+description=Followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase
 collection=ubuntu-community
 category=AskUbuntu
 icon=askubuntu.png
 needs-signing=true
-needs-information=askubuntu-username
-summary = Explain here in detail what this badge is, and what is involved is accomplishing it.
+needs-information=askubuntu-user-url
+summary = Followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase
 steps: Provide step by step instructions for to accomplish this.
     Each step should be on a new line with a tab at the beginning, like this.
+pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Jorge Castro <jorge@ubuntu.com>
+author = Nathan Osman <admin@quickmediasolutions.com>
