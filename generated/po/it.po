@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-05-24 18:29+0200\n"
-"PO-Revision-Date: 2012-05-25 14:59+0000\n"
-"Last-Translator: leonardo corato <leocor@gmail.com>\n"
+"PO-Revision-Date: 2012-05-28 16:16+0000\n"
+"Last-Translator: Alessandro Losavio <alessandro.losavio@yahoo.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-05-26 05:54+0000\n"
-"X-Generator: Launchpad (build 15288)\n"
+"X-Launchpad-Export-Date: 2012-05-29 05:05+0000\n"
+"X-Generator: Launchpad (build 15316)\n"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
 #. .
@@ -353,6 +353,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-forums-ubuntu-member.c:81
 msgid "ubuntu-community/ubuntu-forums-ubuntu-member_links"
 msgstr ""
+"http://ubuntuforums.org/showthread.php?t=1750642\r\n"
+"https://wiki.ubuntu.com/ForumCouncilAgenda\r\n"
+"https://wiki.ubuntu.com/Forums/Membership"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('help' field)
 #. .
@@ -365,7 +368,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-forums-ubuntu-member.c:92
 msgid "ubuntu-community/ubuntu-forums-ubuntu-member_help"
-msgstr ""
+msgstr "#ubuntuforums su Freenode"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -718,7 +721,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/canonical-contributor.c:71
 msgid "ubuntu-community/canonical-contributor_help"
-msgstr ""
+msgstr "#ubuntu-devel su Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
