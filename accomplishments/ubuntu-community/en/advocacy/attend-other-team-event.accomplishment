@@ -1,0 +1,19 @@
+[accomplishment]
+title=Attend Event with another Local Community
+description=You attended an event with a Local Community other than your own
+collection=ubuntu-community
+category=LoCo Teams
+needs-signing=true
+icon=loco.png
+depends=ubuntu-community/member-loco-team
+needs-information=launchpad-email
+summary = SUMMARY NEEDED
+steps: Go to <tt>loco.ubuntu.com</tt> and find a team you are not a member of.
+    View the list of upcoming events for that team, click on one you can attend.
+    Click the 'Register' link on the upper-righthand corner of the page.
+    Set your registration status to 'attending'.
+    Attend the event in question and have a great time!
+links: http://loco.ubuntu.com/teams/
+help = #ubuntu-locoteams on Freenode
+    #ubuntu-community-team on Freenode
+author = Michael Hall <mhall119@ubuntu.com>

@@ -1,0 +1,18 @@
+[accomplishment]
+title=Organized a LoCo Team Event
+description=You organized a Local Community Team event
+collection=ubuntu-community
+category=LoCo Teams
+needs-signing=true
+icon=loco.png
+depends=ubuntu-community/registered-on-launchpad
+needs-information=launchpad-email
+summary = SUMMARY NEEDED
+steps: Go to <tt>loco.ubuntu.com</tt> and find your team.
+    From the team page, click on 'Add New Event'.
+    Set yourself as the Event Contact
+    Organize the event in question and have a great time!
+links: http://loco.ubuntu.com
+help = #ubuntu-locoteams on Freenode
+    #ubuntu-community-team on Freenode
+author = Michael Hall <mhall119@ubuntu.com>
