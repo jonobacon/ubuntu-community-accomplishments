@@ -2,51 +2,16 @@
 import traceback, sys
 
 import datetime
-import urllib
-try:
-    import json
-except ImportError:
-    import simplejson as json
 
 from accomplishments.daemon import dbusapi
 from launchpadlib.launchpad import Launchpad
 
-SERVICE_ROOT = 'http://loco.ubuntu.com/services'
-UBUNTU_HOUR_NAME = 'Ubuntu HOUR'
+# Add scripts/lib/ to the PYTHONPATH
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
+from loco_team_portal import LocoTeamPortal
 
-class LocoTeamPortal(object):
-
-    def __init__(self, service_root=None):
-        self.service_root = service_root or SERVICE_ROOT
-        self.cache = {}
-        
-    def clearCache(self, resource=None):
-        if resource is None:
-            self.cache = {}
-        elif self.cache.has_key(resource):
-            self.cache[resource] = {}
-        
-    # Generic, caching Collection
-    def getCollection(self, resource, id_field='id', **kargs):
-        if not self.cache.has_key(resource):
-            self.cache[resource] = {}
-        url = '/'.join([self.service_root, resource, ''])
-        if len(kargs) > 0:
-            url = '?'.join([url, urllib.urlencode(kargs)])
-        s = urllib.urlopen(url)
-        col = dict([(o[id_field], o) for o in json.load(s)])
-        self.cache[resource].update(col)
-        return col
-
-    # Generic, cacheable Entity
-    def getEntity(self, resource, entity_id):
-        if not self.cache.has_key(resource):
-            self.cache[resource] = {}
-        if not self.cache[resource].has_key(entity_id):
-            url = '/'.join([self.service_root, resource, str(entity_id)])
-            s = urllib.urlopen(url)
-            self.cache[resource][entity_id] = json.load(s)
-        return self.cache[resource][entity_id]
+UBUNTU_HOUR_NAME = 'Ubuntu Hour'
 
 try:
 

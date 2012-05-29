@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=LoCo Teams
 needs-signing=true
 icon=loco.png
-depends=ubuntu-community/member-loco-team
+depends=ubuntu-community/member-loco-team,ubuntu-community/attend-loco-event
 needs-information=launchpad-email
 summary = SUMMARY NEEDED
 steps: Go to <tt>loco.ubuntu.com</tt> and find a team you are not a member of.
