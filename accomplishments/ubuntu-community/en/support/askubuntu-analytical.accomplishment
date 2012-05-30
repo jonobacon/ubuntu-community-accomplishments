@@ -12,6 +12,7 @@ summary = Ask Ubuntu is a unique site which operates in a unique capacity compar
 steps: Visit the Ask Ubuntu FAQ
     Click and Read each section of the FAQ
 pitfalls: Not reading each section of the FAQ may lead to confusion about how the site works.
-links: http://www.askubuntu.com
+links: http://www.askubuntu.com/faq
+    http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
 author = Marco Ceppi <marco@ceppi.net>

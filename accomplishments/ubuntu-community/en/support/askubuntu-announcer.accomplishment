@@ -13,7 +13,6 @@ steps: Open a question you wish to share
 pitfalls: You have to use either the social buttons or the "link" button when sharing the question.
     Each button generates a special link that tracks incoming requests and ties them to your user.
 subcategory=Ask Ubuntu:Publicity badges
-links: http://www.askubuntu.com/faq
-    http://www.askubuntu.com
+links: http://www.askubuntu.com
 help = #ubuntu-ceommunity-team on Freenode
 author = Marco Ceppi <marco@ceppi.net>
