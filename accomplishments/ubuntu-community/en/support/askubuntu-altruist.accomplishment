@@ -5,6 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
+subcategory=Ask Ubuntu:Bounty badges
 needs-information=askubuntu-user-url
 summary = First bounty you manually awarded on another person's question
 steps: Earn at least 51 reputation points
