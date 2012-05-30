@@ -2,7 +2,8 @@
 title=Yearling on Ask Ubuntu
 description=Active member for a year, earning at least 200 reputation
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
+subcategory=Membership Badges
 icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url
