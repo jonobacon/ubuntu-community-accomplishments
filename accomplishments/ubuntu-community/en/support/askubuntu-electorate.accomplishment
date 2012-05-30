@@ -1,0 +1,15 @@
+[accomplishment]
+title=Electorate on Ask Ubuntu
+description=Voted on 600 questions and 25% or more of total votes are on questions
+collection=ubuntu-community
+category=AskUbuntu
+icon=askubuntu.png
+needs-signing=true
+needs-information=askubuntu-user-url
+summary = Voted on 600 questions and 25% or more of total votes are on questions
+steps: Provide step by step instructions for to accomplish this.
+    Each step should be on a new line with a tab at the beginning, like this.
+pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+links: http://www.askubuntu.com
+help = #ubuntu-community-team on Freenode
+author = Nathan Osman <admin@quickmediasolutions.com>

@@ -1,0 +1,15 @@
+[accomplishment]
+title=Teacher on Ask Ubuntu
+description=Answered first question with score of 1 or more
+collection=ubuntu-community
+category=AskUbuntu
+icon=askubuntu.png
+needs-signing=true
+needs-information=askubuntu-user-url
+summary = Answered first question with score of 1 or more
+steps: Provide step by step instructions for to accomplish this.
+    Each step should be on a new line with a tab at the beginning, like this.
+pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+links: http://www.askubuntu.com
+help = #ubuntu-community-team on Freenode
+author = Nathan Osman <admin@quickmediasolutions.com>
