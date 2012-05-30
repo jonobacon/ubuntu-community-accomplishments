@@ -1,1 +1,5 @@
+[success]
+exempt = true
 
+[failure]
+exempt = true

@@ -1,1 +1,5 @@
+[success]
+askubuntu-user-url = http://askubuntu.com/users/67066/prof-64
 
+[failure]
+askubuntu-user-url = http://askubuntu.com/users/67229/accomplishmentsvalid
