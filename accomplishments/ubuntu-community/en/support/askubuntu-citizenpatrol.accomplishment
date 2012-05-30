@@ -3,13 +3,18 @@ title=Citizen Patrol on Ask Ubuntu
 description=First flagged post
 collection=ubuntu-community
 category=Ask Ubuntu
+subcategory=Ask Ubuntu:Starter badges
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = First flagged post
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+summary = Flagging posts is a vital role in the Ask Ubuntu community. Flagging helps identify posts that require moderator attention and possibly moderator intervention.
+    There are several valid flag reasons and they are as follows: Post needs to be closed (as either a duplicate, off-topic, not constructive, or too localized), post is spam, post is offensive, and finally "other" where you can input a message to the moderators.
+    To gain this accomplishment and badge you need to find a post which requires Moderator attention and flag it appropriately.
+steps: Find a post that meets one of the aforementioned criteria.
+    Click the "flag" option under the post and select the correct flag reason.
+tips: While flagging is serious by nature do not hesitate to flag things you're uncertain about, or wish for a moderator to review.
+    If you have any questions about flags then can be fielded on the <a href="http://meta.askubuntu.com/">Ask Ubuntu Meta</a> site.
+pitfalls: Do not be discouraged if your flag is declined. A declined flag merely suggests the moderator who reviewed the message does not agree with your flag.
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
 author = Nathan Osman <admin@quickmediasolutions.com>
