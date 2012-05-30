@@ -6,12 +6,11 @@ category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Shared a link to a question that was visited by 25 unique IP addresses
+summary = Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with to the world. Share a link to a question, if that link is visited by 25 unique IP addresses this badge will be awarded to you.
 steps: Open a question you wish to share
     Use either one of the three social share buttons located to the left of the question.
     Alternatively click the "link" button below the question or answer and share that link.
-pitfalls: You have to use either the social buttons or the "link" button when sharing the question.
-    Each button generates a special link that tracks incoming requests and ties them to your user.
+pitfalls: Each button generates a special link that tracks incoming requests and ties them to your user.
 subcategory=Ask Ubuntu:Publicity badges
 links: http://www.askubuntu.com
 help = #ubuntu-ceommunity-team on Freenode
