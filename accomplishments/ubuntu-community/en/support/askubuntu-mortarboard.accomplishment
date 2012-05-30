@@ -2,7 +2,7 @@
 title=Mortarboard on Ask Ubuntu
 description=Earned at least 200 reputation in a single day
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

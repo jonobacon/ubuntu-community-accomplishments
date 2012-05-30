@@ -2,7 +2,7 @@
 title=Research Assistant on Ask Ubuntu
 description=Edited 50 tag wikis
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

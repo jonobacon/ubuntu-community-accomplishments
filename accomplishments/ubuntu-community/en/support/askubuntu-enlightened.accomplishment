@@ -2,7 +2,7 @@
 title=Enlightened on Ask Ubuntu
 description=First to answer and accepted with at least 10 upvotes
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

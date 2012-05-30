@@ -2,7 +2,7 @@
 title=Beta on Ask Ubuntu
 description=Actively participated in the private beta
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

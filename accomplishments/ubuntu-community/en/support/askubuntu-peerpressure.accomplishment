@@ -2,7 +2,7 @@
 title=Peer Pressure on Ask Ubuntu
 description=Deleted own post with score of -3 or lower
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

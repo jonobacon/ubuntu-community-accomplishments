@@ -2,7 +2,7 @@
 title=Taxonomist on Ask Ubuntu
 description=Created a tag used by 50 questions
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

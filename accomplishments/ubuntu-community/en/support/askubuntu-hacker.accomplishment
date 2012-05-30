@@ -2,7 +2,7 @@
 title=Hacker on Ask Ubuntu
 description=Contributed to Stack Overflow in an unusual way
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

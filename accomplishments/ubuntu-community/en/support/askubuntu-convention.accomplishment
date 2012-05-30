@@ -2,7 +2,7 @@
 title=Convention on Ask Ubuntu
 description=10 posts with score of 2 on <a href="$MetaUrl">meta</a>
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

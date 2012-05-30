@@ -2,7 +2,7 @@
 title=Precognitive on Ask Ubuntu
 description=Followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

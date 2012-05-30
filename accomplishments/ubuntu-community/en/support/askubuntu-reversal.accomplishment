@@ -2,7 +2,7 @@
 title=Reversal on Ask Ubuntu
 description=Provided answer of +20 score to a question of -5 score
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

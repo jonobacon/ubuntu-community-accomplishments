@@ -2,7 +2,7 @@
 title=Synonymizer on Ask Ubuntu
 description=First approved <a href="/tags/synonyms">tag synonym</a>
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

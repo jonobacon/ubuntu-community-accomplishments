@@ -2,7 +2,7 @@
 title=Archaeologist on Ask Ubuntu
 description=Edited 100 posts that were inactive for 6 months
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

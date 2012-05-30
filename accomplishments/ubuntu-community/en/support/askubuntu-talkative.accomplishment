@@ -2,7 +2,7 @@
 title=Talkative on Ask Ubuntu
 description=Posted 10 messages, with 1 or more starred, in <a href="$ChatUrl">chat</a>
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

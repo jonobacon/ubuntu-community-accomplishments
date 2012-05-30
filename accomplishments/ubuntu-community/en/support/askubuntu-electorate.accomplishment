@@ -2,7 +2,7 @@
 title=Electorate on Ask Ubuntu
 description=Voted on 600 questions and 25% or more of total votes are on questions
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

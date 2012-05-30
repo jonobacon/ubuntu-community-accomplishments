@@ -2,7 +2,7 @@
 title=Booster on Ask Ubuntu
 description=Shared a link to a question that was visited by 300 unique IP addresses
 collection=ubuntu-community
-category=AskUbuntu
+category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
