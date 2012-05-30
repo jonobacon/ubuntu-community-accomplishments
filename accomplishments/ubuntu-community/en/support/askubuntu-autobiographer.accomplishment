@@ -3,13 +3,15 @@ title=Autobiographer on Ask Ubuntu
 description=Completed all user profile fields
 collection=ubuntu-community
 category=Ask Ubuntu
+subcategory=Ask Ubuntu/Starter badges
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 summary = Completed all user profile fields
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+steps: Log in to Ask Ubuntu.
+    Click on your user in Stack Exchange Global bar.
+    Select the "edit" button next to your name.
+    Fill in all possible user profile fields.
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Marco Ceppi <marco@ceppi.net>

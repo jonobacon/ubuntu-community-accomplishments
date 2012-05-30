@@ -3,13 +3,13 @@ title=Beta on Ask Ubuntu
 description=Actively participated in the private beta
 collection=ubuntu-community
 category=Ask Ubuntu
-icon=askubuntu-bronze.png
+icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url
 summary = Actively participated in the private beta
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+steps: Signed up for Ask Ubuntu during private or public beta period.
+    Earned at least 200 reputation before Ask Ubuntu publically launched.
+pitfalls: If you didn't join Ask Ubuntu, or earn enough reputation, before public launch you won't be able to earn this badge unless you have a time machine.
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Marco Ceppi <marco@ceppi.net>
