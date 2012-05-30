@@ -3,7 +3,7 @@ title=Quorum on Ask Ubuntu
 description=One post with score of 2 on <a href="$MetaUrl">meta</a>
 collection=ubuntu-community
 category=AskUbuntu
-icon=askubuntu.png
+icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 summary = One post with score of 2 on <a href="$MetaUrl">meta</a>
