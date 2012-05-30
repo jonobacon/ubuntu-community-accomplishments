@@ -2,8 +2,7 @@
 title=Vox Populi on Ask Ubuntu
 description=Used the maximum 40 votes in a day
 collection=ubuntu-community
-category=Ask Ubuntu
-subcategory=Voting badges
+category=Ask Ubuntu:Voting badges
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

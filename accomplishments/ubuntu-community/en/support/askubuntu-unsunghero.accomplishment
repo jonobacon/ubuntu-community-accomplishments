@@ -2,8 +2,7 @@
 title=Unsung Hero on Ask Ubuntu
 description=Zero score accepted answers: more than 10 and 25% of total
 collection=ubuntu-community
-category=Ask Ubuntu
-subcategory=Unrecognized contributions
+category=Ask Ubuntu:Unrecognized contributions
 icon=askubuntu-gold.png
 needs-signing=true
 needs-information=askubuntu-user-url
