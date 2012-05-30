@@ -2,7 +2,7 @@
 title=Tenacious on Ask Ubuntu
 description=Zero score accepted answers: more than 5 and 20% of total
 collection=ubuntu-community
-category=AskUbuntu:Unrecognized contributions
+category=Ask Ubuntu:Unrecognized contributions
 icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url

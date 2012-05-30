@@ -2,8 +2,8 @@
 title=Critic on Ask Ubuntu
 description=First down vote
 collection=ubuntu-community
-category=AskUbuntu
-icon=askubuntu.png
+category=Ask Ubuntu
+icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 summary = First down vote
