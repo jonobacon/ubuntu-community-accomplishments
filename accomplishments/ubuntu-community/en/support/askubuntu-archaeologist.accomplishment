@@ -2,14 +2,15 @@
 title=Archaeologist on Ask Ubuntu
 description=Edited 100 posts that were inactive for 6 months
 collection=ubuntu-community
-category=AskUbuntu
-icon=askubuntu.png
+category=Ask Ubuntu
+icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url
+subcategory=Ask Ubuntu:Editing badges
 summary = Edited 100 posts that were inactive for 6 months
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+steps: Find a post that has been inactive for at least six months
+    Edit said post, adding higher quality and fixing issues with the post.
 links: http://www.askubuntu.com
+depends=ubuntu-community/askubuntu-excavator
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Marco Ceppi <marco@ceppi.net>
