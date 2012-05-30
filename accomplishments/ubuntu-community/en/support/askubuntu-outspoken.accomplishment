@@ -2,8 +2,8 @@
 title=Outspoken on Ask Ubuntu
 description=Posted 10 messages in <a href="$ChatUrl">chat</a> that were starred by 10 different users
 collection=ubuntu-community
-category=AskUbuntu
-icon=askubuntu.png
+category=Ask Ubuntu
+icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 summary = Posted 10 messages in <a href="$ChatUrl">chat</a> that were starred by 10 different users
