@@ -7,7 +7,14 @@ needs-signing=true
 icon=loco.png
 depends=ubuntu-community/attend-loco-event
 needs-information=launchpad-email
-summary = SUMMARY NEEDED
+summary = An Ubuntu Hour is a short, informal meetup every week, every other week or every month.
+    Ubuntu Hours have become a great method for advocacy, team-building, and social fun. It's a great way to promote the use of Ubuntu on a regular basis.
+    Organizing and participating in an Ubuntu Hour is very easy:
+    * Head over to a public place (like a local coffee shop, etc) where you'll hang out.
+    * Wear something with the Ubuntu logo or have a visible Ubuntu sticker on your laptop (if you bring one).
+    * When/if you show up, you agree to the Ubuntu Code of Conduct.
+    * Anyone can start an Ubuntu Hour, anywhere, anytime.
+    * Remember this is a social event, be approachable!     
 steps: Go to <tt>loco.ubuntu.com</tt> and find your nearest team.
     View the list of upcoming events for your team, click on one for the upcoming Global Jam.
     Click the 'Register' link on the upper-righthand corner of the page.
