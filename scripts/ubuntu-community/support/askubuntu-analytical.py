@@ -16,7 +16,7 @@ try:
         userurl = userurl[0]["askubuntu-user-url"]
 
     userid = int(userurl.split("/")[-2])
-    badgeid = 8
+    badgeid = 88
 
     try:
         badges_req = urllib2.urlopen('http://api.stackexchange.com/2.0/users/%d/badges?pagesize=100&order=asc&sort=name&site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
