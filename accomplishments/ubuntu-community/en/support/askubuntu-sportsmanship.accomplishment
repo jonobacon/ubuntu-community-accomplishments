@@ -1,0 +1,19 @@
+[accomplishment]
+title=Sportsmanship on Ask Ubuntu
+description=Up voted 100 competing answers
+collection=ubuntu-community
+category=Ask Ubuntu
+icon=askubuntu-silver.png
+needs-signing=true
+needs-information=askubuntu-user-url
+summary = Ask Ubuntu is about finding the best answer to any given question using a community. Thus, there will be several different proposed answers other than ones own response. When one of these answers becomes more informative then the others, it is admirable to up vote the better answer, despite the risk of having ones own response not accepted. This badge is awarded when one has up voted 100 different answers where he or she thought it to be better than there own.
+steps: Find a question which can be solved with your knowledge and/or experiences.
+    Post your answer as a possible solution.
+    Up vote any better answers to the question regardless of who posted it.
+tips: There are many different ways to solve problems. Read other answers carefully.
+    Maintain an objective perspective. The best answers are can be the simplest ones.
+pitfalls: Thinking that there can be no better answer. Any solution can always be improved upon.
+    Believing that you are always right. Arrogance is the beginning steps of failure.  
+links: http://www.askubuntu.com
+help = #ubuntu-community-team on Freenode
+author = Surgemcgee <RobertSteckroth@gmail.com> 

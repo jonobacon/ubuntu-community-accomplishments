@@ -1,0 +1,15 @@
+[accomplishment]
+title=Synonymizer on Ask Ubuntu
+description=First approved <a href="/tags/synonyms">tag synonym</a>
+collection=ubuntu-community
+category=Ask Ubuntu
+icon=askubuntu-bronze.png
+needs-signing=true
+needs-information=askubuntu-user-url
+summary = First approved <a href="/tags/synonyms">tag synonym</a>
+steps: Provide step by step instructions for to accomplish this.
+    Each step should be on a new line with a tab at the beginning, like this.
+pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+links: http://www.askubuntu.com
+help = #ubuntu-community-team on Freenode
+author = Nathan Osman <admin@quickmediasolutions.com>

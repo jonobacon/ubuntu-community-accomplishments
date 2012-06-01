@@ -1,0 +1,16 @@
+[accomplishment]
+title=Vox Populi on Ask Ubuntu
+description=Used the maximum 40 votes in a day
+collection=ubuntu-community
+category=Ask Ubuntu:Voting badges
+icon=askubuntu-bronze.png
+needs-signing=true
+needs-information=askubuntu-user-url
+summary = Used the maximum 40 votes in a day
+steps: After you earn 10 reputation on the site vote until you've voted 40 times.
+	Click the up or down arrows on the left side of the post you're voting on. 
+pitfalls: Don't just pick random things to vote on, browse around to make sure you're upvoting good content.
+	Don't serially upvote or downvote a specific person, the anti-cheating script will stop you from gaming the system. 
+links: http://www.askubuntu.com
+help = #ubuntu-community-team on Freenode
+author = Jorge O. Castro <jorge@ubuntu.com>
