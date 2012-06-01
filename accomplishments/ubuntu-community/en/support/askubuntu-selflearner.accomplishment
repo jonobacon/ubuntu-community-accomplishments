@@ -6,10 +6,8 @@ category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Occasionally one will find or realize the solution to a question, which he or she posted,
-before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.
-When an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge
-is awarded. 
+summary = Occasionally one will find or realize the solution to a question, which he or she posted, before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.
+	When an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge is awarded. 
 steps: Provide a correct answer to a question posted by ones self.
 	Receive 3 up votes on your provided answer by the Ask Ubuntu community.
 links: http://www.askubuntu.com
