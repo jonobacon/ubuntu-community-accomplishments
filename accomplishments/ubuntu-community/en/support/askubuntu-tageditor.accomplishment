@@ -2,14 +2,18 @@
 title=Tag Editor on Ask Ubuntu
 description=First Tag Wiki Edit
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Tag wikis
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 summary = First Tag Wiki Edit
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+steps: <a href="http://askubuntu.com/tags">Find a tag</a> you want to contribute to and click on it. 
+	Click on "improve tag wiki".
+	Improve the excerpt and description.
+	Click Save Edits to send it to the submission queue. 
+tips: Cross-link official Ubuntu documentation and other official resources.
+	If the tag is about another project link to it's project pages.
+pitfalls: Don't just copy and paste articles from Wikipedia, refer to them, and make the excerpt relevant to Ubuntu users. 
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Jorge O. Castro <jorge@ubuntu.com>
