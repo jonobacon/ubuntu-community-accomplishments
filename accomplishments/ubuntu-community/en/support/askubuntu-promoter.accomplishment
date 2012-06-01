@@ -6,10 +6,18 @@ category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = First bounty you offered on your own question
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+summary = Bounties are used to help bring attention to a question (either to get an answer at all or to update existing answers). When you bounty a question it appears in the <a href="http://askubuntu.com/?tab=featured">Featured Questions</a> list. When you start a bounty, you put up anywhere from 50 to 500 of your hard earned reputation points to attach to any question.
+	When an answer meets your criteria for the bounty you can award it to that answer using the 'Award bounty' button. To achieve this badge you need place a bounty on one of your own questions and award it.
+steps: Earn at least 75 reputation points.
+	Place a bounty on one of your questions.
+	Award the bounty once you are happy with an answer.
+pitfalls: Questions must be at least 2 days old to be eligible for a bounty.
+	There can only be 1 active bounty per question at any given time.
+	Users must have at least 75 reputation to offer a bounty, and may only have a maximum of 3 active bounties at any given time.
+	The bounty period lasts 7 days. Bounties must have a minimum duration of at least 1 day. After the bounty ends, there is a grace period of 24 hours to manually award the bounty.
+	If you do not award your bounty within 7 days (plus the grace period), the highest voted answer created after the bounty started with at least 2 up-votes will be awarded half the bounty amount. If there's no answer meeting that criteria, the bounty is not awarded to anyone.
+	If the bounty was started by the question owner, and the question owner accepts an answer during the bounty period, and the bounty expires without an explicit award – it is assumed the bounty owner liked the answer they accepted and award it the full bounty amount at the time of bounty expiration. 
 links: http://www.askubuntu.com
+	http://askubuntu.com/faq#bounty
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Hernando Torque <sirius@sonnenkinder.org>
