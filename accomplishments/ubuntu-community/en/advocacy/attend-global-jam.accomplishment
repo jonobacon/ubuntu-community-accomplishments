@@ -2,7 +2,7 @@
 title=Attend Ubuntu Global Jam Event
 description=You attended a Global Jam with your Local Community
 collection=ubuntu-community
-category=LoCo Teams
+category=LoCo Teams:Events
 needs-signing=true
 icon=loco.png
 depends=ubuntu-community/attend-loco-event
