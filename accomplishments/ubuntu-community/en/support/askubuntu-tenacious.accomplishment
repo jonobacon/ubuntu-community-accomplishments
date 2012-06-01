@@ -9,6 +9,8 @@ needs-information=askubuntu-user-url
 summary = Zero score accepted answers: more than 5 and 20% of total
 steps: Answer questions that get accepted by the person who asked it. 
     If more than 5 of your answers are marked as accepted answers but have gotten 0 votes from your peers and 20% of your total answers you get this badge.
+tips: This badge is awarded to recognize people who answer the user's questions but aren't receiving upvotes from their peers. Consider publicizing your answers to get them some deserved attention.
+pitfalls: If someone notices how great your answers are and starts upvoting your answers you may never get this badge. 
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
 author = Jorge O. Castro <jorge@ubuntu.com> 
