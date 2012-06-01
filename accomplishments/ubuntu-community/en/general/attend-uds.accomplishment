@@ -1,0 +1,23 @@
+[accomplishment]
+title=Attend Ubuntu Developer Summit
+description=You attended an Ubuntu Developer Summit
+collection=ubuntu-community
+category=Events
+needs-signing=true
+icon=loco.png
+depends=ubuntu-community/registered-on-launchpad
+needs-information=launchpad-email
+summary = The Ubuntu Developer Summit is the event at which we plan for the forthcoming version of Ubuntu.
+    It brings together Canonical engineers, community members, partners, upstream representatives and cloud specialists, in an environment of active debate.
+    The Ubuntu Developer Summit offers sessions, tracks, meet-ups and other events for anyone with an interest in Ubuntu.
+    We even provide a number of online services to allow remote participation if you can't attend the event in person.
+steps: Go to <tt>http://uds.ubuntu.com</tt> when the next event has been announced.
+    Click the 'Register to Attend' link below the event description.
+    Fill out the requested forms, specifying if you will be participating in person or remotely.
+    Browse the list of scheduled meetings and mark yourself as attending those you wish to attend.
+    Attend the event, participate in the discussions and have a great time!
+links: http://uds.ubuntu.com
+    http://summit.ubuntu.com
+help = #ubuntu-uds on Freenode
+    #ubuntu-community-team on Freenode
+author = Michael Hall <mhall119@ubuntu.com>
