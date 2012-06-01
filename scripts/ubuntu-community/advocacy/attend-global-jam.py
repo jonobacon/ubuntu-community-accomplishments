@@ -11,7 +11,7 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
 from loco_team_portal import LocoTeamPortal
 
-GLOBAL_JAM_NAME = 'Ubuntu Global Jam'
+GLOBAL_JAM_NAME = 'Global Jam'
 
 try:
 
@@ -29,7 +29,7 @@ try:
         sys.exit(1)
 
     ltp = LocoTeamPortal()
-    attending = ltp.getCollection('attendees', attendee_profile__user__username=me.name, promise="sure", team_event__date_begin__lt=datetime.datetime.now(), team_event__global_event__name=GLOBAL_JAM_NAME)
+    attending = ltp.getCollection('attendees', attendee_profile__user__username=me.name, promise="sure", team_event__date_begin__lt=datetime.datetime.now(), team_event__global_event__name__contains=GLOBAL_JAM_NAME)
     if len(attending) > 0:
         sys.exit(0)
     else:

@@ -29,7 +29,7 @@ try:
         sys.exit(1)
 
     ltp = LocoTeamPortal()
-    attending = ltp.getCollection('attendees', attendee_profile__user__username=me.name, promise="sure", team_event__date_begin__lt=datetime.datetime.now(), team_event__global_event__name=UBUNTU_HOUR_NAME)
+    attending = ltp.getCollection('attendees', attendee_profile__user__username=me.name, promise="sure", team_event__date_begin__lt=datetime.datetime.now(), team_event__global_event__name__contains=UBUNTU_HOUR_NAME)
     if len(attending) > 0:
         sys.exit(0)
     else:
