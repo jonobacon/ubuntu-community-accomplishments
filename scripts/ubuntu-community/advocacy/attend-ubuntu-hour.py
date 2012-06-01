@@ -11,6 +11,8 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
 from loco_team_portal import LocoTeamPortal
 
+UBUNTU_HOUR_NAME = 'Ubuntu Hour'
+
 try:
 
     api = dbusapi.Accomplishments()
@@ -27,7 +29,7 @@ try:
         sys.exit(1)
 
     ltp = LocoTeamPortal()
-    attending = ltp.getCollection('attendees', attendee_profile__user__username=me.name, promise="sure", team_event__date_begin__lt=datetime.datetime.now())
+    attending = ltp.getCollection('attendees', attendee_profile__user__username=me.name, promise="sure", team_event__date_begin__lt=datetime.datetime.now(), team_event__global_event__name=UBUNTU_HOUR_NAME)
     if len(attending) > 0:
         sys.exit(0)
     else:

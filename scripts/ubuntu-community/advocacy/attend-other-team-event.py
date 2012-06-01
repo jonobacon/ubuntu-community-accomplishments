@@ -27,11 +27,19 @@ try:
         sys.exit(1)
 
     ltp = LocoTeamPortal()
-    attending = ltp.getCollection('attendees', attendee_profile__user__username=me.name, promise="sure", team_event__date_begin__lt=datetime.datetime.now())
-    if len(attending) > 0:
-        sys.exit(0)
-    else:
-        sys.exit(1)
+    # Get group membership
+    member_groups = ltp.getCollection('groups', user__username=me.name)
+    member_teams = [member_groups[group_id]['name'] for group_id in member_groups]
+
+    # Get all attended events
+    attended_teams = ltp.getCollection('teams', teamevent__attendee__attendee_profile__user__username=me.name, teamevent__attendee__promise="sure", teamevent__date_begin__lt=datetime.datetime.now())
+
+    for team in attended_teams.values():
+        # If the user attended an event for a team that they are not a member of, return true
+        if team['lp_name'] not in member_teams:
+            sys.exit(0)
+
+    sys.exit(1)
     
 except SystemExit, e:
     sys.exit(e.code)

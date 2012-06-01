@@ -1,0 +1,21 @@
+[accomplishment]
+title=Attend Ubuntu Hour Event
+description=You attended an Ubuntu Hour with your Local Community
+collection=ubuntu-community
+category=LoCo Teams
+needs-signing=true
+icon=loco.png
+depends=ubuntu-community/attend-loco-event
+needs-information=launchpad-email
+summary = The Ubuntu Global Jam is an incredible opportunity for the Ubuntu community to unite together to work together to improve Ubuntu.
+    Everyone is able to contribute to the Jam, and everyone is welcome and encouraged to get involved.
+    The Ubuntu Global Jam incorporates events that have been organized over the world to get Ubuntu contributors and fans together to have a great time and improve Ubuntu.
+steps: Go to <tt>loco.ubuntu.com</tt> and find your nearest team.
+    View the list of upcoming events for your team, click on one for an upcoming Ubuntu Hour.
+    Click the 'Register' link on the upper-righthand corner of the page.
+    Set your registration status to 'attending'.
+    Attend the event in question and have a great time!
+links: http://loco.ubuntu.com/events/
+help = #ubuntu-locoteams on Freenode
+    #ubuntu-community-team on Freenode
+author = Michael Hall <mhall119@ubuntu.com>
