@@ -7,8 +7,9 @@ icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url 
 subcategory=Ask Ubuntu:Starter badges
-summary = Ask Ubuntu is a unique site which operates in a unique capacity compared to other Ubuntu Community Support venues. This badge exists to reward users who take the time to review the FAQ.
-    To earn this badge you must visit every section of the <a href="http://askubuntu.com/faq">Ask Ubuntu FAQ</a>.
+summary = Ask Ubuntu is a unique site which operates in a unique capacity compared to other Ubuntu Community Support venues. This badge and accomplishment exists to reward users who take the time to review the <a href="http://askubuntu.com/faq/">Ask Ubuntu FAQ</a>.
+    The Ask Ubuntu FAQ includes a wide breath of knowledge and covers the basics of Frequently Asked Questions and common mistakes on the Ask Ubuntu site. Such topics range from <a href="http://askubuntu.com/faq#question>Question Scope</a>, to <a href="http://askubuntu.com/faq#etiquette">Etiquette</a>, and <a href="http://askubuntu.com/faq#flagging">moderation</a>.
+    To earn this badge you must visit every section of the <a href="http://askubuntu.com/faq">Ask Ubuntu FAQ</a> and review it's contents.
 steps: Visit the Ask Ubuntu FAQ
     Click and Read each section of the FAQ
 pitfalls: Not reading each section of the FAQ may lead to confusion about how the site works.
