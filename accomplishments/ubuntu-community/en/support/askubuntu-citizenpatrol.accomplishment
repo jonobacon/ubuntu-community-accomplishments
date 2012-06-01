@@ -14,7 +14,7 @@ steps: Find a post that meets one of the aforementioned criteria.
     Click the "flag" option under the post and select the correct flag reason.
 tips: While flagging is serious by nature do not hesitate to flag things you're uncertain about, or wish for a moderator to review.
     If you have any questions about flags then can be fielded on the <a href="http://meta.askubuntu.com/">Ask Ubuntu Meta</a> site.
-pitfalls: Do not be discouraged if your flag is declined. A declined flag merely suggests the moderator who reviewed the message does not agree with your flag.
+pitfalls: Do not be discouraged if your flag is declined. A declined flag merely suggests the moderator who reviewed the message did not agree with you.
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Marco Ceppi <marco@ceppi.net>
