@@ -2,7 +2,7 @@
 title=Attend Event with another Local Community
 description=You attended an event with a Local Community other than your own
 collection=ubuntu-community
-category=LoCo Teams
+category=LoCo Teams:Events
 needs-signing=true
 icon=loco.png
 depends=ubuntu-community/member-loco-team,ubuntu-community/attend-loco-event

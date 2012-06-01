@@ -2,7 +2,7 @@
 title=Attend Ubuntu Hour Event
 description=You attended an Ubuntu Hour with your Local Community
 collection=ubuntu-community
-category=LoCo Teams
+category=LoCo Teams:Events
 needs-signing=true
 icon=loco.png
 depends=ubuntu-community/attend-loco-event
