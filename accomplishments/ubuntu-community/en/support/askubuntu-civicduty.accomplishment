@@ -3,7 +3,8 @@ title=Civic Duty on Ask Ubuntu
 description=Voted 300 or more times
 collection=ubuntu-community
 category=Ask Ubuntu
-icon=askubuntu-bronze.png
+subcategory=Ask Ubuntu:Voting badges
+icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url
 summary = Voted 300 or more times
@@ -12,4 +13,4 @@ steps: Provide step by step instructions for to accomplish this.
 pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Marco Ceppi <marco@ceppi.net>
