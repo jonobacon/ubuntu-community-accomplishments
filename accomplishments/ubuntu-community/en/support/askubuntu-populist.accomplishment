@@ -6,9 +6,9 @@ category=Ask Ubuntu
 icon=askubuntu-gold.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = This is a tough to get badge for sure! To earn it, you not only have to provide the highest scoring answer. It also needs to outscore an already accepted answer (= marked with a green checkmark) that has a score of at least 11 by more than two times (so at least a score of 23 for an accepted answer with score 11).
+summary = This is a tough to get badge for sure! To earn it, you not only have to provide the highest scoring answer. It also needs to outscore an already accepted answer (those marked with a green checkmark) that has a score of at least 11 by more than two times (so at least a score of 23 for an accepted answer with score 11).
 steps: Search for <a href="http://askubuntu.com/search?q=hasaccepted%3A1">accepted answers</a> in your area of expertise (you can use <a href="http://askubuntu.com/tags">tags</a> to narrow down the search result).
-	Provide an awesome answer.
+	Provide an awesome answer to reach the necessary high score (where <i>score</i> is the difference between up- and downvotes).
 pitfalls: It is not an answer to your own question.
 links: http://www.askubuntu.com
 	http://askubuntu.com/tags
