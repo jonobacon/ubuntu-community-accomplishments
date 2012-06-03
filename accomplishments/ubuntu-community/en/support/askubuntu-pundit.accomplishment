@@ -2,16 +2,17 @@
 title=Pundit on Ask Ubuntu
 description=Left 10 comments with score of 5 or more
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Comment
 icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Comments are temporary notes left on a question or an answer. They can only be up-voted and flagged, but do not generate any reputation change. To earn this badge, you have to leave a total of 10 comments, each getting 5 or more up-votes. To leave a comment, simply click on the 'comment' link below each post.
+summary = Comments are temporary notes left on a question or an answer. They can only be upvoted and flagged, but do not generate any reputation change. To earn this badge, you have to leave a total of 10 comments, each getting 5 or more upvotes. To leave a comment, simply click on the <i>comment</i> link below each post.
 	Please note, that, while you can always comment on your own posts and any part of your questions, commenting on other people's posts is a privilege you have to earn by getting more reputation.
-steps: Leave a high quality comment.
-	Wait until the comment received 5 or more up-votes by the community.
-tips: Your comments will more likely receive up-votes if they add real value to the posts (e.g., asking a questioner for more detail, explaining a down-vote on the post, etc.).
-pitfalls: Don't try to attract up-votes by leaving funny or snide comments.
+steps: Leave a high quality comment. If you have less than 50 reputation, you can only comment your own posts and questions.
+	Wait until the comment received 5 or more upvotes from the community.
+	Repeat for a total of 10 such comments.
+tips: Your comments will more likely receive upvotes if they add real value to the posts (e.g., asking a questioner for more detail, explaining a downvote on the post, etc.).
+pitfalls: Don't try to attract upvotes by leaving funny or snide comments.
 links: http://www.askubuntu.com
 	http://askubuntu.com/faq#reputation
 	http://askubuntu.com/privileges

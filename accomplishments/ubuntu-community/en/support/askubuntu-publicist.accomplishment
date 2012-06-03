@@ -1,16 +1,18 @@
 [accomplishment]
 title=Publicist on Ask Ubuntu
-description=Shared a link to a question that was visited by 1000 unique IP addresses
+description=Shared a link to a question that was visited by 1,000 unique IP addresses
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Publicity
 icon=askubuntu-gold.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with to the world. Share a link to a question, if that link is visited by 1000 unique IP addresses this badge will be awarded to you. This is the gold badge version of the Announcer badge.
+summary = Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with the world. Share a link to a question, if that link is visited by 1,000 unique IP addresses this badge will be awarded to you. This is the gold version of the Announcer badge.
 steps: Find a question you would like to share.
-	Use either one of the three social share buttons located to the left of the question (currently Twitter, Google+, and Facebook).
-	Alternatively click the "link" button below the question or answer and share that link.
+	Use either one of the three social share buttons (Twitter, Google+, and Facebook) located to the left of the question.
+	Alternatively click the <i>link</i> button below the question or answer and share that link.
 tips: There are no time limitations for this badge.
+	It doesn't need to be your own question.
+pitfalls: The link <b>must</b> be obtained by the above steps (it is a special link containing your user number).
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
 author = Hernando Torque <sirius@sonnenkinder.org>

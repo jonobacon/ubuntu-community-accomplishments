@@ -2,7 +2,7 @@
 title=Notable Question on Ask Ubuntu
 description=Asked a question with 2,500 views
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Popularity
 icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url

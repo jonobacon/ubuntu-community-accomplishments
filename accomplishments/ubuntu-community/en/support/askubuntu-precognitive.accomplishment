@@ -2,12 +2,12 @@
 title=Precognitive on Ask Ubuntu
 description=Followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Membership
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 summary = This is a badge for the first few members of the Ask Ubuntu community, that had a great vision and followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase. Visit <a href="http://askubuntu.com/badges/67/precognitive">this site</a> to see all the badge holders.
-steps: Followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase.
+steps: Follow the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it enters the commitment phase.
 pitfalls: It's too late to earn this badge, only the precognitive few are awesome. ;-)
 links: http://www.askubuntu.com
 	http://area51.stackexchange.com/

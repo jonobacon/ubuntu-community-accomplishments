@@ -2,7 +2,7 @@
 title=Favorite Question on Ask Ubuntu
 description=Question favorited by 25 users
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Popularity
 icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url

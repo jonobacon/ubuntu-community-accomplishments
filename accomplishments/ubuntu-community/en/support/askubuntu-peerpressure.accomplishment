@@ -2,14 +2,14 @@
 title=Peer Pressure on Ask Ubuntu
 description=Deleted own post with score of -3 or lower
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Flagging and other cleanup
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Sometimes your post (answer or question) might get negative feedback from the Ask Ubuntu community, e.g., because the question doesn't belong on Ask Ubuntu, has content issues, the answer might not fit the question, etc. This is reflected by your post's score, which will decrease by one with every down-vote from a community member. Should your post get a score of -3 or less (where 'score' is the difference between up-votes and down-votes) and you delete it, you will receive this badge.
+summary = Sometimes your post (answer or question) might get negative feedback from the Ask Ubuntu community, e.g., because the question doesn't belong on Ask Ubuntu, has content issues, the answer might not fit the question, etc. This is reflected by your post's score, which will decrease by one with every downvote from a community member. Should your post get a score of -3 or less and you delete it, you will receive this badge.
 steps: Post a question or answer (an unintentionally bad one).
-	Wait for it to get a score of -3 or less.
-	Delete the post by clicking on the 'delete' link below it.
+	Wait for it to get a score of -3 (where <i>score</i> is the difference between up- and downvotes).
+	Delete the post by clicking on the <i>delete</i> link below it.
 pitfalls: The post must have a score of -3 or less at the time of deletion.
 	Please don't intentionally try to get this badge. ;-)
 links: http://www.askubuntu.com
