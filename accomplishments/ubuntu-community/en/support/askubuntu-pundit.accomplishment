@@ -2,7 +2,7 @@
 title=Pundit on Ask Ubuntu
 description=Left 10 comments with score of 5 or more
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Comment
 icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url

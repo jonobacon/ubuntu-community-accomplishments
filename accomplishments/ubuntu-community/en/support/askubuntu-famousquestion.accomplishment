@@ -2,7 +2,7 @@
 title=Famous Question on Ask Ubuntu
 description=Asked a question with 10,000 views
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Popularity
 icon=askubuntu-gold.png
 needs-signing=true
 needs-information=askubuntu-user-url

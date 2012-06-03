@@ -2,7 +2,7 @@
 title=Publicist on Ask Ubuntu
 description=Shared a link to a question that was visited by 1,000 unique IP addresses
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Publicity
 icon=askubuntu-gold.png
 needs-signing=true
 needs-information=askubuntu-user-url
