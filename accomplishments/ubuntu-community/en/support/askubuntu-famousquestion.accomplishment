@@ -3,13 +3,16 @@ title=Famous Question on Ask Ubuntu
 description=Asked a question with 10,000 views
 collection=ubuntu-community
 category=Ask Ubuntu
-icon=askubuntu-bronze.png
+icon=askubuntu-gold.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Asked a question with 10,000 views
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+summary = This badge is awarded once your question hits 10,000 page views. This can either be achieved by asking a very popular question (e.g., questions concerning breaking news about Ubuntu), by heavily promoting your questions on social networks, or by simply collecting views over time.
+steps: Create a <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">good question</a>.
+tips: Choose topics that are interesting to the public as well.
+	Hit the Twitter, Facebook, and Google+ icons on your question to spread its reach outside the site.
+	Edit your question to add more information over time. Each edit bumps your question to the top of the site, giving you another shot at getting more views (and therefore better answers).
+pitfalls: Lack of details in your question won't attract many answers, and therefore give you less page views.
+	Questions that are mainly interesting to you (very local, very specialized).
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Hernando Torque <sirius@sonnenkinder.org>

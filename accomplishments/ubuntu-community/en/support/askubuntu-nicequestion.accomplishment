@@ -6,10 +6,12 @@ category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Question score of 10 or more
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+summary = <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">Good questions</a> receive this badge once they reach a score of 10 or more. They include all the details necessary to answer the question, frequent edits to improve the content, and they are as concise as possible.
+steps: Ask a question that attracts enough upvotes from the site's users to get a score of 10 (<i>score</i> being the difference between up- and downvotes).
+tips: Your question should be interesting to many users to attract this many votes.
+	Constant editing and improving your question will get it more and more attention.
+	Continually add the results of your progress towards an answer into your question instead of writing it as one huge log. It should be written in a manner that makes it easy for the reader to understand.
+	Use the social media buttons (currently Twitter, Google+, and Facebook are supported) to get your question out to the wider community.
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Hernando Torque <sirius@sonnenkinder.org>
