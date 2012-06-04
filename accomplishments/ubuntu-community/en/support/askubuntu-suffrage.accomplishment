@@ -2,14 +2,21 @@
 title=Suffrage on Ask Ubuntu
 description=Used 30 votes in a day
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Voting badges
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
-summary = Used 30 votes in a day
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+summary = One way Ask Ubuntu users can participate is by voting on the comments, questions and answers that other users leave on the site. Doing so helps important and useful content be made more visible and reward those who created it, and helps identify less helpful content. This badge is awarded when a user uses at least 30 votes in a single day.
+steps: You first need to earn the privilege to vote up (15 reputation) on Ask Ubuntu if you have not already.
+	As you read through Ask Ubuntu, vote up posts that you find interesting, useful or informative. You can do this by clicking the arrows on the left of each post.
+	Once you earn 125 reputation, you gain the privilege to vote down as well. You should downvote content that is overly incorrect, sloppy or incomplete.
+	Cast 30 votes or more in one day to earn this badge.
+tips: New users need a certain amount of reputation before they can vote. You can earn this reputation by participating in other ways, such as by answering questions. Note that if you lose reputation later and fall below the minimum needed to vote, you'll lose this privilege until you earn it again - be careful!
+	You can also earn the Supporter and Critic badges along the way when you are working on achieving this badge. They are awarded on your first up and down votes, respectively.
+	If you do downvote a post, it might be a good idea to leave a comment for the author explaining why you downvoted it and offering a way they can fix it. You can remove your downvote later if they edit their content and sufficiently improve it.
+pitfalls: Not downvoting enough. Don't be afraid to disagree with the content of a post! Downvotes provide a way to anonymously disapprove with the content of a post, whether its content is incorrect or not useful.
+	Voting for the sake of voting. Votes are used to help separate good content from poor content. Ask yourself if the post really deserves an upvote or a downvote before you cast it.
+	Downvoting too often. You lose 1 reputation each time you downvote, and if you lose too much reputation you could also lose your privilege to downvote temporarily. Also, for some posts a comment or an edit might suffice instead, while for other posts where the content is against site policy it might be better to flag it so a moderator can be deal with it appropriately.
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Christopher Kyle Horton <christhehorton@gmail.com>
