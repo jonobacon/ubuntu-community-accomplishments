@@ -5,6 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
+depends = ubuntu-community/askubuntu-revival
 needs-information=askubuntu-user-url
 summary = Answered a question more than 60 days later with score of 5 or more
 steps: Provide step by step instructions for to accomplish this.

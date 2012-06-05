@@ -3,9 +3,10 @@ title=Copy Editor on Ask Ubuntu
 description=Edited 500 posts
 collection=ubuntu-community
 category=Ask Ubuntu
-icon=askubuntu-bronze.png
+icon=askubuntu-gold.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends = ubuntu-community/askubuntu-strunkandwhite ubuntu-community/askubuntu-editor
 summary = Edited 500 posts
 steps: Provide step by step instructions for to accomplish this.
     Each step should be on a new line with a tab at the beginning, like this.

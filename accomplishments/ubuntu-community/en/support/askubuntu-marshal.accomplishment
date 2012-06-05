@@ -3,8 +3,9 @@ title=Marshal on Ask Ubuntu
 description=Raised 500 helpful flags
 collection=ubuntu-community
 category=Ask Ubuntu
-icon=askubuntu-bronze.png
+icon=askubuntu-gold.png
 needs-signing=true
+depends = ubuntu-community/askubuntu-deputy
 needs-information=askubuntu-user-url
 summary = Raised 500 helpful flags
 steps: Provide step by step instructions for to accomplish this.

@@ -5,6 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu:Voting badges
 icon=askubuntu-bronze.png
 needs-signing=true
+depends = ubuntu-community/askubuntu-suffrage
 needs-information=askubuntu-user-url
 summary = Used the maximum 40 votes in a day
 steps: After you earn 10 reputation on the site vote until you've voted 40 times.

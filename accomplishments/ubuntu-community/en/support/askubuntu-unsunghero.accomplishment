@@ -5,6 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu:Unrecognized contributions
 icon=askubuntu-gold.png
 needs-signing=true
+depends = ubuntu-community/askubuntu-tenacious
 needs-information=askubuntu-user-url
 summary = Zero score accepted answers: more than 10 and 25% of total
 steps: Answer questions that get accepted by the person who asked it. 

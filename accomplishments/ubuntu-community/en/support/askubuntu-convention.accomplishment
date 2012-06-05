@@ -3,9 +3,10 @@ title=Convention on Ask Ubuntu
 description=10 posts with score of 2 on <a href="$MetaUrl">meta</a>
 collection=ubuntu-community
 category=Ask Ubuntu
-icon=askubuntu-bronze.png
+icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends = ubuntu-community/askubuntu-quorum
 summary = 10 posts with score of 2 on <a href="$MetaUrl">meta</a>
 steps: Provide step by step instructions for to accomplish this.
     Each step should be on a new line with a tab at the beginning, like this.

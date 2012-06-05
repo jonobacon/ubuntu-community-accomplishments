@@ -5,6 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-silver.png
 needs-signing=true
+depends = ubuntu-community/askubuntu-excavator
 needs-information=askubuntu-user-url
 subcategory=Ask Ubuntu:Editing badges
 summary = Editing is a <i>vital</i> function on Ask Ubuntu. By editing you help to fix glaring issues in posts as well as raise the overal quality of the site. 

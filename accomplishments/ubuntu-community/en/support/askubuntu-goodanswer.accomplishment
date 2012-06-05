@@ -5,6 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-silver.png
 needs-signing=true
+depends = ubuntu-community/askubuntu-niceanswer
 needs-information=askubuntu-user-url
 summary = When you post an answer on Ask Ubuntu, your fellow users will either upvote or downvote your answer. The downvotes are subtracted from the upvotes to obtain the score for your answer. Once your answer receives a score of 25 or greater, you will receive this badge.
 steps: Visit the <a href="http://askubuntu.com">Ask Ubuntu home page</a> and look for a question you think you might be able to provide an answer to.

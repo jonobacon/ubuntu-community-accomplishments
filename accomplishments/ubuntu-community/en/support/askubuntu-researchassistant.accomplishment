@@ -3,8 +3,9 @@ title=Research Assistant on Ask Ubuntu
 description=Edited 50 tag wikis
 collection=ubuntu-community
 category=Ask Ubuntu
-icon=askubuntu-bronze.png
+icon=askubuntu-silver.png
 needs-signing=true
+depends = ubuntu-community/askubuntu-tageditor
 needs-information=askubuntu-user-url
 summary = Edited 50 tag wikis
 steps: Provide step by step instructions for to accomplish this.
