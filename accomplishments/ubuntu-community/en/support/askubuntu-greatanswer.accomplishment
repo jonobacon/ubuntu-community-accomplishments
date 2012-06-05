@@ -2,7 +2,7 @@
 title=Great Answer on Ask Ubuntu
 description=Answer score of 100 or more
 collection=ubuntu-community
-category=Ask Ubuntu: Asking & answering badges
+category=Ask Ubuntu:Asking & Answering
 icon=askubuntu-gold.png
 needs-signing=true
 depends = ubuntu-community/askubuntu-niceanswer ubuntu-community/askubuntu-greatanswer

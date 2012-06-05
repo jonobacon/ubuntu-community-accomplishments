@@ -2,7 +2,7 @@
 title=Quorum on Ask Ubuntu
 description=One post with score of 2 on Meta
 collection=ubuntu-community
-category=Ask Ubuntu:Meta participation
+category=Ask Ubuntu:Meta Participation
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

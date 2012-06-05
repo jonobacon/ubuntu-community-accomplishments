@@ -2,7 +2,7 @@
 title=Tag Editor on Ask Ubuntu
 description=First Tag Wiki Edit
 collection=ubuntu-community
-category=Ask Ubuntu:Tag wikis
+category=Ask Ubuntu:Tagging
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url

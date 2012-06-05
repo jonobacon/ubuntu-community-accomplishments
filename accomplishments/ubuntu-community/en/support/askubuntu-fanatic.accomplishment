@@ -2,7 +2,7 @@
 title=Fanatic on Ask Ubuntu
 description=Visited the site each day for 100 consecutive days
 collection=ubuntu-community
-category=Ask Ubuntu:Visiting the site
+category=Ask Ubuntu:Visiting
 icon=askubuntu-gold.png
 needs-signing=true
 depends = ubuntu-community/askubuntu-enthusiast

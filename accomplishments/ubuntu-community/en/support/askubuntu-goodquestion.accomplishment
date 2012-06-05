@@ -2,7 +2,7 @@
 title=Good Question on Ask Ubuntu
 description=Question score of 25 or more
 collection=ubuntu-community
-category=Ask Ubuntu:Asking & answering
+category=Ask Ubuntu:Asking & Answering
 icon=askubuntu-silver.png
 needs-signing=true
 depends = ubuntu-community/askubuntu-nicequestion
