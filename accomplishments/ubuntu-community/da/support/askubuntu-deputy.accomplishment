@@ -1,0 +1,16 @@
+[accomplishment]
+title = Deputy on Ask Ubuntu
+description = Raised 80 helpful flags
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-silver.png
+author = Nathan Osman <admin@quickmediasolutions.com>
+summary = Raised 80 helpful flags
+steps = Provide step by step instructions for to accomplish this.
+	Each step should be on a new line with a tab at the beginning, like this.
+tips = None
+pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+help = #ubuntu-community-team on Freenode
+

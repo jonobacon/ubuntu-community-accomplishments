@@ -1,0 +1,20 @@
+[accomplishment]
+title = Stellar Question on Ask Ubuntu
+description = Question favorited by 100 users
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-gold.png
+depends = ubuntu-community/askubuntu-favoritequestion
+author = Surgemcgee <RobertSteckroth@gmail.com>
+summary = A answer is only useful when the question is relevant. Some problems have been encountered by many users in the Ask Ubuntu community. When a user asks a question which others seek a solution for, it will be up voted. This badge is awarded when ones question is up voted 100 times.
+steps = Post a question which many people may require a solution.
+tips = Design well thought out questions with a single problem to be solved.
+	Include images and/or screen-shots only if appropriate.
+	Choose a topic which covers a basic and popular service in Ubuntu.
+pitfalls = Asking questions which are derived from configuration errors or user mistakes.
+	Posting poorly written or brief questions. Leaving out details needed to solve the question.
+	Unnecessarily long questions with extra details. Providing information for "just in case" purposes.
+help = #ubuntu-community-team on Freenode
+

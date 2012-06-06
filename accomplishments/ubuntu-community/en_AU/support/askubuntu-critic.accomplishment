@@ -1,0 +1,22 @@
+[accomplishment]
+title = Critic on Ask Ubuntu
+description = First down vote
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+author = Agmenor <agmenor@laposte.net>
+summary = First down vote
+	Voting down is how the Ask Ubuntu community indicates which questions and answers are least useful. Use your downvotes whenever you encounter an egregiously sloppy, no-effort-expended post, or an answer that is clearly and perhaps dangerously incorrect.
+	You have a limited number of votes per day and answer downvotes cost you a tiny bit of reputation on top of that so use them wisely. Normally, you should focus on pushing great content to the top by upvoting: this is why downvoting should on the contrary be reserved for extreme cases. It is not meant as a substitute for communication and editing.
+	Instead of voting down, consider flagging the post if it is spammy or offensive, or flagging it for moderator attention if the question is duplicate or off-topic. Always leave a comment for the poster and the community or edit the post to correct it.
+steps = Earn at least 125 reputation points
+	Find a post, a question or answer that you think should be downvoted
+	Click the large down arrow to the left of that post.
+tips = None
+pitfalls = Users must have at least 125 reputation to vote a post down.
+	Downvotes on answers remove 1 reputation from you, the voter.
+	You can vote only 30 times per UTC day. You also get an additional 10 votes on questions only.
+help = #ubuntu-community-team on Freenode
+

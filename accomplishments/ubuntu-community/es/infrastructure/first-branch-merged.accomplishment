@@ -20,5 +20,5 @@ tips = Join the IRC channel best suited for the branch you are working on and ta
 	The first time you submit a branch for review, feel free to ask questions about how it works. Everyone starts somewhere!
 	Many projects have style guidelines around how their code should be laid out and written. Try to ensure your contribution meets those guidelines.
 pitfalls = Si no aceptan su rama, no pasa nada. Pregunta al desarrollador cómo mejorar, frecuentemente los cambios necesarios son muy pequeños
-help = Primera rama de Bazaar unida (campo 'Ayuda')
+help = #ubuntu-devel en Freenode
 

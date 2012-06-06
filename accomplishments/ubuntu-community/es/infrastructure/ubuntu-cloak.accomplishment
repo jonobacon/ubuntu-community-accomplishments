@@ -1,6 +1,6 @@
 [accomplishment]
 title = Gain an Ubuntu Member Cloak
-description = You have an Ubuntu Member IRC cloak.
+description = Es miembro de Ubuntu IRC cloak
 collection = ubuntu-community
 category = IRC
 needs-signing = true
@@ -14,7 +14,7 @@ summary = Ubuntu Members can get an Ubuntu Member cloak in freenode. A cloak is 
 steps = Become an Ubuntu Member (see the <i>Approved Ubuntu Member</i> opportunity).
 	Go to the IRC Council and ask for a cloak. You should join <tt>#ubuntu-irc-council</tt> in freenode, and ask one of the members, who is in the channel. Don't forget to specify which cloak would you like (from the options listed above).
 	Wait a few minutes, so they can process the request, and for the Council member to ask someone of the freenode staff to set it up for you. After that you're cloaked!
-tips = Be patient! The IRC Council is not always available.
-pitfalls = Don't apply if you're not an Ubuntu Member.
-help = #ubuntu-irc-council on Freenode
+tips = Sea paciente el Consejo de IRC no siempre está disponible
+pitfalls = No aplica si no es Ubuntu Member
+help = #ubuntu-irc-council en Freenode
 

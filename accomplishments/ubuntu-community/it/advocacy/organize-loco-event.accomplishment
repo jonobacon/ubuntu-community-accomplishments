@@ -1,0 +1,21 @@
+[accomplishment]
+title = Organized a LoCo Team Event
+description = You organized a Local Community Team event
+collection = ubuntu-community
+category = LoCo Teams:Events
+needs-signing = true
+needs-information = launchpad-email
+icon = loco.png
+depends = ubuntu-community/registered-on-launchpad
+author = Michael Hall <mhall119@ubuntu.com>
+summary = LoCo Teams often hold physical meetups where members can meet eachother in person, and they need somebody to organize and promote them. You can be a leader within your own LoCo Team by helping plan these events.
+	Planning doesn't usually require much, all you need is a suitable venue (a coffee shop or library will do), pick a day and time, and let the rest of your team know about it.
+steps = Go to <tt>loco.ubuntu.com</tt> and find your team.
+	From the team page, click on 'Add New Event'.
+	Set yourself as the Event Contact
+	Organize the event in question and have a great time!
+tips = None
+pitfalls = None
+help = #ubuntu-locoteams on Freenode
+	#ubuntu-community-team on Freenode
+

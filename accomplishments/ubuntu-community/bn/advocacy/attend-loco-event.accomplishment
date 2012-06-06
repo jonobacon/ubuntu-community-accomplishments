@@ -2,7 +2,7 @@
 title = লোকো দলের অনুষ্ঠানে আসুন
 description = আপনি একটি স্থানীয় সম্প্রদায় দলের অনুষ্ঠানে এসেছিলেন.
 collection = ubuntu-community
-category = LoCo Teams
+category = LoCo Teams:Events
 needs-signing = true
 needs-information = launchpad-email
 icon = loco.png

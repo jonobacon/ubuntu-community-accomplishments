@@ -9,9 +9,7 @@ icon = juju.png
 depends = ubuntu-community/juju-charm-contributor
 author = Jono Bacon <jono@ubuntu.com>
 summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
-steps = Contribute a significant number of Juju charms.
-	Contribute regularly and to a high enough quality.
-	Ask a member of the Juju Reviews team if you can join.
+steps = একটি উল্লেখযোগ্য সংখ্যায় যুযু চার্মস্ অবদান রাখুন. নিয়মিত একটি যথেষ্ট উচ্চ গুণমানসম্পন্ন অবদান রাখুন. যোগ দিতে যুযু পর্যালোচনা দলের কোনো সদস্যকে জিজ্ঞাসা করুন.
 tips = None
 pitfalls = None
 help = ফ্রিনোড এ #juju .

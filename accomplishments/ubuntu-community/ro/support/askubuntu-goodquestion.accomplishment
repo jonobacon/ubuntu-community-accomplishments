@@ -1,0 +1,19 @@
+[accomplishment]
+title = Good Question on Ask Ubuntu
+description = Question score of 25 or more
+collection = ubuntu-community
+category = Ask Ubuntu:Asking & Answering
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-silver.png
+depends = ubuntu-community/askubuntu-nicequestion
+author = Hernando Torque <sirius@sonnenkinder.org>
+summary = <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">Good questions</a> receive this badge. It takes multiple revisions and constant work to make a question that is universal enough to receive 25 upvotes from your peers.
+steps = Ask a question that attracts enough upvotes from the site's users to get a score of 25 (<i>score</i> being the difference between up- and downvotes).
+tips = Your question should be interesting to many users to attract this many votes.
+	Constant editing and improving your question will get it more and more attention.
+	Continually add the results of your progress towards an answer into your question instead of writing it as one huge log. It should be written in a manner that makes it easy for the reader to understand (as concise as possible).
+	Use the social media buttons (currently Twitter, Google+, and Facebook are supported) to get your question out to the wider community.
+pitfalls = None
+help = #ubuntu-community-team on Freenode
+

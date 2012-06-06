@@ -2,7 +2,7 @@
 title = Atender a un evento del LoCo
 description = Ha participado en un evento del equipo Local de la Comunidad
 collection = ubuntu-community
-category = LoCo Teams
+category = LoCo Teams:Events
 needs-signing = true
 needs-information = launchpad-email
 icon = loco.png

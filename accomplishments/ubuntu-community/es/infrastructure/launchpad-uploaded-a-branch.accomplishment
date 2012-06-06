@@ -1,6 +1,6 @@
 [accomplishment]
-title = Uploaded First Branch To Launchpad
-description = You have uploaded your first branch to Launchpad
+title = Primera rama subida a Launchpad
+description = Ha subido su primera rama a Launchpad
 collection = ubuntu-community
 category = Launchpad:Code Hosting
 needs-signing = true
@@ -20,5 +20,5 @@ steps = You first need to create some code that you want to upload to Launchpad.
 	You can now go to your Launchpad profile, click <i>Code</i> and see the branch.
 tips = If you want to grab a branch of another project on Launchpad (e.g. <i>ubuntu-community-accomplishments</i>, run <tt>bzr branch lp:ubuntu-community-accomplishments</tt>. You can then add your own modified version of this branch by using the project name in the push address (e.g. <tt>bzr push lp:~bob/ubuntu-community-accomplishments/my-first-branch</tt>.
 pitfalls = Never upload code you don't own or illigal content to Launchpad.
-help = #ubuntu-devel on Freenode
+help = #ubuntu-devel en Freenode
 

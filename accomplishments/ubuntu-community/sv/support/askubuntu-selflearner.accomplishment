@@ -1,0 +1,19 @@
+[accomplishment]
+title = Self-Learner on Ask Ubuntu
+description = Answered your own question with score of 3 or more.
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+author = Surgemcgee <RobertSteckroth@gmail.com>
+summary = Occasionally one will find or realize the solution to a question, which he or she posted, before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.
+	When an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge is awarded.
+steps = Provide a correct answer to a question posted by ones self.
+	Receive 3 up votes on your provided answer by the Ask Ubuntu community.
+tips = Answers should be very descriptive with each step displayed in succession.
+	Images and screen-shots in answers are helpful and will receive more attention if appropriately used.
+pitfalls = Vague or generic answers with links to other blogs are not easy to understand.
+	Obvious answers will not impress the community thus lowering the chance of up scoring.
+help = #ubuntu-community-team on Freenode
+

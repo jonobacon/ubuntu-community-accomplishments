@@ -1,0 +1,15 @@
+[accomplishment]
+title = Precognitive on Ask Ubuntu
+description = Followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase
+collection = ubuntu-community
+category = Ask Ubuntu:Membership
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+author = Hernando Torque <sirius@sonnenkinder.org>
+summary = This is a badge for the first few members of the Ask Ubuntu community, that had a great vision and followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase. Visit <a href="http://askubuntu.com/badges/67/precognitive">this site</a> to see all the badge holders.
+steps = Follow the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it enters the commitment phase.
+tips = None
+pitfalls = It's too late to earn this badge, only the precognitive few are awesome.
+help = #ubuntu-community-team on Freenode
+

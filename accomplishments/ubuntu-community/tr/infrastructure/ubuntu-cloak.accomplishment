@@ -1,0 +1,20 @@
+[accomplishment]
+title = Ubuntu Üye Örtüsü Edinin
+description = You have an Ubuntu Member IRC cloak.
+collection = ubuntu-community
+category = IRC
+needs-signing = true
+needs-information = launchpad-email
+icon = default.png
+depends = ubuntu-community/ubuntu-member
+author = José Antonio Rey <joseeantonior@ubuntu-pe.org>
+summary = Ubuntu Members can get an Ubuntu Member cloak in freenode. A cloak is a piece of information that replaces your IP address when connecting to an IRC network. An example could be <tt>ubuntu/member/bobsmith</tt>
+	The cloak can be used to distinguish someone from a project, association, or organization, or just for privacy reasons, as your IP will not be displayed as your host anymore.
+	There are three Ubuntu Member cloaks you can get: <tt>@ubuntu/member/&#60yourusername&#62</tt>, <tt>@ubuntu/member/other.cloak.&#60yourusername&#62</tt> and <tt>@other/cloak/ubuntu.member.&#60yourusername&#62</tt>. You can choose the second or the third cloak as long as both projects agree to it.
+steps = Ubuntu üyesi olun (bkz <i>Onaylanmış Ubuntu Üyesi</i> fırsatları).
+	IRC Konseyine bir örtü için başvurun. freenode içerisindeki  <tt>#ubuntu-irc-council</tt>'e dahil olup, kanaldaki üyelerden birine sorun. Lütfen hangi örtüyü istediğinizi belirtmeyi unutmayın (yukalıda belirtilen opsiyon listesinden bakabilirsiniz).
+	Birkaç dakika beklerseniz talebinizi işleme alacaklardır. Bu işlem sırasında Konsey üyesi  freenode çalışanlarından birine  isteği iletecektir. Bunlar bitince, işte örtülendiniz
+tips = Sabırlı olun! IRC Konseyi her zaman müsait değildir
+pitfalls = Eğer bir Ubuntu üyesi iseniz başvurmayın
+help = #ubuntu-irc-council  Freenode üzerinde.
+

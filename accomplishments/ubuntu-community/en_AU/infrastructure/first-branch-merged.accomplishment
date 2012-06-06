@@ -1,6 +1,6 @@
 [accomplishment]
-title = First Bazaar Branch Merged
-description = You have contributed code to a project in Launchpad
+title = ubuntu-community/first-branch-merged_title
+description = ubuntu-community/first-branch-merged_description
 collection = ubuntu-community
 category = Launchpad:Code Hosting
 needs-signing = true

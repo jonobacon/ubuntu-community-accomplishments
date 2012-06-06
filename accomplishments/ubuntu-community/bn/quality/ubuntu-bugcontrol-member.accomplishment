@@ -14,7 +14,6 @@ steps = Sign the <a href="http://www.ubuntu.com/community/conduct">Ubuntu Code o
 	Improve some bug reports and keep a short list (at least 5) of your best ones.
 	Follow the <a href="https://wiki.ubuntu.com/UbuntuBugControl#Application">instructions for applying</a> for Ubuntu Bug Control.
 tips = ত্রুটি নিয়ন্ত্রণ বা বাগ কন্ট্রোল এ যোগদানের পূর্বে <a href="http://wiki.ubuntu.com/UbuntuBugControl#Requirements_for_joining"> আবশ্যিক শর্তগুলি পড়তে ভুলবেন না</a> .  আপনার আবেদন ইমেইল করার পূর্বে <a href="http://wiki.ubuntu.com/UbuntuBugControl#Application"> অনুগ্রহপূর্বক আবেদনের নির্দেশাবলী অনুসরণ করুন</a> .
-pitfalls = Include your best work when applying, and make sure that all the work shows a wide range of triaging activities.
-	You should probably be a Bug Squad member for at least a few months before applying to Bug Control.
+pitfalls = প্রয়োগের সময় আপনার সবচাইতে ভাল কাজ অন্তর্ভুক্ত করুন, এবং নিশ্চিত করুন যে সব কাজ একটি বিস্তৃত গুরুত্বমুল্যায়ন কার্যক্রম প্রদর্শন করে. আপনাকে সম্ভবত অন্তত কয়েক মাসের জন্য বাগ স্কোয়াড সদস্য হতে হবে বাগ কন্ট্রোলে আবেদনের আগে.
 help = ফ্রিনোড এ #ubuntu-bugs
 

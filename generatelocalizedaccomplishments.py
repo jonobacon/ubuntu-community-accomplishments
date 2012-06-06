@@ -138,7 +138,7 @@ class GenerateTranslations():
             return final.encode("utf-8")
         except:
             if self.masterconfig.has_option("accomplishment", field):
-                print "......" + field + " not found,using original translation."
+                print "......" + field + " not found, using original translation."
                 content = self.masterconfig.get("accomplishment", field)
                 return content.rstrip().encode("utf-8")
 

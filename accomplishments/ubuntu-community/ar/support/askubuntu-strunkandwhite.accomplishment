@@ -1,0 +1,20 @@
+[accomplishment]
+title = Strunk and White on Ask Ubuntu
+description = Edited 80 posts
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-silver.png
+depends = ubuntu-community/askubuntu-editor
+author = Surgemcgee <RobertSteckroth@gmail.com>
+summary = Ask Ubuntu is a problem solving system made powerful by the users in the community. A question or problem can be solved rapidly and thoroughly with many hands. Sometimes, a post by another user has grammatical errors or mis-information. When one finds incorrect or mistyped information in a post, it is easy to edit and submit changes to it. This badge is awarded to the user when 80 different posts have been edited.
+steps = Users can edit posts near the bottom of it by clicking the "edit" button.
+	Correct any errors in the title and/or body and click the "save edits" button to submit.
+tips = Read through questions after answering them. You may find errors in the questions by answering them.
+	Cross-reference posts with an internet search engine. Common beliefs are not always factual.
+	Keep a sharp eye towards spelling and grammar. It can be difficult to express software problems in text.
+pitfalls = Reading the original post only once. Edits that require editing can arise.
+	Hastily editing posts which do not get approved.
+help = #ubuntu-community-team on Freenode
+

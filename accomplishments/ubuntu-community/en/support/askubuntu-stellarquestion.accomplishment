@@ -14,7 +14,7 @@ tips: Design well thought out questions with a single problem to be solved.
     Choose a topic which covers a basic and popular service in Ubuntu. 
 pitfalls: Asking questions which are derived from configuration errors or user mistakes.
     Posting poorly written or brief questions. Leaving out details needed to solve the question.
-    Unnecessarily long questions with extra details. Providing information for “just in case” purposes. 
+    Unnecessarily long questions with extra details. Providing information for "just in case" purposes. 
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
 author = Surgemcgee <RobertSteckroth@gmail.com>
