@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu:Publicity
 icon=askubuntu-gold.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-booster ubuntu-community/askubuntu-announcer
+depends = ubuntu-community/askubuntu-booster, ubuntu-community/askubuntu-announcer
 needs-information=askubuntu-user-url
 summary = Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with the world. Share a link to a question, if that link is visited by 1,000 unique IP addresses this badge will be awarded to you. This is the gold version of the Announcer badge.
 steps: Find a question you would like to share.

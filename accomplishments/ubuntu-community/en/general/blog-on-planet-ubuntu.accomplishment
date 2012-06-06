@@ -4,7 +4,7 @@ description=You have a blog on Planet Ubuntu
 collection=ubuntu-community
 category=General
 icon=default.png
-depends=ubuntu-community/ubuntu-member ubuntu-community/imported-ssh-key
+depends=ubuntu-community/ubuntu-member, ubuntu-community/imported-ssh-key
 needs-signing=true
 needs-information=launchpad-email
 summary = <a href="http://planet.ubuntu.com">Planet Ubuntu</a> is a website that lists blogs (personal websites) of people involved in the Ubuntu project and our various flavors.

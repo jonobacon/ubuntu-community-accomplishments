@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu:Asking & Answering
 icon=askubuntu-gold.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-goodquestion ubuntu-community/askubuntu-nicequestion
+depends = ubuntu-community/askubuntu-goodquestion, ubuntu-community/askubuntu-nicequestion
 needs-information=askubuntu-user-url
 summary = Question score of 100 or more. The best questions recieve this badge, it takes multiple revisions and constant work to make a question that is universal enough to receive 100 upvotes from your peers. The questions with this badge are considered the best questions on the entire site.
 steps: Ask a question that attracts 100 upvotes from the site's users.

@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-gold.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-epic ubuntu-community/askubuntu-mortarboard
+depends = ubuntu-community/askubuntu-epic, ubuntu-community/askubuntu-mortarboard
 needs-information=askubuntu-user-url
 summary = Earned 200 daily reputation 150 times
 steps: Provide step by step instructions for to accomplish this.
