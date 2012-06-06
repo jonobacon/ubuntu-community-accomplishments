@@ -58,7 +58,7 @@ _("ubuntu-community/askubuntu-stellarquestion_tips")
 // ORIGINAL TRANSLATION:
 // Asking questions which are derived from configuration errors or user mistakes.
 // Posting poorly written or brief questions. Leaving out details needed to solve the question.
-// Unnecessarily long questions with extra details. Providing information for “just in case” purposes.
+// Unnecessarily long questions with extra details. Providing information for "just in case" purposes.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

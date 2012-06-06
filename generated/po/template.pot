@@ -8,13 +8,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-06 00:13-0700\n"
+"POT-Creation-Date: 2012-06-06 19:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
@@ -1334,7 +1334,7 @@ msgstr ""
 #. ORIGINAL TRANSLATION:
 #. Asking questions which are derived from configuration errors or user mistakes.
 #. Posting poorly written or brief questions. Leaving out details needed to solve the question.
-#. Unnecessarily long questions with extra details. Providing information for “just in case” purposes.
+#. Unnecessarily long questions with extra details. Providing information for "just in case" purposes.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
@@ -1446,114 +1446,92 @@ msgstr ""
 msgid "ubuntu-community/registered-on-launchpad_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug ('title' field)
+#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('title' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Report First Bug
+#. Precognitive on Ask Ubuntu
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-community/report-first-bug.c:11
-msgid "ubuntu-community/report-first-bug_title"
+#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:11
+msgid "ubuntu-community/askubuntu-precognitive_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug ('description' field)
+#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('description' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. You have reported your first bug in Ubuntu
+#. Followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-community/report-first-bug.c:20
-msgid "ubuntu-community/report-first-bug_description"
+#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:20
+msgid "ubuntu-community/askubuntu-precognitive_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug ('summary' field)
+#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it.
-#. When you report a bug it starts a conversation with developers and other interested parties to help identify the cause of the problem to provide enough information so the developer can resolve it. This conversation can often involve the developer(s) asking you various questions to help track down the cause of the issue.
-#. This conversation takes place in a <i>bug tracker</i>; a tool that provides features for having this conversation, and setting  prioritization fields to ensure that the most disruptive bugs get resolved sooner than more more benign issues.
-#. There are a few different ways in which you can file a bug, but we recommend you use a tool called <tt>ubuntu-bug</tt> that comes pre-installed on all Ubuntu systems. This tool helps gather up neccessary information that can be useful for the developer to find the source of the bug so they can resolve it.
-#. You can file a bug in a more graphical way by using the <i>Report a Problem</i> option in the <i>Help</i> menu of an application; this simply provides a graphical way of running <tt>ubuntu-bug</tt>.
+#. This is a badge for the first few members of the Ask Ubuntu community, that had a great vision and followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase. Visit <a href="http://askubuntu.com/badges/67/precognitive">this site</a> to see all the badge holders.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/report-first-bug.c:35
-msgid "ubuntu-community/report-first-bug_summary"
+#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:31
+msgid "ubuntu-community/askubuntu-precognitive_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug ('steps' field)
+#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.
-#. Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the instructions.
-#. Follow the instructions in Launchpad.
+#. Follow the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it enters the commitment phase.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/report-first-bug.c:48
-msgid "ubuntu-community/report-first-bug_steps"
+#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:42
+msgid "ubuntu-community/askubuntu-precognitive_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug ('tips' field)
+#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Always try to be concise and detailed in your bug reports.
-#. If you know the steps involved to trigger the bug, include those steps in the bug description. This is called <i>reproducing the bug</i>.
-#. Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add tips and best practise for accomplishing this trophy.
-#. NOTE: Put each tip on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/report-first-bug.c:61
-msgid "ubuntu-community/report-first-bug_tips"
-msgstr ""
-
-#. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
-#. Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
+#. It's too late to earn this badge, only the precognitive few are awesome.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/report-first-bug.c:73
-msgid "ubuntu-community/report-first-bug_pitfalls"
+#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:53
+msgid "ubuntu-community/askubuntu-precognitive_pitfalls"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug ('links' field)
+#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('links' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. https://help.ubuntu.com/community/ReportingBugs
-#. https://wiki.ubuntu.com/HelpingWithBugs
+#. http://www.askubuntu.com
+#. http://area51.stackexchange.com/
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/report-first-bug.c:84
-msgid "ubuntu-community/report-first-bug_links"
+#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:64
+msgid "ubuntu-community/askubuntu-precognitive_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Report First Bug ('help' field)
+#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('help' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. #ubuntu-testing on Freenode
+#. #ubuntu-community-team on Freenode
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/report-first-bug.c:95
-msgid "ubuntu-community/report-first-bug_help"
+#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:75
+msgid "ubuntu-community/askubuntu-precognitive_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Community Council Member ('title' field)
@@ -3772,94 +3750,6 @@ msgstr ""
 msgid "ubuntu-community/askubuntu-booster_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('title' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. Precognitive on Ask Ubuntu
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. A short description of the accomplishment.
-#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:11
-msgid "ubuntu-community/askubuntu-precognitive_title"
-msgstr ""
-
-#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('description' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. Followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:20
-msgid "ubuntu-community/askubuntu-precognitive_description"
-msgstr ""
-
-#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('summary' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. This is a badge for the first few members of the Ask Ubuntu community, that had a great vision and followed the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it entered the commitment phase. Visit <a href="http://askubuntu.com/badges/67/precognitive">this site</a> to see all the badge holders.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
-#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:31
-msgid "ubuntu-community/askubuntu-precognitive_summary"
-msgstr ""
-
-#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('steps' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. Follow the <a href="http://area51.stackexchange.com/">Area 51</a> proposal for this site before it enters the commitment phase.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add a series of step-by-step instructions for how to accomplish this trophy.
-#. NOTE: Put each step on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:42
-msgid "ubuntu-community/askubuntu-precognitive_steps"
-msgstr ""
-
-#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('pitfalls' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. It's too late to earn this badge, only the precognitive few are awesome.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add things the user should not do when working to accomplish this trophy.
-#. NOTE: Put each pitfall on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:53
-msgid "ubuntu-community/askubuntu-precognitive_pitfalls"
-msgstr ""
-
-#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('links' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. http://www.askubuntu.com
-#. http://area51.stackexchange.com/
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related web addresses (don't include a HTML link).
-#. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:64
-msgid "ubuntu-community/askubuntu-precognitive_links"
-msgstr ""
-
-#. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('help' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. #ubuntu-community-team on Freenode
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add related help resources (e.g. IRC channel names).
-#. NOTE: Put each help resource on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:75
-msgid "ubuntu-community/askubuntu-precognitive_help"
-msgstr ""
-
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
 #. ORIGINAL TRANSLATION:
@@ -4193,7 +4083,7 @@ msgstr ""
 #. Users must have at least 75 reputation to offer a bounty, and may only have a maximum of 3 active bounties at any given time.
 #. The bounty period lasts 7 days. Bounties must have a minimum duration of at least 1 day. After the bounty ends, there is a grace period of 24 hours to manually award the bounty.
 #. If you do not award your bounty within 7 days (plus the grace period), the highest voted answer created after the bounty started with at least 2 upvotes will be awarded half the bounty amount. If there's no answer meeting that criteria, the bounty is not awarded to anyone.
-#. If the bounty was started by the question owner, and the question owner accepts an answer during the bounty period, and the bounty expires without an explicit award – it is assumed the bounty owner liked the answer they accepted and award it the full bounty amount at the time of bounty expiration.
+#. If the bounty was started by the question owner, and the question owner accepts an answer during the bounty period, and the bounty expires without an explicit award - it is assumed the bounty owner liked the answer they accepted and award it the full bounty amount at the time of bounty expiration.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
@@ -6159,7 +6049,7 @@ msgstr ""
 #. Users must have at least 75 reputation to offer a bounty, and may only have a maximum of 3 active bounties at any given time.
 #. The bounty period lasts 7 days. Bounties must have a minimum duration of at least 1 day. After the bounty ends, there is a grace period of 24 hours to manually award the bounty.
 #. If you do not award your bounty within 7 days (plus the grace period), the highest voted answer created after the bounty started with at least 2 upvotes will be awarded half the bounty amount. If there's no answer meeting that criteria, the bounty is not awarded to anyone.
-#. If the bounty was started by the question owner, and the question owner accepts an answer during the bounty period, and the bounty expires without an explicit award – it is assumed the bounty owner liked the answer they accepted and award it the full bounty amount at the time of bounty expiration.
+#. If the bounty was started by the question owner, and the question owner accepts an answer during the bounty period, and the bounty expires without an explicit award - it is assumed the bounty owner liked the answer they accepted and award it the full bounty amount at the time of bounty expiration.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
@@ -6274,6 +6164,116 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/user-has-mugshot.c:70
 msgid "ubuntu-community/user-has-mugshot_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Report First Bug ('title' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Report First Bug
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-community/report-first-bug.c:11
+msgid "ubuntu-community/report-first-bug_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Report First Bug ('description' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You have reported your first bug in Ubuntu
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-community/report-first-bug.c:20
+msgid "ubuntu-community/report-first-bug_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Report First Bug ('summary' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. A <i>bug</i> is a defect in a piece of software. When you report a bug it means that you let the Ubuntu project know about one of these defects so we can resolve it.
+#. When you report a bug it starts a conversation with developers and other interested parties to help identify the cause of the problem to provide enough information so the developer can resolve it. This conversation can often involve the developer(s) asking you various questions to help track down the cause of the issue.
+#. This conversation takes place in a <i>bug tracker</i>; a tool that provides features for having this conversation, and setting  prioritization fields to ensure that the most disruptive bugs get resolved sooner than more more benign issues.
+#. There are a few different ways in which you can file a bug, but we recommend you use a tool called <tt>ubuntu-bug</tt> that comes pre-installed on all Ubuntu systems. This tool helps gather up neccessary information that can be useful for the developer to find the source of the bug so they can resolve it.
+#. You can file a bug in a more graphical way by using the <i>Report a Problem</i> option in the <i>Help</i> menu of an application; this simply provides a graphical way of running <tt>ubuntu-bug</tt>.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/report-first-bug.c:35
+msgid "ubuntu-community/report-first-bug_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Report First Bug ('steps' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Open up a terminal by clicking the Ubuntu button and typing <i>terminal</i> into the dash.
+#. Type in <tt>ubuntu-bug</tt> and then the name of the package you want to file a bug against (e.g. <tt>ubuntu-bug unity</tt> for Unity). If you don't know the package name, just run <tt>ubuntu-bug</tt> by itself and follow the instructions.
+#. Follow the instructions in Launchpad.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/report-first-bug.c:48
+msgid "ubuntu-community/report-first-bug_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Report First Bug ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Always try to be concise and detailed in your bug reports.
+#. If you know the steps involved to trigger the bug, include those steps in the bug description. This is called <i>reproducing the bug</i>.
+#. Remember, when you file a bug report you are asking a developer to take the time to resolve it. Try to be helpful, polite, and respectful of their time.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/report-first-bug.c:61
+msgid "ubuntu-community/report-first-bug_tips"
+msgstr ""
+
+#. ACCOMPLISHMENT: Report First Bug ('pitfalls' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Don't file bugs for things that frustrate you in a piece of software; only file bugs when things don't work as expected.
+#. Don't reply to a bug saying "me too!"; instead use the <i>this bug affects me</i> link at the top of the bug report (in Launchpad).
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/report-first-bug.c:73
+msgid "ubuntu-community/report-first-bug_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Report First Bug ('links' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://help.ubuntu.com/community/ReportingBugs
+#. https://wiki.ubuntu.com/HelpingWithBugs
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-community/report-first-bug.c:84
+msgid "ubuntu-community/report-first-bug_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Report First Bug ('help' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. #ubuntu-testing on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/report-first-bug.c:95
+msgid "ubuntu-community/report-first-bug_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Famous Question on Ask Ubuntu ('title' field)
@@ -7022,93 +7022,85 @@ msgstr ""
 msgid "ubuntu-community/askubuntu-legendary_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('title' field)
+#. ACCOMPLISHMENT: Attend Event with another Local Community ('title' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Announcer on Ask Ubuntu
+#. Attend Event with another Local Community
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:11
-msgid "ubuntu-community/askubuntu-announcer_title"
+#: ../accomplishments/ubuntu-community/attend-other-team-event.c:11
+msgid "ubuntu-community/attend-other-team-event_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('description' field)
+#. ACCOMPLISHMENT: Attend Event with another Local Community ('description' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Shared a link to a question that was visited by 25 unique IP addresses
+#. You attended an event with a Local Community other than your own
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:20
-msgid "ubuntu-community/askubuntu-announcer_description"
+#: ../accomplishments/ubuntu-community/attend-other-team-event.c:20
+msgid "ubuntu-community/attend-other-team-event_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('summary' field)
+#. ACCOMPLISHMENT: Attend Event with another Local Community ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with to the world. Share a link to a question, if that link is visited by 25 unique IP addresses this badge will be awarded to you.
+#. Local Community Teams aren't isolated, everybody is part of the same global Ubuntu Community, and attending an event help by another LoCo Team is a great way to expand you involvement.
+#. In the Ubuntu Community you are encouraged to participate with other teams, and that's true for Local Community Teams as well.  Going to another team's event is a great way to meet new people, share experiences, and support Ubuntu in other parts of the world.
+#. So if you are in commuting distance of another team, or happen to be traveling in another team's part of the globe, be sure to check on their upcoming events and attend them when you can.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:31
-msgid "ubuntu-community/askubuntu-announcer_summary"
+#: ../accomplishments/ubuntu-community/attend-other-team-event.c:33
+msgid "ubuntu-community/attend-other-team-event_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('steps' field)
+#. ACCOMPLISHMENT: Attend Event with another Local Community ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Open a question you wish to share
-#. Use either one of the three social share buttons located to the left of the question.
-#. Alternatively click the "link" button below the question or answer and share that link.
+#. Go to <tt>loco.ubuntu.com</tt> and find a team you are not a member of.
+#. View the list of upcoming events for that team, click on one you can attend.
+#. Click the 'Register' link on the upper-righthand corner of the page.
+#. Set your registration status to 'attending'.
+#. Attend the event in question and have a great time!
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:44
-msgid "ubuntu-community/askubuntu-announcer_steps"
+#: ../accomplishments/ubuntu-community/attend-other-team-event.c:48
+msgid "ubuntu-community/attend-other-team-event_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('pitfalls' field)
+#. ACCOMPLISHMENT: Attend Event with another Local Community ('links' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Each button generates a special link that tracks incoming requests and ties them to your user.
-#. .
-#. ----- TRANSLATION INSTRUCTIONS -----
-#. Add things the user should not do when working to accomplish this trophy.
-#. NOTE: Put each pitfall on a new line
-#. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:55
-msgid "ubuntu-community/askubuntu-announcer_pitfalls"
-msgstr ""
-
-#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('links' field)
-#. .
-#. ORIGINAL TRANSLATION:
-#. http://www.askubuntu.com
+#. http://loco.ubuntu.com/teams/
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:65
-msgid "ubuntu-community/askubuntu-announcer_links"
+#: ../accomplishments/ubuntu-community/attend-other-team-event.c:58
+msgid "ubuntu-community/attend-other-team-event_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('help' field)
+#. ACCOMPLISHMENT: Attend Event with another Local Community ('help' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. #ubuntu-ceommunity-team on Freenode
+#. #ubuntu-locoteams on Freenode
+#. #ubuntu-community-team on Freenode
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:76
-msgid "ubuntu-community/askubuntu-announcer_help"
+#: ../accomplishments/ubuntu-community/attend-other-team-event.c:70
+msgid "ubuntu-community/attend-other-team-event_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Mortarboard on Ask Ubuntu ('title' field)
@@ -7558,85 +7550,93 @@ msgstr ""
 msgid "ubuntu-community/askubuntu-goodanswer_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Attend Event with another Local Community ('title' field)
+#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('title' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Attend Event with another Local Community
+#. Announcer on Ask Ubuntu
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-community/attend-other-team-event.c:11
-msgid "ubuntu-community/attend-other-team-event_title"
+#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:11
+msgid "ubuntu-community/askubuntu-announcer_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Attend Event with another Local Community ('description' field)
+#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('description' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. You attended an event with a Local Community other than your own
+#. Shared a link to a question that was visited by 25 unique IP addresses
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-community/attend-other-team-event.c:20
-msgid "ubuntu-community/attend-other-team-event_description"
+#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:20
+msgid "ubuntu-community/askubuntu-announcer_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Attend Event with another Local Community ('summary' field)
+#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Local Community Teams aren't isolated, everybody is part of the same global Ubuntu Community, and attending an event help by another LoCo Team is a great way to expand you involvement.
-#. In the Ubuntu Community you are encouraged to participate with other teams, and that's true for Local Community Teams as well.  Going to another team's event is a great way to meet new people, share experiences, and support Ubuntu in other parts of the world.
-#. So if you are in commuting distance of another team, or happen to be traveling in another team's part of the globe, be sure to check on their upcoming events and attend them when you can.
+#. Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with to the world. Share a link to a question, if that link is visited by 25 unique IP addresses this badge will be awarded to you.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/attend-other-team-event.c:33
-msgid "ubuntu-community/attend-other-team-event_summary"
+#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:31
+msgid "ubuntu-community/askubuntu-announcer_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Attend Event with another Local Community ('steps' field)
+#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Go to <tt>loco.ubuntu.com</tt> and find a team you are not a member of.
-#. View the list of upcoming events for that team, click on one you can attend.
-#. Click the 'Register' link on the upper-righthand corner of the page.
-#. Set your registration status to 'attending'.
-#. Attend the event in question and have a great time!
+#. Open a question you wish to share
+#. Use either one of the three social share buttons located to the left of the question.
+#. Alternatively click the "link" button below the question or answer and share that link.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/attend-other-team-event.c:48
-msgid "ubuntu-community/attend-other-team-event_steps"
+#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:44
+msgid "ubuntu-community/askubuntu-announcer_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Attend Event with another Local Community ('links' field)
+#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. http://loco.ubuntu.com/teams/
+#. Each button generates a special link that tracks incoming requests and ties them to your user.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add things the user should not do when working to accomplish this trophy.
+#. NOTE: Put each pitfall on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:55
+msgid "ubuntu-community/askubuntu-announcer_pitfalls"
+msgstr ""
+
+#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('links' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. http://www.askubuntu.com
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/attend-other-team-event.c:58
-msgid "ubuntu-community/attend-other-team-event_links"
+#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:65
+msgid "ubuntu-community/askubuntu-announcer_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Attend Event with another Local Community ('help' field)
+#. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('help' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. #ubuntu-locoteams on Freenode
-#. #ubuntu-community-team on Freenode
+#. #ubuntu-ceommunity-team on Freenode
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/attend-other-team-event.c:70
-msgid "ubuntu-community/attend-other-team-event_help"
+#: ../accomplishments/ubuntu-community/askubuntu-announcer.c:76
+msgid "ubuntu-community/askubuntu-announcer_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Fanatic on Ask Ubuntu ('title' field)
@@ -7741,108 +7741,114 @@ msgstr ""
 msgid "ubuntu-community/askubuntu-fanatic_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('title' field)
+#. ACCOMPLISHMENT: LoCo Council Member ('title' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Sportsmanship on Ask Ubuntu
+#. LoCo Council Member
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:11
-msgid "ubuntu-community/askubuntu-sportsmanship_title"
+#: ../accomplishments/ubuntu-community/loco-council-member.c:11
+msgid "ubuntu-community/loco-council-member_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('description' field)
+#. ACCOMPLISHMENT: LoCo Council Member ('description' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Up voted 100 competing answers
+#. You are a member of the LoCo Council
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:20
-msgid "ubuntu-community/askubuntu-sportsmanship_description"
+#: ../accomplishments/ubuntu-community/loco-council-member.c:20
+msgid "ubuntu-community/loco-council-member_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('summary' field)
+#. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Ask Ubuntu is about finding the best answer to any given question using a community. Thus, there will be several different proposed answers other than ones own response. When one of these answers becomes more informative then the others, it is admirable to up vote the better answer, despite the risk of having ones own response not accepted. This badge is awarded when one has up voted 100 different answers where he or she thought it to be better than there own.
+#. The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
+#. The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally.
+#. To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:31
-msgid "ubuntu-community/askubuntu-sportsmanship_summary"
+#: ../accomplishments/ubuntu-community/loco-council-member.c:33
+msgid "ubuntu-community/loco-council-member_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('steps' field)
+#. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Find a question which can be solved with your knowledge and/or experiences.
-#. Post your answer as a possible solution.
-#. Up vote any better answers to the question regardless of who posted it.
+#. Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
+#. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
+#. In the next LoCo Council election propose yourself as a candidate.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:44
-msgid "ubuntu-community/askubuntu-sportsmanship_steps"
+#: ../accomplishments/ubuntu-community/loco-council-member.c:46
+msgid "ubuntu-community/loco-council-member_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('tips' field)
+#. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. There are many different ways to solve problems. Read other answers carefully.
-#. Maintain an objective perspective. The best answers are can be the simplest ones.
+#. Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
+#. You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
+#. Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:56
-msgid "ubuntu-community/askubuntu-sportsmanship_tips"
+#: ../accomplishments/ubuntu-community/loco-council-member.c:59
+msgid "ubuntu-community/loco-council-member_tips"
 msgstr ""
 
-#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('pitfalls' field)
+#. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Thinking that there can be no better answer. Any solution can always be improved upon.
-#. Believing that you are always right. Arrogance is the beginning steps of failure.
+#. Don't apply to the LoCo Council just to be in a position of power.
+#. Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:68
-msgid "ubuntu-community/askubuntu-sportsmanship_pitfalls"
+#: ../accomplishments/ubuntu-community/loco-council-member.c:71
+msgid "ubuntu-community/loco-council-member_pitfalls"
 msgstr ""
 
-#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('links' field)
+#. ACCOMPLISHMENT: LoCo Council Member ('links' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. http://www.askubuntu.com
+#. https://wiki.ubuntu.com/LoCoCouncil
+#. https://wiki.ubuntu.com/LoCoCouncilAgenda
+#. http://www.ubuntu.com/project/about-ubuntu/governance
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:78
-msgid "ubuntu-community/askubuntu-sportsmanship_links"
+#: ../accomplishments/ubuntu-community/loco-council-member.c:83
+msgid "ubuntu-community/loco-council-member_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('help' field)
+#. ACCOMPLISHMENT: LoCo Council Member ('help' field)
 #. .
 #. ORIGINAL TRANSLATION:
 #. #ubuntu-community-team on Freenode
+#. #ubuntu-locoteams on Freenode
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:89
-msgid "ubuntu-community/askubuntu-sportsmanship_help"
+#: ../accomplishments/ubuntu-community/loco-council-member.c:95
+msgid "ubuntu-community/loco-council-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Nice Question on Ask Ubuntu ('title' field)
@@ -8786,7 +8792,7 @@ msgstr ""
 #. ORIGINAL TRANSLATION:
 #. First down vote
 #. Voting down is how the Ask Ubuntu community indicates which questions and answers are least useful. Use your downvotes whenever you encounter an egregiously sloppy, no-effort-expended post, or an answer that is clearly and perhaps dangerously incorrect.
-#. You have a limited number of votes per day — and answer downvotes cost you a tiny bit of reputation on top of that — so use them wisely. Normally, you should focus on pushing great content to the top by upvoting: this is why downvoting should on the contrary be reserved for extreme cases. It is not meant as a substitute for communication and editing.
+#. You have a limited number of votes per day and answer downvotes cost you a tiny bit of reputation on top of that so use them wisely. Normally, you should focus on pushing great content to the top by upvoting: this is why downvoting should on the contrary be reserved for extreme cases. It is not meant as a substitute for communication and editing.
 #. Instead of voting down, consider flagging the post if it is spammy or offensive, or flagging it for moderator attention if the question is duplicate or off-topic. Always leave a comment for the poster and the community or edit the post to correct it.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -8801,7 +8807,7 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Earn at least 125 reputation points
-#. Find a post — question or answer — that you think should be downvoted
+#. Find a post, a question or answer that you think should be downvoted
 #. Click the large down arrow to the left of that post.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -9679,114 +9685,108 @@ msgstr ""
 msgid "ubuntu-community/forum-staff-member_help"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member ('title' field)
+#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('title' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. LoCo Council Member
+#. Sportsmanship on Ask Ubuntu
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. A short description of the accomplishment.
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
-#: ../accomplishments/ubuntu-community/loco-council-member.c:11
-msgid "ubuntu-community/loco-council-member_title"
+#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:11
+msgid "ubuntu-community/askubuntu-sportsmanship_title"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member ('description' field)
+#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('description' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. You are a member of the LoCo Council
+#. Up voted 100 competing answers
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a descriptive single-line summary of the accomplishment.
-#: ../accomplishments/ubuntu-community/loco-council-member.c:20
-msgid "ubuntu-community/loco-council-member_description"
+#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:20
+msgid "ubuntu-community/askubuntu-sportsmanship_description"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member ('summary' field)
+#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. The Ubuntu LoCo Council is a governing board that oversees the global Ubuntu LoCo Teams.
-#. The LoCo Council advises and determines LoCo policy and process. The Loco Council also helps resolve issues that Loco Teams were unable to resolve internally.
-#. To be a member of the LoCo council you need to have demonstrated a strong commitment and participation history in Ubuntu LoCo Teams, demonstrated clear leadership skills, and have the time and availability to commit to the needs of the council. A good Loco Council member will show the ability to listen and understand the diverse needs of various cultures and communities. Loco Council members should be able to inspire and guide loco team leadership.
+#. Ask Ubuntu is about finding the best answer to any given question using a community. Thus, there will be several different proposed answers other than ones own response. When one of these answers becomes more informative then the others, it is admirable to up vote the better answer, despite the risk of having ones own response not accepted. This badge is awarded when one has up voted 100 different answers where he or she thought it to be better than there own.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
 #. NOTE: Break this into paragraphs by putting each paragraph on a new line.
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/loco-council-member.c:33
-msgid "ubuntu-community/loco-council-member_summary"
+#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:31
+msgid "ubuntu-community/askubuntu-sportsmanship_summary"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member ('steps' field)
+#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Start by contributing to your local community team by organizing events and then contribute to the loco community teams on a global scale. Contributions should be extensive over a sustained period of time. There is no fixed time period, but this should be long enough to demonstrate your commitment to the project.
-#. Create a page on <tt>wiki.ubuntu.com</tt> that outlines your contributions. In the wiki page include your contributions, describe which teams you are in, and summarize your efforts.
-#. In the next LoCo Council election propose yourself as a candidate.
+#. Find a question which can be solved with your knowledge and/or experiences.
+#. Post your answer as a possible solution.
+#. Up vote any better answers to the question regardless of who posted it.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/loco-council-member.c:46
-msgid "ubuntu-community/loco-council-member_steps"
+#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:44
+msgid "ubuntu-community/askubuntu-sportsmanship_steps"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member ('tips' field)
+#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('tips' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Focus on your leadership abilities. The LoCo Council is an important leadership position and we look for strong, capable, confident leaders.
-#. You should probably have led a LoCo team to develop and demonstrate your leadership capabilities before applying to be on the LoCo Council.
-#. Only apply to the LoCo Council when you have had a significant amount of experience in the LoCo community.
+#. There are many different ways to solve problems. Read other answers carefully.
+#. Maintain an objective perspective. The best answers are can be the simplest ones.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add tips and best practise for accomplishing this trophy.
 #. NOTE: Put each tip on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/loco-council-member.c:59
-msgid "ubuntu-community/loco-council-member_tips"
+#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:56
+msgid "ubuntu-community/askubuntu-sportsmanship_tips"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member ('pitfalls' field)
+#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Don't apply to the LoCo Council just to be in a position of power.
-#. Try not to be on more than one council (e.g. LoCo Council, Community Council) at the same time. Join one, and give it your full attention.
+#. Thinking that there can be no better answer. Any solution can always be improved upon.
+#. Believing that you are always right. Arrogance is the beginning steps of failure.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/loco-council-member.c:71
-msgid "ubuntu-community/loco-council-member_pitfalls"
+#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:68
+msgid "ubuntu-community/askubuntu-sportsmanship_pitfalls"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member ('links' field)
+#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('links' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. https://wiki.ubuntu.com/LoCoCouncil
-#. https://wiki.ubuntu.com/LoCoCouncilAgenda
-#. http://www.ubuntu.com/project/about-ubuntu/governance
+#. http://www.askubuntu.com
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/loco-council-member.c:83
-msgid "ubuntu-community/loco-council-member_links"
+#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:78
+msgid "ubuntu-community/askubuntu-sportsmanship_links"
 msgstr ""
 
-#. ACCOMPLISHMENT: LoCo Council Member ('help' field)
+#. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('help' field)
 #. .
 #. ORIGINAL TRANSLATION:
 #. #ubuntu-community-team on Freenode
-#. #ubuntu-locoteams on Freenode
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/loco-council-member.c:95
-msgid "ubuntu-community/loco-council-member_help"
+#: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:89
+msgid "ubuntu-community/askubuntu-sportsmanship_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Tenacious on Ask Ubuntu ('title' field)

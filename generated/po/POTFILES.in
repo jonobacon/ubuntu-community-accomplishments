@@ -14,7 +14,7 @@ accomplishments/ubuntu-community/askubuntu-notablequestion.c
 accomplishments/ubuntu-community/askubuntu-generalist.c
 accomplishments/ubuntu-community/askubuntu-stellarquestion.c
 accomplishments/ubuntu-community/registered-on-launchpad.c
-accomplishments/ubuntu-community/report-first-bug.c
+accomplishments/ubuntu-community/askubuntu-precognitive.c
 accomplishments/ubuntu-community/community-council-member.c
 accomplishments/ubuntu-community/askubuntu-greatquestion.c
 accomplishments/ubuntu-community/askubuntu-electorate.c
@@ -39,7 +39,6 @@ accomplishments/ubuntu-community/attend-uds.c
 accomplishments/ubuntu-community/askubuntu-tumbleweed.c
 accomplishments/ubuntu-community/forum-council-member.c
 accomplishments/ubuntu-community/askubuntu-booster.c
-accomplishments/ubuntu-community/askubuntu-precognitive.c
 accomplishments/ubuntu-community/first-bug-confirmed.c
 accomplishments/ubuntu-community/askubuntu-goodquestion.c
 accomplishments/ubuntu-community/askubuntu-voxpopuli.c
@@ -66,6 +65,7 @@ accomplishments/ubuntu-community/askubuntu-disciplined.c
 accomplishments/ubuntu-community/askubuntu-cleanup.c
 accomplishments/ubuntu-community/askubuntu-altruist.c
 accomplishments/ubuntu-community/user-has-mugshot.c
+accomplishments/ubuntu-community/report-first-bug.c
 accomplishments/ubuntu-community/askubuntu-famousquestion.c
 accomplishments/ubuntu-community/askubuntu-strunkandwhite.c
 accomplishments/ubuntu-community/askubuntu-enthusiast.c
@@ -74,15 +74,15 @@ accomplishments/ubuntu-community/askubuntu-proofreader.c
 accomplishments/ubuntu-community/askubuntu-archaeologist.c
 accomplishments/ubuntu-community/askubuntu-commentator.c
 accomplishments/ubuntu-community/askubuntu-legendary.c
-accomplishments/ubuntu-community/askubuntu-announcer.c
+accomplishments/ubuntu-community/attend-other-team-event.c
 accomplishments/ubuntu-community/askubuntu-mortarboard.c
 accomplishments/ubuntu-community/askubuntu-revival.c
 accomplishments/ubuntu-community/technical-board-member.c
 accomplishments/ubuntu-community/askubuntu-enlightened.c
 accomplishments/ubuntu-community/askubuntu-goodanswer.c
-accomplishments/ubuntu-community/attend-other-team-event.c
+accomplishments/ubuntu-community/askubuntu-announcer.c
 accomplishments/ubuntu-community/askubuntu-fanatic.c
-accomplishments/ubuntu-community/askubuntu-sportsmanship.c
+accomplishments/ubuntu-community/loco-council-member.c
 accomplishments/ubuntu-community/askubuntu-nicequestion.c
 accomplishments/ubuntu-community/ubuntu-beginners-team-council-member.c
 accomplishments/ubuntu-community/juju-charm-reviewer.c
@@ -103,6 +103,6 @@ accomplishments/ubuntu-community/organize-loco-event.c
 accomplishments/ubuntu-community/askubuntu-outspoken.c
 accomplishments/ubuntu-community/accomplishments-contributor.c
 accomplishments/ubuntu-community/forum-staff-member.c
-accomplishments/ubuntu-community/loco-council-member.c
+accomplishments/ubuntu-community/askubuntu-sportsmanship.c
 accomplishments/ubuntu-community/askubuntu-tenacious.c
 accomplishments/ubuntu-community/juju-charm-contributor.c

@@ -6,7 +6,7 @@ category = General
 needs-signing = true
 needs-information = launchpad-email
 icon = default.png
-depends = ubuntu-community/ubuntu-member ubuntu-community/imported-ssh-key
+depends = ubuntu-community/ubuntu-member, ubuntu-community/imported-ssh-key
 author = Jono Bacon <jono@ubuntu.com>
 summary = <a href="http://planet.ubuntu.com">Planet Ubuntu</a> is a website that lists blogs (personal websites) of people involved in the Ubuntu project and our various flavors.
 	Planet Ubuntu has become a very popular resource for our community and beyond to keep up to date with what is happening in the project. It brings together many, many blogs from across the community and the world into a single webpage that is convenient for browsing.

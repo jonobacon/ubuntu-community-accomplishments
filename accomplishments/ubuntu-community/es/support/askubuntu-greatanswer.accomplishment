@@ -6,7 +6,7 @@ category = Ask Ubuntu:Asking & Answering
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-gold.png
-depends = ubuntu-community/askubuntu-niceanswer ubuntu-community/askubuntu-greatanswer
+depends = ubuntu-community/askubuntu-niceanswer, ubuntu-community/askubuntu-greatanswer
 author = Jorge O. Castro <jorge@ubuntu.com>
 summary = Answer score of 100 or more. These answers represent the very best content from Ask Ubuntu contributors. They typically take many revisions and additions to receive 100 votes from your peers.
 steps = Answer a question, you can start with some <a href="http://askubuntu.com/unanswered">unanswered ones</a>.
