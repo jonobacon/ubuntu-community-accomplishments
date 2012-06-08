@@ -1,0 +1,5 @@
+[success]
+launchpad-email = silver-fox@ubuntu.com
+
+[failure]
+launchpad-email = fail@fail.com

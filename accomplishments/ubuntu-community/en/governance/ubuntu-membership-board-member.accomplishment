@@ -1,0 +1,21 @@
+[accomplishment]
+title=Ubuntu Membership Board Member
+description=You are a member of the Ubuntu Membership Board
+collection=ubuntu-community
+category=Governance
+needs-signing=true
+icon=default.png
+needs-information=launchpad-email
+depends=ubuntu-community/ubuntu-member
+summary = The Ubuntu Membership Board is responsible for awarding Ubuntu Membership to community contributors.
+     Those sitting on membership boards are people who are insightful. They are current Ubuntu Members with a proven track record of activity in the community. They have shown themselves over time to be able to work well with others and display the positive aspects of the Ubuntu Code of Conduct. They should be people who can discern character and judge contribution quality without emotion while engaging in an interview/discussion that communicates interest, a welcoming atmosphere, and which is marked by humanity, gentleness, and kindness. Even when they must deny applications, they should do so in such a way that applicants walk away with a sense of hopefulness and a desire to return with a more complete application rather than feeling discouraged or hurt.
+     Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
+steps: Become an Ubuntu Member
+     Wait for the Community Council to ask for nominations for vacant seats
+     Prepare your wiki page and email the community council outlining why you are a good candidate
+links: https://wiki.ubuntu.com/Membership/Boards
+     https://wiki.ubuntu.com/Membership
+     https://launchpad.net/~ubuntu-membership-board
+     http://www.ubuntu.com/project/about-ubuntu/governance
+help = #ubuntu-rmb and #ubuntu-meeting on Freenode
+author = s.fox <silver-fox@ubuntu.com>
