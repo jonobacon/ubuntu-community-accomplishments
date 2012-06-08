@@ -21,7 +21,7 @@ _("ubuntu-community/askubuntu-proofreader_description")
 // ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('summary' field)
 // .
 // ORIGINAL TRANSLATION:
-// Approved or rejected 100 suggested edits
+// Users with insufficient reputation often cannot edit posts directly. Instead, they can suggest edits to be made, which can then be either approved or rejected by community members with higher reputation. This badge is awarded once a user has approved or rejected at least 100 such edits.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -32,8 +32,9 @@ _("ubuntu-community/askubuntu-proofreader_summary")
 // ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('steps' field)
 // .
 // ORIGINAL TRANSLATION:
-// Provide step by step instructions for to accomplish this.
-// Each step should be on a new line with a tab at the beginning, like this.
+// If you come across a post which states that it has a pending edit which needs approval, click the link to view it. (Note that you will need sufficient reputation to do so.)
+// Decide whether to approve, reject, or improve the suggested edit.
+// Do the same for 100 posts in total to earn this badge.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -41,10 +42,23 @@ _("ubuntu-community/askubuntu-proofreader_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("ubuntu-community/askubuntu-proofreader_steps")
+// ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('tips' field)
+// .
+// ORIGINAL TRANSLATION:
+// Suggested edits most commonly appear on new questions, so you may want to look at those.
+// If you have 5000 reputation, you gain the privilege to approve or reject tag wiki edits. This also gives you the ability to see a list of suggested edits in the review section, which makes it easier to find them. As such, you may want to earn this amount of reputation first to make achieving this badge much easier.
+
+// .
+// ----- TRANSLATION INSTRUCTIONS ----- 
+// Add tips and best practise for accomplishing this trophy.
+//          NOTE: Put each tip on a new line
+//          FORMATTING ALLOWED: <i> <strong> <tt>
+_("ubuntu-community/askubuntu-proofreader_tips")
 // ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('pitfalls' field)
 // .
 // ORIGINAL TRANSLATION:
-// A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+// Approving trivial edits. If the edit is not substantial enough, consider improving or rejecting it instead.
+// Rejecting edits which could easily be improved. If a suggested edit is promising but you know how to make it even better, then do so.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

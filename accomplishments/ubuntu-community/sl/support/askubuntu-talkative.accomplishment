@@ -2,15 +2,20 @@
 title = Talkative on Ask Ubuntu
 description = Posted 10 messages, with 1 or more starred, in <a href="$ChatUrl">chat</a>
 collection = ubuntu-community
-category = Ask Ubuntu
+category = Ask Ubuntu:Chat
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
-author = Nathan Osman <admin@quickmediasolutions.com>
-summary = Posted 10 messages, with 1 or more starred, in <a href="$ChatUrl">chat</a>
-steps = Provide step by step instructions for to accomplish this.
-	Each step should be on a new line with a tab at the beginning, like this.
-tips = None
-pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+author = Christopher Kyle Horton <christhehorton@gmail.com>
+summary = Ask Ubuntu chat is a place to be used for collaboration, discussion and socialization. Users are encouraged to use chat as a supplement to the main site, such as for becoming better acquainted with fellow community members or for discussing questions when comments would not suffice. In addition, posts in chat are awarded stars by other chat users to mark them as notable. This badge is awarded when the user posts at least 10 messages in Ask Ubuntu chat, with at least one of them starred.
+steps = You need 20 reputation first before you can access Ask Ubuntu chat.
+	You can enter Ask Ubuntu chat by clicking the "chat" link near the top of the Ask Ubuntu page. Note that you need to be logged in to use chat.
+	Click any room you feel like participating in to enter it. Alternatively, you can create a new room if you have a certain topic which is not listed by any of the currently open rooms.
+	Contribute to the discussion by entering messages into the box near the bottom of the screen, and clicking the "send" button or pressing Enter on your keyboard to send the message.
+	Once you have sent 10 or more messages and have gotten at least one starred, you will earn this badge.
+tips = If you are new to chat or don't have a particular topic in mind, the Ask Ubuntu General Room is a good room to start in.
+	To make your posts more likely to earn stars, try making your posts insightful or interesting.
+pitfalls = Not staying ontopic in chat. Check the room topic before posting irrelevant messages, which can disrupt discussion. Keep general chat messages in the Ask Ubuntu General Room; other rooms are meant to be used specifically for their topics.
+	Not adhering to community guidelines in chat. Chat has the same guidelines as the rest of Ask Ubuntu, is moderated and keeps a complete and open history of all messages posted. Please be respectful and courteous with your messages.
 help = #ubuntu-community-team on Freenode
 

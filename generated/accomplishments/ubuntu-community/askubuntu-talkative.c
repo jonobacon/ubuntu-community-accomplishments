@@ -21,7 +21,7 @@ _("ubuntu-community/askubuntu-talkative_description")
 // ACCOMPLISHMENT: Talkative on Ask Ubuntu ('summary' field)
 // .
 // ORIGINAL TRANSLATION:
-// Posted 10 messages, with 1 or more starred, in <a href="$ChatUrl">chat</a>
+// Ask Ubuntu chat is a place to be used for collaboration, discussion and socialization. Users are encouraged to use chat as a supplement to the main site, such as for becoming better acquainted with fellow community members or for discussing questions when comments would not suffice. In addition, posts in chat are awarded stars by other chat users to mark them as notable. This badge is awarded when the user posts at least 10 messages in Ask Ubuntu chat, with at least one of them starred.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -32,8 +32,11 @@ _("ubuntu-community/askubuntu-talkative_summary")
 // ACCOMPLISHMENT: Talkative on Ask Ubuntu ('steps' field)
 // .
 // ORIGINAL TRANSLATION:
-// Provide step by step instructions for to accomplish this.
-// Each step should be on a new line with a tab at the beginning, like this.
+// You need 20 reputation first before you can access Ask Ubuntu chat.
+// You can enter Ask Ubuntu chat by clicking the "chat" link near the top of the Ask Ubuntu page. Note that you need to be logged in to use chat.
+// Click any room you feel like participating in to enter it. Alternatively, you can create a new room if you have a certain topic which is not listed by any of the currently open rooms.
+// Contribute to the discussion by entering messages into the box near the bottom of the screen, and clicking the "send" button or pressing Enter on your keyboard to send the message.
+// Once you have sent 10 or more messages and have gotten at least one starred, you will earn this badge.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -41,10 +44,23 @@ _("ubuntu-community/askubuntu-talkative_summary")
 //          NOTE: Put each step on a new line
 //          FORMATTING ALLOWED: <i> <strong> <tt>
 _("ubuntu-community/askubuntu-talkative_steps")
+// ACCOMPLISHMENT: Talkative on Ask Ubuntu ('tips' field)
+// .
+// ORIGINAL TRANSLATION:
+// If you are new to chat or don't have a particular topic in mind, the Ask Ubuntu General Room is a good room to start in.
+// To make your posts more likely to earn stars, try making your posts insightful or interesting.
+
+// .
+// ----- TRANSLATION INSTRUCTIONS ----- 
+// Add tips and best practise for accomplishing this trophy.
+//          NOTE: Put each tip on a new line
+//          FORMATTING ALLOWED: <i> <strong> <tt>
+_("ubuntu-community/askubuntu-talkative_tips")
 // ACCOMPLISHMENT: Talkative on Ask Ubuntu ('pitfalls' field)
 // .
 // ORIGINAL TRANSLATION:
-// A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+// Not staying ontopic in chat. Check the room topic before posting irrelevant messages, which can disrupt discussion. Keep general chat messages in the Ask Ubuntu General Room; other rooms are meant to be used specifically for their topics.
+// Not adhering to community guidelines in chat. Chat has the same guidelines as the rest of Ask Ubuntu, is moderated and keeps a complete and open history of all messages posted. Please be respectful and courteous with your messages.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
