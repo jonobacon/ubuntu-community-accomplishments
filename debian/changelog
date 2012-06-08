@@ -1,3 +1,10 @@
+ubuntu-community-accomplishments (0.2) precise; urgency=low
+
+  * New release of the 0.2 collection. Includes a number of new accoms, most notably
+    Ask Ubuntu badges.
+
+ -- Jono Bacon <jono@ubuntu.com>  Fri, 08 Jun 2012 11:11:04 -0700
+
 ubuntu-community-accomplishments (0.1.2) precise; urgency=low
 
   * New: Blog on Planet Ubuntu (Jono Bacon)
