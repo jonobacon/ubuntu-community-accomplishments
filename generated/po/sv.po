@@ -8,15 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-06 19:54+0200\n"
+"POT-Creation-Date: 2012-06-08 15:22+0200\n"
 "PO-Revision-Date: 2012-05-24 23:35+0000\n"
 "Last-Translator: Jono Bacon <jono@ubuntu.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-07 05:10+0000\n"
-"X-Generator: Launchpad (build 15353)\n"
+"X-Launchpad-Export-Date: 2012-06-09 06:19+0000\n"
+"X-Generator: Launchpad (build 15376)\n"
 "Language: sv\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
@@ -2718,7 +2718,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Answered first question with score of 1 or more
+#. Ask Ubuntu is a place not only to ask questions, but to answer them as well. Answers may be provided by any user who feels they have the relevant knowledge to share. If other users agree that answer is clear, informative and useful, they can vote it up so the answer becomes more visible and the user who posted it is rewarded with additional reputation. This badge is awarded when a user posts their first question which receives a score of 1 or higher.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -2731,27 +2731,48 @@ msgstr ""
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Provide step by step instructions for to accomplish this.
-#. Each step should be on a new line with a tab at the beginning, like this.
+#. Log into Ask Ubuntu and look for a question you know the answer to.
+#. To post your answer, scroll to the bottom of the page where a text entry box is, labeled "Your Answer". You can type your answer in here.
+#. Once your answer is finished, click the gray "Post Your Answer" button under the answer preview to publicly post your answer, so it is saved and other users can see it.
+#. Once your posted answer reaches a score of 1, you will be awarded with this badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:43
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:45
 msgid "ubuntu-community/askubuntu-teacher_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Look for questions you are knowledgeable on to answer. If you don't know enough about the problem to come up with a good solution to it, skip the question and try finding another one.
+#. Use the provided formatting tools or Markdown formatting code to make your answer appear organized and polished.
+#. Be sure to include sufficient detail in your answer, and assume they don't know anything beyond what is indicated in the question. Questions and answers are browsed by Ubuntu users of all skill levels, and the best answers are those which can be read and understood by a wide audience, not just the user who posted the question.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:58
+msgid "ubuntu-community/askubuntu-teacher_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+#. Posting a comment instead of an answer. Your post does not count as an answer unless it is actually posted as such. If you need help making sure you are posting properly, check out the link to the FAQ at the top of the page.
+#. Posting a poor quality answer. Poor quality answers may be unclear, inaccurate or unhelpful in some way, and may be voted down instead of up. Review your answer carefully for clarity and accuracy before posting.
+#. Posting nothing but a link as an answer. If the link were to stop working, such an answer would become effectively worthless. Summarize your source in your answer, and provide the link as a reference.
+#. Posting a "me too" answer. These types of answers are not helpful to those looking for information, and disrupt Ask Ubuntu's Q&A format. If you are having the same problem, wait for a working answer to appear, or leave a comment on answers that don't work for you. You may also try sharing the question to see if someone you know can properly answer it, or asking a new question if yours could be sufficiently different to warrant a different answer for it.
+#. Posting spam or answers which violate community guidelines. These often attract large numbers of down votes and are flagged by other users for removal by moderators.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:54
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:73
 msgid "ubuntu-community/askubuntu-teacher_pitfalls"
 msgstr ""
 
@@ -2763,7 +2784,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:64
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:83
 msgid "ubuntu-community/askubuntu-teacher_links"
 msgstr ""
 
@@ -2776,7 +2797,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:75
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:94
 msgid "ubuntu-community/askubuntu-teacher_help"
 msgstr ""
 
@@ -6887,7 +6908,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Approved or rejected 100 suggested edits
+#. Users with insufficient reputation often cannot edit posts directly. Instead, they can suggest edits to be made, which can then be either approved or rejected by community members with higher reputation. This badge is awarded once a user has approved or rejected at least 100 such edits.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -6900,27 +6921,43 @@ msgstr ""
 #. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Provide step by step instructions for to accomplish this.
-#. Each step should be on a new line with a tab at the beginning, like this.
+#. If you come across a post which states that it has a pending edit which needs approval, click the link to view it. (Note that you will need sufficient reputation to do so.)
+#. Decide whether to approve, reject, or improve the suggested edit.
+#. Do the same for 100 posts in total to earn this badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:43
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:44
 msgid "ubuntu-community/askubuntu-proofreader_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Suggested edits most commonly appear on new questions, so you may want to look at those.
+#. If you have 5000 reputation, you gain the privilege to approve or reject tag wiki edits. This also gives you the ability to see a list of suggested edits in the review section, which makes it easier to find them. As such, you may want to earn this amount of reputation first to make achieving this badge much easier.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:56
+msgid "ubuntu-community/askubuntu-proofreader_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+#. Approving trivial edits. If the edit is not substantial enough, consider improving or rejecting it instead.
+#. Rejecting edits which could easily be improved. If a suggested edit is promising but you know how to make it even better, then do so.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:54
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:68
 msgid "ubuntu-community/askubuntu-proofreader_pitfalls"
 msgstr ""
 
@@ -6932,7 +6969,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:64
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:78
 msgid "ubuntu-community/askubuntu-proofreader_links"
 msgstr ""
 
@@ -6945,7 +6982,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:75
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:89
 msgid "ubuntu-community/askubuntu-proofreader_help"
 msgstr ""
 
@@ -7747,6 +7784,87 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-goodanswer.c:89
 msgid "ubuntu-community/askubuntu-goodanswer_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('title' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Ubuntu Membership Board Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:11
+msgid "ubuntu-community/ubuntu-membership-board-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('description' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You are a member of the Ubuntu Membership Board
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:20
+msgid "ubuntu-community/ubuntu-membership-board-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('summary' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. The Ubuntu Membership Board is responsible for awarding Ubuntu Membership to community contributors.
+#. Those sitting on membership boards are people who are insightful. They are current Ubuntu Members with a proven track record of activity in the community. They have shown themselves over time to be able to work well with others and display the positive aspects of the Ubuntu Code of Conduct. They should be people who can discern character and judge contribution quality without emotion while engaging in an interview/discussion that communicates interest, a welcoming atmosphere, and which is marked by humanity, gentleness, and kindness. Even when they must deny applications, they should do so in such a way that applicants walk away with a sense of hopefulness and a desire to return with a more complete application rather than feeling discouraged or hurt.
+#. Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:33
+msgid "ubuntu-community/ubuntu-membership-board-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('steps' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Become an Ubuntu Member
+#. Wait for the Community Council to ask for nominations for vacant seats
+#. Prepare your wiki page and email the community council outlining why you are a good candidate
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:46
+msgid "ubuntu-community/ubuntu-membership-board-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('links' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/Membership/Boards
+#. https://wiki.ubuntu.com/Membership
+#. https://launchpad.net/~ubuntu-membership-board
+#. http://www.ubuntu.com/project/about-ubuntu/governance
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:59
+msgid "ubuntu-community/ubuntu-membership-board-member_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('help' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. #ubuntu-rmb and #ubuntu-meeting on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:70
+msgid "ubuntu-community/ubuntu-membership-board-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('title' field)
@@ -9124,7 +9242,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Posted 10 messages, with 1 or more starred, in <a href="$ChatUrl">chat</a>
+#. Ask Ubuntu chat is a place to be used for collaboration, discussion and socialization. Users are encouraged to use chat as a supplement to the main site, such as for becoming better acquainted with fellow community members or for discussing questions when comments would not suffice. In addition, posts in chat are awarded stars by other chat users to mark them as notable. This badge is awarded when the user posts at least 10 messages in Ask Ubuntu chat, with at least one of them starred.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -9137,27 +9255,45 @@ msgstr ""
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Provide step by step instructions for to accomplish this.
-#. Each step should be on a new line with a tab at the beginning, like this.
+#. You need 20 reputation first before you can access Ask Ubuntu chat.
+#. You can enter Ask Ubuntu chat by clicking the "chat" link near the top of the Ask Ubuntu page. Note that you need to be logged in to use chat.
+#. Click any room you feel like participating in to enter it. Alternatively, you can create a new room if you have a certain topic which is not listed by any of the currently open rooms.
+#. Contribute to the discussion by entering messages into the box near the bottom of the screen, and clicking the "send" button or pressing Enter on your keyboard to send the message.
+#. Once you have sent 10 or more messages and have gotten at least one starred, you will earn this badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:43
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:46
 msgid "ubuntu-community/askubuntu-talkative_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. If you are new to chat or don't have a particular topic in mind, the Ask Ubuntu General Room is a good room to start in.
+#. To make your posts more likely to earn stars, try making your posts insightful or interesting.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:58
+msgid "ubuntu-community/askubuntu-talkative_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+#. Not staying ontopic in chat. Check the room topic before posting irrelevant messages, which can disrupt discussion. Keep general chat messages in the Ask Ubuntu General Room; other rooms are meant to be used specifically for their topics.
+#. Not adhering to community guidelines in chat. Chat has the same guidelines as the rest of Ask Ubuntu, is moderated and keeps a complete and open history of all messages posted. Please be respectful and courteous with your messages.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:54
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:70
 msgid "ubuntu-community/askubuntu-talkative_pitfalls"
 msgstr ""
 
@@ -9169,7 +9305,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:64
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:80
 msgid "ubuntu-community/askubuntu-talkative_links"
 msgstr ""
 
@@ -9182,7 +9318,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:75
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:91
 msgid "ubuntu-community/askubuntu-talkative_help"
 msgstr ""
 

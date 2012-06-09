@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-06 19:54+0200\n"
-"PO-Revision-Date: 2012-05-27 13:08+0000\n"
+"POT-Creation-Date: 2012-06-08 15:22+0200\n"
+"PO-Revision-Date: 2012-06-09 00:51+0000\n"
 "Last-Translator: Kazi Shahnoor Ashraf <kazidxb@gmail.com>\n"
 "Language-Team: Bengali <bn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-07 05:10+0000\n"
-"X-Generator: Launchpad (build 15353)\n"
+"X-Launchpad-Export-Date: 2012-06-09 06:18+0000\n"
+"X-Generator: Launchpad (build 15376)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:11
 msgid "ubuntu-community/askubuntu-researchassistant_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  গবেষণা সহকারী"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('description' field)
 #. .
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:20
 msgid "ubuntu-community/askubuntu-researchassistant_description"
-msgstr ""
+msgstr "৫০ ট্যাগ উইকিস সম্পাদিত ."
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('summary' field)
 #. .
@@ -51,7 +51,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:31
 msgid "ubuntu-community/askubuntu-researchassistant_summary"
-msgstr ""
+msgstr "৫০ ট্যাগ উইকিস সম্পাদিত ."
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('steps' field)
 #. .
@@ -66,6 +66,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:43
 msgid "ubuntu-community/askubuntu-researchassistant_steps"
 msgstr ""
+"এটি সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. শুরুতে প্রতিটি পদক্ষেপ "
+"একটি ট্যাবসহ একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -90,7 +92,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:64
 msgid "ubuntu-community/askubuntu-researchassistant_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('help' field)
 #. .
@@ -103,7 +105,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:75
 msgid "ubuntu-community/askubuntu-researchassistant_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -199,7 +201,7 @@ msgstr "#ubuntu-locoteams ফ্রিনোড এ #ubuntu-community-team ফ�
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:11
 msgid "ubuntu-community/askubuntu-pundit_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে পন্ডিত"
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('description' field)
 #. .
@@ -210,7 +212,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:20
 msgid "ubuntu-community/askubuntu-pundit_description"
-msgstr ""
+msgstr "১০ টি মন্তব্য বাকি ৫ বা আরো স্কোর এর সাথে."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('summary' field)
 #. .
@@ -266,6 +268,7 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:67
 msgid "ubuntu-community/askubuntu-pundit_pitfalls"
 msgstr ""
+"মজার অথবা কটাক্ষপূর্ণ মন্তব্য দ্বারা উপরিভোটসমূহ আকর্ষণ করার চেষ্টা করবেন না."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('links' field)
 #. .
@@ -281,6 +284,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:80
 msgid "ubuntu-community/askubuntu-pundit_links"
 msgstr ""
+"http://www.askubuntu.com http://askubuntu.com/faq#reputation "
+"http://askubuntu.com/privileges http://askubuntu.com/privileges/comment ."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('help' field)
 #. .
@@ -293,7 +298,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:91
 msgid "ubuntu-community/askubuntu-pundit_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('title' field)
 #. .
@@ -305,7 +310,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:11
 msgid "ubuntu-community/askubuntu-selflearner_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে স্বশিক্ষার্থী"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('description' field)
 #. .
@@ -316,7 +321,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:20
 msgid "ubuntu-community/askubuntu-selflearner_description"
-msgstr ""
+msgstr "৩ বা অধিক স্কোরের সাথে আপনি আপনার নিজের প্রশ্নের উত্তর করেছেন."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('summary' field)
 #. .
@@ -356,7 +361,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:54
 msgid "ubuntu-community/askubuntu-selflearner_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('tips' field)
 #. .
@@ -397,7 +402,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:89
 msgid "ubuntu-community/askubuntu-selflearner_help"
-msgstr ""
+msgstr "ফ্রি নোড এ  #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('title' field)
 #. .
@@ -409,7 +414,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:11
 msgid "ubuntu-community/askubuntu-reviewer_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে পর্যালোচক."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('description' field)
 #. .
@@ -421,6 +426,7 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:20
 msgid "ubuntu-community/askubuntu-reviewer_description"
 msgstr ""
+"১০০০ <a href=\"/review\">পর্যালোচনা</a>, ২০০ এর উপর পদক্ষেপ নেয়া হয়েছে ."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('summary' field)
 #. .
@@ -434,6 +440,7 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:31
 msgid "ubuntu-community/askubuntu-reviewer_summary"
 msgstr ""
+"১০০০ <a href=\"/review\">পর্যালোচনা</a>, ২০০ এর উপর পদক্ষেপ নেয়া হয়েছে ."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('steps' field)
 #. .
@@ -448,6 +455,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:43
 msgid "ubuntu-community/askubuntu-reviewer_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -472,7 +481,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:64
 msgid "ubuntu-community/askubuntu-reviewer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('help' field)
 #. .
@@ -485,7 +494,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:75
 msgid "ubuntu-community/askubuntu-reviewer_help"
-msgstr ""
+msgstr "ফ্রি নোড এ#ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('title' field)
 #. .
@@ -497,7 +506,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:11
 msgid "ubuntu-community/askubuntu-excavator_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  খনক ."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('description' field)
 #. .
@@ -508,7 +517,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:20
 msgid "ubuntu-community/askubuntu-excavator_description"
-msgstr ""
+msgstr "প্রথম পোস্টটি সম্পাদিত হয়েছে যা ৬ মাসের জন্য নিষ্ক্রিয় ছিল ."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('summary' field)
 #. .
@@ -521,7 +530,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:31
 msgid "ubuntu-community/askubuntu-excavator_summary"
-msgstr ""
+msgstr "প্রথম পোস্টটি সম্পাদিত হয়েছে যা ৬ মাসের জন্য নিষ্ক্রিয় ছিল ."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('steps' field)
 #. .
@@ -536,6 +545,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:43
 msgid "ubuntu-community/askubuntu-excavator_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -549,6 +560,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:54
 msgid "ubuntu-community/askubuntu-excavator_pitfalls"
 msgstr ""
+"এই সম্পাদনটি পরীক্ষার সময় ব্যবহারকারীর কিছু জিনিস এড়িয়ে চলা উচিত (প্রতিটি "
+"এক একটি নতুন লাইন যুক্ত)."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('links' field)
 #. .
@@ -560,7 +573,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:64
 msgid "ubuntu-community/askubuntu-excavator_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('help' field)
 #. .
@@ -573,7 +586,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:75
 msgid "ubuntu-community/askubuntu-excavator_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Bug Squad Member ('title' field)
 #. .
@@ -665,7 +678,7 @@ msgstr "ফ্রিনোড এ #ubuntu-bugs"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:11
 msgid "ubuntu-community/askubuntu-epic_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে এপিক বা মহাকাব্য"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('description' field)
 #. .
@@ -676,7 +689,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:20
 msgid "ubuntu-community/askubuntu-epic_description"
-msgstr ""
+msgstr "২০০ দৈনিক খ্যাতি ৫০ বার অর্জিত ."
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('summary' field)
 #. .
@@ -689,7 +702,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:31
 msgid "ubuntu-community/askubuntu-epic_summary"
-msgstr ""
+msgstr "২০০ দৈনিক খ্যাতি ৫০ বার অর্জিত ."
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('steps' field)
 #. .
@@ -704,6 +717,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:43
 msgid "ubuntu-community/askubuntu-epic_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -741,7 +756,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:75
 msgid "ubuntu-community/askubuntu-epic_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('title' field)
 #. .
@@ -833,7 +848,7 @@ msgstr "ফ্রিনোড এ #ubuntu-locoteams ফ্রিনোড এ #u
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:11
 msgid "ubuntu-community/askubuntu-autobiographer_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  আত্মজীবনী - রচয়িতা"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('description' field)
 #. .
@@ -844,7 +859,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:20
 msgid "ubuntu-community/askubuntu-autobiographer_description"
-msgstr ""
+msgstr "ব্যবহারকারীর সমস্ত প্রোফাইল ক্ষেত্রসমূহ সমাপ্ত"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('summary' field)
 #. .
@@ -885,7 +900,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:55
 msgid "ubuntu-community/askubuntu-autobiographer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('help' field)
 #. .
@@ -898,7 +913,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:66
 msgid "ubuntu-community/askubuntu-autobiographer_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('title' field)
 #. .
@@ -978,7 +993,7 @@ msgstr "IRC এর সঙ্গে পরিচিত হয়ে নিন"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:69
 msgid "ubuntu-community/ubuntu-beginners-team-member_pitfalls"
-msgstr "নাই"
+msgstr "কিছু না"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('help' field)
 #. .
@@ -1004,7 +1019,7 @@ msgstr "ফ্রিনোড এ #ubuntu-beginners  ফ্রিনোড এ #
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:11
 msgid "ubuntu-community/askubuntu-beta_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে বেটা"
 
 #. ACCOMPLISHMENT: Beta on Ask Ubuntu ('description' field)
 #. .
@@ -1015,7 +1030,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:20
 msgid "ubuntu-community/askubuntu-beta_description"
-msgstr ""
+msgstr "ব্যক্তিগত বেটা পর্যায়ে সক্রিয়ভাবে অংশগ্রহণ হয়েছে ."
 
 #. ACCOMPLISHMENT: Beta on Ask Ubuntu ('summary' field)
 #. .
@@ -1068,7 +1083,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:65
 msgid "ubuntu-community/askubuntu-beta_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Beta on Ask Ubuntu ('help' field)
 #. .
@@ -1081,7 +1096,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:76
 msgid "ubuntu-community/askubuntu-beta_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('title' field)
 #. .
@@ -1093,7 +1108,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:11
 msgid "ubuntu-community/askubuntu-notablequestion_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে উল্লেখযোগ্য প্রশ্ন ."
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('description' field)
 #. .
@@ -1104,7 +1119,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:20
 msgid "ubuntu-community/askubuntu-notablequestion_description"
-msgstr ""
+msgstr "২,৫০০ বার দর্শণের সাথে একটি প্রশ্ন জিজ্ঞাসা করা হয়েছে."
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('summary' field)
 #. .
@@ -1131,6 +1146,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:42
 msgid "ubuntu-community/askubuntu-notablequestion_steps"
 msgstr ""
+"একটি ভাল প্রশ্ন<a href=\"http://meta.askubuntu.com/questions/257/how-does-"
+"ask-ubuntu-work\">তৈরী করুন</a>. ."
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('tips' field)
 #. .
@@ -1171,7 +1188,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:77
 msgid "ubuntu-community/askubuntu-notablequestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('help' field)
 #. .
@@ -1184,7 +1201,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:88
 msgid "ubuntu-community/askubuntu-notablequestion_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Generalist on Ask Ubuntu ('title' field)
 #. .
@@ -1235,6 +1252,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-generalist.c:43
 msgid "ubuntu-community/askubuntu-generalist_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Generalist on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -1259,7 +1278,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-generalist.c:64
 msgid "ubuntu-community/askubuntu-generalist_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Generalist on Ask Ubuntu ('help' field)
 #. .
@@ -1272,7 +1291,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-generalist.c:75
 msgid "ubuntu-community/askubuntu-generalist_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team on Freenode ."
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('title' field)
 #. .
@@ -1284,7 +1303,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:11
 msgid "ubuntu-community/askubuntu-stellarquestion_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে তারকা প্রশ্ন ."
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('description' field)
 #. .
@@ -1295,7 +1314,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:20
 msgid "ubuntu-community/askubuntu-stellarquestion_description"
-msgstr ""
+msgstr "প্রশ্ন ১০০ জন ব্যবহারকারী দ্বারা পছন্দকৃত ."
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('summary' field)
 #. .
@@ -1321,7 +1340,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:42
 msgid "ubuntu-community/askubuntu-stellarquestion_steps"
-msgstr ""
+msgstr "একটি প্রশ্ন পোস্ট করুন যার সমাধান অনেক লোকের প্রয়োজন হতে পারে."
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('tips' field)
 #. .
@@ -1363,7 +1382,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:78
 msgid "ubuntu-community/askubuntu-stellarquestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('help' field)
 #. .
@@ -1376,7 +1395,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:89
 msgid "ubuntu-community/askubuntu-stellarquestion_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1465,7 +1484,7 @@ msgstr "ফ্রিনোড এ #launchpad ."
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:11
 msgid "ubuntu-community/askubuntu-precognitive_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে প্রাকজ্ঞান"
 
 #. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('description' field)
 #. .
@@ -1528,7 +1547,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:64
 msgid "ubuntu-community/askubuntu-precognitive_links"
-msgstr ""
+msgstr "http://www.askubuntu.com http://area51.stackexchange.com/ ."
 
 #. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('help' field)
 #. .
@@ -1541,7 +1560,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:75
 msgid "ubuntu-community/askubuntu-precognitive_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Community Council Member ('title' field)
 #. .
@@ -1668,7 +1687,7 @@ msgstr "ফ্রিনোড এ #ubuntu-community-team ."
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-greatquestion.c:11
 msgid "ubuntu-community/askubuntu-greatquestion_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে বিশিষ্ট প্রশ্ন ."
 
 #. ACCOMPLISHMENT: Great Question on Ask Ubuntu ('description' field)
 #. .
@@ -1679,7 +1698,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-greatquestion.c:20
 msgid "ubuntu-community/askubuntu-greatquestion_description"
-msgstr ""
+msgstr "১০০ বা তার বেশী স্কোরের প্রশ্ন ."
 
 #. ACCOMPLISHMENT: Great Question on Ask Ubuntu ('summary' field)
 #. .
@@ -1746,7 +1765,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-greatquestion.c:77
 msgid "ubuntu-community/askubuntu-greatquestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Great Question on Ask Ubuntu ('help' field)
 #. .
@@ -1759,7 +1778,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-greatquestion.c:88
 msgid "ubuntu-community/askubuntu-greatquestion_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Electorate on Ask Ubuntu ('title' field)
 #. .
@@ -1771,7 +1790,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-electorate.c:11
 msgid "ubuntu-community/askubuntu-electorate_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে নির্বাচকমণ্ডলী ."
 
 #. ACCOMPLISHMENT: Electorate on Ask Ubuntu ('description' field)
 #. .
@@ -1810,6 +1829,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-electorate.c:43
 msgid "ubuntu-community/askubuntu-electorate_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Electorate on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -1834,7 +1855,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-electorate.c:64
 msgid "ubuntu-community/askubuntu-electorate_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Electorate on Ask Ubuntu ('help' field)
 #. .
@@ -1847,7 +1868,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-electorate.c:75
 msgid "ubuntu-community/askubuntu-electorate_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Unsung Hero on Ask Ubuntu ('title' field)
 #. .
@@ -1859,7 +1880,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-unsunghero.c:11
 msgid "ubuntu-community/askubuntu-unsunghero_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে অগোচর নায়ক ."
 
 #. ACCOMPLISHMENT: Unsung Hero on Ask Ubuntu ('description' field)
 #. .
@@ -1909,7 +1930,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-unsunghero.c:53
 msgid "ubuntu-community/askubuntu-unsunghero_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Unsung Hero on Ask Ubuntu ('help' field)
 #. .
@@ -1922,7 +1943,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-unsunghero.c:64
 msgid "ubuntu-community/askubuntu-unsunghero_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('title' field)
 #. .
@@ -1934,7 +1955,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:11
 msgid "ubuntu-community/askubuntu-marshal_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে সেনাপতি ."
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('description' field)
 #. .
@@ -1945,7 +1966,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:20
 msgid "ubuntu-community/askubuntu-marshal_description"
-msgstr ""
+msgstr "৫০০ সহায়ক পতাকা উত্থাপিত ."
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('summary' field)
 #. .
@@ -1958,7 +1979,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:31
 msgid "ubuntu-community/askubuntu-marshal_summary"
-msgstr ""
+msgstr "৫০০ সহায়ক পতাকা উত্থাপিত ."
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('steps' field)
 #. .
@@ -1973,6 +1994,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:43
 msgid "ubuntu-community/askubuntu-marshal_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -1997,7 +2020,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:64
 msgid "ubuntu-community/askubuntu-marshal_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('help' field)
 #. .
@@ -2010,7 +2033,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:75
 msgid "ubuntu-community/askubuntu-marshal_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Global Jam Event ('title' field)
 #. .
@@ -2022,7 +2045,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/attend-global-jam.c:11
 msgid "ubuntu-community/attend-global-jam_title"
-msgstr ""
+msgstr "উবুন্টু গ্লোবাল জ্যাম ইভেন্ট এ হাজির থাকুন ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Global Jam Event ('description' field)
 #. .
@@ -2033,7 +2056,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/attend-global-jam.c:20
 msgid "ubuntu-community/attend-global-jam_description"
-msgstr ""
+msgstr "আপনি আপনার স্থানীয় কমিউনিটির সঙ্গে গ্লোবাল জ্যাম এ উপস্থিত ছিলেন ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Global Jam Event ('summary' field)
 #. .
@@ -2082,7 +2105,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/attend-global-jam.c:63
 msgid "ubuntu-community/attend-global-jam_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com/events/globaljam/ ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Global Jam Event ('help' field)
 #. .
@@ -2096,7 +2119,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/attend-global-jam.c:75
 msgid "ubuntu-community/attend-global-jam_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-locoteams ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('title' field)
 #. .
@@ -2108,7 +2131,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:11
 msgid "ubuntu-community/askubuntu-investor_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  বিনিয়োগকারী ."
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('description' field)
 #. .
@@ -2119,7 +2142,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:20
 msgid "ubuntu-community/askubuntu-investor_description"
-msgstr ""
+msgstr "প্রথম দান আপনি অন্য ব্যক্তির প্রশ্নের উপর প্রস্তাব করেছেন ."
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('summary' field)
 #. .
@@ -2132,7 +2155,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:31
 msgid "ubuntu-community/askubuntu-investor_summary"
-msgstr ""
+msgstr "প্রথম দান আপনি অন্য ব্যক্তির প্রশ্নের উপর প্রস্তাব করেছেন ."
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('steps' field)
 #. .
@@ -2147,6 +2170,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:43
 msgid "ubuntu-community/askubuntu-investor_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -2171,7 +2196,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:64
 msgid "ubuntu-community/askubuntu-investor_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('help' field)
 #. .
@@ -2184,7 +2209,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:75
 msgid "ubuntu-community/askubuntu-investor_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Suffrage on Ask Ubuntu ('title' field)
 #. .
@@ -2196,7 +2221,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-suffrage.c:11
 msgid "ubuntu-community/askubuntu-suffrage_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে ভোটাধিকার ."
 
 #. ACCOMPLISHMENT: Suffrage on Ask Ubuntu ('description' field)
 #. .
@@ -2207,7 +2232,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-suffrage.c:20
 msgid "ubuntu-community/askubuntu-suffrage_description"
-msgstr ""
+msgstr "এক দিনে ৩০ টি ভোট ব্যবহৃত ."
 
 #. ACCOMPLISHMENT: Suffrage on Ask Ubuntu ('summary' field)
 #. .
@@ -2278,7 +2303,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-suffrage.c:81
 msgid "ubuntu-community/askubuntu-suffrage_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Suffrage on Ask Ubuntu ('help' field)
 #. .
@@ -2291,7 +2316,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-suffrage.c:92
 msgid "ubuntu-community/askubuntu-suffrage_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Analytical on Ask Ubuntu ('title' field)
 #. .
@@ -2303,7 +2328,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-analytical.c:11
 msgid "ubuntu-community/askubuntu-analytical_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  বৈশ্লেষিক ."
 
 #. ACCOMPLISHMENT: Analytical on Ask Ubuntu ('description' field)
 #. .
@@ -2344,6 +2369,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-analytical.c:45
 msgid "ubuntu-community/askubuntu-analytical_steps"
 msgstr ""
+"আস্ক উবুন্টুর FAQ এ পরিদর্শন করুন.  FAQ এর প্রতিটি অধ্যায় ক্লিক করুন এবং "
+"পড়ুন ."
 
 #. ACCOMPLISHMENT: Analytical on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -2369,7 +2396,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-analytical.c:67
 msgid "ubuntu-community/askubuntu-analytical_links"
-msgstr ""
+msgstr "http://www.askubuntu.com/faq http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Analytical on Ask Ubuntu ('help' field)
 #. .
@@ -2382,7 +2409,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-analytical.c:78
 msgid "ubuntu-community/askubuntu-analytical_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Populist on Ask Ubuntu ('title' field)
 #. .
@@ -2445,7 +2472,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-populist.c:54
 msgid "ubuntu-community/askubuntu-populist_pitfalls"
-msgstr ""
+msgstr "এটি আপনার নিজের প্রশ্নের উত্তর হল না ."
 
 #. ACCOMPLISHMENT: Populist on Ask Ubuntu ('links' field)
 #. .
@@ -2460,6 +2487,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-populist.c:66
 msgid "ubuntu-community/askubuntu-populist_links"
 msgstr ""
+"http://www.askubuntu.com http://askubuntu.com/tags "
+"http://askubuntu.com/search?q= ."
 
 #. ACCOMPLISHMENT: Populist on Ask Ubuntu ('help' field)
 #. .
@@ -2472,7 +2501,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-populist.c:77
 msgid "ubuntu-community/askubuntu-populist_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Peer Pressure on Ask Ubuntu ('title' field)
 #. .
@@ -2484,7 +2513,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-peerpressure.c:11
 msgid "ubuntu-community/askubuntu-peerpressure_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে সম্মিলিত চাপ ."
 
 #. ACCOMPLISHMENT: Peer Pressure on Ask Ubuntu ('description' field)
 #. .
@@ -2552,6 +2581,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-peerpressure.c:68
 msgid "ubuntu-community/askubuntu-peerpressure_links"
 msgstr ""
+"http://www.askubuntu.com http://askubuntu.com/privileges/vote-up "
+"http://askubuntu.com/privileges/vote-down ."
 
 #. ACCOMPLISHMENT: Peer Pressure on Ask Ubuntu ('help' field)
 #. .
@@ -2564,7 +2595,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-peerpressure.c:79
 msgid "ubuntu-community/askubuntu-peerpressure_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('title' field)
 #. .
@@ -2576,7 +2607,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:11
 msgid "ubuntu-community/askubuntu-organizer_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে সংগঠক ."
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('description' field)
 #. .
@@ -2587,7 +2618,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:20
 msgid "ubuntu-community/askubuntu-organizer_description"
-msgstr ""
+msgstr "প্রথম পুন: ট্যাগ ."
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('summary' field)
 #. .
@@ -2600,7 +2631,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:31
 msgid "ubuntu-community/askubuntu-organizer_summary"
-msgstr ""
+msgstr "প্রথম পুন: ট্যাগ ."
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('steps' field)
 #. .
@@ -2639,7 +2670,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:64
 msgid "ubuntu-community/askubuntu-organizer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('help' field)
 #. .
@@ -2652,7 +2683,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:75
 msgid "ubuntu-community/askubuntu-organizer_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('title' field)
 #. .
@@ -2664,7 +2695,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-teacher.c:11
 msgid "ubuntu-community/askubuntu-teacher_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে শিক্ষক ."
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('description' field)
 #. .
@@ -2680,7 +2711,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Answered first question with score of 1 or more
+#. Ask Ubuntu is a place not only to ask questions, but to answer them as well. Answers may be provided by any user who feels they have the relevant knowledge to share. If other users agree that answer is clear, informative and useful, they can vote it up so the answer becomes more visible and the user who posted it is rewarded with additional reputation. This badge is awarded when a user posts their first question which receives a score of 1 or higher.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -2693,27 +2724,48 @@ msgstr ""
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Provide step by step instructions for to accomplish this.
-#. Each step should be on a new line with a tab at the beginning, like this.
+#. Log into Ask Ubuntu and look for a question you know the answer to.
+#. To post your answer, scroll to the bottom of the page where a text entry box is, labeled "Your Answer". You can type your answer in here.
+#. Once your answer is finished, click the gray "Post Your Answer" button under the answer preview to publicly post your answer, so it is saved and other users can see it.
+#. Once your posted answer reaches a score of 1, you will be awarded with this badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:43
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:45
 msgid "ubuntu-community/askubuntu-teacher_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Look for questions you are knowledgeable on to answer. If you don't know enough about the problem to come up with a good solution to it, skip the question and try finding another one.
+#. Use the provided formatting tools or Markdown formatting code to make your answer appear organized and polished.
+#. Be sure to include sufficient detail in your answer, and assume they don't know anything beyond what is indicated in the question. Questions and answers are browsed by Ubuntu users of all skill levels, and the best answers are those which can be read and understood by a wide audience, not just the user who posted the question.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:58
+msgid "ubuntu-community/askubuntu-teacher_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+#. Posting a comment instead of an answer. Your post does not count as an answer unless it is actually posted as such. If you need help making sure you are posting properly, check out the link to the FAQ at the top of the page.
+#. Posting a poor quality answer. Poor quality answers may be unclear, inaccurate or unhelpful in some way, and may be voted down instead of up. Review your answer carefully for clarity and accuracy before posting.
+#. Posting nothing but a link as an answer. If the link were to stop working, such an answer would become effectively worthless. Summarize your source in your answer, and provide the link as a reference.
+#. Posting a "me too" answer. These types of answers are not helpful to those looking for information, and disrupt Ask Ubuntu's Q&A format. If you are having the same problem, wait for a working answer to appear, or leave a comment on answers that don't work for you. You may also try sharing the question to see if someone you know can properly answer it, or asking a new question if yours could be sufficiently different to warrant a different answer for it.
+#. Posting spam or answers which violate community guidelines. These often attract large numbers of down votes and are flagged by other users for removal by moderators.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:54
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:73
 msgid "ubuntu-community/askubuntu-teacher_pitfalls"
 msgstr ""
 
@@ -2725,9 +2777,9 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:64
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:83
 msgid "ubuntu-community/askubuntu-teacher_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('help' field)
 #. .
@@ -2738,9 +2790,9 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:75
+#: ../accomplishments/ubuntu-community/askubuntu-teacher.c:94
 msgid "ubuntu-community/askubuntu-teacher_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Student on Ask Ubuntu ('title' field)
 #. .
@@ -2752,7 +2804,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-student.c:11
 msgid "ubuntu-community/askubuntu-student_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে শিক্ষার্থী ."
 
 #. ACCOMPLISHMENT: Student on Ask Ubuntu ('description' field)
 #. .
@@ -2832,7 +2884,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-student.c:79
 msgid "ubuntu-community/askubuntu-student_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Student on Ask Ubuntu ('help' field)
 #. .
@@ -2845,7 +2897,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-student.c:90
 msgid "ubuntu-community/askubuntu-student_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
 #. .
@@ -2961,7 +3013,7 @@ msgstr "ফ্রিনোড এ #ubuntu-irc-council"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-quorum.c:11
 msgid "ubuntu-community/askubuntu-quorum_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে কোরাম ."
 
 #. ACCOMPLISHMENT: Quorum on Ask Ubuntu ('description' field)
 #. .
@@ -3013,7 +3065,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-quorum.c:55
 msgid "ubuntu-community/askubuntu-quorum_links"
-msgstr ""
+msgstr "http://www.askubuntu.com http://meta.askubuntu.com/ ."
 
 #. ACCOMPLISHMENT: Quorum on Ask Ubuntu ('help' field)
 #. .
@@ -3026,7 +3078,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-quorum.c:66
 msgid "ubuntu-community/askubuntu-quorum_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
@@ -3233,7 +3285,7 @@ msgstr "ফ্রিনোড এ #ubuntu-devel ."
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-supporter.c:11
 msgid "ubuntu-community/askubuntu-supporter_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  সমর্থক ."
 
 #. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('description' field)
 #. .
@@ -3244,7 +3296,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-supporter.c:20
 msgid "ubuntu-community/askubuntu-supporter_description"
-msgstr ""
+msgstr "প্রথম উপরিভোট ."
 
 #. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('summary' field)
 #. .
@@ -3257,7 +3309,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-supporter.c:31
 msgid "ubuntu-community/askubuntu-supporter_summary"
-msgstr ""
+msgstr "প্রথম উপরিভোট ."
 
 #. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('steps' field)
 #. .
@@ -3296,7 +3348,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-supporter.c:64
 msgid "ubuntu-community/askubuntu-supporter_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('help' field)
 #. .
@@ -3309,7 +3361,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-supporter.c:75
 msgid "ubuntu-community/askubuntu-supporter_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Hour Event ('title' field)
 #. .
@@ -3321,7 +3373,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/attend-ubuntu-hour.c:11
 msgid "ubuntu-community/attend-ubuntu-hour_title"
-msgstr ""
+msgstr "উবুন্টু ঘন্টা অনুষ্ঠানে হাজির থাকুন ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Hour Event ('description' field)
 #. .
@@ -3333,6 +3385,7 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/attend-ubuntu-hour.c:20
 msgid "ubuntu-community/attend-ubuntu-hour_description"
 msgstr ""
+"আপনি আপনার স্থানীয় কমিউনিটির সঙ্গে একটি উবুন্টু ঘন্টাতে উপস্থিত ছিলেন ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Hour Event ('summary' field)
 #. .
@@ -3376,7 +3429,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/attend-ubuntu-hour.c:58
 msgid "ubuntu-community/attend-ubuntu-hour_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com/events/ ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Hour Event ('help' field)
 #. .
@@ -3390,7 +3443,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/attend-ubuntu-hour.c:70
 msgid "ubuntu-community/attend-ubuntu-hour_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-locoteams ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Developer Summit ('title' field)
 #. .
@@ -3402,7 +3455,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/attend-uds.c:11
 msgid "ubuntu-community/attend-uds_title"
-msgstr ""
+msgstr "উবুন্টু ডেভেলপার শীর্ষসম্মেলন হাজির থাকুন ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Developer Summit ('description' field)
 #. .
@@ -3413,7 +3466,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/attend-uds.c:20
 msgid "ubuntu-community/attend-uds_description"
-msgstr ""
+msgstr "আপনি উবুন্টু ডেভেলপার শীর্ষসম্মেলনে উপস্থিত ছিলেন ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Developer Summit ('summary' field)
 #. .
@@ -3459,7 +3512,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/attend-uds.c:60
 msgid "ubuntu-community/attend-uds_links"
-msgstr ""
+msgstr "http://uds.ubuntu.com http://summit.ubuntu.com ."
 
 #. ACCOMPLISHMENT: Attend Ubuntu Developer Summit ('help' field)
 #. .
@@ -3473,7 +3526,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/attend-uds.c:72
 msgid "ubuntu-community/attend-uds_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-uds ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Tumbleweed on Ask Ubuntu ('title' field)
 #. .
@@ -3485,7 +3538,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-tumbleweed.c:11
 msgid "ubuntu-community/askubuntu-tumbleweed_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে টাম্বলউইড"
 
 #. ACCOMPLISHMENT: Tumbleweed on Ask Ubuntu ('description' field)
 #. .
@@ -3563,7 +3616,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-tumbleweed.c:77
 msgid "ubuntu-community/askubuntu-tumbleweed_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Tumbleweed on Ask Ubuntu ('help' field)
 #. .
@@ -3576,7 +3629,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-tumbleweed.c:88
 msgid "ubuntu-community/askubuntu-tumbleweed_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('title' field)
 #. .
@@ -3683,7 +3736,7 @@ msgstr "ফ্রিনোড্ এ #ubuntuforums ."
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-booster.c:11
 msgid "ubuntu-community/askubuntu-booster_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে প্রেষবর্ধক ."
 
 #. ACCOMPLISHMENT: Booster on Ask Ubuntu ('description' field)
 #. .
@@ -3760,7 +3813,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-booster.c:76
 msgid "ubuntu-community/askubuntu-booster_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Booster on Ask Ubuntu ('help' field)
 #. .
@@ -3773,7 +3826,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-booster.c:87
 msgid "ubuntu-community/askubuntu-booster_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
@@ -3870,7 +3923,7 @@ msgstr "ফ্রিনোড এ #ubuntu-testing"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-goodquestion.c:11
 msgid "ubuntu-community/askubuntu-goodquestion_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে ভালো প্রশ্ন ."
 
 #. ACCOMPLISHMENT: Good Question on Ask Ubuntu ('description' field)
 #. .
@@ -3935,7 +3988,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-goodquestion.c:66
 msgid "ubuntu-community/askubuntu-goodquestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Good Question on Ask Ubuntu ('help' field)
 #. .
@@ -3948,7 +4001,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-goodquestion.c:77
 msgid "ubuntu-community/askubuntu-goodquestion_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Vox Populi on Ask Ubuntu ('title' field)
 #. .
@@ -3960,7 +4013,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-voxpopuli.c:11
 msgid "ubuntu-community/askubuntu-voxpopuli_title"
-msgstr ""
+msgstr "জনমত আস্ক উবুন্টুতে  ."
 
 #. ACCOMPLISHMENT: Vox Populi on Ask Ubuntu ('description' field)
 #. .
@@ -4024,7 +4077,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-voxpopuli.c:65
 msgid "ubuntu-community/askubuntu-voxpopuli_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Vox Populi on Ask Ubuntu ('help' field)
 #. .
@@ -4037,7 +4090,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-voxpopuli.c:76
 msgid "ubuntu-community/askubuntu-voxpopuli_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('title' field)
 #. .
@@ -4049,7 +4102,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-benefactor.c:11
 msgid "ubuntu-community/askubuntu-benefactor_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে হিতকারী ."
 
 #. ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('description' field)
 #. .
@@ -4133,7 +4186,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-benefactor.c:83
 msgid "ubuntu-community/askubuntu-benefactor_links"
-msgstr ""
+msgstr "http://askubuntu.com/faq#bounty http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('help' field)
 #. .
@@ -4146,7 +4199,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-benefactor.c:94
 msgid "ubuntu-community/askubuntu-benefactor_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('title' field)
 #. .
@@ -4158,7 +4211,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:11
 msgid "ubuntu-community/askubuntu-editor_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে সম্পাদক ."
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('description' field)
 #. .
@@ -4169,7 +4222,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:20
 msgid "ubuntu-community/askubuntu-editor_description"
-msgstr ""
+msgstr "প্রথম সম্পাদনা ."
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('summary' field)
 #. .
@@ -4182,7 +4235,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:31
 msgid "ubuntu-community/askubuntu-editor_summary"
-msgstr ""
+msgstr "প্রথম সম্পাদনা ."
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('steps' field)
 #. .
@@ -4221,7 +4274,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:64
 msgid "ubuntu-community/askubuntu-editor_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('help' field)
 #. .
@@ -4234,7 +4287,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:75
 msgid "ubuntu-community/askubuntu-editor_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('title' field)
 #. .
@@ -4246,7 +4299,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:11
 msgid "ubuntu-community/askubuntu-niceanswer_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  সুন্দর উত্তর ."
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('description' field)
 #. .
@@ -4257,7 +4310,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:20
 msgid "ubuntu-community/askubuntu-niceanswer_description"
-msgstr ""
+msgstr "১০ বা তার বেশী স্কোরের উত্তর দিন ."
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('summary' field)
 #. .
@@ -4328,7 +4381,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:81
 msgid "ubuntu-community/askubuntu-niceanswer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('help' field)
 #. .
@@ -4341,7 +4394,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:92
 msgid "ubuntu-community/askubuntu-niceanswer_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
@@ -4522,7 +4575,7 @@ msgstr "ফ্রিনোড এ #ubuntu-devel"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-tageditor.c:11
 msgid "ubuntu-community/askubuntu-tageditor_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  ট্যাগ সম্পাদক ."
 
 #. ACCOMPLISHMENT: Tag Editor on Ask Ubuntu ('description' field)
 #. .
@@ -4533,7 +4586,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-tageditor.c:20
 msgid "ubuntu-community/askubuntu-tageditor_description"
-msgstr ""
+msgstr "প্রথম ট্যাগ উইকি সম্পাদনা ."
 
 #. ACCOMPLISHMENT: Tag Editor on Ask Ubuntu ('summary' field)
 #. .
@@ -4601,7 +4654,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-tageditor.c:78
 msgid "ubuntu-community/askubuntu-tageditor_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Tag Editor on Ask Ubuntu ('help' field)
 #. .
@@ -4614,7 +4667,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-tageditor.c:89
 msgid "ubuntu-community/askubuntu-tageditor_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Convention on Ask Ubuntu ('title' field)
 #. .
@@ -4626,7 +4679,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-convention.c:11
 msgid "ubuntu-community/askubuntu-convention_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  কনভেনশন ."
 
 #. ACCOMPLISHMENT: Convention on Ask Ubuntu ('description' field)
 #. .
@@ -4689,7 +4742,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-convention.c:64
 msgid "ubuntu-community/askubuntu-convention_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Convention on Ask Ubuntu ('help' field)
 #. .
@@ -4702,7 +4755,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-convention.c:75
 msgid "ubuntu-community/askubuntu-convention_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Reversal on Ask Ubuntu ('title' field)
 #. .
@@ -4714,7 +4767,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-reversal.c:11
 msgid "ubuntu-community/askubuntu-reversal_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে বিপরিতকারী ."
 
 #. ACCOMPLISHMENT: Reversal on Ask Ubuntu ('description' field)
 #. .
@@ -4777,7 +4830,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-reversal.c:64
 msgid "ubuntu-community/askubuntu-reversal_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Reversal on Ask Ubuntu ('help' field)
 #. .
@@ -4790,7 +4843,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-reversal.c:75
 msgid "ubuntu-community/askubuntu-reversal_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('title' field)
 #. .
@@ -4802,7 +4855,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:11
 msgid "ubuntu-community/askubuntu-guru_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  গুরু ."
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('description' field)
 #. .
@@ -4813,7 +4866,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:20
 msgid "ubuntu-community/askubuntu-guru_description"
-msgstr ""
+msgstr "গৃহীত উত্তর এবং ৪০ বা তার অধিক স্কোর ."
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('summary' field)
 #. .
@@ -4826,7 +4879,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:31
 msgid "ubuntu-community/askubuntu-guru_summary"
-msgstr ""
+msgstr "গৃহীত উত্তর এবং ৪০ বা তার অধিক স্কোর ."
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('steps' field)
 #. .
@@ -4841,6 +4894,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:43
 msgid "ubuntu-community/askubuntu-guru_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -4865,7 +4920,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:64
 msgid "ubuntu-community/askubuntu-guru_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('help' field)
 #. .
@@ -4878,7 +4933,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:75
 msgid "ubuntu-community/askubuntu-guru_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('title' field)
 #. .
@@ -5009,7 +5064,7 @@ msgstr "ফ্রিনোড এ #ubuntu-community-team"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:11
 msgid "ubuntu-community/askubuntu-copyeditor_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে  অনুলিপি সম্পাদক ."
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('description' field)
 #. .
@@ -5020,7 +5075,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:20
 msgid "ubuntu-community/askubuntu-copyeditor_description"
-msgstr ""
+msgstr "৫০০ পোস্ট সম্পাদিত ."
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('summary' field)
 #. .
@@ -5033,7 +5088,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:31
 msgid "ubuntu-community/askubuntu-copyeditor_summary"
-msgstr ""
+msgstr "৫০০ পোস্ট সম্পাদিত ."
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('steps' field)
 #. .
@@ -5048,6 +5103,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:43
 msgid "ubuntu-community/askubuntu-copyeditor_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -5072,7 +5129,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:64
 msgid "ubuntu-community/askubuntu-copyeditor_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('help' field)
 #. .
@@ -5085,7 +5142,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:75
 msgid "ubuntu-community/askubuntu-copyeditor_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('title' field)
 #. .
@@ -5097,7 +5154,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:11
 msgid "ubuntu-community/askubuntu-deputy_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে সহকারী ."
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('description' field)
 #. .
@@ -5108,7 +5165,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:20
 msgid "ubuntu-community/askubuntu-deputy_description"
-msgstr ""
+msgstr "৮০ সহায়ক ফ্ল্যাগ উত্থাপিত ."
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('summary' field)
 #. .
@@ -5121,7 +5178,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:31
 msgid "ubuntu-community/askubuntu-deputy_summary"
-msgstr ""
+msgstr "৮০ সহায়ক ফ্ল্যাগ উত্থাপিত ."
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('steps' field)
 #. .
@@ -5136,6 +5193,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:43
 msgid "ubuntu-community/askubuntu-deputy_steps"
 msgstr ""
+"এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ "
+"শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন."
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -5160,7 +5219,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:64
 msgid "ubuntu-community/askubuntu-deputy_links"
-msgstr ""
+msgstr "http://www.askubuntu.com ."
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('help' field)
 #. .
@@ -5173,7 +5232,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:75
 msgid "ubuntu-community/askubuntu-deputy_help"
-msgstr ""
+msgstr "ফ্রি নোড এ #ubuntu-community-team ."
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('title' field)
 #. .
@@ -5185,7 +5244,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-popularquestion.c:11
 msgid "ubuntu-community/askubuntu-popularquestion_title"
-msgstr ""
+msgstr "আস্ক উবুন্টুতে জনপ্রিয় প্রশ্ন ."
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('description' field)
 #. .
@@ -5196,7 +5255,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-popularquestion.c:20
 msgid "ubuntu-community/askubuntu-popularquestion_description"
-msgstr ""
+msgstr "১০০০ বার দর্শণসহ একটি প্রশ্ন করা হয়েছে."
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('summary' field)
 #. .
@@ -5223,6 +5282,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-popularquestion.c:42
 msgid "ubuntu-community/askubuntu-popularquestion_steps"
 msgstr ""
+"একটি ভাল প্রশ্ন <a href=\"http://meta.askubuntu.com/questions/257/how-does-"
+"ask-ubuntu-work\">তৈরী করুন</a>. ."
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('tips' field)
 #. .
@@ -6782,7 +6843,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Approved or rejected 100 suggested edits
+#. Users with insufficient reputation often cannot edit posts directly. Instead, they can suggest edits to be made, which can then be either approved or rejected by community members with higher reputation. This badge is awarded once a user has approved or rejected at least 100 such edits.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -6795,27 +6856,43 @@ msgstr ""
 #. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Provide step by step instructions for to accomplish this.
-#. Each step should be on a new line with a tab at the beginning, like this.
+#. If you come across a post which states that it has a pending edit which needs approval, click the link to view it. (Note that you will need sufficient reputation to do so.)
+#. Decide whether to approve, reject, or improve the suggested edit.
+#. Do the same for 100 posts in total to earn this badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:43
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:44
 msgid "ubuntu-community/askubuntu-proofreader_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Suggested edits most commonly appear on new questions, so you may want to look at those.
+#. If you have 5000 reputation, you gain the privilege to approve or reject tag wiki edits. This also gives you the ability to see a list of suggested edits in the review section, which makes it easier to find them. As such, you may want to earn this amount of reputation first to make achieving this badge much easier.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:56
+msgid "ubuntu-community/askubuntu-proofreader_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+#. Approving trivial edits. If the edit is not substantial enough, consider improving or rejecting it instead.
+#. Rejecting edits which could easily be improved. If a suggested edit is promising but you know how to make it even better, then do so.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:54
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:68
 msgid "ubuntu-community/askubuntu-proofreader_pitfalls"
 msgstr ""
 
@@ -6827,7 +6904,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:64
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:78
 msgid "ubuntu-community/askubuntu-proofreader_links"
 msgstr ""
 
@@ -6840,7 +6917,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:75
+#: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:89
 msgid "ubuntu-community/askubuntu-proofreader_help"
 msgstr ""
 
@@ -7625,6 +7702,87 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-goodanswer.c:89
 msgid "ubuntu-community/askubuntu-goodanswer_help"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('title' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Ubuntu Membership Board Member
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. A short description of the accomplishment.
+#. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:11
+msgid "ubuntu-community/ubuntu-membership-board-member_title"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('description' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. You are a member of the Ubuntu Membership Board
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a descriptive single-line summary of the accomplishment.
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:20
+msgid "ubuntu-community/ubuntu-membership-board-member_description"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('summary' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. The Ubuntu Membership Board is responsible for awarding Ubuntu Membership to community contributors.
+#. Those sitting on membership boards are people who are insightful. They are current Ubuntu Members with a proven track record of activity in the community. They have shown themselves over time to be able to work well with others and display the positive aspects of the Ubuntu Code of Conduct. They should be people who can discern character and judge contribution quality without emotion while engaging in an interview/discussion that communicates interest, a welcoming atmosphere, and which is marked by humanity, gentleness, and kindness. Even when they must deny applications, they should do so in such a way that applicants walk away with a sense of hopefulness and a desire to return with a more complete application rather than feeling discouraged or hurt.
+#. Try not to be on more than one council (e.g. Community Council, Technical Board) at the same time. Join one, and give it your full attention.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
+#. NOTE: Break this into paragraphs by putting each paragraph on a new line.
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:33
+msgid "ubuntu-community/ubuntu-membership-board-member_summary"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('steps' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Become an Ubuntu Member
+#. Wait for the Community Council to ask for nominations for vacant seats
+#. Prepare your wiki page and email the community council outlining why you are a good candidate
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add a series of step-by-step instructions for how to accomplish this trophy.
+#. NOTE: Put each step on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:46
+msgid "ubuntu-community/ubuntu-membership-board-member_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('links' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. https://wiki.ubuntu.com/Membership/Boards
+#. https://wiki.ubuntu.com/Membership
+#. https://launchpad.net/~ubuntu-membership-board
+#. http://www.ubuntu.com/project/about-ubuntu/governance
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related web addresses (don't include a HTML link).
+#. NOTE: Put each URL on a new line
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:59
+msgid "ubuntu-community/ubuntu-membership-board-member_links"
+msgstr ""
+
+#. ACCOMPLISHMENT: Ubuntu Membership Board Member ('help' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. #ubuntu-rmb and #ubuntu-meeting on Freenode
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add related help resources (e.g. IRC channel names).
+#. NOTE: Put each help resource on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:70
+msgid "ubuntu-community/ubuntu-membership-board-member_help"
 msgstr ""
 
 #. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('title' field)
@@ -8990,7 +9148,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Posted 10 messages, with 1 or more starred, in <a href="$ChatUrl">chat</a>
+#. Ask Ubuntu chat is a place to be used for collaboration, discussion and socialization. Users are encouraged to use chat as a supplement to the main site, such as for becoming better acquainted with fellow community members or for discussing questions when comments would not suffice. In addition, posts in chat are awarded stars by other chat users to mark them as notable. This badge is awarded when the user posts at least 10 messages in Ask Ubuntu chat, with at least one of them starred.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -9003,27 +9161,45 @@ msgstr ""
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Provide step by step instructions for to accomplish this.
-#. Each step should be on a new line with a tab at the beginning, like this.
+#. You need 20 reputation first before you can access Ask Ubuntu chat.
+#. You can enter Ask Ubuntu chat by clicking the "chat" link near the top of the Ask Ubuntu page. Note that you need to be logged in to use chat.
+#. Click any room you feel like participating in to enter it. Alternatively, you can create a new room if you have a certain topic which is not listed by any of the currently open rooms.
+#. Contribute to the discussion by entering messages into the box near the bottom of the screen, and clicking the "send" button or pressing Enter on your keyboard to send the message.
+#. Once you have sent 10 or more messages and have gotten at least one starred, you will earn this badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:43
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:46
 msgid "ubuntu-community/askubuntu-talkative_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. If you are new to chat or don't have a particular topic in mind, the Ask Ubuntu General Room is a good room to start in.
+#. To make your posts more likely to earn stars, try making your posts insightful or interesting.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:58
+msgid "ubuntu-community/askubuntu-talkative_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+#. Not staying ontopic in chat. Check the room topic before posting irrelevant messages, which can disrupt discussion. Keep general chat messages in the Ask Ubuntu General Room; other rooms are meant to be used specifically for their topics.
+#. Not adhering to community guidelines in chat. Chat has the same guidelines as the rest of Ask Ubuntu, is moderated and keeps a complete and open history of all messages posted. Please be respectful and courteous with your messages.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:54
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:70
 msgid "ubuntu-community/askubuntu-talkative_pitfalls"
 msgstr ""
 
@@ -9035,7 +9211,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:64
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:80
 msgid "ubuntu-community/askubuntu-talkative_links"
 msgstr ""
 
@@ -9048,7 +9224,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:75
+#: ../accomplishments/ubuntu-community/askubuntu-talkative.c:91
 msgid "ubuntu-community/askubuntu-talkative_help"
 msgstr ""
 
