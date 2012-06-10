@@ -1,6 +1,6 @@
 [accomplishment]
-title = Attend Ubuntu Global Jam Event
-description = You attended a Global Jam with your Local Community
+title = উবুন্টু গ্লোবাল জ্যাম ইভেন্ট এ হাজির থাকুন .
+description = আপনি আপনার স্থানীয় কমিউনিটির সঙ্গে গ্লোবাল জ্যাম এ উপস্থিত ছিলেন .
 collection = ubuntu-community
 category = LoCo Teams:Events
 needs-signing = true
@@ -23,6 +23,5 @@ steps = Go to <tt>loco.ubuntu.com</tt> and find your nearest team.
 	Attend the event in question and have a great time!
 tips = None
 pitfalls = None
-help = #ubuntu-locoteams on Freenode
-	#ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-locoteams ফ্রি নোড এ #ubuntu-community-team .
 

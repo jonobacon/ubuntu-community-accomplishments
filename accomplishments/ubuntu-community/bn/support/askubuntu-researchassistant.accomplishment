@@ -1,6 +1,6 @@
 [accomplishment]
-title = Research Assistant on Ask Ubuntu
-description = Edited 50 tag wikis
+title = আস্ক উবুন্টুতে  গবেষণা সহকারী
+description = ৫০ ট্যাগ উইকিস সম্পাদিত .
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,10 +8,9 @@ needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
 depends = ubuntu-community/askubuntu-tageditor
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = Edited 50 tag wikis
-steps = Provide step by step instructions for to accomplish this.
-	Each step should be on a new line with a tab at the beginning, like this.
+summary = ৫০ ট্যাগ উইকিস সম্পাদিত .
+steps = এটি সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. শুরুতে প্রতিটি পদক্ষেপ একটি ট্যাবসহ একটি নতুন লাইনে থাকা উচিত, এমন.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

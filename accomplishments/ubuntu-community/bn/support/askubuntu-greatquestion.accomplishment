@@ -1,6 +1,6 @@
 [accomplishment]
-title = Great Question on Ask Ubuntu
-description = Question score of 100 or more
+title = আস্ক উবুন্টুতে বিশিষ্ট প্রশ্ন .
+description = ১০০ বা তার বেশী স্কোরের প্রশ্ন .
 collection = ubuntu-community
 category = Ask Ubuntu:Asking & Answering
 needs-signing = true
@@ -15,5 +15,5 @@ tips = Your question should be interesting enough to enough people to attract th
 	Continually add the results of your research into your question instead of writing it as one huge log. It should be written in a manner that makes it easy for the reader to understand.
 	Use the social media buttons to get your question out to the wider community.
 pitfalls = This is a difficult badge, even the best written and researched questions might not be general enough to attract this many votes.
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

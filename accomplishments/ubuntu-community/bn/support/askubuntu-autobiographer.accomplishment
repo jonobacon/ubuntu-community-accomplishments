@@ -1,6 +1,6 @@
 [accomplishment]
-title = Autobiographer on Ask Ubuntu
-description = Completed all user profile fields
+title = আস্ক উবুন্টুতে  আত্মজীবনী - রচয়িতা
+description = ব্যবহারকারীর সমস্ত প্রোফাইল ক্ষেত্রসমূহ সমাপ্ত
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -14,5 +14,5 @@ steps = Log in to Ask Ubuntu.
 	Fill in all possible user profile fields.
 tips = None
 pitfalls = None
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

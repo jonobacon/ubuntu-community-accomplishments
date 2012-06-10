@@ -1,5 +1,5 @@
 [accomplishment]
-title = Unsung Hero on Ask Ubuntu
+title = আস্ক উবুন্টুতে অগোচর নায়ক .
 description = Zero score accepted answers: more than 10 and 25% of total
 collection = ubuntu-community
 category = Ask Ubuntu:Unrecognized Contributions
@@ -13,5 +13,5 @@ steps = Answer questions that get accepted by the person who asked it.
 	If more than 10 of your answers are marked as accepted answers but have gotten 0 votes from your peers and 20% of your total answers you get this badge.
 tips = None
 pitfalls = None
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

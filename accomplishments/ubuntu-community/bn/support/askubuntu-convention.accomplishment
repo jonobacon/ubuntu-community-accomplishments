@@ -1,5 +1,5 @@
 [accomplishment]
-title = Convention on Ask Ubuntu
+title = আস্ক উবুন্টুতে  কনভেনশন .
 description = 10 posts with score of 2 on <a href="$MetaUrl">meta</a>
 collection = ubuntu-community
 category = Ask Ubuntu
@@ -13,5 +13,5 @@ steps = Provide step by step instructions for to accomplish this.
 	Each step should be on a new line with a tab at the beginning, like this.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

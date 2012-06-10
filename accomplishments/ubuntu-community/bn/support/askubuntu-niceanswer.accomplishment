@@ -1,6 +1,6 @@
 [accomplishment]
-title = Nice Answer on Ask Ubuntu
-description = Answer score of 10 or more
+title = আস্ক উবুন্টুতে  সুন্দর উত্তর .
+description = ১০ বা তার বেশী স্কোরের উত্তর দিন .
 collection = ubuntu-community
 category = Ask Ubuntu:Asking & Answering
 needs-signing = true
@@ -18,5 +18,5 @@ tips = Good answers include screenshots, especially if the question is for somet
 pitfalls = Many questions are of low quality, a great answer needs a great question, so concentrate on finding a highly voted unanswered question to answer.
 	Many poor questions are just duplicates of other more established questions, double check with a search before you invest time in a great answer; it can be frustrating to waste time writing a great answer to a question that will be closed/removed as a duplicate.
 	Don't link to random blogs or websites, those resources are typically unable to be reviewed and updated by the community and often have out of date information. If an answer only contains a link, it typically gets deleted.
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

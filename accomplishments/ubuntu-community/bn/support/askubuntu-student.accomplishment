@@ -1,5 +1,5 @@
 [accomplishment]
-title = Student on Ask Ubuntu
+title = আস্ক উবুন্টুতে শিক্ষার্থী .
 description = Asked first question with score of 1 or more
 collection = ubuntu-community
 category = Ask Ubuntu:Asking & Answering
@@ -16,5 +16,5 @@ tips = Ask a high-quality question. Good questions are more likely to receive up
 	Check back on your question regularly to see if others posted comments asking for more information before they can answer. It is a good idea to edit this information back into your question to improve its quality, and hence be more likely to be voted up.
 pitfalls = Asking a duplicate question. Duplicates are redundant and sometimes could be downvoted before they are closed, which can cost you reputation. Use the Ask Ubuntu search to see if somebody else already asked this question first before posting.
 	Asking a poor-quality question. Make sure your question is clear on what it is asking before you submit it, and also adheres to community guidelines as per the FAQ. If users comment that your question is unclear or incomplete, don't forget to clarify it through an edit.
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

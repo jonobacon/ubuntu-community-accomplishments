@@ -1,16 +1,15 @@
 [accomplishment]
-title = Reviewer on Ask Ubuntu
-description = 1000 <a href="/review">reviews</a>, over 200 actioned
+title = আস্ক উবুন্টুতে পর্যালোচক.
+description = ১০০০ <a href="/review">পর্যালোচনা</a>, ২০০ এর উপর পদক্ষেপ নেয়া হয়েছে .
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = 1000 <a href="/review">reviews</a>, over 200 actioned
-steps = Provide step by step instructions for to accomplish this.
-	Each step should be on a new line with a tab at the beginning, like this.
+summary = ১০০০ <a href="/review">পর্যালোচনা</a>, ২০০ এর উপর পদক্ষেপ নেয়া হয়েছে .
+steps = এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ#ubuntu-community-team .
 

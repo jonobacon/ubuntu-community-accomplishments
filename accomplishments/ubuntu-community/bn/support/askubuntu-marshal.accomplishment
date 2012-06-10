@@ -1,6 +1,6 @@
 [accomplishment]
-title = Marshal on Ask Ubuntu
-description = Raised 500 helpful flags
+title = আস্ক উবুন্টুতে সেনাপতি .
+description = ৫০০ সহায়ক পতাকা উত্থাপিত .
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,10 +8,9 @@ needs-information = askubuntu-user-url
 icon = askubuntu-gold.png
 depends = ubuntu-community/askubuntu-deputy
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = Raised 500 helpful flags
-steps = Provide step by step instructions for to accomplish this.
-	Each step should be on a new line with a tab at the beginning, like this.
+summary = ৫০০ সহায়ক পতাকা উত্থাপিত .
+steps = এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

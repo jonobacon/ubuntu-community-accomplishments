@@ -1,6 +1,6 @@
 [accomplishment]
-title = Self-Learner on Ask Ubuntu
-description = Answered your own question with score of 3 or more.
+title = আস্ক উবুন্টুতে স্বশিক্ষার্থী
+description = ৩ বা অধিক স্কোরের সাথে আপনি আপনার নিজের প্রশ্নের উত্তর করেছেন.
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -15,5 +15,5 @@ tips = Answers should be very descriptive with each step displayed in succession
 	Images and screen-shots in answers are helpful and will receive more attention if appropriately used.
 pitfalls = Vague or generic answers with links to other blogs are not easy to understand.
 	Obvious answers will not impress the community thus lowering the chance of up scoring.
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ  #ubuntu-community-team .
 

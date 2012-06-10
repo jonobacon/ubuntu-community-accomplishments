@@ -1,6 +1,6 @@
 [accomplishment]
-title = Epic on Ask Ubuntu
-description = Earned 200 daily reputation 50 times
+title = আস্ক উবুন্টুতে এপিক বা মহাকাব্য
+description = ২০০ দৈনিক খ্যাতি ৫০ বার অর্জিত .
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,10 +8,9 @@ needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
 depends = ubuntu-community/askubuntu-mortarboard
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = Earned 200 daily reputation 50 times
-steps = Provide step by step instructions for to accomplish this.
-	Each step should be on a new line with a tab at the beginning, like this.
+summary = ২০০ দৈনিক খ্যাতি ৫০ বার অর্জিত .
+steps = এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

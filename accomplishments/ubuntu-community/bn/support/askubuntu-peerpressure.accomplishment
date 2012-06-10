@@ -1,5 +1,5 @@
 [accomplishment]
-title = Peer Pressure on Ask Ubuntu
+title = আস্ক উবুন্টুতে সম্মিলিত চাপ .
 description = Deleted own post with score of -3 or lower
 collection = ubuntu-community
 category = Ask Ubuntu:Flagging & Cleanup
@@ -15,5 +15,5 @@ steps = Post a question or answer (an unintentionally bad one).
 tips = None
 pitfalls = The post must have a score of -3 or less at the time of deletion.
 	Please don't intentionally try to get this badge. ;-)
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

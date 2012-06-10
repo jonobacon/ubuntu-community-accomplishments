@@ -1,5 +1,5 @@
 [accomplishment]
-title = Vox Populi on Ask Ubuntu
+title = জনমত আস্ক উবুন্টুতে  .
 description = Used the maximum 40 votes in a day
 collection = ubuntu-community
 category = Ask Ubuntu:Voting
@@ -14,5 +14,5 @@ steps = After you earn 10 reputation on the site vote until you've voted 40 time
 tips = None
 pitfalls = Don't just pick random things to vote on, browse around to make sure you're upvoting good content.
 	Don't serially upvote or downvote a specific person, the anti-cheating script will stop you from gaming the system.
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

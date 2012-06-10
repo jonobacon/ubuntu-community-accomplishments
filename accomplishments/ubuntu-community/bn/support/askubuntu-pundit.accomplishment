@@ -1,6 +1,6 @@
 [accomplishment]
-title = Pundit on Ask Ubuntu
-description = Left 10 comments with score of 5 or more
+title = আস্ক উবুন্টুতে পন্ডিত
+description = ১০ টি মন্তব্য বাকি ৫ বা আরো স্কোর এর সাথে.
 collection = ubuntu-community
 category = Ask Ubuntu:Comment
 needs-signing = true
@@ -14,6 +14,6 @@ steps = Leave a high quality comment. If you have less than 50 reputation, you c
 	Wait until the comment received 5 or more upvotes from the community.
 	Repeat for a total of 10 such comments.
 tips = Your comments will more likely receive upvotes if they add real value to the posts (e.g., asking a questioner for more detail, explaining a downvote on the post, etc.).
-pitfalls = Don't try to attract upvotes by leaving funny or snide comments.
-help = #ubuntu-community-team on Freenode
+pitfalls = মজার অথবা কটাক্ষপূর্ণ মন্তব্য দ্বারা উপরিভোটসমূহ আকর্ষণ করার চেষ্টা করবেন না.
+help = ফ্রি নোড এ #ubuntu-community-team .
 

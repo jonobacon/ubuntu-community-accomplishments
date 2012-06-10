@@ -1,6 +1,6 @@
 [accomplishment]
-title = Attend Ubuntu Developer Summit
-description = You attended an Ubuntu Developer Summit
+title = উবুন্টু ডেভেলপার শীর্ষসম্মেলন হাজির থাকুন .
+description = আপনি উবুন্টু ডেভেলপার শীর্ষসম্মেলনে উপস্থিত ছিলেন .
 collection = ubuntu-community
 category = Events
 needs-signing = true
@@ -19,6 +19,5 @@ steps = Go to <tt>http://uds.ubuntu.com</tt> when the next event has been announ
 	Attend the event, participate in the discussions and have a great time!
 tips = None
 pitfalls = None
-help = #ubuntu-uds on Freenode
-	#ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-uds ফ্রি নোড এ #ubuntu-community-team .
 

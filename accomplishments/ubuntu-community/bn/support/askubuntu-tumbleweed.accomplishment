@@ -1,5 +1,5 @@
 [accomplishment]
-title = Tumbleweed on Ask Ubuntu
+title = আস্ক উবুন্টুতে টাম্বলউইড
 description = Asked a question with no votes, no answers, no comments, and low views for a week
 collection = ubuntu-community
 category = Ask Ubuntu:Unrecognized Contributions
@@ -14,5 +14,5 @@ tips = Edit your question title to be human readable and descriptive. Questions 
 	Each edit bumps your question to the top of the site, giving you another shot at an answer. Since each of your edits add more information the more edits you do the better your question will become.
 	Hit the twitter and Google+ icons on your question to spread it's reach outside the site.
 pitfalls = If you don't edit your question usually the question will be ignored. If you don't want your question to be buried don't abandon it, keep adding detail.
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

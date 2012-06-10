@@ -1,16 +1,16 @@
 [accomplishment]
-title = Organizer on Ask Ubuntu
-description = First retag
+title = আস্ক উবুন্টুতে সংগঠক .
+description = প্রথম পুন: ট্যাগ .
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = First retag
+summary = প্রথম পুন: ট্যাগ .
 steps = Provide step by step instructions for to accomplish this.
 	Each step should be on a new line with a tab at the beginning, like this.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

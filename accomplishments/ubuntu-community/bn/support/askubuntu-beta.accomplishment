@@ -1,6 +1,6 @@
 [accomplishment]
-title = Beta on Ask Ubuntu
-description = Actively participated in the private beta
+title = আস্ক উবুন্টুতে বেটা
+description = ব্যক্তিগত বেটা পর্যায়ে সক্রিয়ভাবে অংশগ্রহণ হয়েছে .
 collection = ubuntu-community
 category = Ask Ubuntu:Membership
 needs-signing = true
@@ -13,5 +13,5 @@ steps = Signed up for Ask Ubuntu during private or public beta period.
 	Earned at least 200 reputation before Ask Ubuntu publically launched.
 tips = None
 pitfalls = If you didn't join Ask Ubuntu, or earn enough reputation, before public launch you won't be able to earn this badge unless you have a time machine.
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

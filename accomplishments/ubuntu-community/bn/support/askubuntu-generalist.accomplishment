@@ -8,9 +8,8 @@ needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 author = Nathan Osman <admin@quickmediasolutions.com>
 summary = Provided non-wiki answers of 15 total score in 20 of top 40 tags
-steps = Provide step by step instructions for to accomplish this.
-	Each step should be on a new line with a tab at the beginning, like this.
+steps = এই কর্ম সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. প্রতিটি পদক্ষেপ শুরুতে একটি ট্যাব সঙ্গে একটি নতুন লাইনে থাকা উচিত, এমন.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team on Freenode .
 

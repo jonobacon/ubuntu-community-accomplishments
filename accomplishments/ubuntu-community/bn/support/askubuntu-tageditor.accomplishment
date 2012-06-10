@@ -1,6 +1,6 @@
 [accomplishment]
-title = Tag Editor on Ask Ubuntu
-description = First Tag Wiki Edit
+title = আস্ক উবুন্টুতে  ট্যাগ সম্পাদক .
+description = প্রথম ট্যাগ উইকি সম্পাদনা .
 collection = ubuntu-community
 category = Ask Ubuntu:Tagging
 needs-signing = true
@@ -15,5 +15,5 @@ steps = <a href="http://askubuntu.com/tags">Find a tag</a> you want to contribut
 tips = Cross-link official Ubuntu documentation and other official resources.
 	If the tag is about another project link to it's project pages.
 pitfalls = Don't just copy and paste articles from Wikipedia, refer to them, and make the excerpt relevant to Ubuntu users.
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 

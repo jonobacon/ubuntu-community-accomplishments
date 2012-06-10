@@ -1,5 +1,5 @@
 [accomplishment]
-title = Quorum on Ask Ubuntu
+title = আস্ক উবুন্টুতে কোরাম .
 description = One post with score of 2 on Meta
 collection = ubuntu-community
 category = Ask Ubuntu:Meta Participation
@@ -13,5 +13,5 @@ steps = Visit the <a href="http://meta.askubuntu.com/">meta</a> site.
 	Wait until your post gets a score of 2 (<i>score</i> being the difference between up- and downvotes).
 tips = None
 pitfalls = None
-help = #ubuntu-community-team on Freenode
+help = ফ্রি নোড এ #ubuntu-community-team .
 
