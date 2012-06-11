@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-silver.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-mortarboard
+depends = ubuntu-community/askubuntu-mortarboard, ubuntu-community/registered-on-askubuntu
 needs-information=askubuntu-user-url
 summary = Earned 200 daily reputation 50 times
 steps: Provide step by step instructions for to accomplish this.

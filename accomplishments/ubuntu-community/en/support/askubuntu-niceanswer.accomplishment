@@ -6,6 +6,7 @@ category=Ask Ubuntu:Asking & Answering
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends=ubuntu-community/registered-on-askubuntu
 summary = These posts show how good answers should look like. They typically take a few revisions and additions to receive a score of 10 from the community (where <i>score</i> is the difference between up- and downvotes).
 steps: Answer a question, you can start with some <a href="http://askubuntu.com/unanswered">unanswered ones</a>.
 	Receive enough upvotes to get a score of 10 from the site's users.

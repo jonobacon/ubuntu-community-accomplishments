@@ -6,6 +6,7 @@ category=Ask Ubuntu:Meta Participation
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends=ubuntu-community/registered-on-askubuntu
 summary = The meta site is for discussions about the site itself (questions about moderation, improvements to the site, generally how Ask Ubuntu works, etc.). You will receive this badge once you made a post on the site that got a score of 2 or more.
 steps: Visit the <a href="http://meta.askubuntu.com/">meta</a> site.
 	Search for existing topics you are interested in or ask a new question.

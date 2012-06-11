@@ -6,6 +6,7 @@ category=Ask Ubuntu:Popularity
 icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends=ubuntu-community/registered-on-askubuntu
 summary = Users can favor (or <i>star</i>) a question by clicking on the little star icon next to it. This will add the question to a bookmark kind of list of questions the user wants to follow, which can be done on the user page on the <i>Favorites</i> tab.
 	This badge is awarded for asking a question that has been favored by 25 users.
 steps: Ask a question that's interesting enough to make users follow it over a longer time.

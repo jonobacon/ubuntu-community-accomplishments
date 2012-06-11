@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu:Asking & Answering
 icon=askubuntu-silver.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-nicequestion
+depends = ubuntu-community/askubuntu-nicequestion, ubuntu-community/registered-on-askubuntu
 needs-information=askubuntu-user-url
 summary = <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">Good questions</a> receive this badge. It takes multiple revisions and constant work to make a question that is universal enough to receive 25 upvotes from your peers.
 steps: Ask a question that attracts enough upvotes from the site's users to get a score of 25 (<i>score</i> being the difference between up- and downvotes).

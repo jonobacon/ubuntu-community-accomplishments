@@ -7,6 +7,7 @@ subcategory=Ask Ubuntu/Starter badges
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends=ubuntu-community/registered-on-askubuntu
 summary = While a profile, or an account, isn't required to use Ask Ubuntu having one allows you to track your progress, reputation, and badges. Filling out your profile helps to build your reputation and identity on the site. By completing all user profile fields you'll be awarded this acomplishment and badge.
 steps: Log in to Ask Ubuntu.
     Click on your user in Stack Exchange Global bar.

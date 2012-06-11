@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-gold.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-deputy
+depends = ubuntu-community/askubuntu-deputy, ubuntu-community/registered-on-askubuntu
 needs-information=askubuntu-user-url
 summary = Raised 500 helpful flags
 steps: Provide step by step instructions for to accomplish this.

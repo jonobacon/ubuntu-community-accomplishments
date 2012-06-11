@@ -6,6 +6,7 @@ category=Ask Ubuntu
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends=ubuntu-community/registered-on-askubuntu
 summary = First down vote
     Voting down is how the Ask Ubuntu community indicates which questions and answers are least useful. Use your downvotes whenever you encounter an egregiously sloppy, no-effort-expended post, or an answer that is clearly and perhaps dangerously incorrect.
     You have a limited number of votes per day and answer downvotes cost you a tiny bit of reputation on top of that so use them wisely. Normally, you should focus on pushing great content to the top by upvoting: this is why downvoting should on the contrary be reserved for extreme cases. It is not meant as a substitute for communication and editing.

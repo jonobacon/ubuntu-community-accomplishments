@@ -6,7 +6,7 @@ category=Ask Ubuntu
 icon=askubuntu-silver.png
 needs-signing=true
 needs-information=askubuntu-user-url
-depends = ubuntu-community/askubuntu-quorum
+depends = ubuntu-community/askubuntu-quorum, ubuntu-community/registered-on-askubuntu
 summary = 10 posts with score of 2 on <a href="$MetaUrl">meta</a>
 steps: Provide step by step instructions for to accomplish this.
     Each step should be on a new line with a tab at the beginning, like this.

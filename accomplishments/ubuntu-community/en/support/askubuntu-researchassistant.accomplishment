@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-silver.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-tageditor
+depends = ubuntu-community/askubuntu-tageditor, ubuntu-community/registered-on-askubuntu
 needs-information=askubuntu-user-url
 summary = Edited 50 tag wikis
 steps: Provide step by step instructions for to accomplish this.

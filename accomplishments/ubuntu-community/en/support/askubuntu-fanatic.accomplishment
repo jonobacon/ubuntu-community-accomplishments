@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu:Visiting
 icon=askubuntu-gold.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-enthusiast
+depends = ubuntu-community/askubuntu-enthusiast, ubuntu-community/registered-on-askubuntu
 needs-information=askubuntu-user-url
 summary = Ask Ubuntu users who visit the site more often have more opportunities to help their community. Sustained and active participation is beneficial for everyone. This badge can only be acquired by visiting Ask Ubuntu at least once a day for 100 days in a row. Real dedication is needed if a user hopes to be awarded this badge.
 steps: Log into Ask Ubuntu and visit the site at least once a day, every day.

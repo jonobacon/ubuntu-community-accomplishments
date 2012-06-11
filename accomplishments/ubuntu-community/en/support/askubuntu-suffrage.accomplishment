@@ -6,6 +6,7 @@ category=Ask Ubuntu:Voting
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends=ubuntu-community/registered-on-askubuntu
 summary = One way Ask Ubuntu users can participate is by voting on the comments, questions and answers that other users leave on the site. Doing so helps important and useful content be made more visible and reward those who created it, and helps identify less helpful content. This badge is awarded when a user uses at least 30 votes in a single day.
 steps: You first need to earn the privilege to vote up (15 reputation) on Ask Ubuntu if you have not already.
 	As you read through Ask Ubuntu, vote up posts that you find interesting, useful or informative. You can do this by clicking the arrows on the left of each post.

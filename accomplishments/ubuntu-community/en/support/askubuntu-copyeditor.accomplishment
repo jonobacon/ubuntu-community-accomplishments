@@ -6,7 +6,7 @@ category=Ask Ubuntu
 icon=askubuntu-gold.png
 needs-signing=true
 needs-information=askubuntu-user-url
-depends = ubuntu-community/askubuntu-strunkandwhite, ubuntu-community/askubuntu-editor
+depends = ubuntu-community/askubuntu-strunkandwhite, ubuntu-community/askubuntu-editor, ubuntu-community/registered-on-askubuntu
 summary = Edited 500 posts
 steps: Provide step by step instructions for to accomplish this.
     Each step should be on a new line with a tab at the beginning, like this.

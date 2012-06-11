@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu:Comment
 icon=askubuntu-silver.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-commentator
+depends = ubuntu-community/askubuntu-commentator, ubuntu-community/registered-on-askubuntu
 needs-information=askubuntu-user-url
 summary = Comments are temporary notes left on a question or an answer. They can only be upvoted and flagged, but do not generate any reputation change. To earn this badge, you have to leave a total of 10 comments, each getting 5 or more upvotes. To leave a comment, simply click on the <i>comment</i> link below each post.
 	Please note, that, while you can always comment on your own posts and any part of your questions, commenting on other people's posts is a privilege you have to earn by getting more reputation.

@@ -6,6 +6,7 @@ category=Ask Ubuntu:Chat
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
+depends=ubuntu-community/registered-on-askubuntu
 summary = Ask Ubuntu chat is a place to be used for collaboration, discussion and socialization. Users are encouraged to use chat as a supplement to the main site, such as for becoming better acquainted with fellow community members or for discussing questions when comments would not suffice. In addition, posts in chat are awarded stars by other chat users to mark them as notable. This badge is awarded when the user posts at least 10 messages in Ask Ubuntu chat, with at least one of them starred.
 steps: You need 20 reputation first before you can access Ask Ubuntu chat.
 	You can enter Ask Ubuntu chat by clicking the "chat" link near the top of the Ask Ubuntu page. Note that you need to be logged in to use chat.

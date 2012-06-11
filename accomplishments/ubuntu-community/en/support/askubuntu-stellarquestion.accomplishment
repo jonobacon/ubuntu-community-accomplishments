@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=Ask Ubuntu
 icon=askubuntu-gold.png
 needs-signing=true
-depends = ubuntu-community/askubuntu-favoritequestion
+depends = ubuntu-community/askubuntu-favoritequestion, ubuntu-community/registered-on-askubuntu
 needs-information=askubuntu-user-url
 summary = A answer is only useful when the question is relevant. Some problems have been encountered by many users in the Ask Ubuntu community. When a user asks a question which others seek a solution for, it will be up voted. This badge is awarded when ones question is up voted 100 times. 
 steps: Post a question which many people may require a solution. 
