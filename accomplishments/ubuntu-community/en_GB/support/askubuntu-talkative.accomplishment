@@ -6,6 +6,7 @@ category = Ask Ubuntu:Chat
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Christopher Kyle Horton <christhehorton@gmail.com>
 summary = Ask Ubuntu chat is a place to be used for collaboration, discussion and socialization. Users are encouraged to use chat as a supplement to the main site, such as for becoming better acquainted with fellow community members or for discussing questions when comments would not suffice. In addition, posts in chat are awarded stars by other chat users to mark them as notable. This badge is awarded when the user posts at least 10 messages in Ask Ubuntu chat, with at least one of them starred.
 steps = You need 20 reputation first before you can access Ask Ubuntu chat.

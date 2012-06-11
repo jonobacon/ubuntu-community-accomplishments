@@ -6,6 +6,7 @@ category = Ask Ubuntu:Asking & Answering
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Christopher Kyle Horton <christhehorton@gmail.com>
 summary = On Ask Ubuntu, the community can vote on questions. They can receive upvotes for being detailed, interesting, or useful, and provide an easy way for the community to rate how good a question is. Upvotes and downvotes cancel each other out to give a net score to the question. This badge is awarded to a user when they ask a question which is assigned a score of 1 or more by the Ask Ubuntu community.
 steps = Log into Ask Ubuntu and ask a new question by clicking the "Ask question" link near the top-right side of the page.

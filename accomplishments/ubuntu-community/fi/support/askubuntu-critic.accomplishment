@@ -6,6 +6,7 @@ category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Agmenor <agmenor@laposte.net>
 summary = First down vote
 	Voting down is how the Ask Ubuntu community indicates which questions and answers are least useful. Use your downvotes whenever you encounter an egregiously sloppy, no-effort-expended post, or an answer that is clearly and perhaps dangerously incorrect.

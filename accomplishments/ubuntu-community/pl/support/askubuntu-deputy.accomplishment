@@ -6,6 +6,7 @@ category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Nathan Osman <admin@quickmediasolutions.com>
 summary = Raised 80 helpful flags
 steps = Provide step by step instructions for to accomplish this.

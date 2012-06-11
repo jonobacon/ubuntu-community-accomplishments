@@ -6,6 +6,7 @@ category = Ask Ubuntu:Starter Badges
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Christopher Kyle Horton <christhehorton@gmail.com>
 summary = Ask Ubuntu is a place not only to ask questions, but to answer them as well. Answers may be provided by any user who feels they have the relevant knowledge to share. If other users agree that answer is clear, informative and useful, they can vote it up so the answer becomes more visible and the user who posted it is rewarded with additional reputation. This badge is awarded when a user posts their first question which receives a score of 1 or higher.
 steps = Log into Ask Ubuntu and look for a question you know the answer to.

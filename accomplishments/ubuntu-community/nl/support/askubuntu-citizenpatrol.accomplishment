@@ -6,6 +6,7 @@ category = Ask Ubuntu:Starter
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Marco Ceppi <marco@ceppi.net>
 summary = Flagging posts is a vital role in the Ask Ubuntu community. Flagging helps identify posts that require moderator attention and possibly moderator intervention.
 	There are several valid flag reasons and they are as follows: Post needs to be closed (as either a duplicate, off-topic, not constructive, or too localized), post is spam, post is offensive, and finally "other" where you can input a message to the moderators.

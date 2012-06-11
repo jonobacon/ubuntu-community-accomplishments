@@ -6,7 +6,7 @@ category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
-depends = ubuntu-community/askubuntu-quorum
+depends = ubuntu-community/askubuntu-quorum, ubuntu-community/registered-on-askubuntu
 author = Nathan Osman <admin@quickmediasolutions.com>
 summary = 10 posts with score of 2 on <a href="$MetaUrl">meta</a>
 steps = Provide step by step instructions for to accomplish this.

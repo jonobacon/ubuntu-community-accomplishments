@@ -6,6 +6,7 @@ category = Ask Ubuntu:Popularity
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Hernando Torque <sirius@sonnenkinder.org>
 summary = This badge is awarded once your question hits 1,000 page views. This can either be achieved by asking a very popular question (e.g., questions concerning breaking news about Ubuntu), by heavily promoting your questions on social networks, or by simply collecting views over time.
 steps = Create <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">a good question</a>.

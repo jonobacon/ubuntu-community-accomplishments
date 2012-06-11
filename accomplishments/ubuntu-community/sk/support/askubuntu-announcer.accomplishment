@@ -6,6 +6,7 @@ category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Marco Ceppi <marco@ceppi.net>
 summary = Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with to the world. Share a link to a question, if that link is visited by 25 unique IP addresses this badge will be awarded to you.
 steps = Open a question you wish to share

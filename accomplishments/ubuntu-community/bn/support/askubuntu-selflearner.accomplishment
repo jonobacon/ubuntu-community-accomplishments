@@ -6,6 +6,7 @@ category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Surgemcgee <RobertSteckroth@gmail.com>
 summary = Occasionally one will find or realize the solution to a question, which he or she posted, before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.
 	When an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge is awarded.

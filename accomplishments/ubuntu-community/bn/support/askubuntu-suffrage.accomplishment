@@ -6,6 +6,7 @@ category = Ask Ubuntu:Voting
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Christopher Kyle Horton <christhehorton@gmail.com>
 summary = One way Ask Ubuntu users can participate is by voting on the comments, questions and answers that other users leave on the site. Doing so helps important and useful content be made more visible and reward those who created it, and helps identify less helpful content. This badge is awarded when a user uses at least 30 votes in a single day.
 steps = You first need to earn the privilege to vote up (15 reputation) on Ask Ubuntu if you have not already.

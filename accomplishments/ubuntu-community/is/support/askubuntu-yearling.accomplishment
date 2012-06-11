@@ -6,6 +6,7 @@ category = Ask Ubuntu:Membership
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
+depends = ubuntu-community/registered-on-askubuntu
 author = Jorge O. Castro <jorge@ubuntu.com>
 summary = Active member for a year, earning at least 200 reputation
 steps = Sign in and participate on the site.
