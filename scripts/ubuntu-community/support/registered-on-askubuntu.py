@@ -30,8 +30,6 @@ try:
     badges_raw = gzipr.read()
     badges_data = json.loads(badges_raw)
     
-    print badges_data
-
     if len(badges_data['items']) != 0:
         sys.exit(0)
 
