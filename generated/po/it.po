@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-11 21:16+0200\n"
-"PO-Revision-Date: 2012-06-11 10:16+0000\n"
+"PO-Revision-Date: 2012-06-12 11:52+0000\n"
 "Last-Translator: leonardo corato <leocor@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-12 05:36+0000\n"
+"X-Launchpad-Export-Date: 2012-06-13 05:32+0000\n"
 "X-Generator: Launchpad (build 15389)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
@@ -256,6 +256,10 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:45
 msgid "ubuntu-community/askubuntu-pundit_steps"
 msgstr ""
+"Lascia un commento di alta qualità. Se hai una reputazione di 50 o meno, "
+"puoi solo commentare i tuoi post e le tue domande. \r\n"
+"Attendi finché il commento raggiunge 5 voti in aggiunta dalla comunità. \r\n"
+"Ripeti per un totale 10 di questo tipo di commenti."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('tips' field)
 #. .
@@ -269,6 +273,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:56
 msgid "ubuntu-community/askubuntu-pundit_tips"
 msgstr ""
+"I tuoi commenti riceveranno più facilmente voti in aggiunta se agiungo un "
+"valore reale ai post (es. richieste di maggiori dettagli a chi domanda, "
+"spiegazioni per un voto tolto etc.)."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -282,6 +289,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:67
 msgid "ubuntu-community/askubuntu-pundit_pitfalls"
 msgstr ""
+"Non cercare di attrare voti in aggiunta tramite commenti divertenti o "
+"irriverenti."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('links' field)
 #. .
@@ -321,7 +330,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:11
 msgid "ubuntu-community/askubuntu-selflearner_title"
-msgstr ""
+msgstr "Auto-appreso da Ask-Ubuntu"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('description' field)
 #. .
@@ -332,7 +341,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:20
 msgid "ubuntu-community/askubuntu-selflearner_description"
-msgstr ""
+msgstr "Ha risposto alla tua domanda con un punteggio di 3 o più."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('summary' field)
 #. .
@@ -347,6 +356,11 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:32
 msgid "ubuntu-community/askubuntu-selflearner_summary"
 msgstr ""
+"A volte uno troverà la soluzione o la risposta a una domanda che ha postato "
+"prima che  comunità di Ask ubuntu la trovi. E' bene e positivo per gli altri "
+" scrivere le risposte  alle domande che postate voi stessi. Quando una "
+"risposta a una domanda fatta da voi stessi riceve un punteggio (voto in "
+"aggiunta) di 3 o più, guadagnate il badge di Auto-apprendente ."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('steps' field)
 #. .
@@ -361,6 +375,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:44
 msgid "ubuntu-community/askubuntu-selflearner_steps"
 msgstr ""
+"Dai una risposta corretta a una domanda postata da te stesso. \r\n"
+"Ricevi 3 o più voti sulle risposte fornite dalla comunità Ask Ubuntu."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('links' field)
 #. .
@@ -372,7 +388,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:54
 msgid "ubuntu-community/askubuntu-selflearner_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('tips' field)
 #. .
