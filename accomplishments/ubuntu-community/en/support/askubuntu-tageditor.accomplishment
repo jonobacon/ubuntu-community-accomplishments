@@ -14,7 +14,7 @@ steps: <a href="http://askubuntu.com/tags">Find a tag</a> you want to contribute
 	Click Save Edits to send it to the submission queue. 
 tips: Cross-link official Ubuntu documentation and other official resources.
 	If the tag is about another project link to its project pages.
-pitfalls: Don't just copy and paste articles from Wikipedia, refer to them, and make the excerpt relevant to Ubuntu users. 
+pitfalls: Don't just copy and paste articles from Wikipedia. Refer to them, and make the excerpt relevant to Ubuntu users. 
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
 author = Jorge O. Castro <jorge@ubuntu.com>
