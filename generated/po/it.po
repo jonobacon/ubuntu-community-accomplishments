@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-11 21:16+0200\n"
-"PO-Revision-Date: 2012-06-12 11:52+0000\n"
+"PO-Revision-Date: 2012-06-13 12:33+0000\n"
 "Last-Translator: leonardo corato <leocor@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-13 05:32+0000\n"
-"X-Generator: Launchpad (build 15389)\n"
+"X-Launchpad-Export-Date: 2012-06-14 04:56+0000\n"
+"X-Generator: Launchpad (build 15405)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:11
 msgid "ubuntu-community/askubuntu-researchassistant_title"
-msgstr "Assistente di ricerca su Ask Ubuntu"
+msgstr "Assistente di Ricerca su Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('description' field)
 #. .
@@ -38,7 +38,7 @@ msgstr "Assistente di ricerca su Ask Ubuntu"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:20
 msgid "ubuntu-community/askubuntu-researchassistant_description"
-msgstr "Editato 50 tag di wiki"
+msgstr "Editati 50 tag di wiki"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('summary' field)
 #. .
@@ -51,7 +51,7 @@ msgstr "Editato 50 tag di wiki"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:31
 msgid "ubuntu-community/askubuntu-researchassistant_summary"
-msgstr "Editato 50 tag di wiki"
+msgstr "Editati 50 tag di wiki"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('steps' field)
 #. .
@@ -403,6 +403,10 @@ msgstr "http://www.askubuntu.com"
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:66
 msgid "ubuntu-community/askubuntu-selflearner_tips"
 msgstr ""
+"Le risposte dovrebbero essere molto descrittive con ogni passo visualizzato "
+"in successione.\r\n"
+"Le immagini e gli screenshots nelle risposte sono molto utili e otterranno "
+"più attenzione se usate in modo adeguato."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -417,6 +421,10 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:78
 msgid "ubuntu-community/askubuntu-selflearner_pitfalls"
 msgstr ""
+"Risposte vage o generiche con collegamenti a altri blog non sono facili da "
+"capire.\r\n"
+"Risposte ovvie non faranno impressione nella comunità abbassando al "
+"contrario la possibilità di aumentare il punteggio."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('help' field)
 #. .
@@ -441,7 +449,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:11
 msgid "ubuntu-community/askubuntu-reviewer_title"
-msgstr ""
+msgstr "Revisore su Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('description' field)
 #. .
@@ -479,7 +487,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:43
 msgid "ubuntu-community/askubuntu-reviewer_steps"
-msgstr ""
+msgstr "Fornisci istruzioni passo passo per compiere questo."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -493,6 +501,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:54
 msgid "ubuntu-community/askubuntu-reviewer_pitfalls"
 msgstr ""
+"Un insieme di cose che l'utente dovrebbe evitare mentre effettua "
+"attentamente questo compimento (ognuna aggiunta  in una  nuova riga)."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('links' field)
 #. .
@@ -504,7 +514,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:64
 msgid "ubuntu-community/askubuntu-reviewer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('help' field)
 #. .
@@ -517,7 +527,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:75
 msgid "ubuntu-community/askubuntu-reviewer_help"
-msgstr ""
+msgstr "#ubuntu-community-team su Freenode"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('title' field)
 #. .
@@ -529,7 +539,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:11
 msgid "ubuntu-community/askubuntu-excavator_title"
-msgstr ""
+msgstr "Escavatore (Excavator) in  Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('description' field)
 #. .
@@ -540,7 +550,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:20
 msgid "ubuntu-community/askubuntu-excavator_description"
-msgstr ""
+msgstr "Editato il primo post inattivo da sei mesi"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('summary' field)
 #. .
@@ -553,7 +563,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:31
 msgid "ubuntu-community/askubuntu-excavator_summary"
-msgstr ""
+msgstr "Editato il primo post inattivo da sei mesi"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('steps' field)
 #. .
@@ -568,6 +578,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:43
 msgid "ubuntu-community/askubuntu-excavator_steps"
 msgstr ""
+"Fornisci istruzioni passo passo per realizzare questo compimento.\r\n"
+"Ogni passo dovrebbe essere su una nuova riga con un tab all'inizio, così."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -581,6 +593,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:54
 msgid "ubuntu-community/askubuntu-excavator_pitfalls"
 msgstr ""
+"Un insieme di cose che l'utente dovrebbe evitare mentre esamina "
+"accuratamente questo compimento (ognuna aggiunta in una nuova riga)"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('links' field)
 #. .
@@ -643,6 +657,19 @@ msgstr "Sei un membro della squadra bug di Ubuntu"
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:32
 msgid "ubuntu-community/bugsquad-member_summary"
 msgstr ""
+"La Squadra Bug (Bug Squad) è il team di Ubuntu che aiuta a migliorare le "
+"segnalazioni dei bug. La Squadra Bug è il primo punto di contatto per i bug "
+"inviati  riguardanti Ubuntu. I membri assegnano i bug ai pacchetti, si "
+"assicurano che i report siano completi, trovano report dei bug duplicati, "
+"ricreano bug e girano i bug ai relativi autori dei software. Tutte queste "
+"attività aiutano a risolvere  i bug e di conseguenza a fare diventare Ubuntu "
+"ancora meglio. La Squadra Bug fa inoltre il Triaging (valutazione), che è "
+"simile al processo di concessione di priorità ai pazienti in ospedale in "
+"base alla gravità della situazione. Questo consente agli sviluppatori di "
+"spendere il loro tempo in modo efficiente ed è un ottimo modo per imparare "
+"come funziona Ubuntu come sistema operativo e come comunità. Non accade di "
+"rado che i triagers (valutatori) scoprano features nuove ed interessanti che "
+"non conoscevano."
 
 #. ACCOMPLISHMENT: Bug Squad Member ('steps' field)
 #. .
