@@ -7,13 +7,13 @@ icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 depends=ubuntu-community/registered-on-askubuntu
-summary = First Tag Wiki Edit. Ask Ubuntu has tags that split questions into different groups. These tags allow the site to remain organized and help users by allowing them to subscribe to or ignore topics they might find interesting or wish to ignore. Each tag has an associated wiki page called a tag wiki. This page describes the tag, how it's used on the site, and anything the community might find useful about that topic. It is the bridge for that subject between Ask Ubuntu and other canonical references to the subject on the internet, the ideal tag wiki contains many links to other resources. 
+summary = First Tag Wiki Edit. Ask Ubuntu has tags that split questions into different groups. These tags allow the site to remain organized and help users by allowing them to subscribe to or ignore topics they might find interesting or wish to ignore. Each tag has an associated wiki page called a tag wiki. This page describes the tag, how it's used on the site, and anything the community might find useful about that topic. It is the bridge for that subject between Ask Ubuntu and other canonical references to the subject on the internet. The ideal tag wiki contains many links to other resources. 
 steps: <a href="http://askubuntu.com/tags">Find a tag</a> you want to contribute to and click on it. 
 	Click on "improve tag wiki".
 	Improve the excerpt and description.
 	Click Save Edits to send it to the submission queue. 
 tips: Cross-link official Ubuntu documentation and other official resources.
-	If the tag is about another project link to it's project pages.
+	If the tag is about another project link to its project pages.
 pitfalls: Don't just copy and paste articles from Wikipedia, refer to them, and make the excerpt relevant to Ubuntu users. 
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
