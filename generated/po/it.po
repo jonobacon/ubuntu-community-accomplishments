@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-11 21:16+0200\n"
-"PO-Revision-Date: 2012-06-13 12:33+0000\n"
+"PO-Revision-Date: 2012-06-14 08:24+0000\n"
 "Last-Translator: leonardo corato <leocor@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-14 04:56+0000\n"
-"X-Generator: Launchpad (build 15405)\n"
+"X-Launchpad-Export-Date: 2012-06-15 04:59+0000\n"
+"X-Generator: Launchpad (build 15414)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -686,6 +686,15 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:46
 msgid "ubuntu-community/bugsquad-member_steps"
 msgstr ""
+"Firma <a href=\"http://www.ubuntu.com/community/conduct\">il Codice di "
+"Condotta di Ubuntu</a>\r\n"
+"Leggi la  <a href=\"https://wiki.ubuntu.com/Bugs/HowToTriage/\">Guida al "
+"Triage</a>\r\n"
+"Sottoscrivi la<a href=\"https://lists.ubuntu.com/mailman/listinfo/ubuntu-"
+"bugsquad\">Maling List della Squadra Bug</a>\r\n"
+"Dopo aver completato i passi precedenti, <a "
+"href=\"https://launchpad.net/~bugsquad/+join\">fai richiesta di membership "
+"qui</a>"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('links' field)
 #. .
@@ -725,7 +734,7 @@ msgstr "#ubuntu-bugs on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:11
 msgid "ubuntu-community/registered-on-askubuntu_title"
-msgstr ""
+msgstr "Registrati su Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('description' field)
 #. .
@@ -736,7 +745,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:20
 msgid "ubuntu-community/registered-on-askubuntu_description"
-msgstr ""
+msgstr "Ti sei registrato su Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('summary' field)
 #. .
@@ -751,6 +760,14 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:32
 msgid "ubuntu-community/registered-on-askubuntu_summary"
 msgstr ""
+"a href=\"http://askubuntu.com\">Ask Ubuntu</a> è un sito web dove gli utenti "
+"possono fare domande su Ubuntu. E' un modo efficiente di richiedere "
+"supporto, è facile e veloce e non è necessario registrarsi per chiedere "
+"qualcosa. Comunque, gli utenti che vogliono proporre risposte e usare tutte "
+"le risorse del sito, includsi i commenti, i voti  e molto altro, devono "
+"registrare un account.\r\n"
+"Questo compimento sblocca tutti gli altri trofei ricevuti tramite attività "
+"su Ask Ubuntu."
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('steps' field)
 #. .
@@ -795,7 +812,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:71
 msgid "ubuntu-community/registered-on-askubuntu_help"
-msgstr ""
+msgstr "#ubuntu-stack su Freenode"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('title' field)
 #. .
@@ -807,7 +824,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:11
 msgid "ubuntu-community/askubuntu-epic_title"
-msgstr ""
+msgstr "Epico in Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('description' field)
 #. .
@@ -818,7 +835,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:20
 msgid "ubuntu-community/askubuntu-epic_description"
-msgstr ""
+msgstr "Guadagnate 200 reputazioni giornaliere per 50 volte"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('summary' field)
 #. .
@@ -831,7 +848,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:31
 msgid "ubuntu-community/askubuntu-epic_summary"
-msgstr ""
+msgstr "Guadagnate 200 reputazioni giornaliere per 50 volte"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('steps' field)
 #. .
@@ -977,7 +994,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:11
 msgid "ubuntu-community/askubuntu-autobiographer_title"
-msgstr ""
+msgstr "Autobiografo su Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('description' field)
 #. .
@@ -988,7 +1005,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:20
 msgid "ubuntu-community/askubuntu-autobiographer_description"
-msgstr ""
+msgstr "Completati tutti i campi del profilo utente"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('summary' field)
 #. .
@@ -1002,6 +1019,11 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:31
 msgid "ubuntu-community/askubuntu-autobiographer_summary"
 msgstr ""
+"Mentre non è richiesto un profilo o un account per usare Ask Ubuntu è "
+"necessario averne uno per tener traccia dei tuoi progressi,  della "
+"reputazione e dei badge. Compilare il tuo profilo ti aiuta a costruire la "
+"tua reputazione e identità nel sito. Completando tutti i campi del profilo "
+"utente sarai premiato con questo compimento e badge."
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('steps' field)
 #. .
@@ -1018,6 +1040,10 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:45
 msgid "ubuntu-community/askubuntu-autobiographer_steps"
 msgstr ""
+"Fai login su Ask Ubuntu.\r\n"
+"Clicca sul tuo utente nella barra globale Stack Exchange.\r\n"
+"Scegli il tasto \"edit\" vicino al tuo nome.\r\n"
+"Riempi tutti i campi possibili del tuo profilo utente."
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('links' field)
 #. .
@@ -1029,7 +1055,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:55
 msgid "ubuntu-community/askubuntu-autobiographer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('help' field)
 #. .
@@ -1042,7 +1068,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:66
 msgid "ubuntu-community/askubuntu-autobiographer_help"
-msgstr ""
+msgstr "#ubuntu-community-team su Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('title' field)
 #. .
@@ -1054,7 +1080,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:11
 msgid "ubuntu-community/ubuntu-beginners-team-member_title"
-msgstr ""
+msgstr "Membro del Team Ubuntu Beginners"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('description' field)
 #. .
@@ -1065,7 +1091,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:20
 msgid "ubuntu-community/ubuntu-beginners-team-member_description"
-msgstr ""
+msgstr "Sei un membro del team Ubuntu Beginners"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('summary' field)
 #. .
