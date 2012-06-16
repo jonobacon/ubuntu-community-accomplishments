@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-11 21:16+0200\n"
-"PO-Revision-Date: 2012-06-14 08:24+0000\n"
+"PO-Revision-Date: 2012-06-15 08:04+0000\n"
 "Last-Translator: leonardo corato <leocor@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-15 04:59+0000\n"
-"X-Generator: Launchpad (build 15414)\n"
+"X-Launchpad-Export-Date: 2012-06-16 05:16+0000\n"
+"X-Generator: Launchpad (build 15419)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -787,6 +787,18 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:49
 msgid "ubuntu-community/registered-on-askubuntu_steps"
 msgstr ""
+"Vai su <a href=\"http://askubuntu.com\">http://askubuntu.com</a>.\r\n"
+"Clicca il collegamento <i>log in</i>  sul pannello del sito in alto.\r\n"
+"Se hai uno degli account mostrati, puoi usarlo per fare login. Altrimenti , "
+"scegli registrazione, questo creerà un account  StackExchange che potrai poi "
+"usare per fare login.\r\n"
+"Fornisci tutti i dati che ti sono chiesti.\r\n"
+"Una volta fatto login, clicca sul tuo nome utente nel pannello del sito, in "
+"alto. Copia l'indirizzo del sito al quale sari portato.\r\n"
+"In questa applicazione , scegli il menu <i>Edit->Identification</i>, e copia "
+" quell'indirizzo nel campo appropriato. Questo notificherà il Sistema delle "
+"Realizzazionwi  sul tuo account.\r\n"
+"Una volta verificato il tuo account, riceverai il trofeo."
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('links' field)
 #. .
@@ -800,6 +812,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:60
 msgid "ubuntu-community/registered-on-askubuntu_links"
 msgstr ""
+"http://www.askubuntu.com\r\n"
+"http://meta.askubuntu.com"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('help' field)
 #. .
@@ -863,6 +877,8 @@ msgstr "Guadagnate 200 reputazioni giornaliere per 50 volte"
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:43
 msgid "ubuntu-community/askubuntu-epic_steps"
 msgstr ""
+"Fornire istruzioni passo passo per la realizzazione.\r\n"
+"Ogni passo dovrebbe essere su una nuova riga con un tab all'inizio, così."
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -876,6 +892,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:54
 msgid "ubuntu-community/askubuntu-epic_pitfalls"
 msgstr ""
+"Una serie di cose che l'utente dovrebbe evitare mentre esamina attentamente "
+"questo raggiungimento (ognuna aggiunta su una nuova riga)"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('links' field)
 #. .
@@ -887,7 +905,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:64
 msgid "ubuntu-community/askubuntu-epic_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('help' field)
 #. .
@@ -900,7 +918,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:75
 msgid "ubuntu-community/askubuntu-epic_help"
-msgstr ""
+msgstr "#ubuntu-community-team su Freenode"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('title' field)
 #. .
@@ -1135,7 +1153,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:58
 msgid "ubuntu-community/ubuntu-beginners-team-member_tips"
-msgstr ""
+msgstr "Familiarizza con IRC"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('pitfalls' field)
 #. .
@@ -1148,7 +1166,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:69
 msgid "ubuntu-community/ubuntu-beginners-team-member_pitfalls"
-msgstr ""
+msgstr "Nulla"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('help' field)
 #. .
@@ -1163,6 +1181,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:81
 msgid "ubuntu-community/ubuntu-beginners-team-member_help"
 msgstr ""
+"ubuntu-beginners su Freenode\r\n"
+"#ubuntu-beginners-team su Freenode"
 
 #. ACCOMPLISHMENT: Beta on Ask Ubuntu ('title' field)
 #. .
