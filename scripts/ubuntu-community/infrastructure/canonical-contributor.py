@@ -23,11 +23,10 @@ try:
     if me == None:
         sys.exit(1)
     else:
-        team = l.people['contributor-agreement-canonical']
-        members = team.getMembersByStatus(status='Approved')
-        for member in members:
-          if member.name == me.name:
-            sys.exit(0)
+        for team in me.super_teams: 
+            if team.name == 'contributor-agreement-canonical':
+                sys.exit(0)
+
         sys.exit(1)
 
 except SystemExit, e:
