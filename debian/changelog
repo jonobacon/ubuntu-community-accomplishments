@@ -1,3 +1,9 @@
+ubuntu-community-accomplishments (0.2.1) precise; urgency=low
+
+  * Fix for a data hungry canonical-contributors script.
+
+ -- Jono Bacon <jono@ubuntu.com>  Mon, 18 Jun 2012 18:12:57 -0700
+
 ubuntu-community-accomplishments (0.2) precise; urgency=low
 
   * New release of the 0.2 collection. Includes a number of new accoms, most notably
