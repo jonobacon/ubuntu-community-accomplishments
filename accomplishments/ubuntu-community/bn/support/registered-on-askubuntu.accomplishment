@@ -1,6 +1,6 @@
 [accomplishment]
-title = Register on Ask Ubuntu
-description = You have registered on Ask Ubuntu
+title = আস্ক উবুন্টুতে নিবন্ধন করুন.
+description = আপনি আস্ক উবুন্টুতে নিবন্ধন করেছেন.
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -15,8 +15,8 @@ steps = Go to <a href="http://askubuntu.com">http://askubuntu.com</a>.
 	Provide data you are asked for.
 	Once you are logged in, click your username on site's top panel. Copy the address of the site you will be taken to.
 	In this very application, select <i>Edit->Identification</i> menu, and paste that address in apropriate field. This will notify the Accomplishments System of your account.
-	Once your account is verified, you will recive this trophy.
+	Once your account is verified, you will receive this trophy.
 tips = None
 pitfalls = None
-help = #ubuntu-stack on Freenode
+help = ফ্রি নোড এ #ubuntu-stack .
 

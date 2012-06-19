@@ -44,8 +44,8 @@ _("ubuntu-community/askubuntu-voxpopuli_steps")
 // ACCOMPLISHMENT: Vox Populi on Ask Ubuntu ('pitfalls' field)
 // .
 // ORIGINAL TRANSLATION:
-// Don't just pick random things to vote on, browse around to make sure you're upvoting good content.
-// Don't serially upvote or downvote a specific person, the anti-cheating script will stop you from gaming the system.
+// Don't just pick random things to vote on. Browse around to make sure you're upvoting good content.
+// Don't serially upvote or downvote a specific person. The anti-cheating script will stop you from gaming the system.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

@@ -44,7 +44,7 @@ _("ubuntu-community/askubuntu-greatquestion_steps")
 // .
 // ORIGINAL TRANSLATION:
 // Your question should be interesting enough to enough people to attract this many votes.
-// Constant editing and improving your question will get it more and more attention.
+// Constant editing and improving of your question will get it more and more attention.
 // Continually add the results of your research into your question instead of writing it as one huge log. It should be written in a manner that makes it easy for the reader to understand.
 // Use the social media buttons to get your question out to the wider community.
 
@@ -57,7 +57,7 @@ _("ubuntu-community/askubuntu-greatquestion_tips")
 // ACCOMPLISHMENT: Great Question on Ask Ubuntu ('pitfalls' field)
 // .
 // ORIGINAL TRANSLATION:
-// This is a difficult badge, even the best written and researched questions might not be general enough to attract this many votes.
+// This is a difficult badge. Even the best written and researched questions might not be general enough to attract this many votes.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

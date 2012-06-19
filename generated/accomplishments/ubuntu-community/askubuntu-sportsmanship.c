@@ -21,7 +21,7 @@ _("ubuntu-community/askubuntu-sportsmanship_description")
 // ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('summary' field)
 // .
 // ORIGINAL TRANSLATION:
-// Ask Ubuntu is about finding the best answer to any given question using a community. Thus, there will be several different proposed answers other than ones own response. When one of these answers becomes more informative then the others, it is admirable to up vote the better answer, despite the risk of having ones own response not accepted. This badge is awarded when one has up voted 100 different answers where he or she thought it to be better than there own.
+// Ask Ubuntu is about finding the best answer to any given question using a community. Thus, there will be several different proposed answers other than ones own response. When one of these answers becomes more informative then the others, it is admirable to up vote the better answer, despite the risk of having ones own response not accepted. This badge is awarded when one has up voted 100 different answers where he or she thought it to be better than their own.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

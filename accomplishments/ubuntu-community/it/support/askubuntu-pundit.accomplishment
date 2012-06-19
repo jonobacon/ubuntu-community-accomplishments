@@ -1,6 +1,6 @@
 [accomplishment]
-title = Pundit on Ask Ubuntu
-description = Left 10 comments with score of 5 or more
+title = Saggio (Pundit) su Ask Ubuntu
+description = Mancano 10 commenti  con punteggio 5 o più
 collection = ubuntu-community
 category = Ask Ubuntu:Comment
 needs-signing = true
@@ -8,12 +8,12 @@ needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
 depends = ubuntu-community/askubuntu-commentator, ubuntu-community/registered-on-askubuntu
 author = Hernando Torque <sirius@sonnenkinder.org>
-summary = Comments are temporary notes left on a question or an answer. They can only be upvoted and flagged, but do not generate any reputation change. To earn this badge, you have to leave a total of 10 comments, each getting 5 or more upvotes. To leave a comment, simply click on the <i>comment</i> link below each post.
-	Please note, that, while you can always comment on your own posts and any part of your questions, commenting on other people's posts is a privilege you have to earn by getting more reputation.
-steps = Leave a high quality comment. If you have less than 50 reputation, you can only comment your own posts and questions.
-	Wait until the comment received 5 or more upvotes from the community.
-	Repeat for a total of 10 such comments.
-tips = Your comments will more likely receive upvotes if they add real value to the posts (e.g., asking a questioner for more detail, explaining a downvote on the post, etc.).
-pitfalls = Don't try to attract upvotes by leaving funny or snide comments.
+summary = I commenti sono note temporanee su una domanda o una risposta. Possono solo essere votati con voti aggiuntivi  e flaggati,  ma non generano un cambio di reputazione. Per guadagnare questo badge devi lasciare un totale di 10 commenti, ognuno con 5 o più voti aggiuntivi. Per lasciare un commento, semplicemente clicca sul link  <i>commenta</i> sotto ogni post.
+	Nota che mentre puoi commentare sempre i tuoi post e qualsiasi parte delle tue domande, commentare i post di altra gente è un privilegio che puoi ottenere dopo aver aumentato la tua reputazione.
+steps = Lascia un commento di alta qualità. Se hai una reputazione di 50 o meno, puoi solo commentare i tuoi post e le tue domande. 
+	Attendi finché il commento raggiunge 5 voti in aggiunta dalla comunità. 
+	Ripeti per un totale 10 di questo tipo di commenti.
+tips = I tuoi commenti riceveranno più facilmente voti in aggiunta se agiungo un valore reale ai post (es. richieste di maggiori dettagli a chi domanda, spiegazioni per un voto tolto etc.).
+pitfalls = Non cercare di attrare voti in aggiunta tramite commenti divertenti o irriverenti.
 help = #ubuntu-community-team on Freenode
 

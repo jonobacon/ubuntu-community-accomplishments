@@ -33,7 +33,7 @@ _("ubuntu-community/askubuntu-publicist_summary")
 // .
 // ORIGINAL TRANSLATION:
 // Find a question you would like to share.
-// Use either one of the three social share buttons (Twitter, Google+, and Facebook) located to the left of the question.
+// Use any of the three social share buttons (Twitter, Google+, and Facebook) located to the left of the question.
 // Alternatively click the <i>link</i> button below the question or answer and share that link.
 
 // .

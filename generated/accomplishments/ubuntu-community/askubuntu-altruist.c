@@ -22,7 +22,7 @@ _("ubuntu-community/askubuntu-altruist_description")
 // .
 // ORIGINAL TRANSLATION:
 // Bounties are used to help bring attention to a question. When you bounty a question it appears in the <a href="http://askubuntu.com/?tab=featured">Featured Questions</a> list. When you start a bounty, you put up anywhere from 50 to 500 of your hard earned reputation points to attach to any question.
-// When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this badge you need place a bounty on another users question and award it.
+// When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this badge you need to place a bounty on another user's question and award it.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -33,8 +33,8 @@ _("ubuntu-community/askubuntu-altruist_summary")
 // ACCOMPLISHMENT: Altruist on Ask Ubuntu ('steps' field)
 // .
 // ORIGINAL TRANSLATION:
-// Earn at least 75 reputation points
-// Place a bounty on a question other than your own
+// Earn at least 75 reputation points.
+// Place a bounty on a question other than your own.
 // Award that bounty to an answer.
 
 // .

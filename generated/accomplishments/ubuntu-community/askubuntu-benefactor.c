@@ -22,7 +22,7 @@ _("ubuntu-community/askubuntu-benefactor_description")
 // .
 // ORIGINAL TRANSLATION:
 // Bounties are used to help bring attention to a question. When you bounty a question it appears in the <a href="http://askubuntu.com/?tab=featured">Featured Questions</a> list. When you start a bounty, you put up anywhere from 50 to 500 of your hard earned reputation points to attach to any question.
-// When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this accomplishment and badge add a bounty to a question you've asked and award that bounty to an answer.
+// When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this accomplishment and badge, add a bounty to a question you've asked and award that bounty to an answer.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -33,9 +33,9 @@ _("ubuntu-community/askubuntu-benefactor_summary")
 // ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('steps' field)
 // .
 // ORIGINAL TRANSLATION:
-// Earn at least 75 reputation points
-// Select the "Start Bounty" option for a question you've asked
-// Award that bounty to an answer which fits the criteria of the bounty reason
+// Earn at least 75 reputation points.
+// Select the "Start Bounty" option for a question you've asked.
+// Award that bounty to an answer which fits the criteria of the bounty reason.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

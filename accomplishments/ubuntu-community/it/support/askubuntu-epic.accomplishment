@@ -1,6 +1,6 @@
 [accomplishment]
-title = Epic on Ask Ubuntu
-description = Earned 200 daily reputation 50 times
+title = Epico in Ask Ubuntu
+description = Guadagnate 200 reputazioni giornaliere per 50 volte
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,10 +8,10 @@ needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
 depends = ubuntu-community/askubuntu-mortarboard, ubuntu-community/registered-on-askubuntu
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = Earned 200 daily reputation 50 times
-steps = Provide step by step instructions for to accomplish this.
-	Each step should be on a new line with a tab at the beginning, like this.
+summary = Guadagnate 200 reputazioni giornaliere per 50 volte
+steps = Fornire istruzioni passo passo per la realizzazione.
+	Ogni passo dovrebbe essere su una nuova riga con un tab all'inizio, così.
 tips = None
-pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+pitfalls = Una serie di cose che l'utente dovrebbe evitare mentre esamina attentamente questo raggiungimento (ognuna aggiunta su una nuova riga)
+help = #ubuntu-community-team su Freenode
 

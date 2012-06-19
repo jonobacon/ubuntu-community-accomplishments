@@ -56,7 +56,7 @@ _("ubuntu-community/askubuntu-notablequestion_tips")
 // ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('pitfalls' field)
 // .
 // ORIGINAL TRANSLATION:
-// Lack of details in your question won't attract many answers, and therefore give you less page views.
+// Lack of details in your question won't attract many answers, and therefore give you fewer page views.
 // Questions that are mainly interesting to you (very local, very specialized).
 
 // .

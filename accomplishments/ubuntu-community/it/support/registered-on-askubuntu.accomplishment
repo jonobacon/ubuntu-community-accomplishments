@@ -1,22 +1,22 @@
 [accomplishment]
-title = Register on Ask Ubuntu
-description = You have registered on Ask Ubuntu
+title = Registrati su Ask Ubuntu
+description = Ti sei registrato su Ask Ubuntu
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 author = Rafał Cieślak <rafalcieslak256@ubuntu.com>
-summary = <a href="http://askubuntu.com">Ask Ubuntu</a> is a web site where users can ask their questions related to Ubuntu. It is a great way of requesting support, it's easy and quick, and one does not need to register there to ask something. However, users who want to propose answers and use all functions of the site, including comments, voting, and many more, need to register an account.
-	This accomplishment unlocks all other trophies recieved by activity on Ask Ubuntu.
-steps = Go to <a href="http://askubuntu.com">http://askubuntu.com</a>.
-	Click the <i>log in</i> link on site's top panel.
-	If you have any of listed accounts, you can use it to login. Otherwise, choose to sign up, this will create you a StackExchange account you can then use to log in.
-	Provide data you are asked for.
-	Once you are logged in, click your username on site's top panel. Copy the address of the site you will be taken to.
-	In this very application, select <i>Edit->Identification</i> menu, and paste that address in apropriate field. This will notify the Accomplishments System of your account.
-	Once your account is verified, you will recive this trophy.
+summary = a href="http://askubuntu.com">Ask Ubuntu</a> è un sito web dove gli utenti possono fare domande su Ubuntu. E' un modo efficiente di richiedere supporto, è facile e veloce e non è necessario registrarsi per chiedere qualcosa. Comunque, gli utenti che vogliono proporre risposte e usare tutte le risorse del sito, includsi i commenti, i voti  e molto altro, devono registrare un account.
+	Questo compimento sblocca tutti gli altri trofei ricevuti tramite attività su Ask Ubuntu.
+steps = Vai su <a href="http://askubuntu.com">http://askubuntu.com</a>.
+	Clicca il collegamento <i>log in</i>  sul pannello del sito in alto.
+	Se hai uno degli account mostrati, puoi usarlo per fare login. Altrimenti , scegli registrazione, questo creerà un account  StackExchange che potrai poi usare per fare login.
+	Fornisci tutti i dati che ti sono chiesti.
+	Una volta fatto login, clicca sul tuo nome utente nel pannello del sito, in alto. Copia l'indirizzo del sito al quale sari portato.
+	In questa applicazione , scegli il menu <i>Edit->Identification</i>, e copia  quell'indirizzo nel campo appropriato. Questo notificherà il Sistema delle Realizzazionwi  sul tuo account.
+	Una volta verificato il tuo account, riceverai il trofeo.
 tips = None
 pitfalls = None
-help = #ubuntu-stack on Freenode
+help = #ubuntu-stack su Freenode
 

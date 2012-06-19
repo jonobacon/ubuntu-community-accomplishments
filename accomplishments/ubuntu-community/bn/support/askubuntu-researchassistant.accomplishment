@@ -11,6 +11,6 @@ author = Nathan Osman <admin@quickmediasolutions.com>
 summary = ৫০ ট্যাগ উইকিস সম্পাদিত .
 steps = এটি সম্পাদনের জন্য ধাপে ধাপে নির্দেশাবলী প্রদান করুন. শুরুতে প্রতিটি পদক্ষেপ একটি ট্যাবসহ একটি নতুন লাইনে থাকা উচিত, এমন.
 tips = None
-pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+pitfalls = ব্যবহারকারী এই নিষ্পাদন মনযোগের সাথে পাঠ করবার সময় কিছু জিনিস এড়িয়ে চলা উচিত (প্রতিটি এক একটি নতুন লাইনে যুক্ত).
 help = ফ্রি নোড এ #ubuntu-community-team .
 

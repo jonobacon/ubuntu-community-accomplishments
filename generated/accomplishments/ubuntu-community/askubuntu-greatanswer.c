@@ -32,7 +32,7 @@ _("ubuntu-community/askubuntu-greatanswer_summary")
 // ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('steps' field)
 // .
 // ORIGINAL TRANSLATION:
-// Answer a question, you can start with some <a href="http://askubuntu.com/unanswered">unanswered ones</a>.
+// Answer a question. You can start with some <a href="http://askubuntu.com/unanswered">unanswered ones</a>.
 // Receive 100 upvotes the site's users.
 
 // .
@@ -46,10 +46,10 @@ _("ubuntu-community/askubuntu-greatanswer_steps")
 // ORIGINAL TRANSLATION:
 // The best answers include screenshots, especially if the question is for something desktop-related.
 // Use a tool like <a href="https://apps.ubuntu.com/cat/applications/shutter">Shutter</a> to annotate your screenshots and show the answer in steps.
-// Cross link and refer official Ubuntu documentation and resources, the best answers have many references.
+// Cross link and refer official Ubuntu documentation and resources. The best answers have many references.
 // Use the social media buttons to get your question out to the wider community.
-// Continuously update your answer to improve it's quality so your answer receives more visibility on the site.
-// Don't just answer the question, go above in beyond by explaining how you solved the problem, take this opportunity to teach a user how to find this kind of information.
+// Continuously update your answer to improve its quality so your answer receives more visibility on the site.
+// Don't just answer the question. Go above in beyond by explaining how you solved the problem, and take this opportunity to teach a user how to find this kind of information.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -60,9 +60,9 @@ _("ubuntu-community/askubuntu-greatanswer_tips")
 // ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('pitfalls' field)
 // .
 // ORIGINAL TRANSLATION:
-// Many questions are low quality, a great answer needs a great question, so concentrate on finding a highly voted unanswered question to answer.
-// Many poor questions are just duplicates of other more established questions, double check with a search before you invest time in a great answer; it can be frustrating to waste time writing a great answer to a question that will be closed/removed as a duplicate.
-// Don't link to random blogs or websites, those resources are typically unable to be reviewed and updated by the community and often have out of date information.
+// Many questions are low quality. A great answer needs a great question, so concentrate on finding a highly voted unanswered question to answer.
+// Many poor questions are just duplicates of other more established questions. Double check with a search before you invest time in a great answer; it can be frustrating to waste time writing a great answer to a question that will be closed or removed as a duplicate.
+// Don't link to random blogs or websites. Those resources are typically unable to be reviewed and updated by the community and often have out of date information.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

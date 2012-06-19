@@ -1,6 +1,6 @@
 [accomplishment]
-title = Ubuntu Beginners Team Member
-description = You are a Ubuntu Beginners Team Member
+title = Membro del Team Ubuntu Beginners
+description = Sei un membro del team Ubuntu Beginners
 collection = ubuntu-community
 category = General
 needs-signing = true
@@ -15,8 +15,8 @@ steps = Read the <a href="https://wiki.ubuntu.com/BeginnersTeam">introduction</a
 	Create a personal wiki page. Details on how to do this can be found <a href="https://wiki.ubuntu.com/BeginnersTeam/Membership/BTWikiGuide">here</a>
 	Add your name to the <a href="https://wiki.ubuntu.com/BeginnersTeam/Membership#Seeking%20Guide">Seeking Guide list</a>.
 	Hang out Internet Relay Chat channel #ubuntu-beginners-team on Freenode, most members are active in the channel and it's a good way to introduce yourself and meet members quickly.
-tips = Familiarise yourself with IRC
-pitfalls = None
-help = #ubuntu-beginners on Freenode
-	#ubuntu-beginners-team on Freenode
+tips = Familiarizza con IRC
+pitfalls = Nulla
+help = ubuntu-beginners su Freenode
+	#ubuntu-beginners-team su Freenode
 

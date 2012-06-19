@@ -44,9 +44,9 @@ _("ubuntu-community/askubuntu-tumbleweed_steps")
 // .
 // ORIGINAL TRANSLATION:
 // Edit your question title to be human readable and descriptive. Questions like "Firefox Problem" or "12.04 internet proxy" make no sense to most people and are likely to be ignored.
-// Edit your question's to add more information over time. What resources did you stumble upon and read? What search engine queries have you tried? Have you found other people on the internet that have posted their problems on forums? Collate all this information together in your question.
+// Edit your questions to add more information over time. What resources did you stumble upon and read? What search engine queries have you tried? Have you found other people on the internet that have posted their problems on forums? Collate all this information together in your question.
 // Each edit bumps your question to the top of the site, giving you another shot at an answer. Since each of your edits add more information the more edits you do the better your question will become.
-// Hit the twitter and Google+ icons on your question to spread it's reach outside the site.
+// Hit the twitter and Google+ icons on your question to spread its reach outside the site.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -57,7 +57,7 @@ _("ubuntu-community/askubuntu-tumbleweed_tips")
 // ACCOMPLISHMENT: Tumbleweed on Ask Ubuntu ('pitfalls' field)
 // .
 // ORIGINAL TRANSLATION:
-// If you don't edit your question usually the question will be ignored. If you don't want your question to be buried don't abandon it, keep adding detail.
+// If you don't edit your question, usually the question will be ignored. If you don't want your question to be buried, don't abandon it and keep adding detail.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

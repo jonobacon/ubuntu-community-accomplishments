@@ -1,6 +1,6 @@
 [accomplishment]
-title = Autobiographer on Ask Ubuntu
-description = Completed all user profile fields
+title = Autobiografo su Ask Ubuntu
+description = Completati tutti i campi del profilo utente
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,12 +8,12 @@ needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Marco Ceppi <marco@ceppi.net>
-summary = While a profile, or an account, isn't required to use Ask Ubuntu having one allows you to track your progress, reputation, and badges. Filling out your profile helps to build your reputation and identity on the site. By completing all user profile fields you'll be awarded this acomplishment and badge.
-steps = Log in to Ask Ubuntu.
-	Click on your user in Stack Exchange Global bar.
-	Select the "edit" button next to your name.
-	Fill in all possible user profile fields.
+summary = Mentre non è richiesto un profilo o un account per usare Ask Ubuntu è necessario averne uno per tener traccia dei tuoi progressi,  della reputazione e dei badge. Compilare il tuo profilo ti aiuta a costruire la tua reputazione e identità nel sito. Completando tutti i campi del profilo utente sarai premiato con questo compimento e badge.
+steps = Fai login su Ask Ubuntu.
+	Clicca sul tuo utente nella barra globale Stack Exchange.
+	Scegli il tasto "edit" vicino al tuo nome.
+	Riempi tutti i campi possibili del tuo profilo utente.
 tips = None
 pitfalls = None
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team su Freenode
 

@@ -21,7 +21,7 @@ _("ubuntu-community/askubuntu-announcer_description")
 // ACCOMPLISHMENT: Announcer on Ask Ubuntu ('summary' field)
 // .
 // ORIGINAL TRANSLATION:
-// Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with to the world. Share a link to a question, if that link is visited by 25 unique IP addresses this badge will be awarded to you.
+// Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with the world. Share a link to a question, and if that link is visited by 25 unique IP addresses this badge will be awarded to you.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -33,7 +33,7 @@ _("ubuntu-community/askubuntu-announcer_summary")
 // .
 // ORIGINAL TRANSLATION:
 // Open a question you wish to share
-// Use either one of the three social share buttons located to the left of the question.
+// Use any one of the three social share buttons located to the left of the question.
 // Alternatively click the "link" button below the question or answer and share that link.
 
 // .

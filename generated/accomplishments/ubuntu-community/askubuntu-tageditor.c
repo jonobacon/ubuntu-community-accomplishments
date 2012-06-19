@@ -21,7 +21,7 @@ _("ubuntu-community/askubuntu-tageditor_description")
 // ACCOMPLISHMENT: Tag Editor on Ask Ubuntu ('summary' field)
 // .
 // ORIGINAL TRANSLATION:
-// First Tag Wiki Edit. Ask Ubuntu has tags that split questions into different groups. These tags allow the site to remain organized and help users by allowing them to subscribe to or ignore topics they might find interesting or wish to ignore. Each tag has an associated wiki page called a tag wiki. This page describes the tag, how it's used on the site, and anything the community might find useful about that topic. It is the bridge for that subject between Ask Ubuntu and other canonical references to the subject on the internet, the ideal tag wiki contains many links to other resources.
+// First Tag Wiki Edit. Ask Ubuntu has tags that split questions into different groups. These tags allow the site to remain organized and help users by allowing them to subscribe to or ignore topics they might find interesting or wish to ignore. Each tag has an associated wiki page called a tag wiki. This page describes the tag, how it's used on the site, and anything the community might find useful about that topic. It is the bridge for that subject between Ask Ubuntu and other canonical references to the subject on the internet. The ideal tag wiki contains many links to other resources.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -47,7 +47,7 @@ _("ubuntu-community/askubuntu-tageditor_steps")
 // .
 // ORIGINAL TRANSLATION:
 // Cross-link official Ubuntu documentation and other official resources.
-// If the tag is about another project link to it's project pages.
+// If the tag is about another project link to its project pages.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -58,7 +58,7 @@ _("ubuntu-community/askubuntu-tageditor_tips")
 // ACCOMPLISHMENT: Tag Editor on Ask Ubuntu ('pitfalls' field)
 // .
 // ORIGINAL TRANSLATION:
-// Don't just copy and paste articles from Wikipedia, refer to them, and make the excerpt relevant to Ubuntu users.
+// Don't just copy and paste articles from Wikipedia. Refer to them, and make the excerpt relevant to Ubuntu users.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

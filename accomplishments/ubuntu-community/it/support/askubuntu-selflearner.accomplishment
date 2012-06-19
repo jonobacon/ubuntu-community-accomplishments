@@ -1,6 +1,6 @@
 [accomplishment]
-title = Self-Learner on Ask Ubuntu
-description = Answered your own question with score of 3 or more.
+title = Auto-appreso da Ask-Ubuntu
+description = Ha risposto alla tua domanda con un punteggio di 3 o più.
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,13 +8,12 @@ needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Surgemcgee <RobertSteckroth@gmail.com>
-summary = Occasionally one will find or realize the solution to a question, which he or she posted, before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.
-	When an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge is awarded.
-steps = Provide a correct answer to a question posted by ones self.
-	Receive 3 up votes on your provided answer by the Ask Ubuntu community.
-tips = Answers should be very descriptive with each step displayed in succession.
-	Images and screen-shots in answers are helpful and will receive more attention if appropriately used.
-pitfalls = Vague or generic answers with links to other blogs are not easy to understand.
-	Obvious answers will not impress the community thus lowering the chance of up scoring.
+summary = A volte uno troverà la soluzione o la risposta a una domanda che ha postato prima che  comunità di Ask ubuntu la trovi. E' bene e positivo per gli altri  scrivere le risposte  alle domande che postate voi stessi. Quando una risposta a una domanda fatta da voi stessi riceve un punteggio (voto in aggiunta) di 3 o più, guadagnate il badge di Auto-apprendente .
+steps = Dai una risposta corretta a una domanda postata da te stesso. 
+	Ricevi 3 o più voti sulle risposte fornite dalla comunità Ask Ubuntu.
+tips = Le risposte dovrebbero essere molto descrittive con ogni passo visualizzato in successione.
+	Le immagini e gli screenshots nelle risposte sono molto utili e otterranno più attenzione se usate in modo adeguato.
+pitfalls = Risposte vage o generiche con collegamenti a altri blog non sono facili da capire.
+	Risposte ovvie non faranno impressione nella comunità abbassando al contrario la possibilità di aumentare il punteggio.
 help = #ubuntu-community-team on Freenode
 

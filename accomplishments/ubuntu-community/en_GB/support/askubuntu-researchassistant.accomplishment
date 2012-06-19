@@ -9,7 +9,7 @@ icon = askubuntu-silver.png
 depends = ubuntu-community/askubuntu-tageditor, ubuntu-community/registered-on-askubuntu
 author = Nathan Osman <admin@quickmediasolutions.com>
 summary = Edited 50 tag wikis
-steps = Provide step by step instructions for to accomplish this.
+steps = Provide step by step instructions for to accomplish this. 
 	Each step should be on a new line with a tab at the beginning, like this.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).

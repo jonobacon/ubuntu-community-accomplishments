@@ -10,7 +10,7 @@ depends = ubuntu-community/askubuntu-booster, ubuntu-community/askubuntu-announc
 author = Hernando Torque <sirius@sonnenkinder.org>
 summary = Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with the world. Share a link to a question, if that link is visited by 1,000 unique IP addresses this badge will be awarded to you. This is the gold version of the Announcer badge.
 steps = Find a question you would like to share.
-	Use either one of the three social share buttons (Twitter, Google+, and Facebook) located to the left of the question.
+	Use any of the three social share buttons (Twitter, Google+, and Facebook) located to the left of the question.
 	Alternatively click the <i>link</i> button below the question or answer and share that link.
 tips = There are no time limitations for this badge.
 	It doesn't need to be your own question.

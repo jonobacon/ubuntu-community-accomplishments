@@ -21,7 +21,7 @@ _("ubuntu-community/askubuntu-taxonomist_description")
 // ACCOMPLISHMENT: Taxonomist on Ask Ubuntu ('summary' field)
 // .
 // ORIGINAL TRANSLATION:
-// Created a tag used by 50 questions. Ask Ubuntu is organized by tags. Each question can have up tp five tags. Users can subscribe to tags they are interested in by hovering over a tag and subscribing to it either via email or RSS. Users can also mark certain tags as "favorite" or "ignored" on the right side of the front page to tailor the front page to their interests. As a user earns more votes in each tag the front page will adjust it's algorithm to present unanswered questions that that user with questions from tags they're most experienced in. In order for all this to work people need to create tags that are useful for this purpose.
+// Created a tag used by 50 questions. Ask Ubuntu is organized by tags. Each question can have up to five tags. Users can subscribe to tags they are interested in by hovering over a tag and subscribing to it either via email or RSS. Users can also mark certain tags as "favorite" or "ignored" on the right side of the front page to tailor the front page to their interests. As a user earns more votes in each tag the front page will present unanswered questions from those tags. This is to ensure the user sees question in fields they're most experienced in. In order for all this to work people need to create tags that are useful for this purpose.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

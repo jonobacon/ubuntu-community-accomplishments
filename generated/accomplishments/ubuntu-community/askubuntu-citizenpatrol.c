@@ -23,7 +23,7 @@ _("ubuntu-community/askubuntu-citizenpatrol_description")
 // ORIGINAL TRANSLATION:
 // Flagging posts is a vital role in the Ask Ubuntu community. Flagging helps identify posts that require moderator attention and possibly moderator intervention.
 // There are several valid flag reasons and they are as follows: Post needs to be closed (as either a duplicate, off-topic, not constructive, or too localized), post is spam, post is offensive, and finally "other" where you can input a message to the moderators.
-// To gain this accomplishment and badge you need to find a post which requires Moderator attention and flag it appropriately.
+// To gain this accomplishment and badge you need to find a post which requires moderator attention and flag it appropriately.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 

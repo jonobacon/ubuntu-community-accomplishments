@@ -9,10 +9,10 @@ icon = askubuntu-bronze.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Marco Ceppi <marco@ceppi.net>
 summary = Bounties are used to help bring attention to a question. When you bounty a question it appears in the <a href="http://askubuntu.com/?tab=featured">Featured Questions</a> list. When you start a bounty, you put up anywhere from 50 to 500 of your hard earned reputation points to attach to any question.
-	When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this accomplishment and badge add a bounty to a question you've asked and award that bounty to an answer.
-steps = Earn at least 75 reputation points
-	Select the "Start Bounty" option for a question you've asked
-	Award that bounty to an answer which fits the criteria of the bounty reason
+	When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this accomplishment and badge, add a bounty to a question you've asked and award that bounty to an answer.
+steps = Earn at least 75 reputation points.
+	Select the "Start Bounty" option for a question you've asked.
+	Award that bounty to an answer which fits the criteria of the bounty reason.
 tips = Bounties can help bring needed attention to a question, use them to help spur the community in to providing answers.
 pitfalls = Questions must be at least 2 days old to be eligible for a bounty.
 	There can only be 1 active bounty per question at any given time.

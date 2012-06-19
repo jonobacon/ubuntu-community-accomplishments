@@ -21,9 +21,9 @@ _("ubuntu-community/askubuntu-civicduty_description")
 // ACCOMPLISHMENT: Civic Duty on Ask Ubuntu ('summary' field)
 // .
 // ORIGINAL TRANSLATION:
-// Voting is every users right and <i>civic duty</i> on the site. By voting you help to sort the poor quality and bad posts from the exceptional and high quality posts. While voting is a practice employed on the site it can come with a price.
-// Upvoting will cost you no reputation and will increase the reputation of the user your voting anwhere from 2-10 points depending on the type of post. However, downvotes operate slightly differently. If you downvote an answer the user will be inflicted with -5 reputaiton points, though you will also take a -2 reputation point penalty. This is designed to avoid abuse of downvotes. If you downvote a question you'll take no hit in reputation.
-// This accomplishment and badge is designed to award those who vote, in either direction. Vote in either direction (up or down) more than 300 times to earn this.
+// Voting is every user's right and <i>civic duty</i> on the site. By voting you help to sort the poor quality and bad posts from the exceptional and high quality posts. While voting is a practice employed on the site it can come with a price.
+// Upvoting will cost you no reputation and will increase the reputation of the user you voted for anywhere from 2-10 points depending on the type of post. However, downvotes operate slightly differently. If you downvote an answer the user will be inflicted with -5 reputation points, though you will also take a -2 reputation point penalty. This is designed to avoid abuse of downvotes. If you downvote a question you'll take no hit in reputation.
+// This accomplishment and badge is designed to award those who vote in either direction. Vote in either direction (up or down) more than 300 times to earn this.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
@@ -34,8 +34,8 @@ _("ubuntu-community/askubuntu-civicduty_summary")
 // ACCOMPLISHMENT: Civic Duty on Ask Ubuntu ('steps' field)
 // .
 // ORIGINAL TRANSLATION:
-// Find content on the site that deserves and upvote or a downvote
-// Use the arrows next to the post to vote either way depending on your opinion of the posts quality and content.
+// Find content on the site that deserves an upvote or a downvote.
+// Use the arrows next to the post to vote either way depending on your opinion of the post's quality and content.
 // Repeat this over 300 times.
 
 // .

@@ -22,7 +22,7 @@ _("ubuntu-community/askubuntu-archaeologist_description")
 // .
 // ORIGINAL TRANSLATION:
 // Editing is a <i>vital</i> function on Ask Ubuntu. By editing you help to fix glaring issues in posts as well as raise the overal quality of the site.
-// By editing old posts to bring them up-to-date you help maintain an even higher standard of quality for aging posts. Editing 100 posts that were inactive for 6 at least six months will win you this achievement and badge.
+// By editing old posts to bring them up-to-date you help maintain an even higher standard of quality for aging posts. Editing 100 posts that were inactive for at least six months will win you this achievement and badge.
 
 // .
 // ----- TRANSLATION INSTRUCTIONS ----- 
