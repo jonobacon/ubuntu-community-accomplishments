@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-06-11 21:16+0200\n"
+"POT-Creation-Date: 2012-06-19 19:30+0200\n"
 "PO-Revision-Date: 2012-06-14 07:13+0000\n"
 "Last-Translator: leonardo corato <leocor@gmail.com>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-15 04:59+0000\n"
-"X-Generator: Launchpad (build 15414)\n"
+"X-Launchpad-Export-Date: 2012-06-20 05:10+0000\n"
+"X-Generator: Launchpad (build 15435)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -706,7 +706,7 @@ msgstr ""
 #. Provide data you are asked for.
 #. Once you are logged in, click your username on site's top panel. Copy the address of the site you will be taken to.
 #. In this very application, select <i>Edit->Identification</i> menu, and paste that address in apropriate field. This will notify the Accomplishments System of your account.
-#. Once your account is verified, you will recive this trophy.
+#. Once your account is verified, you will receive this trophy.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
@@ -1237,7 +1237,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Lack of details in your question won't attract many answers, and therefore give you less page views.
+#. Lack of details in your question won't attract many answers, and therefore give you fewer page views.
 #. Questions that are mainly interesting to you (very local, very specialized).
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -1833,7 +1833,7 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Your question should be interesting enough to enough people to attract this many votes.
-#. Constant editing and improving your question will get it more and more attention.
+#. Constant editing and improving of your question will get it more and more attention.
 #. Continually add the results of your research into your question instead of writing it as one huge log. It should be written in a manner that makes it easy for the reader to understand.
 #. Use the social media buttons to get your question out to the wider community.
 #. .
@@ -1848,7 +1848,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Great Question on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. This is a difficult badge, even the best written and researched questions might not be general enough to attract this many votes.
+#. This is a difficult badge. Even the best written and researched questions might not be general enough to attract this many votes.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
@@ -2442,8 +2442,8 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Ask Ubuntu is a unique site which operates in a unique capacity compared to other Ubuntu Community Support venues. This badge and accomplishment exists to reward users who take the time to review the <a href="http://askubuntu.com/faq/">Ask Ubuntu FAQ</a>.
-#. The Ask Ubuntu FAQ includes a wide breath of knowledge and covers the basics of Frequently Asked Questions and common mistakes on the Ask Ubuntu site. Such topics range from <a href="http://askubuntu.com/faq#question>Question Scope</a>, to <a href="http://askubuntu.com/faq#etiquette">Etiquette</a>, and <a href="http://askubuntu.com/faq#flagging">moderation</a>.
-#. To earn this badge you must visit every section of the <a href="http://askubuntu.com/faq">Ask Ubuntu FAQ</a> and review it's contents.
+#. The Ask Ubuntu FAQ includes a wide breadth of knowledge and covers the basics of Frequently Asked Questions and common mistakes on the Ask Ubuntu site. Such topics range from <a href="http://askubuntu.com/faq#question>question scope</a>, to <a href="http://askubuntu.com/faq#etiquette">etiquette</a>, and <a href="http://askubuntu.com/faq#flagging">moderation</a>.
+#. To earn this badge you must visit every section of the <a href="http://askubuntu.com/faq">Ask Ubuntu FAQ</a> and review its contents.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -3392,7 +3392,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. First up vote
+#. Ask Ubuntu users help separate good content from poor content by voting. Users are encouraged to upvote good content so it is made more visible and the person who posted it is rewarded with additional reputation for their efforts. This badge is awarded when a user upvotes for the first time.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -3405,27 +3405,44 @@ msgstr ""
 #. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Provide step by step instructions for to accomplish this.
-#. Each step should be on a new line with a tab at the beginning, like this.
+#. To vote up, you first need at least 15 reputation on Ask Ubuntu.
+#. Log into Ask Ubuntu and browse the site.
+#. When you see a post that is useful, interesting, well-written and/or informative, vote it up by clicking the up arrow to the left of the post near the top. If you do it correctly, the arrow will turn orange and the post's ranking will increase by 1.
+#. Once you have cast your first upvote, you will be rewarded with this badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:43
+#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:45
 msgid "ubuntu-community/askubuntu-supporter_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Try looking for questions or answers with a score of 0. Often this means they have not been voted on yet.
+#. You can continue voting on other posts after your first upvote, but you only have a limited number of them you can cast each day.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:57
+msgid "ubuntu-community/askubuntu-supporter_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+#. Voting on a post just because it was already upvoted. Vote on a post only if you personally think it deserves the vote.
+#. Voting on a post just because it looks okay. Read questions and answers thoroughly then make an informed decision of whether they deserve your vote.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:54
+#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:69
 msgid "ubuntu-community/askubuntu-supporter_pitfalls"
 msgstr ""
 
@@ -3437,7 +3454,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:64
+#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:79
 msgid "ubuntu-community/askubuntu-supporter_links"
 msgstr ""
 
@@ -3450,7 +3467,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:75
+#: ../accomplishments/ubuntu-community/askubuntu-supporter.c:90
 msgid "ubuntu-community/askubuntu-supporter_help"
 msgstr ""
 
@@ -3671,9 +3688,9 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Edit your question title to be human readable and descriptive. Questions like "Firefox Problem" or "12.04 internet proxy" make no sense to most people and are likely to be ignored.
-#. Edit your question's to add more information over time. What resources did you stumble upon and read? What search engine queries have you tried? Have you found other people on the internet that have posted their problems on forums? Collate all this information together in your question.
+#. Edit your questions to add more information over time. What resources did you stumble upon and read? What search engine queries have you tried? Have you found other people on the internet that have posted their problems on forums? Collate all this information together in your question.
 #. Each edit bumps your question to the top of the site, giving you another shot at an answer. Since each of your edits add more information the more edits you do the better your question will become.
-#. Hit the twitter and Google+ icons on your question to spread it's reach outside the site.
+#. Hit the twitter and Google+ icons on your question to spread its reach outside the site.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add tips and best practise for accomplishing this trophy.
@@ -3686,7 +3703,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Tumbleweed on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. If you don't edit your question usually the question will be ignored. If you don't want your question to be buried don't abandon it, keep adding detail.
+#. If you don't edit your question, usually the question will be ignored. If you don't want your question to be buried, don't abandon it and keep adding detail.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
@@ -3839,7 +3856,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Booster on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with to the world. Share a link to a question, if that link is visited by 300 unique IP addresses this badge will be awarded to you.
+#. Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question or answer with the world. Share a link to a question, and if that link is visited by 300 unique IP addresses this badge will be awarded to you.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -3852,8 +3869,8 @@ msgstr ""
 #. ACCOMPLISHMENT: Booster on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Open a question you wish to share
-#. Use either one of the three social share buttons located to the left of the question.
+#. Open a question you wish to share.
+#. Use any of the three social share buttons located to the left of the question.
 #. Alternatively click the "link" button below the question or answer and share that link.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -4167,8 +4184,8 @@ msgstr ""
 #. ACCOMPLISHMENT: Vox Populi on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Don't just pick random things to vote on, browse around to make sure you're upvoting good content.
-#. Don't serially upvote or downvote a specific person, the anti-cheating script will stop you from gaming the system.
+#. Don't just pick random things to vote on. Browse around to make sure you're upvoting good content.
+#. Don't serially upvote or downvote a specific person. The anti-cheating script will stop you from gaming the system.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
@@ -4230,7 +4247,7 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Bounties are used to help bring attention to a question. When you bounty a question it appears in the <a href="http://askubuntu.com/?tab=featured">Featured Questions</a> list. When you start a bounty, you put up anywhere from 50 to 500 of your hard earned reputation points to attach to any question.
-#. When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this accomplishment and badge add a bounty to a question you've asked and award that bounty to an answer.
+#. When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this accomplishment and badge, add a bounty to a question you've asked and award that bounty to an answer.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -4243,9 +4260,9 @@ msgstr ""
 #. ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Earn at least 75 reputation points
-#. Select the "Start Bounty" option for a question you've asked
-#. Award that bounty to an answer which fits the criteria of the bounty reason
+#. Earn at least 75 reputation points.
+#. Select the "Start Bounty" option for a question you've asked.
+#. Award that bounty to an answer which fits the criteria of the bounty reason.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
@@ -4722,7 +4739,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Tag Editor on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. First Tag Wiki Edit. Ask Ubuntu has tags that split questions into different groups. These tags allow the site to remain organized and help users by allowing them to subscribe to or ignore topics they might find interesting or wish to ignore. Each tag has an associated wiki page called a tag wiki. This page describes the tag, how it's used on the site, and anything the community might find useful about that topic. It is the bridge for that subject between Ask Ubuntu and other canonical references to the subject on the internet, the ideal tag wiki contains many links to other resources.
+#. First Tag Wiki Edit. Ask Ubuntu has tags that split questions into different groups. These tags allow the site to remain organized and help users by allowing them to subscribe to or ignore topics they might find interesting or wish to ignore. Each tag has an associated wiki page called a tag wiki. This page describes the tag, how it's used on the site, and anything the community might find useful about that topic. It is the bridge for that subject between Ask Ubuntu and other canonical references to the subject on the internet. The ideal tag wiki contains many links to other resources.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -4752,7 +4769,7 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Cross-link official Ubuntu documentation and other official resources.
-#. If the tag is about another project link to it's project pages.
+#. If the tag is about another project link to its project pages.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add tips and best practise for accomplishing this trophy.
@@ -4765,7 +4782,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Tag Editor on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Don't just copy and paste articles from Wikipedia, refer to them, and make the excerpt relevant to Ubuntu users.
+#. Don't just copy and paste articles from Wikipedia. Refer to them, and make the excerpt relevant to Ubuntu users.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
@@ -5426,7 +5443,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Lack of details in your question won't attract many answers, and therefore give you less page views.
+#. Lack of details in your question won't attract many answers, and therefore give you fewer page views.
 #. Questions that are mainly interesting to you (very local, very specialized).
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -5873,7 +5890,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Taxonomist on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Created a tag used by 50 questions. Ask Ubuntu is organized by tags. Each question can have up tp five tags. Users can subscribe to tags they are interested in by hovering over a tag and subscribing to it either via email or RSS. Users can also mark certain tags as "favorite" or "ignored" on the right side of the front page to tailor the front page to their interests. As a user earns more votes in each tag the front page will adjust it's algorithm to present unanswered questions that that user with questions from tags they're most experienced in. In order for all this to work people need to create tags that are useful for this purpose.
+#. Created a tag used by 50 questions. Ask Ubuntu is organized by tags. Each question can have up to five tags. Users can subscribe to tags they are interested in by hovering over a tag and subscribing to it either via email or RSS. Users can also mark certain tags as "favorite" or "ignored" on the right side of the front page to tailor the front page to their interests. As a user earns more votes in each tag the front page will present unanswered questions from those tags. This is to ensure the user sees question in fields they're most experienced in. In order for all this to work people need to create tags that are useful for this purpose.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -5988,7 +6005,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Answer a question, you can start with some <a href="http://askubuntu.com/unanswered">unanswered ones</a>.
+#. Answer a question. You can start with some <a href="http://askubuntu.com/unanswered">unanswered ones</a>.
 #. Receive 100 upvotes the site's users.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -6004,10 +6021,10 @@ msgstr ""
 #. ORIGINAL TRANSLATION:
 #. The best answers include screenshots, especially if the question is for something desktop-related.
 #. Use a tool like <a href="https://apps.ubuntu.com/cat/applications/shutter">Shutter</a> to annotate your screenshots and show the answer in steps.
-#. Cross link and refer official Ubuntu documentation and resources, the best answers have many references.
+#. Cross link and refer official Ubuntu documentation and resources. The best answers have many references.
 #. Use the social media buttons to get your question out to the wider community.
-#. Continuously update your answer to improve it's quality so your answer receives more visibility on the site.
-#. Don't just answer the question, go above in beyond by explaining how you solved the problem, take this opportunity to teach a user how to find this kind of information.
+#. Continuously update your answer to improve its quality so your answer receives more visibility on the site.
+#. Don't just answer the question. Go above in beyond by explaining how you solved the problem, and take this opportunity to teach a user how to find this kind of information.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add tips and best practise for accomplishing this trophy.
@@ -6020,9 +6037,9 @@ msgstr ""
 #. ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Many questions are low quality, a great answer needs a great question, so concentrate on finding a highly voted unanswered question to answer.
-#. Many poor questions are just duplicates of other more established questions, double check with a search before you invest time in a great answer; it can be frustrating to waste time writing a great answer to a question that will be closed/removed as a duplicate.
-#. Don't link to random blogs or websites, those resources are typically unable to be reviewed and updated by the community and often have out of date information.
+#. Many questions are low quality. A great answer needs a great question, so concentrate on finding a highly voted unanswered question to answer.
+#. Many poor questions are just duplicates of other more established questions. Double check with a search before you invest time in a great answer; it can be frustrating to waste time writing a great answer to a question that will be closed or removed as a duplicate.
+#. Don't link to random blogs or websites. Those resources are typically unable to be reviewed and updated by the community and often have out of date information.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
@@ -6260,7 +6277,7 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Bounties are used to help bring attention to a question. When you bounty a question it appears in the <a href="http://askubuntu.com/?tab=featured">Featured Questions</a> list. When you start a bounty, you put up anywhere from 50 to 500 of your hard earned reputation points to attach to any question.
-#. When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this badge you need place a bounty on another users question and award it.
+#. When an answer meets your criteria for the bounty you can award it to that answer using the award bounty button. To achieve this badge you need to place a bounty on another user's question and award it.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -6273,8 +6290,8 @@ msgstr ""
 #. ACCOMPLISHMENT: Altruist on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Earn at least 75 reputation points
-#. Place a bounty on a question other than your own
+#. Earn at least 75 reputation points.
+#. Place a bounty on a question other than your own.
 #. Award that bounty to an answer.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -6645,7 +6662,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Famous Question on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Lack of details in your question won't attract many answers, and therefore give you less page views.
+#. Lack of details in your question won't attract many answers, and therefore give you fewer page views.
 #. Questions that are mainly interesting to you (very local, very specialized).
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -7114,7 +7131,7 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Editing is a <i>vital</i> function on Ask Ubuntu. By editing you help to fix glaring issues in posts as well as raise the overal quality of the site.
-#. By editing old posts to bring them up-to-date you help maintain an even higher standard of quality for aging posts. Editing 100 posts that were inactive for 6 at least six months will win you this achievement and badge.
+#. By editing old posts to bring them up-to-date you help maintain an even higher standard of quality for aging posts. Editing 100 posts that were inactive for at least six months will win you this achievement and badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -7994,7 +8011,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with to the world. Share a link to a question, if that link is visited by 25 unique IP addresses this badge will be awarded to you.
+#. Promotion is a great way to not only get attention to a question that needs answering, but to also share a fantastic question/answer with the world. Share a link to a question, and if that link is visited by 25 unique IP addresses this badge will be awarded to you.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -8008,7 +8025,7 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Open a question you wish to share
-#. Use either one of the three social share buttons located to the left of the question.
+#. Use any one of the three social share buttons located to the left of the question.
 #. Alternatively click the "link" button below the question or answer and share that link.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -8608,7 +8625,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Scholar on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Asked a question and accepted an answer
+#. Ask Ubuntu follows a Q&A format for helping users get the information they need. Each question can be answered by multiple users, and ideally the answer which best resolves the question is marked as accepted so others with the same question know what the best way to resolve it is. This badge is awarded once you ask your first question on Ask Ubuntu and then accept an answer for it.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -8621,27 +8638,48 @@ msgstr ""
 #. ACCOMPLISHMENT: Scholar on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Provide step by step instructions for to accomplish this.
-#. Each step should be on a new line with a tab at the beginning, like this.
+#. Log into Ask Ubuntu. Have a good question in mind to ask when you do so.
+#. Get started on your question by clicking the "Ask question" button near the top-left corner of the page.
+#. Enter a title, description and tags for your question, then click the gray "Post Your Question" button near the bottom to post it.
+#. After some answers have been posted and you find one or more of them adequately resolve your question, accept your favorite answer by clicking the checkmark icon to the left of the answer.
+#. After you have accepted the answer properly, you will be awarded with this badge.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add a series of step-by-step instructions for how to accomplish this trophy.
 #. NOTE: Put each step on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:43
+#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:46
 msgid "ubuntu-community/askubuntu-scholar_steps"
+msgstr ""
+
+#. ACCOMPLISHMENT: Scholar on Ask Ubuntu ('tips' field)
+#. .
+#. ORIGINAL TRANSLATION:
+#. Keep in mind you can also post your own answer to your own question while asking the question (to make a how-to style post, for example), or later if you find the answer on your own before someone else does.
+#. Try sharing your question with others or placing a bounty on it to increase the number of answers you get.
+#. If none of the posted answers work for you, try clarifying your question through edits and commenting on the answers to explain why they don't meet your needs.
+#. .
+#. ----- TRANSLATION INSTRUCTIONS -----
+#. Add tips and best practise for accomplishing this trophy.
+#. NOTE: Put each tip on a new line
+#. FORMATTING ALLOWED: <i> <strong> <tt>
+#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:59
+msgid "ubuntu-community/askubuntu-scholar_tips"
 msgstr ""
 
 #. ACCOMPLISHMENT: Scholar on Ask Ubuntu ('pitfalls' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+#. Asking a duplicate question. Duplicates often end up being closed and linked back to similar questions which were previously asked. Search the site first to make sure nobody else has already asked the same question.
+#. Asking a poor quality question. If users can't tell what you are asking for, they either will be reluctant to answer or will post answers that misinterpret what you mean. Make sure your answer is clear when you post it, and be sure to edit it if users leave comments asking for clarification.
+#. Posting a question, then forgetting to accept an answer. If you forget to accept an answer, the question appears to remain unresolved and the user who posted the best answer does not get the reputation for their efforts that having their answer accepted would provide.
+#. Simply saying "thanks" in a comment or adding "[SOLVED]" to the question title. Ask Ubuntu is not a forum, and neither method properly marks the question as resolved. If you alter the question's title to simply mark it as resolved, you'll likely find your edit reverted. Always mark your question as resolved by clicking the checkmark next to the answer you want to accept as the solution.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add things the user should not do when working to accomplish this trophy.
 #. NOTE: Put each pitfall on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:54
+#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:73
 msgid "ubuntu-community/askubuntu-scholar_pitfalls"
 msgstr ""
 
@@ -8653,7 +8691,7 @@ msgstr ""
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Add related web addresses (don't include a HTML link).
 #. NOTE: Put each URL on a new line
-#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:64
+#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:83
 msgid "ubuntu-community/askubuntu-scholar_links"
 msgstr ""
 
@@ -8666,7 +8704,7 @@ msgstr ""
 #. Add related help resources (e.g. IRC channel names).
 #. NOTE: Put each help resource on a new line
 #. FORMATTING ALLOWED: <i> <strong> <tt>
-#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:75
+#: ../accomplishments/ubuntu-community/askubuntu-scholar.c:94
 msgid "ubuntu-community/askubuntu-scholar_help"
 msgstr ""
 
@@ -8786,7 +8824,7 @@ msgstr ""
 #. ORIGINAL TRANSLATION:
 #. Flagging posts is a vital role in the Ask Ubuntu community. Flagging helps identify posts that require moderator attention and possibly moderator intervention.
 #. There are several valid flag reasons and they are as follows: Post needs to be closed (as either a duplicate, off-topic, not constructive, or too localized), post is spam, post is offensive, and finally "other" where you can input a message to the moderators.
-#. To gain this accomplishment and badge you need to find a post which requires Moderator attention and flag it appropriately.
+#. To gain this accomplishment and badge you need to find a post which requires moderator attention and flag it appropriately.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -9631,9 +9669,9 @@ msgstr ""
 #. ACCOMPLISHMENT: Civic Duty on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Voting is every users right and <i>civic duty</i> on the site. By voting you help to sort the poor quality and bad posts from the exceptional and high quality posts. While voting is a practice employed on the site it can come with a price.
-#. Upvoting will cost you no reputation and will increase the reputation of the user your voting anwhere from 2-10 points depending on the type of post. However, downvotes operate slightly differently. If you downvote an answer the user will be inflicted with -5 reputaiton points, though you will also take a -2 reputation point penalty. This is designed to avoid abuse of downvotes. If you downvote a question you'll take no hit in reputation.
-#. This accomplishment and badge is designed to award those who vote, in either direction. Vote in either direction (up or down) more than 300 times to earn this.
+#. Voting is every user's right and <i>civic duty</i> on the site. By voting you help to sort the poor quality and bad posts from the exceptional and high quality posts. While voting is a practice employed on the site it can come with a price.
+#. Upvoting will cost you no reputation and will increase the reputation of the user you voted for anywhere from 2-10 points depending on the type of post. However, downvotes operate slightly differently. If you downvote an answer the user will be inflicted with -5 reputation points, though you will also take a -2 reputation point penalty. This is designed to avoid abuse of downvotes. If you downvote a question you'll take no hit in reputation.
+#. This accomplishment and badge is designed to award those who vote in either direction. Vote in either direction (up or down) more than 300 times to earn this.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
@@ -9646,8 +9684,8 @@ msgstr ""
 #. ACCOMPLISHMENT: Civic Duty on Ask Ubuntu ('steps' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Find content on the site that deserves and upvote or a downvote
-#. Use the arrows next to the post to vote either way depending on your opinion of the posts quality and content.
+#. Find content on the site that deserves an upvote or a downvote.
+#. Use the arrows next to the post to vote either way depending on your opinion of the post's quality and content.
 #. Repeat this over 300 times.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -9750,7 +9788,7 @@ msgstr ""
 #. .
 #. ORIGINAL TRANSLATION:
 #. Find a question you would like to share.
-#. Use either one of the three social share buttons (Twitter, Google+, and Facebook) located to the left of the question.
+#. Use any of the three social share buttons (Twitter, Google+, and Facebook) located to the left of the question.
 #. Alternatively click the <i>link</i> button below the question or answer and share that link.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
@@ -10315,7 +10353,7 @@ msgstr ""
 #. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('summary' field)
 #. .
 #. ORIGINAL TRANSLATION:
-#. Ask Ubuntu is about finding the best answer to any given question using a community. Thus, there will be several different proposed answers other than ones own response. When one of these answers becomes more informative then the others, it is admirable to up vote the better answer, despite the risk of having ones own response not accepted. This badge is awarded when one has up voted 100 different answers where he or she thought it to be better than there own.
+#. Ask Ubuntu is about finding the best answer to any given question using a community. Thus, there will be several different proposed answers other than ones own response. When one of these answers becomes more informative then the others, it is admirable to up vote the better answer, despite the risk of having ones own response not accepted. This badge is awarded when one has up voted 100 different answers where he or she thought it to be better than their own.
 #. .
 #. ----- TRANSLATION INSTRUCTIONS -----
 #. Introduce the accomplishment, explain what the different concepts are that are involved, and provide guidance on how to accomplish it.
