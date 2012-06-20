@@ -7,12 +7,12 @@ icon=askubuntu-silver.png
 needs-signing=true
 depends = ubuntu-community/askubuntu-niceanswer, ubuntu-community/registered-on-askubuntu
 needs-information=askubuntu-user-url
-summary = When you post an answer on Ask Ubuntu, your fellow users will either upvote or downvote your answer. The downvotes are subtracted from the upvotes to obtain the score for your answer. Once your answer receives a score of 25 or greater, you will receive this badge.
+summary = When you post an answer on Ask Ubuntu, your fellow users will either up-vote or down-vote your answer. The down-votes are subtracted from the up-votes to obtain the score for your answer. Once your answer receives a score of 25 or greater, you will receive this badge.
 steps: Visit the <a href="http://askubuntu.com">Ask Ubuntu home page</a> and look for a question you think you might be able to provide an answer to.
     Scroll to the bottom of the page to "Your Answer" and enter your answer below.
     Once your answer is posted, you can click the "edit" link underneath the answer to make further improvements or correct errors.
     You will be awarded the badge once the score of the answer reaches 25.
-pitfalls: Downvotes count against the score of the answer.
+pitfalls: Down-votes count against the score of the answer.
 tips: Be sure to clearly document sources in your answers.
     Screenshots are an excellent way to demonstrate a complicated set of instructions.
 links: http://www.askubuntu.com
