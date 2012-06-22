@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-06-20 09:24+0000\n"
+"PO-Revision-Date: 2012-06-21 11:09+0000\n"
 "Last-Translator: Paco Molinero <paco@byasl.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-21 05:47+0000\n"
-"X-Generator: Launchpad (build 15435)\n"
+"X-Launchpad-Export-Date: 2012-06-22 05:13+0000\n"
+"X-Generator: Launchpad (build 15461)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -28,7 +28,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:11
 msgid "ubuntu-community/askubuntu-researchassistant_title"
-msgstr ""
+msgstr "Asistente de búsqueda en Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('description' field)
 #. .
@@ -91,7 +91,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:64
 msgid "ubuntu-community/askubuntu-researchassistant_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('help' field)
 #. .
@@ -370,7 +370,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:54
 msgid "ubuntu-community/askubuntu-selflearner_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('tips' field)
 #. .
@@ -434,7 +434,7 @@ msgstr "Revisor en Ask Ubuntu"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:20
 msgid "ubuntu-community/askubuntu-reviewer_description"
-msgstr ""
+msgstr "1.000 <a href=\"/review\">revisiones</a>, sobre 200 actionadas"
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('summary' field)
 #. .
@@ -587,7 +587,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:75
 msgid "ubuntu-community/askubuntu-excavator_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('title' field)
 #. .
@@ -680,7 +680,7 @@ msgstr "#ubuntu-bugs en Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:11
 msgid "ubuntu-community/registered-on-askubuntu_title"
-msgstr ""
+msgstr "Registrado en Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('description' field)
 #. .
@@ -691,7 +691,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:20
 msgid "ubuntu-community/registered-on-askubuntu_description"
-msgstr ""
+msgstr "Se ha registrado en Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('summary' field)
 #. .
@@ -752,7 +752,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:71
 msgid "ubuntu-community/registered-on-askubuntu_help"
-msgstr ""
+msgstr "#ubuntu-stack en Freenode"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('title' field)
 #. .
@@ -764,7 +764,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:11
 msgid "ubuntu-community/askubuntu-epic_title"
-msgstr ""
+msgstr "Épico en Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('description' field)
 #. .
@@ -840,7 +840,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:75
 msgid "ubuntu-community/askubuntu-epic_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('title' field)
 #. .
@@ -999,7 +999,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:66
 msgid "ubuntu-community/askubuntu-autobiographer_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('title' field)
 #. .
@@ -1022,7 +1022,7 @@ msgstr "Miembro del equipo Ubuntu Beginers"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:20
 msgid "ubuntu-community/ubuntu-beginners-team-member_description"
-msgstr ""
+msgstr "Es miembro del equipo Ubuntu Beginners"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('summary' field)
 #. .
@@ -1079,7 +1079,7 @@ msgstr "Familiarícese con IRC"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:69
 msgid "ubuntu-community/ubuntu-beginners-team-member_pitfalls"
-msgstr ""
+msgstr "Ninguna"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('help' field)
 #. .
@@ -1107,7 +1107,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:11
 msgid "ubuntu-community/askubuntu-beta_title"
-msgstr ""
+msgstr "Beta en Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Beta on Ask Ubuntu ('description' field)
 #. .
@@ -1184,7 +1184,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:76
 msgid "ubuntu-community/askubuntu-beta_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('title' field)
 #. .
@@ -1196,7 +1196,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:11
 msgid "ubuntu-community/askubuntu-notablequestion_title"
-msgstr ""
+msgstr "Pregunta notable en Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('description' field)
 #. .
@@ -1207,7 +1207,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:20
 msgid "ubuntu-community/askubuntu-notablequestion_description"
-msgstr ""
+msgstr "Pregunta añadida con 2.500 visitas"
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('summary' field)
 #. .
@@ -1234,6 +1234,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:42
 msgid "ubuntu-community/askubuntu-notablequestion_steps"
 msgstr ""
+"Crear <a href=\"http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-"
+"work\">a good question</a>."
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('tips' field)
 #. .
@@ -1287,7 +1289,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:88
 msgid "ubuntu-community/askubuntu-notablequestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Generalist on Ask Ubuntu ('title' field)
 #. .
@@ -1299,7 +1301,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-generalist.c:11
 msgid "ubuntu-community/askubuntu-generalist_title"
-msgstr ""
+msgstr "Generalista en Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Generalist on Ask Ubuntu ('description' field)
 #. .
@@ -1375,7 +1377,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-generalist.c:75
 msgid "ubuntu-community/askubuntu-generalist_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('title' field)
 #. .
@@ -1387,7 +1389,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:11
 msgid "ubuntu-community/askubuntu-stellarquestion_title"
-msgstr ""
+msgstr "Pregunta estelar en Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('description' field)
 #. .
@@ -1479,7 +1481,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:89
 msgid "ubuntu-community/askubuntu-stellarquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1660,7 +1662,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:75
 msgid "ubuntu-community/askubuntu-precognitive_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Community Council Member ('title' field)
 #. .
@@ -1910,7 +1912,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-greatquestion.c:88
 msgid "ubuntu-community/askubuntu-greatquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Electorate on Ask Ubuntu ('title' field)
 #. .
@@ -1998,7 +2000,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-electorate.c:75
 msgid "ubuntu-community/askubuntu-electorate_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Unsung Hero on Ask Ubuntu ('title' field)
 #. .
@@ -2073,7 +2075,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-unsunghero.c:64
 msgid "ubuntu-community/askubuntu-unsunghero_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('title' field)
 #. .
@@ -2161,7 +2163,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:75
 msgid "ubuntu-community/askubuntu-marshal_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Attend Ubuntu Global Jam Event ('title' field)
 #. .
@@ -2248,6 +2250,8 @@ msgstr "http://loco.ubuntu.com/events/globaljam/"
 #: ../accomplishments/ubuntu-community/attend-global-jam.c:75
 msgid "ubuntu-community/attend-global-jam_help"
 msgstr ""
+"#ubuntu-locoteams en Freenode\n"
+"#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('title' field)
 #. .
@@ -2335,7 +2339,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:75
 msgid "ubuntu-community/askubuntu-investor_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Suffrage on Ask Ubuntu ('title' field)
 #. .
@@ -2442,7 +2446,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-suffrage.c:92
 msgid "ubuntu-community/askubuntu-suffrage_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Analytical on Ask Ubuntu ('title' field)
 #. .
@@ -2535,7 +2539,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-analytical.c:78
 msgid "ubuntu-community/askubuntu-analytical_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Populist on Ask Ubuntu ('title' field)
 #. .
@@ -2628,7 +2632,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-populist.c:77
 msgid "ubuntu-community/askubuntu-populist_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Peer Pressure on Ask Ubuntu ('title' field)
 #. .
@@ -2723,7 +2727,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-peerpressure.c:79
 msgid "ubuntu-community/askubuntu-peerpressure_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('title' field)
 #. .
@@ -2811,7 +2815,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:75
 msgid "ubuntu-community/askubuntu-organizer_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('title' field)
 #. .
@@ -2920,7 +2924,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-teacher.c:94
 msgid "ubuntu-community/askubuntu-teacher_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Student on Ask Ubuntu ('title' field)
 #. .
@@ -3025,7 +3029,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-student.c:90
 msgid "ubuntu-community/askubuntu-student_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
 #. .
@@ -3208,7 +3212,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-quorum.c:66
 msgid "ubuntu-community/askubuntu-quorum_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
@@ -3537,7 +3541,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-supporter.c:90
 msgid "ubuntu-community/askubuntu-supporter_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Attend Ubuntu Hour Event ('title' field)
 #. .
@@ -3619,6 +3623,8 @@ msgstr "http://loco.ubuntu.com/events/"
 #: ../accomplishments/ubuntu-community/attend-ubuntu-hour.c:70
 msgid "ubuntu-community/attend-ubuntu-hour_help"
 msgstr ""
+"#ubuntu-locoteams en Freenode\n"
+"#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Attend Ubuntu Developer Summit ('title' field)
 #. .
@@ -3704,6 +3710,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/attend-uds.c:72
 msgid "ubuntu-community/attend-uds_help"
 msgstr ""
+"#ubuntu-uds en Freenode\n"
+"#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Tumbleweed on Ask Ubuntu ('title' field)
 #. .
@@ -3806,7 +3814,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-tumbleweed.c:88
 msgid "ubuntu-community/askubuntu-tumbleweed_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('title' field)
 #. .
@@ -4003,7 +4011,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-booster.c:87
 msgid "ubuntu-community/askubuntu-booster_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
@@ -4200,7 +4208,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-goodquestion.c:77
 msgid "ubuntu-community/askubuntu-goodquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Vox Populi on Ask Ubuntu ('title' field)
 #. .
@@ -4289,7 +4297,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-voxpopuli.c:76
 msgid "ubuntu-community/askubuntu-voxpopuli_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('title' field)
 #. .
@@ -4400,7 +4408,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-benefactor.c:94
 msgid "ubuntu-community/askubuntu-benefactor_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('title' field)
 #. .
@@ -4488,7 +4496,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:75
 msgid "ubuntu-community/askubuntu-editor_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('title' field)
 #. .
@@ -4595,7 +4603,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:92
 msgid "ubuntu-community/askubuntu-niceanswer_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
@@ -4898,7 +4906,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-tageditor.c:89
 msgid "ubuntu-community/askubuntu-tageditor_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Convention on Ask Ubuntu ('title' field)
 #. .
@@ -4986,7 +4994,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-convention.c:75
 msgid "ubuntu-community/askubuntu-convention_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Reversal on Ask Ubuntu ('title' field)
 #. .
@@ -5074,7 +5082,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-reversal.c:75
 msgid "ubuntu-community/askubuntu-reversal_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('title' field)
 #. .
@@ -5162,7 +5170,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:75
 msgid "ubuntu-community/askubuntu-guru_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('title' field)
 #. .
@@ -5371,7 +5379,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:75
 msgid "ubuntu-community/askubuntu-copyeditor_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('title' field)
 #. .
@@ -5459,7 +5467,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:75
 msgid "ubuntu-community/askubuntu-deputy_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('title' field)
 #. .
@@ -5562,7 +5570,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-popularquestion.c:88
 msgid "ubuntu-community/askubuntu-popularquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('title' field)
 #. .
@@ -5770,7 +5778,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-promoter.c:83
 msgid "ubuntu-community/askubuntu-promoter_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 #. .
@@ -6059,7 +6067,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-taxonomist.c:87
 msgid "ubuntu-community/askubuntu-taxonomist_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('title' field)
 #. .
@@ -6167,7 +6175,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-greatanswer.c:93
 msgid "ubuntu-community/askubuntu-greatanswer_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Disciplined on Ask Ubuntu ('title' field)
 #. .
@@ -6343,7 +6351,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-cleanup.c:75
 msgid "ubuntu-community/askubuntu-cleanup_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Altruist on Ask Ubuntu ('title' field)
 #. .
@@ -6441,7 +6449,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-altruist.c:83
 msgid "ubuntu-community/askubuntu-altruist_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
@@ -6902,7 +6910,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-strunkandwhite.c:89
 msgid "ubuntu-community/askubuntu-strunkandwhite_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Enthusiast on Ask Ubuntu ('title' field)
 #. .
@@ -6990,7 +6998,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-enthusiast.c:75
 msgid "ubuntu-community/askubuntu-enthusiast_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('title' field)
 #. .
@@ -7207,7 +7215,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:89
 msgid "ubuntu-community/askubuntu-proofreader_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Archaeologist on Ask Ubuntu ('title' field)
 #. .
@@ -7374,7 +7382,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-commentator.c:75
 msgid "ubuntu-community/askubuntu-commentator_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Legendary on Ask Ubuntu ('title' field)
 #. .
@@ -7462,7 +7470,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-legendary.c:75
 msgid "ubuntu-community/askubuntu-legendary_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Attend Event with another Local Community ('title' field)
 #. .
@@ -7544,6 +7552,8 @@ msgstr "http://loco.ubuntu.com/teams/"
 #: ../accomplishments/ubuntu-community/attend-other-team-event.c:70
 msgid "ubuntu-community/attend-other-team-event_help"
 msgstr ""
+"#ubuntu-locoteams en Freenode\n"
+"#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Mortarboard on Ask Ubuntu ('title' field)
 #. .
@@ -7631,7 +7641,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-mortarboard.c:75
 msgid "ubuntu-community/askubuntu-mortarboard_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Revival on Ask Ubuntu ('title' field)
 #. .
@@ -7907,7 +7917,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-enlightened.c:75
 msgid "ubuntu-community/askubuntu-enlightened_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Good Answer on Ask Ubuntu ('title' field)
 #. .
@@ -8011,7 +8021,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-goodanswer.c:89
 msgid "ubuntu-community/askubuntu-goodanswer_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Membership Board Member ('title' field)
 #. .
@@ -8096,7 +8106,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:70
 msgid "ubuntu-community/ubuntu-membership-board-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('title' field)
 #. .
@@ -8185,7 +8195,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-announcer.c:76
 msgid "ubuntu-community/askubuntu-announcer_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Fanatic on Ask Ubuntu ('title' field)
 #. .
@@ -8287,7 +8297,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-fanatic.c:87
 msgid "ubuntu-community/askubuntu-fanatic_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: LoCo Council Member ('title' field)
 #. .
@@ -8527,7 +8537,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-nicequestion.c:77
 msgid "ubuntu-community/askubuntu-nicequestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('title' field)
 #. .
@@ -9302,7 +9312,7 @@ msgstr "http://www.askubuntu.com"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-favoritequestion.c:75
 msgid "ubuntu-community/askubuntu-favoritequestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('title' field)
 #. .
@@ -10059,6 +10069,8 @@ msgstr "http://loco.ubuntu.com"
 #: ../accomplishments/ubuntu-community/organize-loco-event.c:68
 msgid "ubuntu-community/organize-loco-event_help"
 msgstr ""
+"#ubuntu-locoteams en Freenode\n"
+"#ubuntu-community-team en Freenode"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
 #. .
@@ -10367,7 +10379,7 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/accomplishments-contributor.c:98
 msgid "ubuntu-community/accomplishments-contributor_help"
 msgstr ""
-"#ubuntu-accomplishments on Freenode\r\n"
+"#ubuntu-accomplishments en Freenode\r\n"
 "<a href='https://launchpad.net/~ubuntu-accomplishments-contributors' "
 "style='color:white'><b>~ubuntu-accomplishments-contributors</b></a> lista de "
 "correo"
