@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-06-21 11:09+0000\n"
+"PO-Revision-Date: 2012-06-23 07:50+0000\n"
 "Last-Translator: Paco Molinero <paco@byasl.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-22 05:13+0000\n"
+"X-Launchpad-Export-Date: 2012-06-24 05:54+0000\n"
 "X-Generator: Launchpad (build 15461)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
@@ -447,7 +447,7 @@ msgstr "1.000 <a href=\"/review\">revisiones</a>, sobre 200 actionadas"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:31
 msgid "ubuntu-community/askubuntu-reviewer_summary"
-msgstr ""
+msgstr "1.000 <a href=\"/review\">revisiones</a>, sobre 200 actionnadas"
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('steps' field)
 #. .
@@ -522,7 +522,7 @@ msgstr "Excavador en Ask Ubuntu"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:20
 msgid "ubuntu-community/askubuntu-excavator_description"
-msgstr ""
+msgstr "Primer post inactivo desde hace 6 meses editado"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('summary' field)
 #. .
@@ -535,7 +535,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:31
 msgid "ubuntu-community/askubuntu-excavator_summary"
-msgstr ""
+msgstr "Ha editado el primer post que estaba inactivo desde hace 6 meses"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('steps' field)
 #. .
@@ -775,7 +775,7 @@ msgstr "Épico en Ask Ubuntu"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:20
 msgid "ubuntu-community/askubuntu-epic_description"
-msgstr ""
+msgstr "Conseguida una reputación diaria de 200 50 veces"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('summary' field)
 #. .
