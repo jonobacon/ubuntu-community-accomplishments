@@ -7,3 +7,9 @@ en_US = Ask Ubuntu Profile URL
 en = The URL of your profile page on Ask Ubuntu
 en_GB = The URL of your profile page on Ask Ubuntu
 en_US = The URL of your profile page on Ask Ubuntu
+
+[example]
+en = http://askubuntu.com/users/NUMBER/USERNAME
+
+[regex]
+value = ^(https?://)?askubuntu.com/users/\d+/.*
