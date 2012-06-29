@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-05-24 23:25+0000\n"
-"Last-Translator: Jono Bacon <jono@ubuntu.com>\n"
+"PO-Revision-Date: 2012-06-28 16:56+0000\n"
+"Last-Translator: Jan Strohbeck <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-20 05:09+0000\n"
-"X-Generator: Launchpad (build 15435)\n"
+"X-Launchpad-Export-Date: 2012-06-29 05:09+0000\n"
+"X-Generator: Launchpad (build 15505)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -224,7 +224,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:20
 msgid "ubuntu-community/askubuntu-pundit_description"
-msgstr ""
+msgstr "10 Kommentare mit einer Bewertung von 5 oder mehr geschrieben"
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('summary' field)
 #. .
@@ -254,6 +254,11 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:45
 msgid "ubuntu-community/askubuntu-pundit_steps"
 msgstr ""
+"Schreiben Sie einen hochwertigen Kommentar. Wenn Sie eine Reputation von "
+"weniger als 50 besitzen können sie nur ihre eigenen Beiträge und Fragen "
+"kommentieren.\r\n"
+"Warten Sie bis der Kommentar 5 mal von der Community aufgewertet wurde.\r\n"
+"Wiederholen sie das für insgesamt 10 solcher Kommentare."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('tips' field)
 #. .
@@ -267,6 +272,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:56
 msgid "ubuntu-community/askubuntu-pundit_tips"
 msgstr ""
+"Ihre Kommentare werden wahrscheinlich eher aufgewertet werden, wenn sie "
+"wirklich etwas beitragen (etwa wenn sie den Fragesteller nach mehr Details "
+"fragen, eine Abwertung eines Kommentars erklären, usw.)"
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -280,6 +288,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:67
 msgid "ubuntu-community/askubuntu-pundit_pitfalls"
 msgstr ""
+"Versuchen sie nicht, Aufwertungen durch das Hinterlassen von witzigen oder "
+"höhnischen Kommentaren herbeizuführen."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('links' field)
 #. .
@@ -330,7 +340,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:20
 msgid "ubuntu-community/askubuntu-selflearner_description"
-msgstr ""
+msgstr "Beantworten Sie ihre Frage mit einer Bewertung von 3 oder höher."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('summary' field)
 #. .
@@ -359,6 +369,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:44
 msgid "ubuntu-community/askubuntu-selflearner_steps"
 msgstr ""
+"Tragen sie eine korrekte Antwort zu einer von ihnen gestellten Frage bei.\r\n"
+"Erhalten sie drei Aufwertungen auf diese Antwort von der Ask Ubuntu "
+"Community."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('links' field)
 #. .
@@ -370,7 +383,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:54
 msgid "ubuntu-community/askubuntu-selflearner_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('tips' field)
 #. .
@@ -399,6 +412,10 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:78
 msgid "ubuntu-community/askubuntu-selflearner_pitfalls"
 msgstr ""
+"Vage oder allgemeine Antworten mit Links zu anderen Blogs sind nicht einfach "
+"zu verstehen.\r\n"
+"Offensichtliche Antworten werden die Community nicht beeindrucken sondern "
+"eher die Chance mindern, dass ihre Antwort aufgewertet wird."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('help' field)
 #. .
@@ -599,7 +616,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:11
 msgid "ubuntu-community/bugsquad-member_title"
-msgstr ""
+msgstr "Bug Squad Mitglied"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('description' field)
 #. .
@@ -610,7 +627,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:20
 msgid "ubuntu-community/bugsquad-member_description"
-msgstr ""
+msgstr "Sie sind ein Mitglied des Ubuntu Bug Squads"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('summary' field)
 #. .
@@ -625,6 +642,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:32
 msgid "ubuntu-community/bugsquad-member_summary"
 msgstr ""
+"Das Ubuntu Bug Squad ist Ubuntu's Team um dabei zu helfen, Bug Reports zu "
+"verbessern."
 
 #. ACCOMPLISHMENT: Bug Squad Member ('steps' field)
 #. .
@@ -678,7 +697,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:11
 msgid "ubuntu-community/registered-on-askubuntu_title"
-msgstr ""
+msgstr "Registrieren Sie sich bei Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('description' field)
 #. .
@@ -689,7 +708,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:20
 msgid "ubuntu-community/registered-on-askubuntu_description"
-msgstr ""
+msgstr "Sie haben sich bei Ask Ubuntu registriert"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('summary' field)
 #. .
@@ -704,6 +723,14 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:32
 msgid "ubuntu-community/registered-on-askubuntu_summary"
 msgstr ""
+"<a href=\"http://askubuntu.com\">Ask Ubuntu</a> ist eine Webseite auf der "
+"Nutzer Fragen zu Ubuntu stellen können. Es ist eine gute Möglichkeit um "
+"Hilfe zu erhalten, es ist einfach und schnell und man muss sich nicht "
+"registrieren um dort etwas fragen zu können. Um jedoch alle Funktionen der "
+"Seite nutzen zu können, wie etwa Antworten schreiben, bewerten und vieles "
+"mehr, ist eine Registrierung notwendig.\r\n"
+"Diese Errungenschaft schaltet alle anderen Trophäen, die sie durch ihre "
+"Aktivität bei Ask Ubuntu erhalten können, frei."
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('steps' field)
 #. .
