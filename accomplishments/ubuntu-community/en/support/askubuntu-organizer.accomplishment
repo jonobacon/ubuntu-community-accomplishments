@@ -2,15 +2,24 @@
 title=Organizer on Ask Ubuntu
 description=First retag
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Starter
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 depends=ubuntu-community/registered-on-askubuntu
-summary = First retag
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+summary = To help users find questions of a certain type more quickly, questions have tags which categorize them. Users can edit tags to associate questions with the most relevant categories. This badge is awarded when a user does their first retag.
+steps: Log into Ask Ubuntu and find a question which could use better tags.
+	Click the "edit" link under the question to edit it. This lets you edit the tags.
+	Click the X's on the right of pre-existing tags to remove them, and type in the tags box to search for and add tags.
+	Click the "Save Edits" button under the Edit Summary box for your retag to take effect.
+	Once the retag is saved, you will earn this badge.
+tips: You can gain the privilege to retag questions at will once you have 500 reputation.
+	Keep in mind that questions need at least one tag and no more than five.
+	If several closely-related tags are used on the same question, you should see if you can just leave the most specific tag on the question and remove the others.
+	"Meta" tags are tags which could apply to such a wide range of questions that they are not useful for categorization purposes. Examples include "error" and "help". If you see meta tags, be sure to remove them!
+	You can create new tags if none of the pre-existing tags found in search quite describe the question. Note that you will first need 300 reputation to create new tags, however.
+pitfalls: Removing relevant tags. Tags help users find certain kinds of questions faster, and if those tags aren't there, finding becomes more difficult. Remove tags only if you know they don't belong on that particular question.
+	Adding redundant tags. Multiple tags which basically mean the same thing, when used together, simply use up space that could be used for other useful tags.
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Christopher Kyle Horton <christhehorton@gmail.com>
