@@ -1,6 +1,6 @@
 [accomplishment]
-title = Pundit on Ask Ubuntu
-description = Left 10 comments with score of 5 or more
+title = Pundit en Ask Ubuntu
+description = Realice 10 comentarios con valoración de 5 o más.
 collection = ubuntu-community
 category = Ask Ubuntu:Comment
 needs-signing = true
@@ -13,7 +13,7 @@ summary = Comments are temporary notes left on a question or an answer. They can
 steps = Leave a high quality comment. If you have less than 50 reputation, you can only comment your own posts and questions.
 	Wait until the comment received 5 or more upvotes from the community.
 	Repeat for a total of 10 such comments.
-tips = Your comments will more likely receive upvotes if they add real value to the posts (e.g., asking a questioner for more detail, explaining a downvote on the post, etc.).
-pitfalls = Don't try to attract upvotes by leaving funny or snide comments.
-help = #ubuntu-community-team on Freenode
+tips = Es más probable que su comentario sea mejor valorado si agrega valor real al post (ejemplo:  solicitando más detalles, explicando una valoración negativa en el post, etc.).
+pitfalls = No intente ganar valoraciones positivas haciendo comentarios graciosos o sarcásticos.
+help = #ubuntu-community-team en Freenode
 

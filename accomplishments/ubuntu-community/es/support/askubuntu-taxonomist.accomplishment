@@ -14,5 +14,5 @@ steps = Simply enter a new tag with your question and it will be created.
 tips = This badge is difficult to get due to the site already having tags for most topics.
 	A good tag is one people would subscribe to without fragmenting the subject into multiple tags. Better to have one maintained "firefox" tag than one for each release of Firefox, for example.
 pitfalls = Don't create useless or <a href="http://blog.stackoverflow.com/2010/08/the-death-of-meta-tags/"meta tags</a>, the community has to then police up the junk tags, making it more work for everyone.
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team en Freenode
 

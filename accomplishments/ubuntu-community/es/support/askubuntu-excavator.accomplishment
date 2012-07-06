@@ -1,6 +1,6 @@
 [accomplishment]
-title = Excavator on Ask Ubuntu
-description = Edited first post that was inactive for 6 months
+title = Excavador en Ask Ubuntu
+description = Primer post inactivo desde hace 6 meses editado
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,10 +8,10 @@ needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = Edited first post that was inactive for 6 months
+summary = Ha editado el primer post que estaba inactivo desde hace 6 meses
 steps = Provide step by step instructions for to accomplish this.
 	Each step should be on a new line with a tab at the beginning, like this.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team en Freenode
 

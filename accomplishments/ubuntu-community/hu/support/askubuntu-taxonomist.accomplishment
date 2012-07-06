@@ -1,0 +1,18 @@
+[accomplishment]
+title = Taxonomist on Ask Ubuntu
+description = Created a tag used by 50 questions
+collection = ubuntu-community
+category = Ask Ubuntu:Tagging
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-silver.png
+depends = ubuntu-community/registered-on-askubuntu
+author = Jorge O. Castro <jorge@ubuntu.com>
+summary = Created a tag used by 50 questions. Ask Ubuntu is organized by tags. Each question can have up to five tags. Users can subscribe to tags they are interested in by hovering over a tag and subscribing to it either via email or RSS. Users can also mark certain tags as "favorite" or "ignored" on the right side of the front page to tailor the front page to their interests. As a user earns more votes in each tag the front page will present unanswered questions from those tags. This is to ensure the user sees question in fields they're most experienced in. In order for all this to work people need to create tags that are useful for this purpose.
+steps = Simply enter a new tag with your question and it will be created.
+	When creating your new tag, bear in mind that tags have a maximum of 25 characters and must use the character set a-z 0-9 + # - .
+tips = This badge is difficult to get due to the site already having tags for most topics.
+	A good tag is one people would subscribe to without fragmenting the subject into multiple tags. Better to have one maintained "firefox" tag than one for each release of Firefox, for example.
+pitfalls = Don't create useless or <a href="http://blog.stackoverflow.com/2010/08/the-death-of-meta-tags/"meta tags</a>, the community has to then police up the junk tags, making it more work for everyone.
+help = #ubuntu-community-team on Freenode
+

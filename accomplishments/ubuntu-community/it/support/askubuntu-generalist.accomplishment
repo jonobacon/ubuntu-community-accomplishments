@@ -1,6 +1,6 @@
 [accomplishment]
-title = Generalist on Ask Ubuntu
-description = Provided non-wiki answers of 15 total score in 20 of top 40 tags
+title = Generalista su Ask Ubuntu
+description = Hai fornito riposte non-wiki con punteggio totale di 15 in 20 sui top 40 tags
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,10 +8,10 @@ needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = Provided non-wiki answers of 15 total score in 20 of top 40 tags
+summary = Hai fornito riposte non-wiki con punteggio totale di 15 in 20 sui top 40 tags
 steps = Provide step by step instructions for to accomplish this.
 	Each step should be on a new line with a tab at the beginning, like this.
 tips = None
-pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+pitfalls = Un insieme di cose che l'utente dovrebbe evitare mentre esamina accuratamente questo raggiungimento (ognuna aggiunta su una nuova riga)
+help = #ubuntu-community-team su Freenode
 

@@ -19,6 +19,6 @@ steps = You first need to create some code that you want to upload to Launchpad.
 	We are now ready to upload your branch to Launchpad. This is known as <i>pushing</i> a branch. To do this type <tt>bzr push lp:~<your-username>/+junk/<name></tt> (for example: <tt>bzr push lp:~bob/+junk/my-first-branch</tt>). Please note your branch name can be anything; it does not need to be the same name as the directory with your code in it.
 	You can now go to your Launchpad profile, click <i>Code</i> and see the branch.
 tips = If you want to grab a branch of another project on Launchpad (e.g. <i>ubuntu-community-accomplishments</i>, run <tt>bzr branch lp:ubuntu-community-accomplishments</tt>. You can then add your own modified version of this branch by using the project name in the push address (e.g. <tt>bzr push lp:~bob/ubuntu-community-accomplishments/my-first-branch</tt>.
-pitfalls = Never upload code you don't own or illigal content to Launchpad.
+pitfalls = Never upload code you don't own or illegal content to Launchpad.
 help = #ubuntu-devel on Freenode
 

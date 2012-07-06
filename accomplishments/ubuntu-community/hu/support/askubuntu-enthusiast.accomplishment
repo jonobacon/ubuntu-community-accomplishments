@@ -1,0 +1,17 @@
+[accomplishment]
+title = Enthusiast on Ask Ubuntu
+description = Visited the site each day for 30 consecutive days
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-silver.png
+depends = ubuntu-community/registered-on-askubuntu
+author = Nathan Osman <admin@quickmediasolutions.com>
+summary = Visited the site each day for 30 consecutive days
+steps = Provide step by step instructions for to accomplish this.
+	Each step should be on a new line with a tab at the beginning, like this.
+tips = None
+pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+help = #ubuntu-community-team on Freenode
+

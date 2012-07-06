@@ -1,6 +1,6 @@
 [accomplishment]
-title = Reviewer on Ask Ubuntu
-description = 1000 <a href="/review">reviews</a>, over 200 actioned
+title = Revisor en Ask Ubuntu
+description = 1.000 <a href="/review">revisiones</a>, sobre 200 actionadas
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,10 +8,10 @@ needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = 1000 <a href="/review">reviews</a>, over 200 actioned
+summary = 1.000 <a href="/review">revisiones</a>, sobre 200 actionnadas
 steps = Provide step by step instructions for to accomplish this.
 	Each step should be on a new line with a tab at the beginning, like this.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team en Freenode
 

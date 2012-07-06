@@ -8,16 +8,16 @@ needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Hernando Torque <sirius@sonnenkinder.org>
-summary = These posts show how good answers should look like. They typically take a few revisions and additions to receive a score of 10 from the community (where <i>score</i> is the difference between up- and downvotes).
+summary = These posts show how good answers should look like. They typically take a few revisions and additions to receive a score of 10 from the community (where <i>score</i> is the difference between up- and down-votes).
 steps = Answer a question, you can start with some <a href="http://askubuntu.com/unanswered">unanswered ones</a>.
-	Receive enough upvotes to get a score of 10 from the site's users.
+	Receive enough up-votes to get a score of 10 from the site's users.
 tips = Good answers include screenshots, especially if the question is for something desktop-related.
 	Use a tool like <a href="https://apps.ubuntu.com/cat/applications/shutter">Shutter</a> to annotate your screenshots and show the answer in a step-by-step way.
-	Crosslink and refer official Ubuntu documentation and resources - good answers have many references!
+	Cross-link and refer official Ubuntu documentation and resources - good answers have many references!
 	Use the social media buttons (for Twitter, Google+, and Facebook) to get your question out to the wider community.
 	Continuously update your answer to improve its quality so your answer receives more visibility on the site.
 pitfalls = Many questions are of low quality, a great answer needs a great question, so concentrate on finding a highly voted unanswered question to answer.
 	Many poor questions are just duplicates of other more established questions, double check with a search before you invest time in a great answer; it can be frustrating to waste time writing a great answer to a question that will be closed/removed as a duplicate.
 	Don't link to random blogs or websites, those resources are typically unable to be reviewed and updated by the community and often have out of date information. If an answer only contains a link, it typically gets deleted.
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team en Freenode
 

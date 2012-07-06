@@ -8,8 +8,8 @@ needs-information = launchpad-email
 icon = default.png
 depends = ubuntu-community/signed-code-of-conduct
 author = Silver Fox <silver-fox@ubuntu.com>
-summary = The Ubuntu Beginners Team exists to enhance the initial experience of new Ubuntu users and to guide existing Ubuntu users to become part of the global Ubuntu community. The Beginners Team helps you get involved in the wonderful world of the Ubuntu Community.
-	The team is open for anyone to join and get involved with the wider community.
+summary = Il Team di Ubuntu Beginners esiste per migliorare l'esperienza iniziale dei nuovi  utenti Ubuntu e per guidare gli utenti Ubuntu esistenti per diventare parte della comunità Ubuntu globale. IL Team Beginners ti aiuta a essere coinvolto nel meraviglioso mondo della Comunità Ubuntu.
+	L'iscrizione al Team è aperta a chiunque così come la partecipazione a una comunità più estesa.
 steps = Read the <a href="https://wiki.ubuntu.com/BeginnersTeam">introduction</a> and <a href="https://wiki.ubuntu.com/BeginnersTeam/MissionStatement">mission statement</a> and familiarize yourself with the current focus groups.
 	Subscribe to the <a href="http://lists.ubuntu.com/ubuntu-beginners">mailing list</a> to ensure that you remain up-to-date with what the team is doing.
 	Create a personal wiki page. Details on how to do this can be found <a href="https://wiki.ubuntu.com/BeginnersTeam/Membership/BTWikiGuide">here</a>

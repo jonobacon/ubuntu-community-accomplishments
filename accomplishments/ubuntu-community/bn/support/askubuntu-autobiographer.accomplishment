@@ -8,7 +8,7 @@ needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Marco Ceppi <marco@ceppi.net>
-summary = While a profile, or an account, isn't required to use Ask Ubuntu having one allows you to track your progress, reputation, and badges. Filling out your profile helps to build your reputation and identity on the site. By completing all user profile fields you'll be awarded this acomplishment and badge.
+summary = While a profile, or an account, isn't required to use Ask Ubuntu having one allows you to track your progress, reputation, and badges. Filling out your profile helps to build your reputation and identity on the site. By completing all user profile fields you'll be awarded this accomplishment and badge.
 steps = Log in to Ask Ubuntu.
 	Click on your user in Stack Exchange Global bar.
 	Select the "edit" button next to your name.

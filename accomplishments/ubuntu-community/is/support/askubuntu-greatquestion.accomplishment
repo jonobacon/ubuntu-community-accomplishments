@@ -8,8 +8,8 @@ needs-information = askubuntu-user-url
 icon = askubuntu-gold.png
 depends = ubuntu-community/askubuntu-goodquestion, ubuntu-community/askubuntu-nicequestion, ubuntu-community/registered-on-askubuntu
 author = Jorge O. Castro <jorge@ubuntu.com>
-summary = Question score of 100 or more. The best questions recieve this badge, it takes multiple revisions and constant work to make a question that is universal enough to receive 100 upvotes from your peers. The questions with this badge are considered the best questions on the entire site.
-steps = Ask a question that attracts 100 upvotes from the site's users.
+summary = Question score of 100 or more. The best questions receive this badge, it takes multiple revisions and constant work to make a question that is universal enough to receive 100 up-votes from your peers. The questions with this badge are considered the best questions on the entire site.
+steps = Ask a question that attracts 100 up-votes from the site's users.
 tips = Your question should be interesting enough to enough people to attract this many votes.
 	Constant editing and improving of your question will get it more and more attention.
 	Continually add the results of your research into your question instead of writing it as one huge log. It should be written in a manner that makes it easy for the reader to understand.

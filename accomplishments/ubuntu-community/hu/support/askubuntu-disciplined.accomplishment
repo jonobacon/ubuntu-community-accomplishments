@@ -1,0 +1,17 @@
+[accomplishment]
+title = Disciplined on Ask Ubuntu
+description = Deleted own post with score of 3 or higher
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
+author = Nathan Osman <admin@quickmediasolutions.com>
+summary = Deleted own post with score of 3 or higher
+steps = Provide step by step instructions for to accomplish this.
+	Each step should be on a new line with a tab at the beginning, like this.
+tips = None
+pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+help = #ubuntu-community-team on Freenode
+

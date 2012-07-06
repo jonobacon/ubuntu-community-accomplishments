@@ -1,0 +1,19 @@
+[accomplishment]
+title = Nice Question on Ask Ubuntu
+description = Question score of 10 or more
+collection = ubuntu-community
+category = Ask Ubuntu:Asking & Answering
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
+author = Hernando Torque <sirius@sonnenkinder.org>
+summary = <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">Good questions</a> receive this badge once they reach a score of 10 or more. They include all the details necessary to answer the question, frequent edits to improve the content, and they are as concise as possible.
+steps = Ask a question that attracts enough upvotes from the site's users to get a score of 10 (<i>score</i> being the difference between up- and downvotes).
+tips = Your question should be interesting to many users to attract this many votes.
+	Constant editing and improving your question will get it more and more attention.
+	Continually add the results of your progress towards an answer into your question instead of writing it as one huge log. It should be written in a manner that makes it easy for the reader to understand.
+	Use the social media buttons (currently Twitter, Google+, and Facebook are supported) to get your question out to the wider community.
+pitfalls = None
+help = #ubuntu-community-team on Freenode
+

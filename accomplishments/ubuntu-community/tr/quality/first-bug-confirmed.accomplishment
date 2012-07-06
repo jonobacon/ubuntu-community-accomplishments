@@ -13,7 +13,7 @@ steps = File a bug as you would normally (see the Filed First Bug accomplishment
 	A clear and concise description of the problem. Don't forget to mention whether the bug can be triggered every time or whether it is intermittent.
 	A set of steps to reproduce the problem. Make sure that they are explicit. For instance, if a step involves selecting a menu item, specify whether selecting it using the mouse or keyboard shortcuts makes a difference.
 	A description of the failure when following those steps.
-	A description of what you expected the application to do instead. This is an important piece of information: sometimes, what the application does is what the developers expected it to do and they didn't realise it would cause you problems so describing what you expect is helpful to understand the defect.
+	A description of what you expected the application to do instead. This is an important piece of information: sometimes, what the application does is what the developers expected it to do and they didn't realize it would cause you problems so describing what you expect is helpful to understand the defect.
 	Any additional information you think can help diagnose the problem. For instance, if the application used to work and suddenly stopped working, specify when it started mis-behaving.
 tips = None
 pitfalls = None

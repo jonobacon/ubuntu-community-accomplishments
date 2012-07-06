@@ -1,0 +1,21 @@
+[accomplishment]
+title = Student on Ask Ubuntu
+description = Asked first question with score of 1 or more
+collection = ubuntu-community
+category = Ask Ubuntu:Asking & Answering
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
+author = Christopher Kyle Horton <christhehorton@gmail.com>
+summary = On Ask Ubuntu, the community can vote on questions. They can receive upvotes for being detailed, interesting, or useful, and provide an easy way for the community to rate how good a question is. Upvotes and downvotes cancel each other out to give a net score to the question. This badge is awarded to a user when they ask a question which is assigned a score of 1 or more by the Ask Ubuntu community.
+steps = Log into Ask Ubuntu and ask a new question by clicking the "Ask question" link near the top-right side of the page.
+	Enter a title, description and tags for your question, and click the "Post Your Question" button when done.
+	Wait for the community to read your question and vote on it.
+tips = Ask a high-quality question. Good questions are more likely to receive upvotes and good answers.
+	After asking your question, share it with others to make it more visible. If another user sees it and thinks it is good, they will likely vote it up.
+	Check back on your question regularly to see if others posted comments asking for more information before they can answer. It is a good idea to edit this information back into your question to improve its quality, and hence be more likely to be voted up.
+pitfalls = Asking a duplicate question. Duplicates are redundant and sometimes could be downvoted before they are closed, which can cost you reputation. Use the Ask Ubuntu search to see if somebody else already asked this question first before posting.
+	Asking a poor-quality question. Make sure your question is clear on what it is asking before you submit it, and also adheres to community guidelines as per the FAQ. If users comment that your question is unclear or incomplete, don't forget to clarify it through an edit.
+help = #ubuntu-community-team on Freenode
+

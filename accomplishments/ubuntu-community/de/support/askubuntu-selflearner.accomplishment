@@ -1,6 +1,6 @@
 [accomplishment]
 title = Self-Learner on Ask Ubuntu
-description = Answered your own question with score of 3 or more.
+description = Beantworten Sie ihre Frage mit einer Bewertung von 3 oder höher.
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -10,11 +10,11 @@ depends = ubuntu-community/registered-on-askubuntu
 author = Surgemcgee <RobertSteckroth@gmail.com>
 summary = Occasionally one will find or realize the solution to a question, which he or she posted, before the Ask Ubuntu community. It is encouraged and beneficial to post answers to self asked questions.
 	When an answer to a self posted question receives a score (up vote) of 3 or more, the Self-Learner Badge is awarded.
-steps = Provide a correct answer to a question posted by ones self.
-	Receive 3 up votes on your provided answer by the Ask Ubuntu community.
+steps = Tragen sie eine korrekte Antwort zu einer von ihnen gestellten Frage bei.
+	Erhalten sie drei Aufwertungen auf diese Antwort von der Ask Ubuntu Community.
 tips = Answers should be very descriptive with each step displayed in succession.
 	Images and screen-shots in answers are helpful and will receive more attention if appropriately used.
-pitfalls = Vague or generic answers with links to other blogs are not easy to understand.
-	Obvious answers will not impress the community thus lowering the chance of up scoring.
+pitfalls = Vage oder allgemeine Antworten mit Links zu anderen Blogs sind nicht einfach zu verstehen.
+	Offensichtliche Antworten werden die Community nicht beeindrucken sondern eher die Chance mindern, dass ihre Antwort aufgewertet wird.
 help = #ubuntu-community-team on Freenode
 

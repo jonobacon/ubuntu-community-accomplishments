@@ -1,0 +1,19 @@
+[accomplishment]
+title = Analytical on Ask Ubuntu
+description = Visited every section of the <a href="http://askubuntu.com/faq">Ask Ubuntu FAQ</a>
+collection = ubuntu-community
+category = Ask Ubuntu:Starter
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
+author = Marco Ceppi <marco@ceppi.net>
+summary = Ask Ubuntu is a unique site which operates in a unique capacity compared to other Ubuntu Community Support venues. This badge and accomplishment exists to reward users who take the time to review the <a href="http://askubuntu.com/faq/">Ask Ubuntu FAQ</a>.
+	The Ask Ubuntu FAQ includes a wide breadth of knowledge and covers the basics of Frequently Asked Questions and common mistakes on the Ask Ubuntu site. Such topics range from <a href="http://askubuntu.com/faq#question>question scope</a>, to <a href="http://askubuntu.com/faq#etiquette">etiquette</a>, and <a href="http://askubuntu.com/faq#flagging">moderation</a>.
+	To earn this badge you must visit every section of the <a href="http://askubuntu.com/faq">Ask Ubuntu FAQ</a> and review its contents.
+steps = Visit the Ask Ubuntu FAQ
+	Click and Read each section of the FAQ
+tips = None
+pitfalls = Not reading each section of the FAQ may lead to confusion about how the site works.
+help = #ubuntu-community-team on Freenode
+

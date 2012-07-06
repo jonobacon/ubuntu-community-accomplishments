@@ -1,6 +1,6 @@
 [accomplishment]
-title = Research Assistant on Ask Ubuntu
-description = Edited 50 tag wikis
+title = Asistente de búsqueda en Ask Ubuntu
+description = Editadas 50 etiquetas de wiki
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -8,10 +8,10 @@ needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
 depends = ubuntu-community/askubuntu-tageditor, ubuntu-community/registered-on-askubuntu
 author = Nathan Osman <admin@quickmediasolutions.com>
-summary = Edited 50 tag wikis
+summary = Editadas 50 etiquetas de wiki
 steps = Provide step by step instructions for to accomplish this.
 	Each step should be on a new line with a tab at the beginning, like this.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team en Freenode
 

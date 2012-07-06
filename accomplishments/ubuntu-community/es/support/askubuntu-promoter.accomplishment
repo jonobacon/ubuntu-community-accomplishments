@@ -20,5 +20,5 @@ pitfalls = Questions must be at least 2 days old to be eligible for a bounty.
 	The bounty period lasts 7 days. Bounties must have a minimum duration of at least 1 day. After the bounty ends, there is a grace period of 24 hours to manually award the bounty.
 	If you do not award your bounty within 7 days (plus the grace period), the highest voted answer created after the bounty started with at least 2 upvotes will be awarded half the bounty amount. If there's no answer meeting that criteria, the bounty is not awarded to anyone.
 	If the bounty was started by the question owner, and the question owner accepts an answer during the bounty period, and the bounty expires without an explicit award, then it is assumed the bounty owner liked the answer they accepted and award it the full bounty amount at the time of bounty expiration.
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team en Freenode
 

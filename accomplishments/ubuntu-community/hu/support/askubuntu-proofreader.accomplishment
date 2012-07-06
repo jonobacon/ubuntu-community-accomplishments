@@ -1,0 +1,20 @@
+[accomplishment]
+title = Proofreader on Ask Ubuntu
+description = Approved or rejected 100 suggested edits
+collection = ubuntu-community
+category = Ask Ubuntu:Editing badges
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
+author = Christopher Kyle Horton <christhehorton@gmail.com>
+summary = Users with insufficient reputation often cannot edit posts directly. Instead, they can suggest edits to be made, which can then be either approved or rejected by community members with higher reputation. This badge is awarded once a user has approved or rejected at least 100 such edits.
+steps = If you come across a post which states that it has a pending edit which needs approval, click the link to view it. (Note that you will need sufficient reputation to do so.)
+	Decide whether to approve, reject, or improve the suggested edit.
+	Do the same for 100 posts in total to earn this badge.
+tips = Suggested edits most commonly appear on new questions, so you may want to look at those.
+	If you have 5000 reputation, you gain the privilege to approve or reject tag wiki edits. This also gives you the ability to see a list of suggested edits in the review section, which makes it easier to find them. As such, you may want to earn this amount of reputation first to make achieving this badge much easier.
+pitfalls = Approving trivial edits. If the edit is not substantial enough, consider improving or rejecting it instead.
+	Rejecting edits which could easily be improved. If a suggested edit is promising but you know how to make it even better, then do so.
+help = #ubuntu-community-team on Freenode
+

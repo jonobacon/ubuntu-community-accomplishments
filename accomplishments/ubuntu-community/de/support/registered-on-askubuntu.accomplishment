@@ -1,14 +1,14 @@
 [accomplishment]
-title = Register on Ask Ubuntu
-description = You have registered on Ask Ubuntu
+title = Registrieren Sie sich bei Ask Ubuntu
+description = Sie haben sich bei Ask Ubuntu registriert
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
 needs-information = askubuntu-user-url
 icon = askubuntu-bronze.png
 author = Rafał Cieślak <rafalcieslak256@ubuntu.com>
-summary = <a href="http://askubuntu.com">Ask Ubuntu</a> is a web site where users can ask their questions related to Ubuntu. It is a great way of requesting support, it's easy and quick, and one does not need to register there to ask something. However, users who want to propose answers and use all functions of the site, including comments, voting, and many more, need to register an account.
-	This accomplishment unlocks all other trophies recieved by activity on Ask Ubuntu.
+summary = <a href="http://askubuntu.com">Ask Ubuntu</a> ist eine Webseite auf der Nutzer Fragen zu Ubuntu stellen können. Es ist eine gute Möglichkeit um Hilfe zu erhalten, es ist einfach und schnell und man muss sich nicht registrieren um dort etwas fragen zu können. Um jedoch alle Funktionen der Seite nutzen zu können, wie etwa Antworten schreiben, bewerten und vieles mehr, ist eine Registrierung notwendig.
+	Diese Errungenschaft schaltet alle anderen Trophäen, die sie durch ihre Aktivität bei Ask Ubuntu erhalten können, frei.
 steps = Go to <a href="http://askubuntu.com">http://askubuntu.com</a>.
 	Click the <i>log in</i> link on site's top panel.
 	If you have any of listed accounts, you can use it to login. Otherwise, choose to sign up, this will create you a StackExchange account you can then use to log in.

@@ -1,0 +1,17 @@
+[accomplishment]
+title = Legendary on Ask Ubuntu
+description = Earned 200 daily reputation 150 times
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-gold.png
+depends = ubuntu-community/askubuntu-epic, ubuntu-community/askubuntu-mortarboard, ubuntu-community/registered-on-askubuntu
+author = Nathan Osman <admin@quickmediasolutions.com>
+summary = Earned 200 daily reputation 150 times
+steps = Provide step by step instructions for to accomplish this.
+	Each step should be on a new line with a tab at the beginning, like this.
+tips = None
+pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+help = #ubuntu-community-team on Freenode
+

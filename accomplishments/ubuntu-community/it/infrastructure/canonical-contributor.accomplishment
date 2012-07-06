@@ -15,8 +15,8 @@ steps = The <b>Canonical Copyright Licence Agreement</b> should be signed online
 	Now point your browser to <a href="https://forms.canonical.com/contributor">https://forms.canonical.com/contributor</a>.
 	Complete the requested fields.
 	Complete the <tt>"Please add the Canonical Project Manager or contact"</tt> field with contact member details you have previously choosen.
-	Click on tje <tt>I agree</tt> button.
-	You will now be added to a queue to be approved. Congratulations! Please wait a few days to see your mebership in Launchpad.
+	Click on the <tt>I agree</tt> button.
+	You will now be added to a queue to be approved. Congratulations! Please wait a few days to see your membership in Launchpad.
 tips = None
 pitfalls = None
 help = #ubuntu-devel su Freenode

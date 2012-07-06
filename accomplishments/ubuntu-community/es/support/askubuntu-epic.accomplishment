@@ -1,6 +1,6 @@
 [accomplishment]
-title = Epic on Ask Ubuntu
-description = Earned 200 daily reputation 50 times
+title = Épico en Ask Ubuntu
+description = Conseguida una reputación diaria de 200 50 veces
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -13,5 +13,5 @@ steps = Provide step by step instructions for to accomplish this.
 	Each step should be on a new line with a tab at the beginning, like this.
 tips = None
 pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team en Freenode
 

@@ -1,6 +1,6 @@
 [accomplishment]
-title = Register on Ask Ubuntu
-description = You have registered on Ask Ubuntu
+title = Registrado en Ask Ubuntu
+description = Se ha registrado en Ask Ubuntu
 collection = ubuntu-community
 category = Ask Ubuntu
 needs-signing = true
@@ -18,5 +18,5 @@ steps = Go to <a href="http://askubuntu.com">http://askubuntu.com</a>.
 	Once your account is verified, you will receive this trophy.
 tips = None
 pitfalls = None
-help = #ubuntu-stack on Freenode
+help = #ubuntu-stack en Freenode
 

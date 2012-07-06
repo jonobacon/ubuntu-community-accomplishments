@@ -8,10 +8,10 @@ needs-information = askubuntu-user-url
 icon = askubuntu-silver.png
 depends = ubuntu-community/registered-on-askubuntu
 author = Marco Ceppi <marco@ceppi.net>
-summary = Ask Ubuntu went through a trial period on the Stack Exchange network. This consisted of four phases. The first two phases occured on <a href="http://area51.stackexchange.com/proposals/7716/ubuntu">Area 51</a> where the site was defined and committed to by community members.
+summary = Ask Ubuntu went through a trial period on the Stack Exchange network. This consisted of four phases. The first two phases occurred on <a href="http://area51.stackexchange.com/proposals/7716/ubuntu">Area 51</a> where the site was defined and committed to by community members.
 	From there the site entered a private beta then a public beta. In order to earn this achievement and badge you would have needed to join the site during the beta period and actively participated in the beta process (earning at least 200 reputation).
 steps = Signed up for Ask Ubuntu during private or public beta period.
-	Earned at least 200 reputation before Ask Ubuntu publically launched.
+	Earned at least 200 reputation before Ask Ubuntu publicly launched.
 tips = None
 pitfalls = If you didn't join Ask Ubuntu, or earn enough reputation, before public launch you won't be able to earn this badge unless you have a time machine.
 help = ফ্রি নোড এ #ubuntu-community-team .

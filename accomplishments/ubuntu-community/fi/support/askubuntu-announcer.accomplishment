@@ -14,5 +14,5 @@ steps = Open a question you wish to share
 	Alternatively click the "link" button below the question or answer and share that link.
 tips = None
 pitfalls = Each button generates a special link that tracks incoming requests and ties them to your user.
-help = #ubuntu-ceommunity-team on Freenode
+help = #ubuntu-community-team on Freenode
 

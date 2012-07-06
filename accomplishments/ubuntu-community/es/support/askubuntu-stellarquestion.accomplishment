@@ -1,5 +1,5 @@
 [accomplishment]
-title = Stellar Question on Ask Ubuntu
+title = Pregunta estelar en Ask Ubuntu
 description = Question favorited by 100 users
 collection = ubuntu-community
 category = Ask Ubuntu
@@ -16,5 +16,5 @@ tips = Design well thought out questions with a single problem to be solved.
 pitfalls = Asking questions which are derived from configuration errors or user mistakes.
 	Posting poorly written or brief questions. Leaving out details needed to solve the question.
 	Unnecessarily long questions with extra details. Providing information for "just in case" purposes.
-help = #ubuntu-community-team on Freenode
+help = #ubuntu-community-team en Freenode
 

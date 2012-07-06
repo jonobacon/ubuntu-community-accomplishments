@@ -1,0 +1,17 @@
+[accomplishment]
+title = Commentator on Ask Ubuntu
+description = Left 10 comments
+collection = ubuntu-community
+category = Ask Ubuntu
+needs-signing = true
+needs-information = askubuntu-user-url
+icon = askubuntu-bronze.png
+depends = ubuntu-community/registered-on-askubuntu
+author = Nathan Osman <admin@quickmediasolutions.com>
+summary = Left 10 comments
+steps = Provide step by step instructions for to accomplish this.
+	Each step should be on a new line with a tab at the beginning, like this.
+tips = None
+pitfalls = A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+help = #ubuntu-community-team on Freenode
+
