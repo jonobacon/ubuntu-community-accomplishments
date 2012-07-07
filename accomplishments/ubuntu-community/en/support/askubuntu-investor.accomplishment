@@ -2,15 +2,21 @@
 title=Investor on Ask Ubuntu
 description=First bounty you offered on another person's question
 collection=ubuntu-community
-category=Ask Ubuntu
+category=Ask Ubuntu:Bounty
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
 depends=ubuntu-community/registered-on-askubuntu
 summary = First bounty you offered on another person's question
-steps: Provide step by step instructions for to accomplish this.
-    Each step should be on a new line with a tab at the beginning, like this.
-pitfalls: A set of things the user should avoid while perusing this accomplishment (each one added on a new line).
+steps: 
+	Find a question on AskUbuntu
+	Place a bounty by clicking on the start a bounty button. It is found below the question's comment area.
+	Use the drop-down menu to adjust the amount of reputation you are willing to award then click on Start Bounty.
+	You can award a bounty by clicking on the respective button below the upvote/downvote interface.
+	Bounties expire after seven days. You will receive several notifications a few days before this happens.
+pitfalls: 
+	Avoid offering a bounty for a question that you don't need an answer for.
+	Make sure you reward the correct answer with your bounty offered.
 links: http://www.askubuntu.com
 help = #ubuntu-community-team on Freenode
-author = Nathan Osman <admin@quickmediasolutions.com>
+author = Luke Caputo <x1karr0usx@gmail.com>
