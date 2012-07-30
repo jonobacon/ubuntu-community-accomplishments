@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-05-24 23:35+0000\n"
-"Last-Translator: Jono Bacon <jono@ubuntu.com>\n"
+"PO-Revision-Date: 2012-07-29 16:07+0000\n"
+"Last-Translator: Денис <Denchik67@yandex.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-20 05:09+0000\n"
-"X-Generator: Launchpad (build 15435)\n"
+"X-Launchpad-Export-Date: 2012-07-30 05:09+0000\n"
+"X-Generator: Launchpad (build 15702)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -28,6 +28,16 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:11
 msgid "ubuntu-community/askubuntu-researchassistant_title"
 msgstr ""
+"ubuntu-community/askubuntu-researchassistant_title\r\n"
+"Достижение: Помощник поиска на Ask Ubuntu (поле \"заголовок\")\r\n"
+".\r\n"
+"Оригинальный перевод:\r\n"
+"Помощник поиска на Ask Ubuntu\r\n"
+"\r\n"
+"----- Инсттрукции по переводу -----\r\n"
+"Короткое описание достижения.\r\n"
+"Примечание: Опишите это в прошедшем времени , если это было достигнуто (т.е. "
+"Зарегистрированно на Launchpad)"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('description' field)
 #. .
@@ -39,6 +49,14 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:20
 msgid "ubuntu-community/askubuntu-researchassistant_description"
 msgstr ""
+"ubuntu-community/askubuntu-researchassistant_description\r\n"
+" Достижение: Помощник поиска на Ask Ubuntu (поле \"описание\")\r\n"
+".\r\n"
+"Оригинальный перевод: \r\n"
+"Отредактировал 50 вики\r\n"
+".\r\n"
+"----- Инсттрукции по переводу -----\r\n"
+"Добавьте краткое описание достижения"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('summary' field)
 #. .
