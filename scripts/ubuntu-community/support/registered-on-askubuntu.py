@@ -17,23 +17,28 @@ try:
 
     userid = int(userurl.split("/")[-2])
 
+    # API: http://api.stackexchange.com/docs/types/user
     try:
-        badges_req = urllib2.urlopen('http://api.stackexchange.com/2.0/users/%d/badges?pagesize=100&order=asc&sort=name&site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
+        user_req = urllib2.urlopen('https://api.stackexchange.com/2.0/users/%d?site=askubuntu' % userid)
+
     except:
         sys.exit(1)
-    
-    badges_raw = badges_req.read()
 
-    badges_raw = StringIO.StringIO(badges_raw)
-    gzipr = gzip.GzipFile(fileobj=badges_raw)
+    user_raw = user_req.read()
+    user_raw = StringIO.StringIO(user_raw)
+    gzipr = gzip.GzipFile(fileobj=user_raw)
 
-    badges_raw = gzipr.read()
-    badges_data = json.loads(badges_raw)
-    
-    if len(badges_data['items']) != 0:
+    user_raw = gzipr.read()
+    user_data = json.loads(user_raw)
+    user_type = user_data['items'][0]['user_type']
+
+    if user_type == 'registered' or user_type == 'moderator':
         sys.exit(0)
-
-    sys.exit(1)
+    elif user_type == 'unregistered' or user_type == 'does_not_exist':
+        sys.exit(1)
+    else:
+        print "A new user_type is in the StackExchange API, please report this as a bug and report the new user-type of %s for user %d" % (user_type, userid)
+        sys.exit(1)
 
 except SystemExit, e:
     sys.exit(e.code)
