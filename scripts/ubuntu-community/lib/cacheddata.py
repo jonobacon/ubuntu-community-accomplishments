@@ -68,16 +68,20 @@ class CachedData(object):
             mtime = os.path.getmtime(cache_file)
             if abs(time.time() - mtime) < CACHE_LIFESPAN:
                 with open(cache_file, 'rb') as input:
-                    obj = pickle.load(input)
-                    if cls.VERSION == obj.version:
-                        if obj.key == key:
-                            # Cache hit. All conditions met.
-                            return obj
+                    try:
+                        obj = pickle.load(input)
+                        if cls.VERSION == obj.version:
+                            if obj.key == key:
+                                # Cache hit. All conditions met.
+                                return obj
+                    except:
+                        # broken cache
+                        pass
 
         # Cache miss. Call populate()
-        print "Creating %s cache for %s" % (cls.__name__.lower(), str(key))
+        print "Creating %s cache for %s..." % (cls.__name__.lower(), str(key))
         obj = cls.populate(key)
-
+        
         with open(cache_file, 'wb') as output:
             pickle.dump(obj, output)
 

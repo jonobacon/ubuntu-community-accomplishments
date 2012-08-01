@@ -2,7 +2,10 @@
 import traceback, sys
 
 from accomplishments.daemon import dbusapi
-from launchpadlib.launchpad import Launchpad
+# Add scripts/lib/ to the PYTHONPATH
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
+from lpdata import LPData
 
 try:
     api = dbusapi.Accomplishments()
@@ -11,22 +14,12 @@ try:
         sys.exit(2)
     else:
         email = f[0]["launchpad-email"]
-    lp = Launchpad.login_anonymously(
-        'ubuntu-community accomplishments', 'production')
-    me = lp.people.getByEmail(email=email)
-    if me == None:
-        sys.exit(1)
+    
+    me = LPData.fetch(email)
+    if "locoteams" in me.super_teams:
+        sys.exit(0)
     else:
-        user = me.name
-        final = []
-        for team in me.super_teams:
-            for sup in team.super_teams:
-                if "locoteams" in sup.self_link.rsplit('~', 1)[-1]:
-                    final.append(sup)
-        if len(final) is not 0:
-            sys.exit(0)
-        else:
-            sys.exit(1)
+        sys.exit(1)
 
 except SystemExit, e:
     sys.exit(e.code)

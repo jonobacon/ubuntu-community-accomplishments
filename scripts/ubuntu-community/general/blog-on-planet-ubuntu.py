@@ -14,8 +14,6 @@ try:
     else:
         email = f[0]["launchpad-email"]
 
-    # Check if user has at least one merge proposal with
-    # 'Merged' status
     l = Launchpad.login_anonymously(
         'ubuntu-community accomplishments', 'production')
     me = l.people.getByEmail(email=email)

@@ -49,14 +49,4 @@ class AUBadges(CachedData):
             if badge['badge_type'] == "named":
                 data.badges[badge['badge_id']] = badge['name']
             
-        """
-
-        if len(badges_data['items']) == 0:
-            sys.exit(1)
-        else:
-            for badge in badges_data['items']:
-                if badge['badge_type'] == "named":
-                    if int(badge["badge_id"]) == badgeid:      
-                        sys.exit(0)
-        """
         return data

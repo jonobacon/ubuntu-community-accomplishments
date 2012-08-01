@@ -29,7 +29,7 @@ class LPData(CachedData):
                                          'production')
         user = lp.people.getByEmail(email=email)
         data.name = user.name
-        data.key = email
+        data.key = str(email)
         data.super_teams = [i.name for i in user.super_teams]
         # Direct teams are temporarily disabled, since no script would make use of it.
         # If you are adding a new script that requires this bit of data, uncomment the
