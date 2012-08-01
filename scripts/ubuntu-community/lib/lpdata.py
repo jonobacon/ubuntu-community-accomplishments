@@ -28,6 +28,8 @@ class LPData(CachedData):
         lp = Launchpad.login_anonymously('ubuntu-community accomplishments',
                                          'production')
         user = lp.people.getByEmail(email=email)
+        if user is None:
+            return data
         data.name = user.name
         data.key = str(email)
         data.super_teams = [i.name for i in user.super_teams]
