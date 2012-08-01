@@ -19,7 +19,7 @@ try:
 
     # API: http://api.stackexchange.com/docs/types/user
     try:
-        user_req = urllib2.urlopen('https://api.stackexchange.com/2.0/users/%d?site=askubuntu' % userid)
+        user_req = urllib2.urlopen('https://api.stackexchange.com/2.0/users/%d?site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
 
     except:
         sys.exit(1)
