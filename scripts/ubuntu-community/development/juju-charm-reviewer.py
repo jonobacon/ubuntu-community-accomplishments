@@ -5,7 +5,7 @@ from accomplishments.daemon import dbusapi
 # Add scripts/lib/ to the PYTHONPATH
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
-from lpdata import LPData
+from helpers import Launchpad
 
 try:
     api = dbusapi.Accomplishments()
@@ -15,7 +15,7 @@ try:
     else:
         email = f[0]["launchpad-email"]
         
-    me = LPData.fetch(email)
+    me = Launchpad.fetch(email)
     if "charmers" in me.super_teams:
         sys.exit(0)
     else:

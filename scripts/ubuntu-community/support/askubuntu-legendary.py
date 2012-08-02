@@ -5,7 +5,7 @@ from accomplishments.daemon import dbusapi
 # Add scripts/lib/ to the PYTHONPATH
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
-from aubadges import AUBadges
+from helpers import AskUbuntu
 
 try:
     api = dbusapi.Accomplishments()
@@ -18,7 +18,7 @@ try:
     userid = int(userurl.split("/")[-2])
     badgeid = 43
 
-    me = AUBadges.fetch(userid)
+    me = AskUbuntu.fetch(userid)
     if badgeid in me.badges:
         sys.exit(0)
     else:

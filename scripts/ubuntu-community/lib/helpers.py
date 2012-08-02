@@ -10,6 +10,7 @@ import traceback
 import gzip
 import simplejson
 import urllib2
+import urllib
 import StringIO
 try:
     import json
@@ -72,7 +73,7 @@ class CachedData(object):
         if not os.path.exists(cache_dir):
             os.makedirs(cache_dir)
 
-        cache_file = os.path.join(cache_dir, cls.__name__.lower())
+        cache_file = os.path.join(cache_dir, cls.__name__)
 
         if os.path.exists(cache_file):
             mtime = os.path.getmtime(cache_file)
@@ -90,7 +91,7 @@ class CachedData(object):
                         pass
 
         # Cache miss. Call populate()
-        print "Creating %s cache for %s..." % (cls.__name__.lower(), str(key))
+        print "Creating %s cache for %s..." % (cls.__name__, str(key))
         obj = cls.populate(key)
         
         with open(cache_file, 'wb') as output:
