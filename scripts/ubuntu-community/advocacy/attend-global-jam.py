@@ -9,7 +9,7 @@ from launchpadlib.launchpad import Launchpad
 # Add scripts/lib/ to the PYTHONPATH
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
-from loco_team_portal import LocoTeamPortal
+from helpers import LocoTeamPortal
 
 GLOBAL_JAM_NAME = 'Global Jam'
 

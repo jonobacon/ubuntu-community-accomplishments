@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-05-24 23:34+0000\n"
-"Last-Translator: Jono Bacon <jono@ubuntu.com>\n"
+"PO-Revision-Date: 2012-07-26 08:59+0000\n"
+"Last-Translator: Wybren De Paepe <wierben@wierben.be>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-20 05:09+0000\n"
-"X-Generator: Launchpad (build 15435)\n"
+"X-Launchpad-Export-Date: 2012-07-27 05:35+0000\n"
+"X-Generator: Launchpad (build 15694)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -103,7 +103,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:75
 msgid "ubuntu-community/askubuntu-researchassistant_help"
-msgstr ""
+msgstr "#ubuntu-community-team op Freenode"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -115,7 +115,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/member-loco-team.c:11
 msgid "ubuntu-community/member-loco-team_title"
-msgstr "Lid geworden van een LoCo"
+msgstr "LoCo team lid"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('description' field)
 #. .
@@ -165,7 +165,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/member-loco-team.c:53
 msgid "ubuntu-community/member-loco-team_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('help' field)
 #. .
@@ -308,7 +308,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:20
 msgid "ubuntu-community/askubuntu-selflearner_description"
-msgstr ""
+msgstr "Antwoord op uw eigen vraag met een score van 3 of meer."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('summary' field)
 #. .
@@ -323,6 +323,11 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:32
 msgid "ubuntu-community/askubuntu-selflearner_summary"
 msgstr ""
+"Soms kan iemand de oplossing van zijn/haar eigen vraag vinden, nog voor de "
+"Ask Ubunutu community. Het wordt aangemoedigd en is voordelig om te "
+"antwoorden op uw eigen vragen.\r\n"
+"Wanneer uw antwoord dan 3 of meer positieve stemmen krijgt, wordt de "
+"Zelfstandige Cursist badge aan u uitgereikt."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('steps' field)
 #. .
@@ -337,6 +342,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:44
 msgid "ubuntu-community/askubuntu-selflearner_steps"
 msgstr ""
+"Geef een correct antwoord op een vraag die men zelf stelde.\r\n"
+"Ontvang 3 of meer positieve stemmen van de Ask Ubuntu community op uw "
+"antwoord."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('links' field)
 #. .
@@ -348,7 +356,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:54
 msgid "ubuntu-community/askubuntu-selflearner_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('tips' field)
 #. .
@@ -363,6 +371,10 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:66
 msgid "ubuntu-community/askubuntu-selflearner_tips"
 msgstr ""
+"Antwoorden zouden heel gedetailleerd uitgelegd moeten worden bij elke "
+"stap.\r\n"
+"Afbeeldingen en screenshots in antwoorden zijn hulpvol  en zullen meer "
+"aandacht krijgen, wanneer juist gebruikt."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -377,6 +389,10 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:78
 msgid "ubuntu-community/askubuntu-selflearner_pitfalls"
 msgstr ""
+"Vage of algemene antwoorden met links naar andere blogs zijn moeilijk te "
+"begrijpen.\r\n"
+"Vanzelfsprekende antwoorden zullen geen indruk maken op de community, "
+"waardoor de kans bestaat op negatieve stemmen."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('help' field)
 #. .
@@ -389,7 +405,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:89
 msgid "ubuntu-community/askubuntu-selflearner_help"
-msgstr ""
+msgstr "#ubuntu-community-team op Freenode"
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('title' field)
 #. .
@@ -440,6 +456,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:43
 msgid "ubuntu-community/askubuntu-reviewer_steps"
 msgstr ""
+"Geef stap voor stap instructies om dit te bereiken.\r\n"
+"Elke stap zou op een nieuwe lijn moet starten, met een tab vooraan, zoals "
+"dit."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -500,7 +519,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:20
 msgid "ubuntu-community/askubuntu-excavator_description"
-msgstr ""
+msgstr "Paste eerste bericht, dat langer dan 6 maanden inactief is, aan."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('summary' field)
 #. .
@@ -513,7 +532,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:31
 msgid "ubuntu-community/askubuntu-excavator_summary"
-msgstr ""
+msgstr "Paste eerste bericht, dat langer dan 6 maanden inactief is, aan."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('steps' field)
 #. .
@@ -528,6 +547,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:43
 msgid "ubuntu-community/askubuntu-excavator_steps"
 msgstr ""
+"Geef stap voor stap instructies om dit te bereiken.\r\n"
+"Elke stap zou op een nieuwe lijn moet starten, met een tab vooraan, zoals "
+"dit."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -541,6 +563,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:54
 msgid "ubuntu-community/askubuntu-excavator_pitfalls"
 msgstr ""
+"Een lijst van dingen die een gebruiker moet vermijden bij het streven naar "
+"deze doelstelling. (elk item op een nieuwe lijn)."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('links' field)
 #. .
@@ -577,7 +601,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:11
 msgid "ubuntu-community/bugsquad-member_title"
-msgstr ""
+msgstr "Bug Squad lid"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('description' field)
 #. .
@@ -588,7 +612,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:20
 msgid "ubuntu-community/bugsquad-member_description"
-msgstr ""
+msgstr "U bent lid van de Ubuntu Bug Squad"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('summary' field)
 #. .
@@ -656,7 +680,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:11
 msgid "ubuntu-community/registered-on-askubuntu_title"
-msgstr ""
+msgstr "Registreer je op Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('description' field)
 #. .
@@ -667,7 +691,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:20
 msgid "ubuntu-community/registered-on-askubuntu_description"
-msgstr ""
+msgstr "U bent geregistreerd op Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('summary' field)
 #. .
@@ -701,6 +725,18 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:49
 msgid "ubuntu-community/registered-on-askubuntu_steps"
 msgstr ""
+"Ga naar <a href=\"http://askubuntu.com\">http://askubuntu.com</a>.\r\n"
+"Klik op de <i>log in</i> link bovenaan de website.\r\n"
+"Als u al een account heeft, kan u deze gebruiken om in te loggen. Zoniet "
+"kiest u voor \"registreer\", zo zal u een StackExchange account aanmaken, "
+"welke u dan kan gebruiken om in te loggen.\r\n"
+"Geef alle gegevens op die gevraagd worden.\r\n"
+"Eenmaal ingelogd, klik op uw gebruikersnaam bovenaan de site. Kopieer de "
+"link.\r\n"
+"In deze applicatie selecteert u het <i>Edit->Identificatie</i> menu en plak "
+"dit link adres in het daarvoor voorziene veld. Dit zal het "
+"doelstellingensysteem inlichten over uw account.\r\n"
+"Zodra uw account geverifieerd is, zal je deze trofee ontvangen."
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('links' field)
 #. .
@@ -738,7 +774,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:11
 msgid "ubuntu-community/askubuntu-epic_title"
-msgstr ""
+msgstr "Episch op Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('description' field)
 #. .
@@ -749,7 +785,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:20
 msgid "ubuntu-community/askubuntu-epic_description"
-msgstr ""
+msgstr "Verdiende 200 reputatie punten dagelijks, en dit 50 keer."
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('summary' field)
 #. .
@@ -762,7 +798,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:31
 msgid "ubuntu-community/askubuntu-epic_summary"
-msgstr ""
+msgstr "Verdiende 200 reputatie punten dagelijks, en dit 50 keer."
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('steps' field)
 #. .

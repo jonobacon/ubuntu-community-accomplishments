@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-07-05 11:57+0000\n"
+"PO-Revision-Date: 2012-07-11 15:19+0000\n"
 "Last-Translator: Leonardo Corato <leocor@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-07-06 05:33+0000\n"
-"X-Generator: Launchpad (build 15558)\n"
+"X-Launchpad-Export-Date: 2012-07-12 05:07+0000\n"
+"X-Generator: Launchpad (build 15593)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -51,7 +51,7 @@ msgstr "Editati 50 tag di wiki"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:31
 msgid "ubuntu-community/askubuntu-researchassistant_summary"
-msgstr "Editati 50 tag di wiki"
+msgstr "Modificati 50 tag di wiki"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('steps' field)
 #. .
@@ -1255,6 +1255,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:44
 msgid "ubuntu-community/askubuntu-beta_steps"
 msgstr ""
+"Iscritto a Ask Ubuntu durante il periodo di beta pubblico o privato.\r\n"
+"Guadagnati almeno 200 punti di reputazione prima che Ask Ubuntu sia stato "
+"pubblicamente lanciato."
 
 #. ACCOMPLISHMENT: Beta on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -1753,6 +1756,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:53
 msgid "ubuntu-community/askubuntu-precognitive_pitfalls"
 msgstr ""
+"E' troppo tardi per guadagnare questo badge, solo i pochi precognitivi sono "
+"meravigliosi."
 
 #. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('links' field)
 #. .
@@ -10678,6 +10683,11 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-tenacious.c:43
 msgid "ubuntu-community/askubuntu-tenacious_steps"
 msgstr ""
+"Risposte alle domande che sono state accettate dalla persona che le ha "
+"chieste.\r\n"
+"Se 5 o più delle vostre risposte sono marcate come accettate ma hanno "
+"ottenuto 0 voti dai vostri corrispettivi e sono il 20% delle vostre risposte "
+"totali, otterrete questo badge."
 
 #. ACCOMPLISHMENT: Tenacious on Ask Ubuntu ('tips' field)
 #. .
@@ -10691,6 +10701,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-tenacious.c:54
 msgid "ubuntu-community/askubuntu-tenacious_tips"
 msgstr ""
+"Prendi in considerazione di rendere pubbliche le tue risposte per far "
+"ottenere la giusta attenzione."
 
 #. ACCOMPLISHMENT: Tenacious on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -10715,7 +10727,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-tenacious.c:75
 msgid "ubuntu-community/askubuntu-tenacious_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Tenacious on Ask Ubuntu ('help' field)
 #. .
@@ -10728,7 +10740,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-tenacious.c:86
 msgid "ubuntu-community/askubuntu-tenacious_help"
-msgstr ""
+msgstr "#ubuntu-community-team su Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
