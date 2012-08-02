@@ -1,15 +1,15 @@
 [accomplishment]
 title=Juju Charm Reviewer
-description=You contribute Juju charms to Ubuntu.
+description=You review Juju charms contributed to Ubuntu.
 collection=ubuntu-community
 category=Juju
 icon=juju.png
 depends=ubuntu-community/juju-charm-contributor
 needs-signing=true
 needs-information=launchpad-email
-summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those trusted members of the community who review community charms and approve for inclusion in the Juju Store.
-steps: Contribute a significant number of Juju charms.
-    Contribute regularly and to a high enough quality.
+summary = Juju is designed to simplify rapid production of software products and services. This technology is powered by the quality of the available charms; easily shareable packages of service deployment and orchestration knowledge. This accomplishment is for those trusted members of the community who review community charms which are submitted for approved inclusion in the Juju Store.
+steps: Review a significant number of Juju charms.
+	Maintain both high quality and regularity of reviews.
     Ask a member of the Juju Reviews team if you can join.
 links: http://juju.ubuntu.com
 help = #juju on Freenode
