@@ -11,8 +11,8 @@ try:
         sys.exit(4)
     else:
         email = f[0]["launchpad-email"]
-    # Get count of bugs repogeanrted by user from Launchpad, using email to
-    # identify
+
+
     l = Launchpad.login_anonymously(
         'ubuntu-community accomplishments', 'production')
     me = l.people.getByEmail(email=email)

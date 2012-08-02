@@ -1,11 +1,11 @@
 #!/usr/bin/python
 import traceback, sys
-import json
-import gzip
-import simplejson
-import urllib2
-import StringIO
+
 from accomplishments.daemon import dbusapi
+# Add scripts/lib/ to the PYTHONPATH
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
+from helpers import AskUbuntu
 
 try:
     api = dbusapi.Accomplishments()
@@ -18,27 +18,10 @@ try:
     userid = int(userurl.split("/")[-2])
     badgeid = 61
 
-    try:
-        badges_req = urllib2.urlopen('http://api.stackexchange.com/2.0/users/%d/badges?pagesize=100&order=asc&sort=name&site=askubuntu&key=zUuJiog6hjENJovHBpM11Q((' % userid)
-    except:
-        sys.exit(1)
-    
-    badges_raw = badges_req.read()
-
-    badges_raw = StringIO.StringIO(badges_raw)
-    gzipr = gzip.GzipFile(fileobj=badges_raw)
-
-    badges_raw = gzipr.read()
-    badges_data = json.loads(badges_raw)
-
-    if len(badges_data['items']) == 0:
-        sys.exit(1)
+    me = AskUbuntu.fetch(userid)
+    if badgeid in me.badges:
+        sys.exit(0)
     else:
-        for badge in badges_data['items']:
-            if badge['badge_type'] == "named":
-                if int(badge["badge_id"]) == badgeid:      
-                    sys.exit(0)
-
         sys.exit(1)
 
 except SystemExit, e:
