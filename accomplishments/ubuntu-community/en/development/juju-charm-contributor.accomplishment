@@ -7,7 +7,7 @@ icon=juju.png
 depends=ubuntu-community/registered-on-launchpad
 needs-signing=true
 needs-information=launchpad-email
-summary = Juju is a technology powered by the quality of the available charms. This accomplishment is for those community members who have contributed charms to the Juju community.
+summary = Juju is designed to simplify rapid production of software products and services. This technology is powered by the quality of the available charms; easily shareable packages of service deployment and orchestration knowledge. This accomplishment is for those community members who have contributed charms to the Juju community and is awarded once membership to the Juju Contributors team is approved. 
 steps: Contribute a number of Juju charms.
     Contribute regularly and to a high enough quality.
     Ask a member of the Juju Contributors team if you can join.

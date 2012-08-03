@@ -7,9 +7,9 @@ needs-signing=true
 icon=loco.png
 depends=ubuntu-community/member-loco-team, ubuntu-community/attend-loco-event
 needs-information=launchpad-email
-summary = Local Community Teams aren't isolated, everybody is part of the same global Ubuntu Community, and attending an event help by another LoCo Team is a great way to expand you involvement.
+summary = Local Community Teams aren't isolated, everybody is part of the same global Ubuntu Community, and attending an event held by another LoCo Team is a great way to expand you involvement.
     In the Ubuntu Community you are encouraged to participate with other teams, and that's true for Local Community Teams as well.  Going to another team's event is a great way to meet new people, share experiences, and support Ubuntu in other parts of the world.
-    So if you are in commuting distance of another team, or happen to be traveling in another team's part of the globe, be sure to check on their upcoming events and attend them when you can.
+    So if you are within commuting distance of another team, or happen to be traveling in another team's part of the globe, be sure to check on their upcoming events and attend them when you can.
 steps: Go to <tt>loco.ubuntu.com</tt> and find a team you are not a member of.
     View the list of upcoming events for that team, click on one you can attend.
     Click the 'Register' link on the upper-righthand corner of the page.
