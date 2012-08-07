@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-06-20 21:45+0000\n"
-"Last-Translator: Nicolas Guichard <Unknown>\n"
+"PO-Revision-Date: 2012-08-06 11:58+0000\n"
+"Last-Translator: Winael <vinzjobard@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-21 05:47+0000\n"
-"X-Generator: Launchpad (build 15435)\n"
+"X-Launchpad-Export-Date: 2012-08-07 06:30+0000\n"
+"X-Generator: Launchpad (build 15745)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:20
 msgid "ubuntu-community/askubuntu-researchassistant_description"
-msgstr ""
+msgstr "50 tags wikis édités"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('summary' field)
 #. .
@@ -51,7 +51,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:31
 msgid "ubuntu-community/askubuntu-researchassistant_summary"
-msgstr ""
+msgstr "50 tags wikis édités"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('steps' field)
 #. .
@@ -90,7 +90,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:64
 msgid "ubuntu-community/askubuntu-researchassistant_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('help' field)
 #. .
@@ -103,7 +103,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:75
 msgid "ubuntu-community/askubuntu-researchassistant_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('title' field)
 #. .
@@ -203,7 +203,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:11
 msgid "ubuntu-community/askubuntu-pundit_title"
-msgstr ""
+msgstr "Statut 'Spécialiste' sur Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('description' field)
 #. .
@@ -214,7 +214,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:20
 msgid "ubuntu-community/askubuntu-pundit_description"
-msgstr ""
+msgstr "Laisser 10 commentaires avec un score de 5 ou plus"
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('summary' field)
 #. .
