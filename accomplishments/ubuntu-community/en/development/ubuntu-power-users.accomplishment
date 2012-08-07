@@ -1,0 +1,16 @@
+[accomplishment]
+title=Joined Ubuntu Power Users
+description=Joined Ubuntu-Power-Users on Launchpad
+collection=ubuntu-community
+icon=general.png
+category=general
+depends=ubuntu-community/registered-on-launchpad
+needs-signing=true
+needs-information=launchpad-email
+summary =  The Ubuntu Power Users is a group who advocated the customazation and configurability of Ubuntu. This is done by showcaseing the ways we can configure Ubuntu, and make it a system that works for us all.
+steps: Open a Internet browser and navagate to launchpad.net. Make sure you have an account created, then head on over to the Ubuntu Power Users page at launchpad.net/~ubuntu-power-users. Click the button that says "Join the team" and follow the instructions.
+tips: Be sure to head on over to #ubuntu-power-users and see all the that we are up to so you can help out.
+pitfalls: Don't get overwelmed by the many ways you can customize your system.
+links: https://wiki.ubuntu.com/PowerUsers
+help = #ubuntu-power-users on Freenode
+author: Philip Ballew <philipballew@ubuntu.com>
