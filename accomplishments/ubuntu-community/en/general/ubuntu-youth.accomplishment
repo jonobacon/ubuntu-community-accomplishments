@@ -1,0 +1,17 @@
+[accomplishment]
+title=Ubuntu Youth Member
+description=You are a member of the Ubuntu Youth team
+collection=ubuntu-community
+category=General
+needs-signing=true
+depends=ubuntu-community/registered-on-launchpad
+icon=ubuntuyouth.png
+needs-information=launchpad-email
+summary = The Ubuntu Youth team is a group that aims in getting youth people started with their work in the Ubuntu Community, as well as a place where you can gather and talk about Ubuntu itself.
+steps: In launchpad, go to <a href=https://launchpad.net/~ubuntu-youth> the Ubuntu Youth team</a> and click Join the Team.
+tips: none
+pitfalls: none
+links: https://launchpad.net/~ubuntu-youth
+help = #ubuntu-youth on Freenode
+author = Jose Antonio Rey <joseeantonior@ubuntu.com>
+
