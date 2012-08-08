@@ -1,0 +1,16 @@
+[accomplishment]
+title=Approved Ubuntu Youth Council Member
+description=You are an Approved Ubuntu Youth Council Member
+collection=ubuntu-community
+category=General
+needs-signing=true
+depends=ubuntu-community/registered-on-launchpad
+icon=ubuntuyouth.png
+needs-information=launchpad-email
+summary = Someone who is part of the Ubuntu Youth Council 
+steps: Join the Ubuntu Youth team and contribute untill the next Ubuntu Youth Council election. When a call for namanations come out, nominate yourself and see if you win
+tips: Be sure to be positive and get to know everyone in the Ubuntu youth group.
+pitfalls: none
+links: https://launchpad.net/~ubuntu-youth-council
+help = #ubuntu-youth-council on Freenode
+author = Philip Ballew <philipballew@ubuntu.com>
