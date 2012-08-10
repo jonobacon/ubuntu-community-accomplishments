@@ -1,0 +1,16 @@
+[accomplishment]
+title=Ubuntu Youth Council Member
+description=You are an Approved Ubuntu YOuth Council Member
+collection=ubuntu-community
+category=General
+needs-signing=true
+depends=ubuntu-community/registered-on-launchpad
+icon=ubuntuyouth.png
+needs-information=launchpad-email
+summary = A ubuntu Youth Council member is someone who has been voted into a position to govern and guide the Ubuntu Youth team in the Ubuntu community
+steps: Contribute extensively to Ubuntu for a
+    Schedule yourself for review at a regional membership board, IRC council, Forums council, or developer membership board meeting to review your contributions. You can find the nearest board using the links below.
+links: https://wiki.ubuntu.com/UbuntuYouth/Council
+	https://launchpad.net/~ubuntu-youth-council
+help = #ubuntu-youth-council on Freenode
+author = Philip Ballew <philipballew@ubuntu.com>
