@@ -5,7 +5,7 @@ collection=ubuntu-community
 category=General
 needs-signing=true
 depends=ubuntu-community/registered-on-launchpad
-icon=ubuntuyouth.png
+icon=ubuntu-youth.png
 needs-information=launchpad-email
 summary = Someone who is part of the Ubuntu Youth Council is somebody who has spent a great deal of time helping to contribute to the Ubuntu Youth project and was able to win an elcetion from other members of Ubuntu Youth that shows they had the acility to help lead Ubuntu Youth. 
 steps: Join the Ubuntu Youth team and contribute untill the next Ubuntu Youth Council election. When a call for namanations come out, nominate yourself and see if you win
