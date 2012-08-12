@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-08-07 07:56+0000\n"
+"PO-Revision-Date: 2012-08-11 09:58+0000\n"
 "Last-Translator: Stefan Köhn <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-08 05:13+0000\n"
-"X-Generator: Launchpad (build 15757)\n"
+"X-Launchpad-Export-Date: 2012-08-12 04:56+0000\n"
+"X-Generator: Launchpad (build 15780)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -38,7 +38,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:20
 msgid "ubuntu-community/askubuntu-researchassistant_description"
-msgstr ""
+msgstr "50 Tag-Wikis bearbeitet"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('summary' field)
 #. .
@@ -51,7 +51,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:31
 msgid "ubuntu-community/askubuntu-researchassistant_summary"
-msgstr ""
+msgstr "50 Tag-Wikis bearbeitet"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('steps' field)
 #. .
@@ -66,6 +66,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:43
 msgid "ubuntu-community/askubuntu-researchassistant_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -79,6 +81,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:54
 msgid "ubuntu-community/askubuntu-researchassistant_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('links' field)
 #. .
@@ -402,6 +406,10 @@ msgstr "http://www.askubuntu.com"
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:66
 msgid "ubuntu-community/askubuntu-selflearner_tips"
 msgstr ""
+"Ihre Antworten sollten sehr detailliert sein und Schritt für Schritt "
+"nachvollziehbar sein.\r\n"
+"Bilder und Screenshots in Antworten sind hilfreich und werden mehr "
+"Aufmerksamkeit erhalten falls Sie sie zweckmäßig einsetzen."
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -483,6 +491,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:43
 msgid "ubuntu-community/askubuntu-reviewer_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -496,6 +506,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:54
 msgid "ubuntu-community/askubuntu-reviewer_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('links' field)
 #. .
@@ -571,6 +583,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:43
 msgid "ubuntu-community/askubuntu-excavator_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -584,6 +598,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:54
 msgid "ubuntu-community/askubuntu-excavator_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('links' field)
 #. .
@@ -756,6 +772,21 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:49
 msgid "ubuntu-community/registered-on-askubuntu_steps"
 msgstr ""
+"Rufen sie <a href=\"http://askubuntu.com\">http://askubuntu.com</a> auf.\r\n"
+"Klicken sie auf den <i>log in</i> - Link in der obersten Leiste der "
+"Webseite.\r\n"
+"Falls sie einen Account bei einem der aufgelisteten Dienste besitzen können "
+"sie diesen benutzen um sich einzuloggen. Andernfalls wählen sie <i>sign "
+"up</i> um einen StackExchange Account zu erstellen den sie dann zum "
+"Einloggen benutzen können.\r\n"
+"Wenn sie eingeloggt sind, klicken sie auf ihren Benutzernamen in der "
+"obersten Leiste der Webseite. Kopieren sie dann die Adresse der Seite zu der "
+"sie weitergeleitet werden.\r\n"
+"Gehen sie nun in dieser Anwendung im Menü auf <i>Bearbeiten-"
+">Identifikation</i> und fügen sie die kopierte Adresse in das zugehörige "
+"Feld ein, wodurch diese Anwendung über ihren Ask Ubuntu Account informiert "
+"wird.\r\n"
+"Sobald ihr Account verifiziert wurde werden sie diese Trophäe erhalten."
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('links' field)
 #. .
@@ -834,6 +865,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:43
 msgid "ubuntu-community/askubuntu-epic_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -847,6 +880,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:54
 msgid "ubuntu-community/askubuntu-epic_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('links' field)
 #. .
@@ -883,7 +918,7 @@ msgstr "#ubuntu-community-team auf Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/attend-loco-event.c:11
 msgid "ubuntu-community/attend-loco-event_title"
-msgstr ""
+msgstr "Besuchen Sie eine LoCo-Team Veranstaltung"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('description' field)
 #. .
@@ -976,7 +1011,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:20
 msgid "ubuntu-community/askubuntu-autobiographer_description"
-msgstr ""
+msgstr "Sie haben Ihr Benutzerprfil komplett ausgefüllt"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('summary' field)
 #. .
@@ -1053,7 +1088,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:20
 msgid "ubuntu-community/ubuntu-beginners-team-member_description"
-msgstr ""
+msgstr "Sie sind Mitlglied des Ubuntu-Einsteiger Teams"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('summary' field)
 #. .
@@ -2162,6 +2197,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:43
 msgid "ubuntu-community/askubuntu-marshal_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -2175,6 +2212,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:54
 msgid "ubuntu-community/askubuntu-marshal_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('links' field)
 #. .
@@ -2338,6 +2377,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:43
 msgid "ubuntu-community/askubuntu-investor_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -2351,6 +2392,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:54
 msgid "ubuntu-community/askubuntu-investor_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('links' field)
 #. .
@@ -2814,6 +2857,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:43
 msgid "ubuntu-community/askubuntu-organizer_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -2827,6 +2872,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:54
 msgid "ubuntu-community/askubuntu-organizer_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('links' field)
 #. .
@@ -3144,7 +3191,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:68
 msgid "ubuntu-community/ubuntu-cloak_pitfalls"
-msgstr ""
+msgstr "Bewerben Sie sich nicht, wenn sie kein Ubuntu-Mitglied sind."
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('links' field)
 #. .
@@ -5128,6 +5175,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reversal.c:43
 msgid "ubuntu-community/askubuntu-reversal_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Reversal on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -5141,6 +5190,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-reversal.c:54
 msgid "ubuntu-community/askubuntu-reversal_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Reversal on Ask Ubuntu ('links' field)
 #. .
@@ -5216,6 +5267,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:43
 msgid "ubuntu-community/askubuntu-guru_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -5229,6 +5282,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:54
 msgid "ubuntu-community/askubuntu-guru_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('links' field)
 #. .
@@ -5425,6 +5480,8 @@ msgstr "500 Beiträge bearbeitet"
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:43
 msgid "ubuntu-community/askubuntu-copyeditor_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -5438,6 +5495,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:54
 msgid "ubuntu-community/askubuntu-copyeditor_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('links' field)
 #. .
@@ -5513,6 +5572,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:43
 msgid "ubuntu-community/askubuntu-deputy_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -5526,6 +5587,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:54
 msgid "ubuntu-community/askubuntu-deputy_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('links' field)
 #. .
@@ -6312,6 +6375,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-disciplined.c:43
 msgid "ubuntu-community/askubuntu-disciplined_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Disciplined on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -6325,6 +6390,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-disciplined.c:54
 msgid "ubuntu-community/askubuntu-disciplined_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Disciplined on Ask Ubuntu ('links' field)
 #. .
@@ -6400,6 +6467,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-cleanup.c:43
 msgid "ubuntu-community/askubuntu-cleanup_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Cleanup on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -6413,6 +6482,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-cleanup.c:54
 msgid "ubuntu-community/askubuntu-cleanup_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Cleanup on Ask Ubuntu ('links' field)
 #. .
@@ -7696,6 +7767,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-mortarboard.c:43
 msgid "ubuntu-community/askubuntu-mortarboard_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Mortarboard on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -7709,6 +7782,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-mortarboard.c:54
 msgid "ubuntu-community/askubuntu-mortarboard_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Mortarboard on Ask Ubuntu ('links' field)
 #. .
@@ -7784,6 +7859,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-revival.c:43
 msgid "ubuntu-community/askubuntu-revival_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Revival on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -7797,6 +7874,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-revival.c:54
 msgid "ubuntu-community/askubuntu-revival_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Revival on Ask Ubuntu ('links' field)
 #. .
@@ -7974,6 +8053,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-enlightened.c:43
 msgid "ubuntu-community/askubuntu-enlightened_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Enlightened on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -7987,6 +8068,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-enlightened.c:54
 msgid "ubuntu-community/askubuntu-enlightened_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Enlightened on Ask Ubuntu ('links' field)
 #. .
@@ -9177,6 +9260,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-necromancer.c:43
 msgid "ubuntu-community/askubuntu-necromancer_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Necromancer on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -9190,6 +9275,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-necromancer.c:54
 msgid "ubuntu-community/askubuntu-necromancer_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Necromancer on Ask Ubuntu ('links' field)
 #. .
@@ -10357,6 +10444,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-outspoken.c:43
 msgid "ubuntu-community/askubuntu-outspoken_steps"
 msgstr ""
+"Stellen Sie eine Schritt-für-Schritt Anleitung für diese Errungenschaft.\r\n"
+"Jeder Schritt sollte in einer neuen Zeile geschrieben werden, wie hier."
 
 #. ACCOMPLISHMENT: Outspoken on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -10370,6 +10459,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-outspoken.c:54
 msgid "ubuntu-community/askubuntu-outspoken_pitfalls"
 msgstr ""
+"Dinge die der Benutzer vermeiden sollte um diese Errungenschaft zu erreichen "
+"(jedes sollte in einer neuen Zeile geschrieben werden)"
 
 #. ACCOMPLISHMENT: Outspoken on Ask Ubuntu ('links' field)
 #. .
