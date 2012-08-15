@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-05-24 23:34+0000\n"
-"Last-Translator: Rafal Cieślak <rafalcieslak256@gmail.com>\n"
+"PO-Revision-Date: 2012-08-14 17:55+0000\n"
+"Last-Translator: Marcin Chmielowiec <kumpel333332@gmail.com>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-06-20 05:09+0000\n"
-"X-Generator: Launchpad (build 15435)\n"
+"X-Launchpad-Export-Date: 2012-08-15 05:13+0000\n"
+"X-Generator: Launchpad (build 15801)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -90,7 +90,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:64
 msgid "ubuntu-community/askubuntu-researchassistant_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('help' field)
 #. .
@@ -666,7 +666,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:11
 msgid "ubuntu-community/registered-on-askubuntu_title"
-msgstr ""
+msgstr "Zarejestruj się na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('description' field)
 #. .
@@ -677,7 +677,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:20
 msgid "ubuntu-community/registered-on-askubuntu_description"
-msgstr ""
+msgstr "Zarejestrowałeś się na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('summary' field)
 #. .
@@ -916,7 +916,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:11
 msgid "ubuntu-community/askubuntu-autobiographer_title"
-msgstr ""
+msgstr "Autobiografia na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('description' field)
 #. .
@@ -927,7 +927,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:20
 msgid "ubuntu-community/askubuntu-autobiographer_description"
-msgstr ""
+msgstr "Uzupełnione Wszystkie pola profilu użytkownika"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('summary' field)
 #. .
@@ -957,6 +957,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:45
 msgid "ubuntu-community/askubuntu-autobiographer_steps"
 msgstr ""
+"Zaloguj się na Ask Ubuntu. Kliknij na nazwę  swojego użytkownika na pasku "
+"Stack Exchange. Wybierz przycisk \"edytuj\" obok nazwy. Wypełnij wszystkich "
+"możliwych polach profilu użytkownika."
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('links' field)
 #. .
@@ -1176,7 +1179,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:11
 msgid "ubuntu-community/askubuntu-notablequestion_title"
-msgstr ""
+msgstr "Znakomite Pytanie na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('description' field)
 #. .
@@ -1378,7 +1381,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:20
 msgid "ubuntu-community/askubuntu-stellarquestion_description"
-msgstr ""
+msgstr "Ulubione pytanie przez 100 użytkowników"
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('summary' field)
 #. .
@@ -1791,7 +1794,7 @@ msgstr "#ubuntu-community-team na Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-greatquestion.c:11
 msgid "ubuntu-community/askubuntu-greatquestion_title"
-msgstr ""
+msgstr "Wielkie Pytanie na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Great Question on Ask Ubuntu ('description' field)
 #. .
@@ -2057,7 +2060,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:11
 msgid "ubuntu-community/askubuntu-marshal_title"
-msgstr ""
+msgstr "Marszałek na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('description' field)
 #. .
@@ -2231,7 +2234,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:11
 msgid "ubuntu-community/askubuntu-investor_title"
-msgstr ""
+msgstr "Inwestor na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('description' field)
 #. .
@@ -2319,7 +2322,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-suffrage.c:11
 msgid "ubuntu-community/askubuntu-suffrage_title"
-msgstr ""
+msgstr "Prawo wyborcze na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Suffrage on Ask Ubuntu ('description' field)
 #. .
@@ -2699,7 +2702,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:11
 msgid "ubuntu-community/askubuntu-organizer_title"
-msgstr ""
+msgstr "Organizator na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('description' field)
 #. .
@@ -2787,7 +2790,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-teacher.c:11
 msgid "ubuntu-community/askubuntu-teacher_title"
-msgstr ""
+msgstr "Nauczyciel na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('description' field)
 #. .
@@ -2896,7 +2899,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-student.c:11
 msgid "ubuntu-community/askubuntu-student_title"
-msgstr ""
+msgstr "Student na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Student on Ask Ubuntu ('description' field)
 #. .
@@ -4021,7 +4024,7 @@ msgstr "#ubuntu-testing on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-goodquestion.c:11
 msgid "ubuntu-community/askubuntu-goodquestion_title"
-msgstr ""
+msgstr "Dobre Pytanie na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Good Question on Ask Ubuntu ('description' field)
 #. .
@@ -4032,7 +4035,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-goodquestion.c:20
 msgid "ubuntu-community/askubuntu-goodquestion_description"
-msgstr ""
+msgstr "25 albo więcej punktów pytań"
 
 #. ACCOMPLISHMENT: Good Question on Ask Ubuntu ('summary' field)
 #. .
@@ -4200,7 +4203,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-benefactor.c:11
 msgid "ubuntu-community/askubuntu-benefactor_title"
-msgstr ""
+msgstr "Dobroczyńca na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('description' field)
 #. .
@@ -4309,7 +4312,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:11
 msgid "ubuntu-community/askubuntu-editor_title"
-msgstr ""
+msgstr "Edytor na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('description' field)
 #. .
@@ -4320,7 +4323,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:20
 msgid "ubuntu-community/askubuntu-editor_description"
-msgstr ""
+msgstr "Pierwsza edycja"
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('summary' field)
 #. .
@@ -4397,7 +4400,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:11
 msgid "ubuntu-community/askubuntu-niceanswer_title"
-msgstr ""
+msgstr "Miła odpowiedź na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('description' field)
 #. .
@@ -4408,7 +4411,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:20
 msgid "ubuntu-community/askubuntu-niceanswer_description"
-msgstr ""
+msgstr "10 albo więcej punktów odpowiedzi"
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('summary' field)
 #. .
@@ -5076,7 +5079,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/blog-on-planet-ubuntu.c:20
 msgid "ubuntu-community/blog-on-planet-ubuntu_description"
-msgstr ""
+msgstr "Masz bloga na Planet Ubuntu"
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('summary' field)
 #. .
@@ -5195,7 +5198,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:20
 msgid "ubuntu-community/askubuntu-copyeditor_description"
-msgstr ""
+msgstr "Edytowane 500 postów"
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('summary' field)
 #. .
@@ -5208,7 +5211,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:31
 msgid "ubuntu-community/askubuntu-copyeditor_summary"
-msgstr ""
+msgstr "Edytowano 500 postów"
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('steps' field)
 #. .
@@ -5272,7 +5275,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:11
 msgid "ubuntu-community/askubuntu-deputy_title"
-msgstr ""
+msgstr "Zastępca na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('description' field)
 #. .
@@ -5360,7 +5363,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-popularquestion.c:11
 msgid "ubuntu-community/askubuntu-popularquestion_title"
-msgstr ""
+msgstr "Popularne pytanie na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('description' field)
 #. .
@@ -5371,7 +5374,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-popularquestion.c:20
 msgid "ubuntu-community/askubuntu-popularquestion_description"
-msgstr ""
+msgstr "Zadawane pytanie z 1000 wyświetleń"
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('summary' field)
 #. .
@@ -5950,7 +5953,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-greatanswer.c:11
 msgid "ubuntu-community/askubuntu-greatanswer_title"
-msgstr ""
+msgstr "Świetna Odpowiedź na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('description' field)
 #. .
@@ -5961,7 +5964,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-greatanswer.c:20
 msgid "ubuntu-community/askubuntu-greatanswer_description"
-msgstr ""
+msgstr "100 albo więcej punktów odpowiedzi"
 
 #. ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('summary' field)
 #. .
@@ -6058,7 +6061,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-disciplined.c:11
 msgid "ubuntu-community/askubuntu-disciplined_title"
-msgstr ""
+msgstr "Zdyscyplinowany na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Disciplined on Ask Ubuntu ('description' field)
 #. .
@@ -6069,7 +6072,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-disciplined.c:20
 msgid "ubuntu-community/askubuntu-disciplined_description"
-msgstr ""
+msgstr "Usuń własnego post z wynikiem 3 lub wyższej"
 
 #. ACCOMPLISHMENT: Disciplined on Ask Ubuntu ('summary' field)
 #. .
@@ -6082,7 +6085,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-disciplined.c:31
 msgid "ubuntu-community/askubuntu-disciplined_summary"
-msgstr ""
+msgstr "Usuń własnego post z wynikiem 3 lub wyższej"
 
 #. ACCOMPLISHMENT: Disciplined on Ask Ubuntu ('steps' field)
 #. .
@@ -6146,7 +6149,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-cleanup.c:11
 msgid "ubuntu-community/askubuntu-cleanup_title"
-msgstr ""
+msgstr "Porządek na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Cleanup on Ask Ubuntu ('description' field)
 #. .
@@ -6234,7 +6237,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-altruist.c:11
 msgid "ubuntu-community/askubuntu-altruist_title"
-msgstr ""
+msgstr "Altruista na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Altruist on Ask Ubuntu ('description' field)
 #. .
@@ -6576,7 +6579,7 @@ msgstr "#ubuntu-testing on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-famousquestion.c:11
 msgid "ubuntu-community/askubuntu-famousquestion_title"
-msgstr ""
+msgstr "Sławne Pytanie na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Famous Question on Ask Ubuntu ('description' field)
 #. .
@@ -6587,7 +6590,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-famousquestion.c:20
 msgid "ubuntu-community/askubuntu-famousquestion_description"
-msgstr ""
+msgstr "Zadał pytanie z 10000 wyświetleń"
 
 #. ACCOMPLISHMENT: Famous Question on Ask Ubuntu ('summary' field)
 #. .
@@ -6690,7 +6693,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-strunkandwhite.c:20
 msgid "ubuntu-community/askubuntu-strunkandwhite_description"
-msgstr ""
+msgstr "Edytowane 80 postów"
 
 #. ACCOMPLISHMENT: Strunk and White on Ask Ubuntu ('summary' field)
 #. .
@@ -6783,7 +6786,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-enthusiast.c:11
 msgid "ubuntu-community/askubuntu-enthusiast_title"
-msgstr ""
+msgstr "Entuzjasta na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Enthusiast on Ask Ubuntu ('description' field)
 #. .
@@ -6794,7 +6797,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-enthusiast.c:20
 msgid "ubuntu-community/askubuntu-enthusiast_description"
-msgstr ""
+msgstr "Odwiedź stronę każdego dnia przez 30 kolejnych dni"
 
 #. ACCOMPLISHMENT: Enthusiast on Ask Ubuntu ('summary' field)
 #. .
@@ -6807,7 +6810,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-enthusiast.c:31
 msgid "ubuntu-community/askubuntu-enthusiast_summary"
-msgstr ""
+msgstr "Odwiedź stronę każdego dnia przez 30 kolejnych dni"
 
 #. ACCOMPLISHMENT: Enthusiast on Ask Ubuntu ('steps' field)
 #. .
@@ -6822,6 +6825,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-enthusiast.c:43
 msgid "ubuntu-community/askubuntu-enthusiast_steps"
 msgstr ""
+"Dać instrukcje krok po kroku aby tego dokonać. Każdy krok powinien być w "
+"nowej linii z karty na początku, jak to."
 
 #. ACCOMPLISHMENT: Enthusiast on Ask Ubuntu ('pitfalls' field)
 #. .
@@ -6981,7 +6986,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:11
 msgid "ubuntu-community/askubuntu-proofreader_title"
-msgstr ""
+msgstr "Korektor na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('description' field)
 #. .
@@ -7085,7 +7090,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-archaeologist.c:11
 msgid "ubuntu-community/askubuntu-archaeologist_title"
-msgstr ""
+msgstr "Archeolog na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Archaeologist on Ask Ubuntu ('description' field)
 #. .
@@ -7096,7 +7101,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-archaeologist.c:20
 msgid "ubuntu-community/askubuntu-archaeologist_description"
-msgstr ""
+msgstr "Edytowanie 100 postów, które były nieaktywne przez okres 6 miesięcy"
 
 #. ACCOMPLISHMENT: Archaeologist on Ask Ubuntu ('summary' field)
 #. .
@@ -7162,7 +7167,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-commentator.c:11
 msgid "ubuntu-community/askubuntu-commentator_title"
-msgstr ""
+msgstr "Komentator na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Commentator on Ask Ubuntu ('description' field)
 #. .
@@ -7250,7 +7255,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-legendary.c:11
 msgid "ubuntu-community/askubuntu-legendary_title"
-msgstr ""
+msgstr "Legendarny na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Legendary on Ask Ubuntu ('description' field)
 #. .
@@ -7261,7 +7266,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-legendary.c:20
 msgid "ubuntu-community/askubuntu-legendary_description"
-msgstr ""
+msgstr "Zdobyte 200 reputacji dziennie 150 razy"
 
 #. ACCOMPLISHMENT: Legendary on Ask Ubuntu ('summary' field)
 #. .
@@ -7274,7 +7279,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-legendary.c:31
 msgid "ubuntu-community/askubuntu-legendary_summary"
-msgstr ""
+msgstr "Zdobyte 200 reputacji dziennie 150 razy"
 
 #. ACCOMPLISHMENT: Legendary on Ask Ubuntu ('steps' field)
 #. .
@@ -7507,7 +7512,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-revival.c:11
 msgid "ubuntu-community/askubuntu-revival_title"
-msgstr ""
+msgstr "Odrodzenie na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Revival on Ask Ubuntu ('description' field)
 #. .
@@ -7678,7 +7683,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-enlightened.c:11
 msgid "ubuntu-community/askubuntu-enlightened_title"
-msgstr ""
+msgstr "Oświecony na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Enlightened on Ask Ubuntu ('description' field)
 #. .
@@ -7777,7 +7782,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-goodanswer.c:20
 msgid "ubuntu-community/askubuntu-goodanswer_description"
-msgstr ""
+msgstr "25 lub więcej punktów odpowiedzi"
 
 #. ACCOMPLISHMENT: Good Answer on Ask Ubuntu ('summary' field)
 #. .
@@ -7951,7 +7956,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-announcer.c:11
 msgid "ubuntu-community/askubuntu-announcer_title"
-msgstr ""
+msgstr "Spiker na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('description' field)
 #. .
@@ -8040,7 +8045,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-fanatic.c:11
 msgid "ubuntu-community/askubuntu-fanatic_title"
-msgstr ""
+msgstr "Fanatyk na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Fanatic on Ask Ubuntu ('description' field)
 #. .
@@ -8051,7 +8056,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-fanatic.c:20
 msgid "ubuntu-community/askubuntu-fanatic_description"
-msgstr ""
+msgstr "Odwiedź stronę każdego dnia przez 100 kolejnych dni"
 
 #. ACCOMPLISHMENT: Fanatic on Ask Ubuntu ('summary' field)
 #. .
@@ -8258,7 +8263,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-nicequestion.c:11
 msgid "ubuntu-community/askubuntu-nicequestion_title"
-msgstr ""
+msgstr "Miłe pytanie na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Nice Question on Ask Ubuntu ('description' field)
 #. .
@@ -8269,7 +8274,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-nicequestion.c:20
 msgid "ubuntu-community/askubuntu-nicequestion_description"
-msgstr ""
+msgstr "10 albo więcej punktów pytań"
 
 #. ACCOMPLISHMENT: Nice Question on Ask Ubuntu ('summary' field)
 #. .
@@ -8533,7 +8538,7 @@ msgstr "#juju on Freenode"
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-scholar.c:11
 msgid "ubuntu-community/askubuntu-scholar_title"
-msgstr ""
+msgstr "Uczony na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Scholar on Ask Ubuntu ('description' field)
 #. .
@@ -8544,7 +8549,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-scholar.c:20
 msgid "ubuntu-community/askubuntu-scholar_description"
-msgstr ""
+msgstr "Zadał pytanie i zaakceptował odpowiedź"
 
 #. ACCOMPLISHMENT: Scholar on Ask Ubuntu ('summary' field)
 #. .
@@ -8730,7 +8735,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-citizenpatrol.c:11
 msgid "ubuntu-community/askubuntu-citizenpatrol_title"
-msgstr ""
+msgstr "Patrol Obywatel na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Citizen Patrol on Ask Ubuntu ('description' field)
 #. .
@@ -8741,7 +8746,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-citizenpatrol.c:20
 msgid "ubuntu-community/askubuntu-citizenpatrol_description"
-msgstr ""
+msgstr "Pierwszy oznaczony post"
 
 #. ACCOMPLISHMENT: Citizen Patrol on Ask Ubuntu ('summary' field)
 #. .
@@ -8834,7 +8839,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-necromancer.c:11
 msgid "ubuntu-community/askubuntu-necromancer_title"
-msgstr ""
+msgstr "Nekromanta na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Necromancer on Ask Ubuntu ('description' field)
 #. .
@@ -9027,7 +9032,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-favoritequestion.c:11
 msgid "ubuntu-community/askubuntu-favoritequestion_title"
-msgstr ""
+msgstr "Ulubione pytanie na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Favorite Question on Ask Ubuntu ('description' field)
 #. .
@@ -9038,7 +9043,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-favoritequestion.c:20
 msgid "ubuntu-community/askubuntu-favoritequestion_description"
-msgstr ""
+msgstr "Ulubione pytanie przez 25 użytkowników"
 
 #. ACCOMPLISHMENT: Favorite Question on Ask Ubuntu ('summary' field)
 #. .
@@ -9195,7 +9200,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-critic.c:11
 msgid "ubuntu-community/askubuntu-critic_title"
-msgstr ""
+msgstr "Krytyk na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Critic on Ask Ubuntu ('description' field)
 #. .
@@ -9206,7 +9211,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-critic.c:20
 msgid "ubuntu-community/askubuntu-critic_description"
-msgstr ""
+msgstr "Pierwszy głos w dół"
 
 #. ACCOMPLISHMENT: Critic on Ask Ubuntu ('summary' field)
 #. .
@@ -9290,7 +9295,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-talkative.c:11
 msgid "ubuntu-community/askubuntu-talkative_title"
-msgstr ""
+msgstr "Rozmowny na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('description' field)
 #. .
@@ -9396,7 +9401,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-yearling.c:11
 msgid "ubuntu-community/askubuntu-yearling_title"
-msgstr ""
+msgstr "Roczniak na Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Yearling on Ask Ubuntu ('description' field)
 #. .
@@ -9407,7 +9412,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-yearling.c:20
 msgid "ubuntu-community/askubuntu-yearling_description"
-msgstr ""
+msgstr "Aktywny członek od roku, zdobywając co najmniej 200 reputacji"
 
 #. ACCOMPLISHMENT: Yearling on Ask Ubuntu ('summary' field)
 #. .
@@ -9420,7 +9425,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-yearling.c:31
 msgid "ubuntu-community/askubuntu-yearling_summary"
-msgstr ""
+msgstr "Aktywny członek od roku, zdobywając co najmniej 200 reputacji"
 
 #. ACCOMPLISHMENT: Yearling on Ask Ubuntu ('steps' field)
 #. .
@@ -9590,7 +9595,7 @@ msgstr ""
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/askubuntu-civicduty.c:20
 msgid "ubuntu-community/askubuntu-civicduty_description"
-msgstr ""
+msgstr "Głosowano 300 lub więcej razy"
 
 #. ACCOMPLISHMENT: Civic Duty on Ask Ubuntu ('summary' field)
 #. .
@@ -9787,7 +9792,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/organize-loco-event.c:11
 msgid "ubuntu-community/organize-loco-event_title"
-msgstr ""
+msgstr "Organizator wydarzenia grupy LoCo"
 
 #. ACCOMPLISHMENT: Organized a LoCo Team Event ('description' field)
 #. .
