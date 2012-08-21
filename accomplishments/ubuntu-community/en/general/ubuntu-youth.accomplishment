@@ -7,7 +7,7 @@ needs-signing=true
 depends=ubuntu-community/registered-on-launchpad
 icon=ubuntuyouth.png
 needs-information=launchpad-email
-summary = The Ubuntu Youth team is a group that aims in getting youth people started with their work in the Ubuntu Community, as well as a place where you can gather and talk about Ubuntu itself. We expect our members to be actively contributing to the project, and asking for mentorship if it is needed in any case, as well as participating in the team activities, which will be announced through the wiki page.
+summary = The Ubuntu Youth team is a group that aims in getting young people started with their work in the Ubuntu Community, as well as a place where you can gather and talk about Ubuntu itself. We expect our members to be actively contributing to the project, and asking for mentorship if it is needed, as well as participating in the team activities, which will be announced through the wiki page.
 steps: Register on Launchpad (see the <i>Registerd on Launchpad</i> opportunity).
 In launchpad, go to <a href=https://launchpad.net/~ubuntu-youth> the Ubuntu Youth team</a>.
 Click the 'Join the Team' button on the page.
