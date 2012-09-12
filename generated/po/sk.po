@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-05-24 23:35+0000\n"
-"Last-Translator: Robert Kasanický <robokaso@gmail.com>\n"
+"PO-Revision-Date: 2012-09-11 12:18+0000\n"
+"Last-Translator: Michael Krištof <Unknown>\n"
 "Language-Team: Slovak <sk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-28 09:09+0000\n"
-"X-Generator: Launchpad (build 15864)\n"
+"X-Launchpad-Export-Date: 2012-09-12 04:55+0000\n"
+"X-Generator: Launchpad (build 15930)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -126,7 +126,7 @@ msgstr "Člen LoCo tímu"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/member-loco-team.c:20
 msgid "ubuntu-community/member-loco-team_description"
-msgstr "Si členom LoCo tímu"
+msgstr "Si členom Ubuntu LoCo tímu"
 
 #. ACCOMPLISHMENT: LoCo Team Member ('summary' field)
 #. .
@@ -188,7 +188,7 @@ msgstr "http://loco.ubuntu.com/teams/ubuntu-sk"
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/member-loco-team.c:65
 msgid "ubuntu-community/member-loco-team_help"
-msgstr "#ubuntu-cz on Freenode"
+msgstr "#ubuntu-cz na Freenode"
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('title' field)
 #. .
@@ -226,6 +226,15 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:32
 msgid "ubuntu-community/askubuntu-pundit_summary"
 msgstr ""
+"Komentáre sú dočasné poznámky týkajúce sa určitej otázky či odpovede. Môžete "
+"za ne zahlasovať alebo ich označiť, ale táto činnosť nemá žiadny vplyv na "
+"reputáciu. K nadobudnutiu tohoto odznaku musíte zanechať presne 10 "
+"komentárov, z ktorých každý musí získať 5 alebo viac hlasov.\r\n"
+"Pre zanechanie komentáru jednoducho kliknite na <i>comment</i> odkaz pod "
+"daným príspevkom. Prosím, buďte si vedomí, že i keď je vždy možné zanechať "
+"komentár ku svojmu vlastnému príspevku a ku ktorejkoľvek časti vašich "
+"otázok, zanechanie komentárov k príspevkom iných ľudí je privilégium, ktoré "
+"je udeľované na základe zlepšenia svojej reputácie."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('steps' field)
 #. .
@@ -6305,7 +6314,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/report-first-bug.c:11
 msgid "ubuntu-community/report-first-bug_title"
-msgstr "Reportuj prvý bug (chybu)"
+msgstr "Nahlás prvý bug (chybu)"
 
 #. ACCOMPLISHMENT: Report First Bug ('description' field)
 #. .
@@ -6316,7 +6325,7 @@ msgstr "Reportuj prvý bug (chybu)"
 #. Add a descriptive single-line summary of the accomplishment.
 #: ../accomplishments/ubuntu-community/report-first-bug.c:20
 msgid "ubuntu-community/report-first-bug_description"
-msgstr "Úspešne si odreportoval svoj prvý bug v Ubuntu"
+msgstr "Úspešne si nahlásil svoj prvý bug v Ubuntu"
 
 #. ACCOMPLISHMENT: Report First Bug ('summary' field)
 #. .
