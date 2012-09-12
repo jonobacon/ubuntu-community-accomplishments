@@ -21,7 +21,7 @@ try:
         sys.exit(1)
     else:
         ubuntu=l.projects['ubuntu']
-        bugs_reported = ubuntu.searchTasks(bug_reporter=me, 
+        bugs_reported = ubuntu.searchTasks(assignee=me, 
             status=['Fix Released'])
         if len(bugs_reported) > 0:
             sys.exit(0)
