@@ -1,0 +1,19 @@
+[accomplishment]
+title=Testcase Admins Team Member
+description=You are a member of Ubuntu Testcase Admins
+collection=ubuntu-community
+category=QA
+needs-signing=true
+icon=devel.png
+needs-information=launchpad-email
+summary = In the ISO QA Tracker you can see there are testcases with different instructions. It is up to the testcase admins team to edit and maintain the set of testcases to make testing easier. To join you must have significant contributions to the Testing Team.   
+steps: Join the Ubuntu testing team in <a href="https://launchpad.net/~ubuntu-testing">here.</a>
+    Do significant contributions in the <a href="http://iso.qa.ubuntu.com">ISO QA Tracker</a> and the <a href="http://packages.qa.ubuntu.com">Packages QA Tracker</a>.
+    Also hang out in #ubuntu-testing on Freenode and try to see if you can help to work on testcases. 
+    Read through the links given below.
+    After completing the previous steps, please<a href="https://launchpad.net/~ubuntu-testcase/+contactuser">give an email to the team </a>writing on how did you contribute to testing and how would you like to contribute to testcase maintenance.
+    Wait for the team administrators to approve your application.
+links: https://wiki.ubuntu.com/Testing/TestCaseAdmins
+    https://wiki.ubuntu.com/Testing/TestCaseAdmins/ManagementOverview
+help = #ubuntu-testing on Freenode
+author = Howard Chan <smartboyhw@gmail.com>
