@@ -1,3 +1,46 @@
+ubuntu-community-accomplishments (0.3) precise; urgency=low
+
+  [Jono Bacon]
+  * Test for bugsquad-member fixed
+ 
+  [Phillip Ballew]
+  * New Ubuntu Power Users accomplishment
+ 
+  [Alastair Buxton]
+  * Many grammar fixes in documentation
+ 
+  [Luke Caputo]
+  * AskUbuntu Investor badge fixed
+ 
+  [Jordan Chin]
+  * Lots of spelling fixes in documentation
+ 
+  [Rafał Cieślak]
+  * Scripts performance improved by storing downloaded data in cache
+ 
+  [Nathan Eckenrode]
+  * Documentation fixes
+ 
+  [Matthew Fischer]
+  * "Register on AskUbuntu" script fixed
+  * Grammar and capitalistaion in mugshot accomplishment fixed
+  * MOTU IRC channel in MOTU accomplishment fixed
+ 
+  [Janos Gyerik]
+  * Example value for askubuntu-usr-url extrainfo added
+ 
+  [Christopher Kyle Horton]
+  * New AskUbuntu Organizer badge
+  * New AskUbuntu Outspoken badge
+  * New AskUbuntu Scholar badge
+  * New AskUbuntu Supporter badge
+ 
+  [José Antonio Rey]
+  * New Ubuntu Youth accomplishment
+  * IRC cloacks corrected
+
+ -- Rafał Cieślak <rafalcieslak256@ubuntu.com>  Tue, 25 Sep 2012 20:43:25 +0200
+
 ubuntu-community-accomplishments (0.2.1precise1) precise; urgency=low
 
   * Fix for a data hungry canonical-contributors script.
