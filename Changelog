@@ -1,24 +1,21 @@
+Please add items to this changelog that are:
+
+ * New features.
+ * Bugs that have been fixed.
+
+Add items using the following format:
+
+   [Name]
+   * What you did 
+   * If a bug (LP: #BUGNUMBER)
+
+   For example:
+
+   [Matt Fischer]
+   * Fixed this format section (LP: #000000000)
+
 -------------------------------------------------------------------------
 
-Next Version Target: 0.3
+Next Version Target: 0.4
 
 -------------------------------------------------------------------------
-
- * Scripts performance improved by storing downloaded data in cache (Rafał Cieślak)
- * New Ubuntu Power Users accomplishment (Phillip Ballew)
- * New Ubuntu Youth accomplishment (José Antonio Rey)
- * New AskUbuntu Organizer badge (Christopher Kyle Horton)
- * New AskUbuntu Outspoken badge (Christopher Kyle Horton)
- * New AskUbuntu Scholar badge (Christopher Kyle Horton)
- * New AskUbuntu Supporter badge (Christopher Kyle Horton)
- * Example value for askubuntu-usr-url extrainfo added (Janos Gyerik)
- * "Register on AskUbuntu" script fixed (Matthew Fischer)
- * Documentation fixes (Nathan Eckenrode)
- * AskUbuntu Investor badge fixed (Luke Caputo)
- * IRC cloacks corrected (José Antonio Rey)
- * Lots of spelling fixes in documentation (Jordan Chin)
- * Many grammar fixes in documentation (Alastair Buxton)
- * Grammar and capitalistaion in mugshot accomplishment fixed (Matthew Fischer)
- * MOTU IRC channel in MOTU accomplishment fixed (Matthew Fischer)
- * Test for bugsquad-member fixed (Jono Bacon)
- * Many translations updated (various contributors)
