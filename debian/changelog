@@ -1,5 +1,12 @@
-ubuntu-community-accomplishments (0.3) precise; urgency=low
+ubuntu-community-accomplishments (0.3~quantal2) quantal; urgency=low
 
+  * Redoing the upload to fix the incorrect distroseries, no other changes 
+
+ -- Matthew Fischer <matthew.fischer@ubuntu.com>  Wed, 26 Sep 2012 16:26:28 -0600
+
+ubuntu-community-accomplishments (0.3~precise1) precise; urgency=low
+
+  [Rafał Cieślak]
   [Jono Bacon]
   * Test for bugsquad-member fixed
  
@@ -39,7 +46,7 @@ ubuntu-community-accomplishments (0.3) precise; urgency=low
   * New Ubuntu Youth accomplishment
   * IRC cloacks corrected
 
- -- Rafał Cieślak <rafalcieslak256@ubuntu.com>  Tue, 25 Sep 2012 20:43:25 +0200
+ -- Matthew Fischer <matthew.fischer@ubuntu.com>  Wed, 26 Sep 2012 16:19:04 -0600
 
 ubuntu-community-accomplishments (0.2.1precise1) precise; urgency=low
 
