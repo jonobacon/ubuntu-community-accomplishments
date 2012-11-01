@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-community-accomplishments\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-06-19 19:30+0200\n"
-"PO-Revision-Date: 2012-08-06 11:58+0000\n"
-"Last-Translator: Winael <vinzjobard@gmail.com>\n"
+"PO-Revision-Date: 2012-10-31 21:59+0000\n"
+"Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-02 05:50+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-11-01 05:16+0000\n"
+"X-Generator: Launchpad (build 16218)\n"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('title' field)
 #. .
@@ -27,7 +27,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-researchassistant.c:11
 msgid "ubuntu-community/askubuntu-researchassistant_title"
-msgstr ""
+msgstr "Statut \"Research Assistant\" sur Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Research Assistant on Ask Ubuntu ('description' field)
 #. .
@@ -270,6 +270,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:67
 msgid "ubuntu-community/askubuntu-pundit_pitfalls"
 msgstr ""
+"N'essayez pas d'attirer des upvotes en laissant des commentaires drôles ou "
+"sarcastiques."
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('links' field)
 #. .
@@ -285,6 +287,10 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:80
 msgid "ubuntu-community/askubuntu-pundit_links"
 msgstr ""
+"http://www.askubuntu.com\r\n"
+"http://askubuntu.com/faq#reputation\r\n"
+"http://askubuntu.com/privileges\r\n"
+"http://askubuntu.com/privileges/comment"
 
 #. ACCOMPLISHMENT: Pundit on Ask Ubuntu ('help' field)
 #. .
@@ -297,7 +303,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-pundit.c:91
 msgid "ubuntu-community/askubuntu-pundit_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('title' field)
 #. .
@@ -309,7 +315,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:11
 msgid "ubuntu-community/askubuntu-selflearner_title"
-msgstr ""
+msgstr "\"Self-Learner\" sur Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('description' field)
 #. .
@@ -360,7 +366,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:54
 msgid "ubuntu-community/askubuntu-selflearner_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Self-Learner on Ask Ubuntu ('tips' field)
 #. .
@@ -401,7 +407,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-selflearner.c:89
 msgid "ubuntu-community/askubuntu-selflearner_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('title' field)
 #. .
@@ -413,7 +419,7 @@ msgstr ""
 #. NOTE: Describe this in the past tense as if it has been achieved (e.g. Registered On Launchpad).
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:11
 msgid "ubuntu-community/askubuntu-reviewer_title"
-msgstr ""
+msgstr "\"Reviewer\" sur Ask Ubuntu"
 
 #. ACCOMPLISHMENT: Reviewer on Ask Ubuntu ('description' field)
 #. .
@@ -489,7 +495,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-reviewer.c:75
 msgid "ubuntu-community/askubuntu-reviewer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('title' field)
 #. .
@@ -564,7 +570,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:64
 msgid "ubuntu-community/askubuntu-excavator_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Excavator on Ask Ubuntu ('help' field)
 #. .
@@ -577,7 +583,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-excavator.c:75
 msgid "ubuntu-community/askubuntu-excavator_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('title' field)
 #. .
@@ -644,6 +650,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:57
 msgid "ubuntu-community/bugsquad-member_links"
 msgstr ""
+"http://wiki.ubuntu.com/BugSquad\r\n"
+"http://wiki.ubuntu.com/HelpingWithBugs"
 
 #. ACCOMPLISHMENT: Bug Squad Member ('help' field)
 #. .
@@ -656,7 +664,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/bugsquad-member.c:68
 msgid "ubuntu-community/bugsquad-member_help"
-msgstr ""
+msgstr "#ubuntu-bugs sur Freenode"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('title' field)
 #. .
@@ -726,6 +734,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:60
 msgid "ubuntu-community/registered-on-askubuntu_links"
 msgstr ""
+"http://www.askubuntu.com\r\n"
+"http://meta.askubuntu.com"
 
 #. ACCOMPLISHMENT: Register on Ask Ubuntu ('help' field)
 #. .
@@ -738,7 +748,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/registered-on-askubuntu.c:71
 msgid "ubuntu-community/registered-on-askubuntu_help"
-msgstr ""
+msgstr "#ubuntu-stack sur Freenode"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('title' field)
 #. .
@@ -813,7 +823,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:64
 msgid "ubuntu-community/askubuntu-epic_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Epic on Ask Ubuntu ('help' field)
 #. .
@@ -826,7 +836,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-epic.c:75
 msgid "ubuntu-community/askubuntu-epic_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('title' field)
 #. .
@@ -892,7 +902,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/attend-loco-event.c:57
 msgid "ubuntu-community/attend-loco-event_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com"
 
 #. ACCOMPLISHMENT: Attend LoCo Team Event ('help' field)
 #. .
@@ -907,6 +917,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/attend-loco-event.c:69
 msgid "ubuntu-community/attend-loco-event_help"
 msgstr ""
+"#ubuntu-locoteams sur Freenode\r\n"
+"#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('title' field)
 #. .
@@ -970,7 +982,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:55
 msgid "ubuntu-community/askubuntu-autobiographer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Autobiographer on Ask Ubuntu ('help' field)
 #. .
@@ -983,7 +995,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-autobiographer.c:66
 msgid "ubuntu-community/askubuntu-autobiographer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Member ('title' field)
 #. .
@@ -1078,6 +1090,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-member.c:81
 msgid "ubuntu-community/ubuntu-beginners-team-member_help"
 msgstr ""
+"#ubuntu-beginners sur Freenode\r\n"
+"#ubuntu-beginners-team sur Freenode"
 
 #. ACCOMPLISHMENT: Beta on Ask Ubuntu ('title' field)
 #. .
@@ -1153,7 +1167,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:65
 msgid "ubuntu-community/askubuntu-beta_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Beta on Ask Ubuntu ('help' field)
 #. .
@@ -1166,7 +1180,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-beta.c:76
 msgid "ubuntu-community/askubuntu-beta_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('title' field)
 #. .
@@ -1256,7 +1270,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:77
 msgid "ubuntu-community/askubuntu-notablequestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Notable Question on Ask Ubuntu ('help' field)
 #. .
@@ -1269,7 +1283,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-notablequestion.c:88
 msgid "ubuntu-community/askubuntu-notablequestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Generalist on Ask Ubuntu ('title' field)
 #. .
@@ -1344,7 +1358,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-generalist.c:64
 msgid "ubuntu-community/askubuntu-generalist_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Generalist on Ask Ubuntu ('help' field)
 #. .
@@ -1357,7 +1371,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-generalist.c:75
 msgid "ubuntu-community/askubuntu-generalist_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('title' field)
 #. .
@@ -1448,7 +1462,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:78
 msgid "ubuntu-community/askubuntu-stellarquestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Stellar Question on Ask Ubuntu ('help' field)
 #. .
@@ -1461,7 +1475,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-stellarquestion.c:89
 msgid "ubuntu-community/askubuntu-stellarquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Registered on Launchpad ('title' field)
 #. .
@@ -1619,6 +1633,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:64
 msgid "ubuntu-community/askubuntu-precognitive_links"
 msgstr ""
+"http://www.askubuntu.com\r\n"
+"http://area51.stackexchange.com/"
 
 #. ACCOMPLISHMENT: Precognitive on Ask Ubuntu ('help' field)
 #. .
@@ -1631,7 +1647,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-precognitive.c:75
 msgid "ubuntu-community/askubuntu-precognitive_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Community Council Member ('title' field)
 #. .
@@ -1728,6 +1744,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/community-council-member.c:83
 msgid "ubuntu-community/community-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/CommunityCouncil\r\n"
+"https://wiki.ubuntu.com/CommunityCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Community Council Member ('help' field)
 #. .
@@ -1740,7 +1759,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/community-council-member.c:94
 msgid "ubuntu-community/community-council-member_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Great Question on Ask Ubuntu ('title' field)
 #. .
@@ -1830,7 +1849,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-greatquestion.c:77
 msgid "ubuntu-community/askubuntu-greatquestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Great Question on Ask Ubuntu ('help' field)
 #. .
@@ -1843,7 +1862,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-greatquestion.c:88
 msgid "ubuntu-community/askubuntu-greatquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Electorate on Ask Ubuntu ('title' field)
 #. .
@@ -1918,7 +1937,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-electorate.c:64
 msgid "ubuntu-community/askubuntu-electorate_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Electorate on Ask Ubuntu ('help' field)
 #. .
@@ -1931,7 +1950,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-electorate.c:75
 msgid "ubuntu-community/askubuntu-electorate_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Unsung Hero on Ask Ubuntu ('title' field)
 #. .
@@ -1993,7 +2012,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-unsunghero.c:53
 msgid "ubuntu-community/askubuntu-unsunghero_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Unsung Hero on Ask Ubuntu ('help' field)
 #. .
@@ -2006,7 +2025,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-unsunghero.c:64
 msgid "ubuntu-community/askubuntu-unsunghero_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('title' field)
 #. .
@@ -2081,7 +2100,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:64
 msgid "ubuntu-community/askubuntu-marshal_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Marshal on Ask Ubuntu ('help' field)
 #. .
@@ -2094,7 +2113,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-marshal.c:75
 msgid "ubuntu-community/askubuntu-marshal_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Attend Ubuntu Global Jam Event ('title' field)
 #. .
@@ -2166,7 +2185,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/attend-global-jam.c:63
 msgid "ubuntu-community/attend-global-jam_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com/events/globaljam/"
 
 #. ACCOMPLISHMENT: Attend Ubuntu Global Jam Event ('help' field)
 #. .
@@ -2255,7 +2274,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:64
 msgid "ubuntu-community/askubuntu-investor_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Investor on Ask Ubuntu ('help' field)
 #. .
@@ -2268,7 +2287,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-investor.c:75
 msgid "ubuntu-community/askubuntu-investor_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Suffrage on Ask Ubuntu ('title' field)
 #. .
@@ -2362,7 +2381,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-suffrage.c:81
 msgid "ubuntu-community/askubuntu-suffrage_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Suffrage on Ask Ubuntu ('help' field)
 #. .
@@ -2375,7 +2394,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-suffrage.c:92
 msgid "ubuntu-community/askubuntu-suffrage_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Analytical on Ask Ubuntu ('title' field)
 #. .
@@ -2454,6 +2473,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-analytical.c:67
 msgid "ubuntu-community/askubuntu-analytical_links"
 msgstr ""
+"http://www.askubuntu.com/faq\r\n"
+"http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Analytical on Ask Ubuntu ('help' field)
 #. .
@@ -2466,7 +2487,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-analytical.c:78
 msgid "ubuntu-community/askubuntu-analytical_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Populist on Ask Ubuntu ('title' field)
 #. .
@@ -2544,6 +2565,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-populist.c:66
 msgid "ubuntu-community/askubuntu-populist_links"
 msgstr ""
+"http://www.askubuntu.com\r\n"
+"http://askubuntu.com/tags\r\n"
+"http://askubuntu.com/search?q="
 
 #. ACCOMPLISHMENT: Populist on Ask Ubuntu ('help' field)
 #. .
@@ -2556,7 +2580,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-populist.c:77
 msgid "ubuntu-community/askubuntu-populist_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Peer Pressure on Ask Ubuntu ('title' field)
 #. .
@@ -2636,6 +2660,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-peerpressure.c:68
 msgid "ubuntu-community/askubuntu-peerpressure_links"
 msgstr ""
+"http://www.askubuntu.com\r\n"
+"http://askubuntu.com/privileges/vote-up\r\n"
+"http://askubuntu.com/privileges/vote-down"
 
 #. ACCOMPLISHMENT: Peer Pressure on Ask Ubuntu ('help' field)
 #. .
@@ -2648,7 +2675,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-peerpressure.c:79
 msgid "ubuntu-community/askubuntu-peerpressure_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('title' field)
 #. .
@@ -2723,7 +2750,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:64
 msgid "ubuntu-community/askubuntu-organizer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Organizer on Ask Ubuntu ('help' field)
 #. .
@@ -2736,7 +2763,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-organizer.c:75
 msgid "ubuntu-community/askubuntu-organizer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('title' field)
 #. .
@@ -2832,7 +2859,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-teacher.c:83
 msgid "ubuntu-community/askubuntu-teacher_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Teacher on Ask Ubuntu ('help' field)
 #. .
@@ -2845,7 +2872,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-teacher.c:94
 msgid "ubuntu-community/askubuntu-teacher_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Student on Ask Ubuntu ('title' field)
 #. .
@@ -2937,7 +2964,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-student.c:79
 msgid "ubuntu-community/askubuntu-student_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Student on Ask Ubuntu ('help' field)
 #. .
@@ -2950,7 +2977,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-student.c:90
 msgid "ubuntu-community/askubuntu-student_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('title' field)
 #. .
@@ -3041,7 +3068,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:78
 msgid "ubuntu-community/ubuntu-cloak_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/IRC/Cloaks"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('help' field)
 #. .
@@ -3054,7 +3081,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.c:89
 msgid "ubuntu-community/ubuntu-cloak_help"
-msgstr ""
+msgstr "#ubuntu-irc-council sur Freenode"
 
 #. ACCOMPLISHMENT: Quorum on Ask Ubuntu ('title' field)
 #. .
@@ -3119,6 +3146,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-quorum.c:55
 msgid "ubuntu-community/askubuntu-quorum_links"
 msgstr ""
+"http://www.askubuntu.com\r\n"
+"http://meta.askubuntu.com/"
 
 #. ACCOMPLISHMENT: Quorum on Ask Ubuntu ('help' field)
 #. .
@@ -3131,7 +3160,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-quorum.c:66
 msgid "ubuntu-community/askubuntu-quorum_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Core Developer ('title' field)
 #. .
@@ -3425,7 +3454,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-supporter.c:79
 msgid "ubuntu-community/askubuntu-supporter_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Supporter on Ask Ubuntu ('help' field)
 #. .
@@ -3438,7 +3467,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-supporter.c:90
 msgid "ubuntu-community/askubuntu-supporter_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Attend Ubuntu Hour Event ('title' field)
 #. .
@@ -3505,7 +3534,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/attend-ubuntu-hour.c:58
 msgid "ubuntu-community/attend-ubuntu-hour_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com/events/"
 
 #. ACCOMPLISHMENT: Attend Ubuntu Hour Event ('help' field)
 #. .
@@ -3589,6 +3618,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/attend-uds.c:60
 msgid "ubuntu-community/attend-uds_links"
 msgstr ""
+"http://uds.ubuntu.com\r\n"
+"http://summit.ubuntu.com"
 
 #. ACCOMPLISHMENT: Attend Ubuntu Developer Summit ('help' field)
 #. .
@@ -3692,7 +3723,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-tumbleweed.c:77
 msgid "ubuntu-community/askubuntu-tumbleweed_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Tumbleweed on Ask Ubuntu ('help' field)
 #. .
@@ -3705,7 +3736,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-tumbleweed.c:88
 msgid "ubuntu-community/askubuntu-tumbleweed_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('title' field)
 #. .
@@ -3785,6 +3816,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/forum-council-member.c:68
 msgid "ubuntu-community/forum-council-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/ForumCouncil\r\n"
+"https://wiki.ubuntu.com/ForumCouncilAgenda\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Council Member ('help' field)
 #. .
@@ -3797,7 +3831,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/forum-council-member.c:79
 msgid "ubuntu-community/forum-council-member_help"
-msgstr ""
+msgstr "#ubuntuforums sur Freenode"
 
 #. ACCOMPLISHMENT: Booster on Ask Ubuntu ('title' field)
 #. .
@@ -3886,7 +3920,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-booster.c:76
 msgid "ubuntu-community/askubuntu-booster_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Booster on Ask Ubuntu ('help' field)
 #. .
@@ -3899,7 +3933,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-booster.c:87
 msgid "ubuntu-community/askubuntu-booster_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Filed Bug that was Confirmed ('title' field)
 #. .
@@ -4060,7 +4094,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-goodquestion.c:66
 msgid "ubuntu-community/askubuntu-goodquestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Good Question on Ask Ubuntu ('help' field)
 #. .
@@ -4073,7 +4107,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-goodquestion.c:77
 msgid "ubuntu-community/askubuntu-goodquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Vox Populi on Ask Ubuntu ('title' field)
 #. .
@@ -4149,7 +4183,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-voxpopuli.c:65
 msgid "ubuntu-community/askubuntu-voxpopuli_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Vox Populi on Ask Ubuntu ('help' field)
 #. .
@@ -4162,7 +4196,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-voxpopuli.c:76
 msgid "ubuntu-community/askubuntu-voxpopuli_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('title' field)
 #. .
@@ -4259,6 +4293,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-benefactor.c:83
 msgid "ubuntu-community/askubuntu-benefactor_links"
 msgstr ""
+"http://askubuntu.com/faq#bounty\r\n"
+"http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Benefactor on Ask Ubuntu ('help' field)
 #. .
@@ -4271,7 +4307,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-benefactor.c:94
 msgid "ubuntu-community/askubuntu-benefactor_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('title' field)
 #. .
@@ -4346,7 +4382,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:64
 msgid "ubuntu-community/askubuntu-editor_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Editor on Ask Ubuntu ('help' field)
 #. .
@@ -4359,7 +4395,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-editor.c:75
 msgid "ubuntu-community/askubuntu-editor_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('title' field)
 #. .
@@ -4453,7 +4489,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:81
 msgid "ubuntu-community/askubuntu-niceanswer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Nice Answer on Ask Ubuntu ('help' field)
 #. .
@@ -4466,7 +4502,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-niceanswer.c:92
 msgid "ubuntu-community/askubuntu-niceanswer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Fridge Editor ('title' field)
 #. .
@@ -4745,7 +4781,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-tageditor.c:78
 msgid "ubuntu-community/askubuntu-tageditor_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Tag Editor on Ask Ubuntu ('help' field)
 #. .
@@ -4758,7 +4794,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-tageditor.c:89
 msgid "ubuntu-community/askubuntu-tageditor_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Convention on Ask Ubuntu ('title' field)
 #. .
@@ -4833,7 +4869,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-convention.c:64
 msgid "ubuntu-community/askubuntu-convention_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Convention on Ask Ubuntu ('help' field)
 #. .
@@ -4846,7 +4882,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-convention.c:75
 msgid "ubuntu-community/askubuntu-convention_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Reversal on Ask Ubuntu ('title' field)
 #. .
@@ -4921,7 +4957,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-reversal.c:64
 msgid "ubuntu-community/askubuntu-reversal_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Reversal on Ask Ubuntu ('help' field)
 #. .
@@ -4934,7 +4970,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-reversal.c:75
 msgid "ubuntu-community/askubuntu-reversal_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('title' field)
 #. .
@@ -5009,7 +5045,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:64
 msgid "ubuntu-community/askubuntu-guru_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Guru on Ask Ubuntu ('help' field)
 #. .
@@ -5022,7 +5058,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-guru.c:75
 msgid "ubuntu-community/askubuntu-guru_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('title' field)
 #. .
@@ -5129,6 +5165,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/blog-on-planet-ubuntu.c:93
 msgid "ubuntu-community/blog-on-planet-ubuntu_links"
 msgstr ""
+"http://planet.ubuntu.com\r\n"
+"https://wiki.ubuntu.com/PlanetUbuntu"
 
 #. ACCOMPLISHMENT: On Planet Ubuntu ('help' field)
 #. .
@@ -5141,7 +5179,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/blog-on-planet-ubuntu.c:104
 msgid "ubuntu-community/blog-on-planet-ubuntu_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('title' field)
 #. .
@@ -5216,7 +5254,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:64
 msgid "ubuntu-community/askubuntu-copyeditor_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Copy Editor on Ask Ubuntu ('help' field)
 #. .
@@ -5229,7 +5267,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-copyeditor.c:75
 msgid "ubuntu-community/askubuntu-copyeditor_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('title' field)
 #. .
@@ -5304,7 +5342,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:64
 msgid "ubuntu-community/askubuntu-deputy_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Deputy on Ask Ubuntu ('help' field)
 #. .
@@ -5317,7 +5355,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-deputy.c:75
 msgid "ubuntu-community/askubuntu-deputy_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('title' field)
 #. .
@@ -5407,7 +5445,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-popularquestion.c:77
 msgid "ubuntu-community/askubuntu-popularquestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Popular Question on Ask Ubuntu ('help' field)
 #. .
@@ -5420,7 +5458,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-popularquestion.c:88
 msgid "ubuntu-community/askubuntu-popularquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('title' field)
 #. .
@@ -5515,6 +5553,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-forums-ubuntu-member.c:81
 msgid "ubuntu-community/ubuntu-forums-ubuntu-member_links"
 msgstr ""
+"http://ubuntuforums.org/showthread.php?t=1750642\r\n"
+"https://wiki.ubuntu.com/ForumCouncilAgenda\r\n"
+"https://wiki.ubuntu.com/Forums/Membership"
 
 #. ACCOMPLISHMENT: Ubuntu Forums Ubuntu Member ('help' field)
 #. .
@@ -5527,7 +5568,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/ubuntu-forums-ubuntu-member.c:92
 msgid "ubuntu-community/ubuntu-forums-ubuntu-member_help"
-msgstr ""
+msgstr "#ubuntuforums sur Freenode"
 
 #. ACCOMPLISHMENT: Promoter on Ask Ubuntu ('title' field)
 #. .
@@ -5611,6 +5652,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-promoter.c:72
 msgid "ubuntu-community/askubuntu-promoter_links"
 msgstr ""
+"http://www.askubuntu.com\r\n"
+"http://askubuntu.com/faq#bounty"
 
 #. ACCOMPLISHMENT: Promoter on Ask Ubuntu ('help' field)
 #. .
@@ -5623,7 +5666,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-promoter.c:83
 msgid "ubuntu-community/askubuntu-promoter_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Approved Ubuntu Member ('title' field)
 #. .
@@ -5775,6 +5818,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/canonical-contributor.c:60
 msgid "ubuntu-community/canonical-contributor_links"
 msgstr ""
+"http://www.canonical.com/contributors\r\n"
+"https://forms.canonical.com/contributor"
 
 #. ACCOMPLISHMENT: Signed the Canonical Contributors Agreement ('help' field)
 #. .
@@ -5787,7 +5832,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/canonical-contributor.c:71
 msgid "ubuntu-community/canonical-contributor_help"
-msgstr ""
+msgstr "#ubuntu-devel sur Freenode"
 
 #. ACCOMPLISHMENT: Taxonomist on Ask Ubuntu ('title' field)
 #. .
@@ -5876,7 +5921,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-taxonomist.c:76
 msgid "ubuntu-community/askubuntu-taxonomist_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Taxonomist on Ask Ubuntu ('help' field)
 #. .
@@ -5889,7 +5934,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-taxonomist.c:87
 msgid "ubuntu-community/askubuntu-taxonomist_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('title' field)
 #. .
@@ -5984,7 +6029,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-greatanswer.c:82
 msgid "ubuntu-community/askubuntu-greatanswer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Great Answer on Ask Ubuntu ('help' field)
 #. .
@@ -5997,7 +6042,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-greatanswer.c:93
 msgid "ubuntu-community/askubuntu-greatanswer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Disciplined on Ask Ubuntu ('title' field)
 #. .
@@ -6072,7 +6117,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-disciplined.c:64
 msgid "ubuntu-community/askubuntu-disciplined_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Disciplined on Ask Ubuntu ('help' field)
 #. .
@@ -6085,7 +6130,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-disciplined.c:75
 msgid "ubuntu-community/askubuntu-disciplined_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Cleanup on Ask Ubuntu ('title' field)
 #. .
@@ -6160,7 +6205,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-cleanup.c:64
 msgid "ubuntu-community/askubuntu-cleanup_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Cleanup on Ask Ubuntu ('help' field)
 #. .
@@ -6173,7 +6218,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-cleanup.c:75
 msgid "ubuntu-community/askubuntu-cleanup_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Altruist on Ask Ubuntu ('title' field)
 #. .
@@ -6257,6 +6302,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-altruist.c:72
 msgid "ubuntu-community/askubuntu-altruist_links"
 msgstr ""
+"http://askubuntu.com/faq#bounty\r\n"
+"http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Altruist on Ask Ubuntu ('help' field)
 #. .
@@ -6269,7 +6316,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-altruist.c:83
 msgid "ubuntu-community/askubuntu-altruist_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Setting a mugshot in Launchpad profile ('title' field)
 #. .
@@ -6561,7 +6608,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-famousquestion.c:77
 msgid "ubuntu-community/askubuntu-famousquestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Famous Question on Ask Ubuntu ('help' field)
 #. .
@@ -6574,7 +6621,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-famousquestion.c:88
 msgid "ubuntu-community/askubuntu-famousquestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Strunk and White on Ask Ubuntu ('title' field)
 #. .
@@ -6665,7 +6712,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-strunkandwhite.c:78
 msgid "ubuntu-community/askubuntu-strunkandwhite_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Strunk and White on Ask Ubuntu ('help' field)
 #. .
@@ -6678,7 +6725,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-strunkandwhite.c:89
 msgid "ubuntu-community/askubuntu-strunkandwhite_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Enthusiast on Ask Ubuntu ('title' field)
 #. .
@@ -6753,7 +6800,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-enthusiast.c:64
 msgid "ubuntu-community/askubuntu-enthusiast_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Enthusiast on Ask Ubuntu ('help' field)
 #. .
@@ -6766,7 +6813,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-enthusiast.c:75
 msgid "ubuntu-community/askubuntu-enthusiast_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('title' field)
 #. .
@@ -6864,6 +6911,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/launchpad-uploaded-a-branch.c:84
 msgid "ubuntu-community/launchpad-uploaded-a-branch_links"
 msgstr ""
+"https://help.launchpad.net/Code/Review\r\n"
+"http://wiki.bazaar.canonical.com/Tutorials\r\n"
+"http://doc.bazaar.canonical.com"
 
 #. ACCOMPLISHMENT: Uploaded First Branch To Launchpad ('help' field)
 #. .
@@ -6967,7 +7017,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:78
 msgid "ubuntu-community/askubuntu-proofreader_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Proofreader on Ask Ubuntu ('help' field)
 #. .
@@ -6980,7 +7030,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-proofreader.c:89
 msgid "ubuntu-community/askubuntu-proofreader_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Archaeologist on Ask Ubuntu ('title' field)
 #. .
@@ -7045,6 +7095,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-archaeologist.c:55
 msgid "ubuntu-community/askubuntu-archaeologist_links"
 msgstr ""
+"http://www.askubuntu.com/faq#editing\r\n"
+"http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Archaeologist on Ask Ubuntu ('help' field)
 #. .
@@ -7057,7 +7109,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-archaeologist.c:66
 msgid "ubuntu-community/askubuntu-archaeologist_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Commentator on Ask Ubuntu ('title' field)
 #. .
@@ -7132,7 +7184,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-commentator.c:64
 msgid "ubuntu-community/askubuntu-commentator_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Commentator on Ask Ubuntu ('help' field)
 #. .
@@ -7145,7 +7197,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-commentator.c:75
 msgid "ubuntu-community/askubuntu-commentator_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Legendary on Ask Ubuntu ('title' field)
 #. .
@@ -7220,7 +7272,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-legendary.c:64
 msgid "ubuntu-community/askubuntu-legendary_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Legendary on Ask Ubuntu ('help' field)
 #. .
@@ -7233,7 +7285,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-legendary.c:75
 msgid "ubuntu-community/askubuntu-legendary_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Attend Event with another Local Community ('title' field)
 #. .
@@ -7300,7 +7352,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/attend-other-team-event.c:58
 msgid "ubuntu-community/attend-other-team-event_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com/teams/"
 
 #. ACCOMPLISHMENT: Attend Event with another Local Community ('help' field)
 #. .
@@ -7389,7 +7441,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-mortarboard.c:64
 msgid "ubuntu-community/askubuntu-mortarboard_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Mortarboard on Ask Ubuntu ('help' field)
 #. .
@@ -7402,7 +7454,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-mortarboard.c:75
 msgid "ubuntu-community/askubuntu-mortarboard_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Revival on Ask Ubuntu ('title' field)
 #. .
@@ -7477,7 +7529,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-revival.c:64
 msgid "ubuntu-community/askubuntu-revival_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Revival on Ask Ubuntu ('help' field)
 #. .
@@ -7490,7 +7542,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-revival.c:75
 msgid "ubuntu-community/askubuntu-revival_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Technical Board Member ('title' field)
 #. .
@@ -7648,7 +7700,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-enlightened.c:64
 msgid "ubuntu-community/askubuntu-enlightened_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Enlightened on Ask Ubuntu ('help' field)
 #. .
@@ -7661,7 +7713,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-enlightened.c:75
 msgid "ubuntu-community/askubuntu-enlightened_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Good Answer on Ask Ubuntu ('title' field)
 #. .
@@ -7752,7 +7804,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-goodanswer.c:78
 msgid "ubuntu-community/askubuntu-goodanswer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Good Answer on Ask Ubuntu ('help' field)
 #. .
@@ -7765,7 +7817,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-goodanswer.c:89
 msgid "ubuntu-community/askubuntu-goodanswer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Membership Board Member ('title' field)
 #. .
@@ -7834,6 +7886,10 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/ubuntu-membership-board-member.c:59
 msgid "ubuntu-community/ubuntu-membership-board-member_links"
 msgstr ""
+"https://wiki.ubuntu.com/Membership/Boards\r\n"
+"https://wiki.ubuntu.com/Membership\r\n"
+"https://launchpad.net/~ubuntu-membership-board\r\n"
+"http://www.ubuntu.com/project/about-ubuntu/governance"
 
 #. ACCOMPLISHMENT: Ubuntu Membership Board Member ('help' field)
 #. .
@@ -7922,7 +7978,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-announcer.c:65
 msgid "ubuntu-community/askubuntu-announcer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Announcer on Ask Ubuntu ('help' field)
 #. .
@@ -7935,7 +7991,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-announcer.c:76
 msgid "ubuntu-community/askubuntu-announcer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Fanatic on Ask Ubuntu ('title' field)
 #. .
@@ -8010,7 +8066,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-fanatic.c:64
 msgid "ubuntu-community/askubuntu-fanatic_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Fanatic on Ask Ubuntu ('tips' field)
 #. .
@@ -8229,7 +8285,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-nicequestion.c:66
 msgid "ubuntu-community/askubuntu-nicequestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Nice Question on Ask Ubuntu ('help' field)
 #. .
@@ -8242,7 +8298,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-nicequestion.c:77
 msgid "ubuntu-community/askubuntu-nicequestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Ubuntu Beginners Team Council Member ('title' field)
 #. .
@@ -8348,7 +8404,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/ubuntu-beginners-team-council-member.c:91
 msgid "ubuntu-community/ubuntu-beginners-team-council-member_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/BeginnersTeam/Structure#Council"
 
 #. ACCOMPLISHMENT: Juju Charm Reviewer ('title' field)
 #. .
@@ -8520,7 +8576,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-scholar.c:83
 msgid "ubuntu-community/askubuntu-scholar_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Scholar on Ask Ubuntu ('help' field)
 #. .
@@ -8533,7 +8589,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-scholar.c:94
 msgid "ubuntu-community/askubuntu-scholar_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Synonymizer on Ask Ubuntu ('title' field)
 #. .
@@ -8608,7 +8664,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-synonymizer.c:64
 msgid "ubuntu-community/askubuntu-synonymizer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Synonymizer on Ask Ubuntu ('help' field)
 #. .
@@ -8621,7 +8677,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-synonymizer.c:75
 msgid "ubuntu-community/askubuntu-synonymizer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Citizen Patrol on Ask Ubuntu ('title' field)
 #. .
@@ -8712,7 +8768,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-citizenpatrol.c:78
 msgid "ubuntu-community/askubuntu-citizenpatrol_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Citizen Patrol on Ask Ubuntu ('help' field)
 #. .
@@ -8725,7 +8781,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-citizenpatrol.c:89
 msgid "ubuntu-community/askubuntu-citizenpatrol_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Necromancer on Ask Ubuntu ('title' field)
 #. .
@@ -8800,7 +8856,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-necromancer.c:64
 msgid "ubuntu-community/askubuntu-necromancer_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Necromancer on Ask Ubuntu ('help' field)
 #. .
@@ -8813,7 +8869,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-necromancer.c:75
 msgid "ubuntu-community/askubuntu-necromancer_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Bug Control Member ('title' field)
 #. .
@@ -8905,7 +8961,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/ubuntu-bugcontrol-member.c:79
 msgid "ubuntu-community/ubuntu-bugcontrol-member_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/UbuntuBugControl"
 
 #. ACCOMPLISHMENT: Bug Control Member ('help' field)
 #. .
@@ -8993,7 +9049,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-favoritequestion.c:64
 msgid "ubuntu-community/askubuntu-favoritequestion_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Favorite Question on Ask Ubuntu ('help' field)
 #. .
@@ -9006,7 +9062,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-favoritequestion.c:75
 msgid "ubuntu-community/askubuntu-favoritequestion_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('title' field)
 #. .
@@ -9073,7 +9129,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/imported-ssh-key.c:58
 msgid "ubuntu-community/imported-ssh-key_links"
-msgstr ""
+msgstr "https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair"
 
 #. ACCOMPLISHMENT: Imported an SSH Key ('help' field)
 #. .
@@ -9169,6 +9225,8 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/askubuntu-critic.c:71
 msgid "ubuntu-community/askubuntu-critic_links"
 msgstr ""
+"http://askubuntu.com/privileges/vote-down\r\n"
+"http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Critic on Ask Ubuntu ('help' field)
 #. .
@@ -9181,7 +9239,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-critic.c:82
 msgid "ubuntu-community/askubuntu-critic_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('title' field)
 #. .
@@ -9274,7 +9332,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-talkative.c:80
 msgid "ubuntu-community/askubuntu-talkative_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Talkative on Ask Ubuntu ('help' field)
 #. .
@@ -9287,7 +9345,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-talkative.c:91
 msgid "ubuntu-community/askubuntu-talkative_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Yearling on Ask Ubuntu ('title' field)
 #. .
@@ -9350,7 +9408,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-yearling.c:54
 msgid "ubuntu-community/askubuntu-yearling_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Yearling on Ask Ubuntu ('help' field)
 #. .
@@ -9363,7 +9421,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-yearling.c:65
 msgid "ubuntu-community/askubuntu-yearling_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Signed Ubuntu Code Of Conduct ('title' field)
 #. .
@@ -9546,7 +9604,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-civicduty.c:79
 msgid "ubuntu-community/askubuntu-civicduty_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Civic Duty on Ask Ubuntu ('help' field)
 #. .
@@ -9559,7 +9617,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-civicduty.c:90
 msgid "ubuntu-community/askubuntu-civicduty_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Publicist on Ask Ubuntu ('title' field)
 #. .
@@ -9649,7 +9707,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-publicist.c:77
 msgid "ubuntu-community/askubuntu-publicist_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Publicist on Ask Ubuntu ('help' field)
 #. .
@@ -9662,7 +9720,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-publicist.c:88
 msgid "ubuntu-community/askubuntu-publicist_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Organized a LoCo Team Event ('title' field)
 #. .
@@ -9727,7 +9785,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/organize-loco-event.c:56
 msgid "ubuntu-community/organize-loco-event_links"
-msgstr ""
+msgstr "http://loco.ubuntu.com"
 
 #. ACCOMPLISHMENT: Organized a LoCo Team Event ('help' field)
 #. .
@@ -9832,7 +9890,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/ubuntu-cloak.acc.c:78
 msgid "ubuntu-community/ubuntu-cloak.acc_links"
-msgstr ""
+msgstr "https://wiki.ubuntu.com/IRC/Cloaks"
 
 #. ACCOMPLISHMENT: Gain an Ubuntu Member Cloak ('help' field)
 #. .
@@ -9920,7 +9978,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-outspoken.c:64
 msgid "ubuntu-community/askubuntu-outspoken_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Outspoken on Ask Ubuntu ('help' field)
 #. .
@@ -9933,7 +9991,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-outspoken.c:75
 msgid "ubuntu-community/askubuntu-outspoken_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('title' field)
 #. .
@@ -10033,6 +10091,9 @@ msgstr ""
 #: ../accomplishments/ubuntu-community/accomplishments-contributor.c:86
 msgid "ubuntu-community/accomplishments-contributor_links"
 msgstr ""
+"https://wiki.ubuntu.com/community/Accomplishments\r\n"
+"https://wiki.ubuntu.com/Accomplishments/Creating\r\n"
+"https://wiki.ubuntu.com/Accomplishments/Trophies"
 
 #. ACCOMPLISHMENT: Accomplishments Contributor ('help' field)
 #. .
@@ -10229,7 +10290,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:78
 msgid "ubuntu-community/askubuntu-sportsmanship_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Sportsmanship on Ask Ubuntu ('help' field)
 #. .
@@ -10242,7 +10303,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-sportsmanship.c:89
 msgid "ubuntu-community/askubuntu-sportsmanship_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Tenacious on Ask Ubuntu ('title' field)
 #. .
@@ -10330,7 +10391,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/askubuntu-tenacious.c:75
 msgid "ubuntu-community/askubuntu-tenacious_links"
-msgstr ""
+msgstr "http://www.askubuntu.com"
 
 #. ACCOMPLISHMENT: Tenacious on Ask Ubuntu ('help' field)
 #. .
@@ -10343,7 +10404,7 @@ msgstr ""
 #. FORMATTING ALLOWED: <i> <strong> <tt>
 #: ../accomplishments/ubuntu-community/askubuntu-tenacious.c:86
 msgid "ubuntu-community/askubuntu-tenacious_help"
-msgstr ""
+msgstr "#ubuntu-community-team sur Freenode"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('title' field)
 #. .
@@ -10406,7 +10467,7 @@ msgstr ""
 #. NOTE: Put each URL on a new line
 #: ../accomplishments/ubuntu-community/juju-charm-contributor.c:54
 msgid "ubuntu-community/juju-charm-contributor_links"
-msgstr ""
+msgstr "http://juju.ubuntu.com"
 
 #. ACCOMPLISHMENT: Juju Charm Contributor ('help' field)
 #. .
