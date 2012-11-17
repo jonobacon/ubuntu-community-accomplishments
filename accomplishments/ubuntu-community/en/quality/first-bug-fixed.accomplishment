@@ -1,0 +1,21 @@
+[accomplishment]
+title=Fixing a bug by yourself
+description=Fixed a bug in which you are the assignee
+collection=ubuntu-community
+category=QA
+icon=devel.png
+depends=ubuntu-community/report-first-bug
+needs-signing=true
+needs-information=launchpad-email
+summary = A bug is a defect in a piece of software. Ubuntu needs a lot of volunteers to help and fixing bugs is one of the things that a developer can do. We do hope that people can help us to fix the bugs. Please be reminded that only bugs of "Ubuntu" will be counted.
+steps= 1. Find a bug
+	2. Mark yourself as assignee
+	3. Branch your code using bzr
+	4. Fix the bug
+	5. Upload your code to Launchpad
+	6. Request a merge
+	7. If it was merged the bug will be marked as "Fix released". Then you will get this accomplishment!
+links: http://www.ubuntu.com
+       http://developer.ubuntu.com/packaging/html/fixing-a-bug.html
+help =  #ubuntu-motu or #ubuntu-devel on Freenode
+author = Howard Chan <smartboyhw@gmail.com>
