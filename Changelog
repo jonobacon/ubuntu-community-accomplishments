@@ -19,7 +19,9 @@ Add items using the following format:
 Next Version Target: 0.4
 
    [Howard Chan]
-   New accomplishment: Testcase Admins
-   New accomplishment: First Bug Fixed
+   * New accomplishment: Testcase Admins
+   * New accomplishment: First Bug Fixed
+   * Changed all accomplishments with name="Sliver Fox" to "s.fox" to avoid duplicates (LP: #1080346)
+ 
 
 -------------------------------------------------------------------------
