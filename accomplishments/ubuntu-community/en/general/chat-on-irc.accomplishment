@@ -1,0 +1,18 @@
+[accomplishment]
+title=Chatted on an Ubuntu IRC channel
+description=Chatted on an official Ubuntu IRC channel
+collection=ubuntu-community
+category=IRC
+icon=default.png
+needs-information=irc-nickname
+summary = <tt>IRC</tt> is a chat network useful for writing with groups of friends or colleagues. It is widely used both for work and for leisure communication. The Ubuntu community relies heavily on IRC channels on the Freenode IRC network to coordinate work, have meetings, communicate etc. and it is a great way for interested users to get in contact with other Ubuntu users, both if they are considering contributing to Ubuntu and would like to hear more or if they would just like to talk about something related to their favourite operating system.
+tips: You can start by downloading an IRC-client like 'Xchat' or look for a webclient like https://webchat.freenode.net/
+	There are many channels. Start by finding the one related to a certain topic or perhaps your country of the list of official channels.
+pitfalls: Act nice in the channels. Don't spam by sending a lot of meaning-less messages.
+	For the accomplishment to be recognized, you need to join an official Ubuntu IRC channel. See https://wiki.ubuntu.com/IRC/ChannelList for a full list.
+links: https://wiki.ubuntu.com/IRC/ChannelList
+help = #ubuntu-accomplishments on Freenode
+	https://wiki.ubuntu.com/Accomplishments/
+
+
+
