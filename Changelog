@@ -18,9 +18,6 @@ Add items using the following format:
 
 Next Version Target: 0.4
 
-   [Rafał Cieślak]
-   * Added a script for generating icon variations. (LP:#1084481)
-
    [Howard Chan]
    * New accomplishment: Testcase Admins
    * New accomplishment: First Bug Fixed
