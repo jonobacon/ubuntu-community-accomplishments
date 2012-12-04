@@ -17,10 +17,16 @@ today_year = str(now.year)
 today_month = str(now.month)
 today_day = str(now.day)
 
-yesterday = datetime.datetime.now() - datetime.timedelta(1)	#this section gets yestrday
+if len(today_day) < 2:
+	today_day = '0' + today_day
+
+yesterday = datetime.datetime.now() - datetime.timedelta(1)	#this section gets yesterday
 yesterday_year = str(yesterday.year)
 yesterday_month = str(yesterday.month)
 yesterday_day = str(yesterday.day)
+
+if len(yesterday_day) < 2:
+	yesterday_day = '0' + yesterday_day
 
 #Use the channel list of today to find the valid channels
 try:
@@ -39,8 +45,6 @@ for line in pagelist:
 	if indexno is not -1 and indexdot != -1:
 		channellist.append(line[indexno:indexdot])
 
-#search_string = "] <"+me.irc_nicknames_collection_link[0]+">"
-
 search_string = "] " + nickname
 
 total_count_result = 0
@@ -50,7 +54,6 @@ for irc_channel in channellist:
 	try:
 		today_response = urllib2.urlopen(today_web_page)	
 		today_page_source = today_response.read()   			#this variable now contains the entire txt file
-		print irc_channel+".txt " + str(today_page_source.count(search_string))
 		today_count_result = today_page_source.count(search_string)  	#count number of times user spoke today
 		today_response.close()
 	except (UnicodeDecodeError, urllib2.HTTPError):
