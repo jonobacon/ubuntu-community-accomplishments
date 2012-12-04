@@ -17,16 +17,19 @@ today_year = str(now.year)
 today_month = str(now.month)
 today_day = str(now.day)
 
-yesterday = datetime.datetime.now() - datetime.timedelta(days = 1)	#this section gets yestrday
+yesterday = datetime.datetime.now() - datetime.timedelta(1)	#this section gets yestrday
 yesterday_year = str(yesterday.year)
 yesterday_month = str(yesterday.month)
 yesterday_day = str(yesterday.day)
 
 #Use the channel list of today to find the valid channels
-pageurl = "http://irclogs.ubuntu.com/"+today_year+"/"+today_month+"/"+today_day
-channelpage = urllib2.urlopen(pageurl)
-pagelist = channelpage.readlines()
-channelpage.close()
+try:
+	pageurl = "http://irclogs.ubuntu.com/"+today_year+"/"+today_month+"/"+today_day
+	channelpage = urllib2.urlopen(pageurl)
+	pagelist = channelpage.readlines()
+	channelpage.close()
+except (UnicodeDecodeError, urllib2.HTTPError):
+	sys.exit(2)
 
 channellist = []
 
@@ -44,20 +47,27 @@ total_count_result = 0
 
 for irc_channel in channellist:
 	today_web_page = "http://irclogs.ubuntu.com/"+today_year+"/"+today_month+"/"+today_day+"/%23"+irc_channel+".txt"	#build dynamic txt file link from vars
-	today_response = urllib2.urlopen(today_web_page)
-	today_page_source = today_response.read()   			#this variable now contains the entire txt file
-	today_count_result = today_page_source.count(search_string)  	#count number of times user spoke today
-	today_response.close()
+	try:
+		today_response = urllib2.urlopen(today_web_page)	
+		today_page_source = today_response.read()   			#this variable now contains the entire txt file
+		print irc_channel+".txt " + str(today_page_source.count(search_string))
+		today_count_result = today_page_source.count(search_string)  	#count number of times user spoke today
+		today_response.close()
+	except (UnicodeDecodeError, urllib2.HTTPError):
+		continue
 
 	yesterday_web_page = "http://irclogs.ubuntu.com/"+yesterday_year+"/"+yesterday_month+"/"+yesterday_day+"/%23"+irc_channel+".txt"	#build dynamic txt file link from vars
-	yesterday_response = urllib2.urlopen(yesterday_web_page)
-	yesterday_page_source = yesterday_response.read()   					#this variable now contains the entire txt file
-	yesterday_count_result = yesterday_page_source.count(search_string)  	#count number of times user spoke yesterday
-	yesterday_response.close()
+	try:
+		yesterday_response = urllib2.urlopen(yesterday_web_page)
+		yesterday_page_source = yesterday_response.read()   					#this variable now contains the entire txt file
+		yesterday_count_result = yesterday_page_source.count(search_string)  	#count number of times user spoke yesterday
+		yesterday_response.close()
+	except (UnicodeDecodeError, urllib2.HTTPError):
+		continue #Maybe the file was not there the day before, maybe someone wrote a strange character. It doesn't matter. We can skip that line or file.
 
 	total_count_result += today_count_result + yesterday_count_result  		#get grand total
 
 	if total_count_result > 2:    				#we want to see if user has been chatting (said more than two lines)
 		sys.exit(0)
 else:
-	sys.exit(1)
+	sys.exit(1)	#We reached the last file without gathering enough lines. Accomplishment not yet fulfilled.
