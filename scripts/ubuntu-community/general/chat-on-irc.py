@@ -19,7 +19,6 @@ today_day = str(now.day)
 
 if len(today_day) < 2:
 	today_day = '0' + today_day
-
 yesterday = datetime.datetime.now() - datetime.timedelta(1)	#this section gets yesterday
 yesterday_year = str(yesterday.year)
 yesterday_month = str(yesterday.month)
@@ -30,12 +29,12 @@ if len(yesterday_day) < 2:
 
 #Use the channel list of today to find the valid channels
 try:
-	pageurl = "http://irclogs.ubuntu.com/"+today_year+"/"+today_month+"/"+today_day
+	pageurl = "http://irclogs.ubuntu.com/"+yesterday_year+"/"+yesterday_month+"/"+yesterday_day
 	channelpage = urllib2.urlopen(pageurl)
 	pagelist = channelpage.readlines()
 	channelpage.close()
 except (UnicodeDecodeError, urllib2.HTTPError):
-	sys.exit(2)
+	pass
 
 channellist = []
 
@@ -45,20 +44,22 @@ for line in pagelist:
 	if indexno is not -1 and indexdot != -1:
 		channellist.append(line[indexno:indexdot])
 
-search_string = "] " + nickname
+search_string = "] <" + nickname
 
 total_count_result = 0
 
 for irc_channel in channellist:
 	today_web_page = "http://irclogs.ubuntu.com/"+today_year+"/"+today_month+"/"+today_day+"/%23"+irc_channel+".txt"	#build dynamic txt file link from vars
+	today_count_result = 0
 	try:
 		today_response = urllib2.urlopen(today_web_page)	
 		today_page_source = today_response.read()   			#this variable now contains the entire txt file
 		today_count_result = today_page_source.count(search_string)  	#count number of times user spoke today
 		today_response.close()
+		
 	except (UnicodeDecodeError, urllib2.HTTPError):
-		continue
-
+		pass
+	yesterday_count_result = 0
 	yesterday_web_page = "http://irclogs.ubuntu.com/"+yesterday_year+"/"+yesterday_month+"/"+yesterday_day+"/%23"+irc_channel+".txt"	#build dynamic txt file link from vars
 	try:
 		yesterday_response = urllib2.urlopen(yesterday_web_page)
@@ -66,8 +67,7 @@ for irc_channel in channellist:
 		yesterday_count_result = yesterday_page_source.count(search_string)  	#count number of times user spoke yesterday
 		yesterday_response.close()
 	except (UnicodeDecodeError, urllib2.HTTPError):
-		continue #Maybe the file was not there the day before, maybe someone wrote a strange character. It doesn't matter. We can skip that line or file.
-
+		pass #Maybe the file was not there the day before, maybe someone wrote a strange character. It doesn't matter. We can skip that line or file.
 	total_count_result += today_count_result + yesterday_count_result  		#get grand total
 
 	if total_count_result > 2:    				#we want to see if user has been chatting (said more than two lines)
