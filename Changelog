@@ -23,5 +23,6 @@ Next Version Target: 0.4
    * New accomplishment: First Bug Fixed
    * Changed all accomplishments with name="Sliver Fox" to "s.fox" to avoid duplicates (LP: #1080346)
  
-
+   [Daniel Ejsing-Duun]
+   * New accomplishment: Chat on IRC
 -------------------------------------------------------------------------

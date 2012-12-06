@@ -1,0 +1,22 @@
+[accomplishment]
+title=Ubuntu IRC Chatter
+description=Chatted on an official Ubuntu IRC channel
+collection=ubuntu-community
+category=IRC
+icon=default.png
+needs-information=irc-nickname
+needs-signing=true
+summary = <tt>IRC</tt> is a chat network useful for writing with groups of friends or colleagues. It is widely used both for work and for leisure communication. The Ubuntu community relies heavily on IRC channels on the Freenode IRC network to coordinate work, have meetings, communicate etc. and it is a great way for interested users to get in contact with other Ubuntu users, both if they are considering contributing to Ubuntu and would like to hear more or if they would just like to talk about something related to their favourite operating system.
+steps = Either install an IRC client like Xchat or go to an IRC webclient like https://webchat.freenode.net/.
+	Enter a desired nickname. Be sure to also put that nickname into the identification window of this viewer (CTRL+I to view).
+	Join an Ubuntu channel (most of the channels on https://wiki.ubuntu.com/IRC/ChannelList are considered) by typing '/j #<channel name>' in the client or by putting it in the 'Channels' field on the web client.
+	Start chatting!
+tips: You can start by downloading an IRC-client like 'Xchat' or use a webclient like https://webchat.freenode.net/
+	There are many channels. Start by finding the one related to a certain topic or perhaps your country of the list of official channels.
+pitfalls: Act nice in the channels. Don't spam by sending a lot of meaningless messages.
+links: https://wiki.ubuntu.com/IRC/ChannelList
+help = #ubuntu-accomplishments on Freenode
+	https://wiki.ubuntu.com/Accomplishments/
+
+
+
