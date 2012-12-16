@@ -11,11 +11,12 @@ steps = Either install an IRC client like Xchat or go to an IRC webclient like h
 	Enter a desired nickname. Be sure to also put that nickname into the identification window of this viewer (CTRL+I to view).
 	Join an Ubuntu channel (most of the channels on https://wiki.ubuntu.com/IRC/ChannelList are considered) by typing '/j #<channel name>' in the client or by putting it in the 'Channels' field on the web client.
 	Start chatting!
-tips: You can start by downloading an IRC-client like 'Xchat' or use a webclient like https://webchat.freenode.net/
+tips = You can start by downloading an IRC-client like 'Xchat' or use a webclient like https://webchat.freenode.net/
 	There are many channels. Start by finding the one related to a certain topic or perhaps your country of the list of official channels.
-pitfalls: Act nice in the channels. Don't spam by sending a lot of meaningless messages.
-    Don't ask if you can ask a question, just ask the question.
-links: https://wiki.ubuntu.com/IRC/ChannelList
+pitfalls = Act nice in the channels. Don't spam by sending a lot of meaningless messages.
+	Don't ask if you can ask a question, just ask the question.
+	After fulfilling the accomplishment, it make take a few hours for you to get the trophy, since the logs don't update immediately.
+links = https://wiki.ubuntu.com/IRC/ChannelList
 help = #ubuntu-accomplishments on Freenode
 	https://wiki.ubuntu.com/Accomplishments/
 
