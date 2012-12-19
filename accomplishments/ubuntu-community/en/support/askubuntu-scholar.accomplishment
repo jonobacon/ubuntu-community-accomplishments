@@ -2,7 +2,7 @@
 title=Scholar on Ask Ubuntu
 description=Asked a question and accepted an answer
 collection=ubuntu-community
-category=Ask Ubuntu:Starter badges
+category=Ask Ubuntu:Starter
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
