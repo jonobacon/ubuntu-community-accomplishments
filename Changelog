@@ -22,6 +22,7 @@ Next Version Target: 0.4
    * New accomplishment: Testcase Admins
    * New accomplishment: First Bug Fixed
    * Changed all accomplishments with name="Sliver Fox" to "s.fox" to avoid duplicates (LP: #1080346)
+   * Fixed the Testcase Admins Accomplishments test file to fix the failing tests (LP: #1092310)
  
    [Daniel Ejsing-Duun]
    * New accomplishment: Chat on IRC
