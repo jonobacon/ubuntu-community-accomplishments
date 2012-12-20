@@ -2,7 +2,7 @@
 title=Proofreader on Ask Ubuntu
 description=Approved or rejected 100 suggested edits
 collection=ubuntu-community
-category=Ask Ubuntu:Editing badges
+category=Ask Ubuntu:Editing
 icon=askubuntu-bronze.png
 needs-signing=true
 needs-information=askubuntu-user-url
