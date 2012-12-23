@@ -1,0 +1,17 @@
+[accomplishment]
+title=Approved Ubuntu Youth Council Member
+description=You are an Approved Ubuntu Youth Council Member
+collection=ubuntu-community
+category=Governance
+needs-signing=true
+depends=ubuntu-community/ubuntu-youth
+icon=ubuntuyouth.png
+needs-information=launchpad-email
+summary = Someone who is part of the Ubuntu Youth Council is somebody who has spent a great deal of time helping to contribute to the Ubuntu Youth project and was able to win an election from other members of Ubuntu Youth that shows they had the ability to help lead Ubuntu Youth. all individuals of the Ubuntu Youth Council will have to attend regular meetings and be able to actively participate in the decisions regarding the Ubuntu Youth team.
+steps: Join the Ubuntu Youth team and contribute untill the next Ubuntu
+    Youth Council election. When a call for nominations come out, nominate yourself and see if you win
+tips: Be sure to be positive and get to know everyone in the Ubuntu youth group.
+    You should have a personal Ubuntu wikipage highlighting what you've been working on so people know if they should vote for you.
+links: https://launchpad.net/~ubuntu-youth-council
+help = #ubuntu-youth-council on Freenode
+author = Philip Ballew <philipballew@ubuntu.com>
