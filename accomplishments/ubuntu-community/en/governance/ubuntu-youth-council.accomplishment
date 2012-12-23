@@ -2,12 +2,12 @@
 title=Approved Ubuntu Youth Council Member
 description=You are an Approved Ubuntu Youth Council Member
 collection=ubuntu-community
-category=General
+category=Governance
 needs-signing=true
 depends=ubuntu-community/registered-on-launchpad
 icon=ubuntu-youth.png
 needs-information=launchpad-email
-summary = Someone who is part of the Ubuntu Youth Council is somebody who has spent a great deal of time helping to contribute to the Ubuntu Youth project and was able to win an elcetion from other members of Ubuntu Youth that shows they had the acility to help lead Ubuntu Youth. 
+summary = Someone who is part of the Ubuntu Youth Council is somebody who has spent a great deal of time helping to contribute to the Ubuntu Youth project and was able to win an elcetion from other members of Ubuntu Youth that shows they had the acility to help lead Ubuntu Youth. all indivuidals of the Ubuntu Youth Council will have to attend regualar meetengs and be able to activitly partisibate in the decisions regarding the Ubuntu Youth team.  
 steps: Join the Ubuntu Youth team and contribute untill the next Ubuntu Youth Council election. When a call for namanations come out, nominate yourself and see if you win
 tips: Be sure to be positive and get to know everyone in the Ubuntu youth group.
 links: https://launchpad.net/~ubuntu-youth-council
