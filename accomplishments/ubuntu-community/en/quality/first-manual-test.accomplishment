@@ -1,0 +1,27 @@
+[accomplishment]
+title=First Manual Testcase
+description=The Ubuntu Quality Team has accepted your first Manual testcase
+collection=ubuntu-community
+category=QA
+needs-signing=true
+icon=devel.png
+needs-information=launchpad-email
+summary = To ensure a great quality around Ubuntu(and its flavors), manual and automatic tests are used. Currently these testcases are utilized by the QAtracker instances for manual image, package, and hardware testing.
+steps: Create a <a href="https://help.launchpad.net/YourAccount/NewAccount/">Launchpad</a> Account.
+    Configure and run an <a href="https://wiki.ubuntu.com/UsingDevelopmentReleases/OtherWays">Ubuntu development instance</a>.
+    Install «bzr»
+    <a href="https://wiki.ubuntu.com/QATeam/ContributingTestcases/Launchpad">Configure</a> your environment.
+    <a href="https://wiki.ubuntu.com/QATeam/ContributingTestcases/Manual">Write a Manual testcase</a>.
+    Merge the Manual testcase into https://launchpad.net/ubuntu-manual-tests
+links: https://wiki.ubuntu.com/QATeam/ContributingTestcases/Manual
+    https://wiki.ubuntu.com/QATeam/ContributingTestcases/ManualStyleGuide
+tips = Prioritaze our <a href="https://bugs.launchpad.net/ubuntu-manual-tests/+bugs?field.tag=todo">todo list</a> if you're unsure on what to work on.
+     Improve current testcases instead of create new ones.
+     Say hello at #ubuntu-quality or present yourself in the <a href="https://lists.ubuntu.com/mailman/listinfo/ubuntu-quality">quality mailing list</a>.
+     Look at the <a href="https://wiki.ubuntu.com/Testing/Activities/Classroom">QA Classroom</a> section.
+     Assist to a <a href="https://wiki.ubuntu.com/QATeam/Hackfest">Hackfest</a>.
+pitfalls = Start writing a manual testcase without assigning to yourself an <a href="https://bugs.launchpad.net/ubuntu-manual-tests">open report</a>(if available).
+    Use your own <a href="https://wiki.ubuntu.com/QATeam/ContributingTestcases/ManualStyleGuide#Testcase_Format">formatting</a> specifications.
+    Create a Manual testcase based on an application running in a released Ubuntu version.
+help = #ubuntu-quality on Freenode
+author = Javier Lopez <chilicuil@ubuntu.com>
