@@ -1,0 +1,26 @@
+[accomplishment]
+title=First Autopilot Testcase
+description=The Ubuntu Quality Team has accepted your first Autopilot testcase
+collection=ubuntu-community
+category=QA
+needs-signing=true
+icon=devel.png
+needs-information=launchpad-email
+summary = To ensure a great quality around Ubuntu(and its flavors), manual and automatic tests are used. Autopilot tests run against unity and graphical components to ensure correct behavior on common situations.
+steps: Create a <a href="https://help.launchpad.net/YourAccount/NewAccount/">Launchpad</a> Account.
+    Configure and run an <a href="https://wiki.ubuntu.com/UsingDevelopmentReleases/OtherWays">Ubuntu development instance</a>.
+    Add the «ppa:autopilot/ppa» repository
+    Install «bzr, libautopilot-qt, python-autopilot»
+    <a href="https://wiki.ubuntu.com/QATeam/ContributingTestcases/Launchpad">Configure</a> your environment.
+    <a href="https://wiki.ubuntu.com/QATeam/ContributingTestcases/Autopilot">Write an Autopilot testcase</a>.
+    Merge the Autopilot testcase into https://launchpad.net/ubuntu-autopilot-tests
+links: https://wiki.ubuntu.com/QATeam/ContributingTestcases/Autopilot
+    http://www.youtube.com/watch?v=qD_e_xqlBbg
+tips = Prioritaze our <a href="https://bugs.launchpad.net/ubuntu-autopilot-tests/+bugs?field.tag=todo">todo list</a> if you're unsure on what to work on.
+     Improve current testcases instead of create new ones.
+     Say hello at #ubuntu-autopilot or present yourself in the <a href="https://lists.ubuntu.com/mailman/listinfo/ubuntu-quality">quality mailing list</a>.
+     Assist to a <a href="https://wiki.ubuntu.com/QATeam/Hackfest">Hackfest</a>.
+pitfalls = Start writing an Autopilot testcase without assigning to yourself an <a href="https://bugs.launchpad.net/ubuntu-autopilot-tests/+bugs?field.tag=todo">open report</a>(if available).
+    Create an Autopilot testcase based on an application running in a released Ubuntu version.
+help = #ubuntu-quality, #ubuntu-autopilot on Freenode
+author = Javier Lopez <chilicuil@ubuntu.com>
