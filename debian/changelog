@@ -1,3 +1,10 @@
+ubuntu-community-accomplishments (0.4) UNRELEASED; urgency=low
+
+  [ Javier P.L.]
+  * Accomplishments for manual and autopilot test cases
+
+ -- Matthew Fischer <matthew.fischer@canonical.com>  Tue, 17 Sep 2013 20:38:54 -0600
+
 ubuntu-community-accomplishments (0.3~quantal2) quantal; urgency=low
 
   * Redoing the upload to fix the incorrect distroseries, no other changes 
